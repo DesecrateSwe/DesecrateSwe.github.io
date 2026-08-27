@@ -13,6 +13,7 @@ const stickySource = document.getElementById("stickySource");
 const stickyPlay = document.getElementById("stickyPlay");
 const stickyPrev = document.getElementById("stickyPrev");
 const stickyNext = document.getElementById("stickyNext");
+const liveLocationNote = document.getElementById("liveLocationNote");
 
 const collections = {
   album: {
@@ -137,6 +138,10 @@ function updateSectionUI(){
   if (stickyTitle) stickyTitle.textContent = track.title;
   if (stickySource) stickySource.textContent = c.label;
   if (stickyPlay) stickyPlay.textContent = audio.paused ? "▶" : "Ⅱ";
+  if (activeCollection === "live" && liveLocationNote) {
+    const parts = [track.location, track.date].filter(Boolean);
+    liveLocationNote.textContent = parts.join(" · ");
+  }
 }
 
 function playTrack(collectionKey, index, autoplay = false){

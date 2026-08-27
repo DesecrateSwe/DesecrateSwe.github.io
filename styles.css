@@ -853,3 +853,13 @@ footer{min-height:80px;display:flex;align-items:center;justify-content:center;ga
     aspect-ratio:4 / 5 !important;
   }
 }
+
+
+/* v30 — live recording location/date note */
+.live-location-note{
+  margin:2px 0 14px;
+  color:#987b5c;
+  font:500 8px Oswald,sans-serif;
+  letter-spacing:.09em;
+  text-transform:uppercase;
+}
