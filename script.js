@@ -315,3 +315,55 @@ document.addEventListener("keydown", e => {
 renderAll();
 if (albumTracks.length) playTrack("album", 0, false);
 else if (demo1988Tracks.length) playTrack("demo1988", 0, false);
+
+
+// Official video popup — desktop only
+(() => {
+  const link = document.getElementById("officialVideoLink");
+  const modal = document.getElementById("videoModal");
+  const closeBtn = document.getElementById("videoModalClose");
+  const iframe = document.getElementById("videoModalIframe");
+
+  if (!link || !modal || !closeBtn || !iframe) return;
+
+  const embedUrl = "https://www.youtube.com/embed/Q59MuLwffk8?autoplay=1&rel=0";
+
+  function isDesktop() {
+    return window.matchMedia("(min-width: 701px)").matches;
+  }
+
+  function openVideo() {
+    iframe.src = embedUrl;
+    modal.classList.add("open");
+    modal.setAttribute("aria-hidden", "false");
+    document.body.classList.add("video-modal-open");
+    closeBtn.focus();
+  }
+
+  function closeVideo() {
+    modal.classList.remove("open");
+    modal.setAttribute("aria-hidden", "true");
+    iframe.src = "";
+    document.body.classList.remove("video-modal-open");
+  }
+
+  link.addEventListener("click", (e) => {
+    if (!isDesktop()) return; // mobile keeps normal YouTube link
+    e.preventDefault();
+    openVideo();
+  });
+
+  closeBtn.addEventListener("click", closeVideo);
+
+  modal.addEventListener("click", (e) => {
+    if (e.target === modal) closeVideo();
+  });
+
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape" && modal.classList.contains("open")) closeVideo();
+  });
+
+  window.addEventListener("resize", () => {
+    if (!isDesktop() && modal.classList.contains("open")) closeVideo();
+  });
+})();

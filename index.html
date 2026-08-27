@@ -66,7 +66,7 @@
 
     <article class="video-panel panel" id="video">
       <div class="panel-title">OFFICIAL VIDEO / SINGLE</div>
-      <a class="video-link" href="https://www.youtube.com/watch?v=Q59MuLwffk8" target="_blank" rel="noopener">
+      <a class="video-link" id="officialVideoLink" href="https://www.youtube.com/watch?v=Q59MuLwffk8" target="_blank" rel="noopener">
         <img src="assets/images/promo-2026.png" alt="Desecrate official video">
         <span class="video-play">▶</span>
         <div class="video-caption"><b>OFFICIAL VIDEO</b><small>WATCH ON YOUTUBE ↗</small></div>
@@ -492,5 +492,21 @@
 <script>window.DESECRATE_ARRANGER_1989=[{"n": 1, "title": "Disorder", "duration": "3:56", "src": "assets/audio/arranger-of-disorder-1989/01-disorder.mp3"}, {"n": 2, "title": "Lightened Souls", "duration": "3:23", "src": "assets/audio/arranger-of-disorder-1989/02-lightened-souls.mp3"}, {"n": 3, "title": "Minds of Justitia", "duration": "3:35", "src": "assets/audio/arranger-of-disorder-1989/03-minds-of-justitia.mp3"}];</script>
 <script>window.DESECRATE_LONELY_1989=[{"n": 1, "title": "World Pollution", "duration": "3:50", "src": "assets/audio/lonely-disgrace-1989/01-world-pollution.mp3"}, {"n": 2, "title": "Undivided Etension", "duration": "3:28", "src": "assets/audio/lonely-disgrace-1989/02-undivided-etension.mp3"}, {"n": 3, "title": "Blietzkrieg Bop", "duration": "2:13", "src": "assets/audio/lonely-disgrace-1989/03-blietzkrieg-bop.mp3"}, {"n": 4, "title": "Scedule", "duration": "4:22", "src": "assets/audio/lonely-disgrace-1989/04-scedule.mp3"}, {"n": 5, "title": "Fuck Bush", "duration": "0:34", "src": "assets/audio/lonely-disgrace-1989/05-fuck-bush.mp3"}];</script>
 <script src="script.js"></script>
+
+<div class="video-modal" id="videoModal" aria-hidden="true" role="dialog" aria-modal="true" aria-label="Official video">
+  <button class="video-modal-close" id="videoModalClose" aria-label="Close video">×</button>
+  <div class="video-modal-inner">
+    <div class="video-modal-frame">
+      <iframe
+        id="videoModalIframe"
+        title="Desecrate official video"
+        src=""
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen>
+      </iframe>
+    </div>
+  </div>
+</div>
+
 </body>
 </html>

@@ -1010,3 +1010,82 @@ footer{min-height:80px;display:flex;align-items:center;justify-content:center;ga
     margin-top:0 !important;
   }
 }
+
+
+/* Official video popup — desktop */
+.video-modal{
+  position:fixed;
+  inset:0;
+  z-index:600;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  padding:42px;
+  background:rgba(0,0,0,.94);
+  backdrop-filter:blur(10px);
+  -webkit-backdrop-filter:blur(10px);
+  opacity:0;
+  visibility:hidden;
+  pointer-events:none;
+  transition:opacity .18s ease,visibility .18s ease;
+}
+
+.video-modal.open{
+  opacity:1;
+  visibility:visible;
+  pointer-events:auto;
+}
+
+.video-modal-inner{
+  width:min(1180px,92vw);
+  border:1px solid #574531;
+  background:#050505;
+  box-shadow:0 26px 80px rgba(0,0,0,.65);
+}
+
+.video-modal-frame{
+  position:relative;
+  width:100%;
+  aspect-ratio:16 / 9;
+  background:#000;
+}
+
+.video-modal-frame iframe{
+  position:absolute;
+  inset:0;
+  width:100%;
+  height:100%;
+  border:0;
+  display:block;
+}
+
+.video-modal-close{
+  position:fixed;
+  top:22px;
+  right:28px;
+  z-index:610;
+  width:48px;
+  height:48px;
+  display:grid;
+  place-items:center;
+  border:1px solid #715a40;
+  background:#080706;
+  color:#d0b18b;
+  font:300 34px/1 Arial,sans-serif;
+  cursor:pointer;
+}
+
+.video-modal-close:hover{
+  background:#b89a72;
+  color:#080808;
+}
+
+body.video-modal-open{
+  overflow:hidden;
+}
+
+@media(max-width:700px){
+  .video-modal{
+    display:none !important;
+  }
+}
