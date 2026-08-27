@@ -1,0 +1,217 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#060606">
+<title>Desecrate — Second Death</title>
+<meta name="description" content="Official website for Desecrate. Uppsala, Sweden. Formed in 1988. Second Death — debut album 2026.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Inter:wght@400;500;600;700&family=Oswald:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="texture" aria-hidden="true"></div>
+
+<header class="site-header">
+  <div class="header-inner">
+    <div class="origin">UPPSALA, SWEDEN<br><span>EST. 1988</span></div>
+    <a href="#home" class="brand"><img src="assets/images/desecrate-logo.png" alt="Desecrate"></a>
+    <a class="yt-small" href="https://www.youtube.com/watch?v=Q59MuLwffk8" target="_blank" rel="noopener">YOUTUBE ↗</a>
+  </div>
+  <nav class="main-nav">
+    <a href="#home">Home</a>
+    <a href="#story">Story</a>
+    <a href="#album">Second Death</a>
+    <a href="#music">Music</a>
+    <a href="#video">Video</a>
+    <a href="#archive">Archive</a>
+    <a href="#band">Band</a>
+  </nav>
+</header>
+
+<main>
+<section class="hero" id="home">
+  <img class="hero-photo" src="assets/images/promo-2026.png" alt="Desecrate 2026">
+  <div class="hero-shade"></div>
+  <div class="hero-bottom">
+    <p>FORMED IN 1988. THE DEMOS SURVIVED.</p>
+    <h1>THE SONGS RETURN.</h1>
+  </div>
+</section>
+
+<section class="dashboard">
+  <div class="dashboard-grid">
+    <article class="story-panel panel" id="story">
+      <div class="panel-title">THE STORY</div>
+      <div class="timeline">
+        <div><b>1988</b><span>Desecrate formed in Uppsala, Sweden.</span></div>
+        <div><b>1989</b><span>Demo recordings including <em>Disorder</em>, <em>Lightened Souls</em> and <em>Minds of Iustitia</em>.</span></div>
+        <div><b>1989</b><span><em>Lonely Disgrace</em> demo.</span></div>
+        <div><b>2026</b><span><em>Second Death</em>. The original songs, re-recorded for the band's first full-length album.</span></div>
+      </div>
+      <a class="outline-btn" href="#archive">VIEW THE ARCHIVE</a>
+    </article>
+
+    <article class="album-panel panel" id="album">
+      <div class="album-image"><img src="assets/images/second-death-front.jpg" alt="Second Death album cover"></div>
+      <div class="album-info">
+        <span class="smallcap">THE DEBUT ALBUM</span>
+        <h2>SECOND DEATH</h2>
+        <div class="year-rule"><i></i><b>2026</b><i></i></div>
+        <p>Thirteen songs from Desecrate's past, recorded again more than three decades later.</p>
+        <button class="gold-btn" id="playAlbumBtn">▶ PLAY ALBUM</button>
+        <a class="outline-btn" href="#music">FULL TRACKLIST</a>
+      </div>
+    </article>
+
+    <article class="video-panel panel" id="video">
+      <div class="panel-title">OFFICIAL VIDEO / SINGLE</div>
+      <a class="video-link" href="https://www.youtube.com/watch?v=Q59MuLwffk8" target="_blank" rel="noopener">
+        <img src="assets/images/promo-2026.png" alt="Desecrate official video">
+        <span class="video-play">▶</span>
+        <div class="video-caption"><b>OFFICIAL VIDEO</b><small>WATCH ON YOUTUBE ↗</small></div>
+      </a>
+      <p class="video-note">The video opens directly on YouTube instead of using the embed that returned Error 153.</p>
+    </article>
+  </div>
+</section>
+
+<section class="section music-section" id="music">
+  <div class="section-head">
+    <div><span>SECOND DEATH · 2026</span><h2>LISTEN TO THE ALBUM</h2></div>
+    <p>All 13 tracks play directly from this website. No YouTube is required for the album player.</p>
+  </div>
+  <div class="music-grid">
+    <div class="player-card">
+      <img src="assets/images/second-death-square.jpg" alt="Second Death" class="player-art">
+      <span class="smallcap">NOW PLAYING</span>
+      <h3 id="nowTitle">Second Death</h3>
+      <div class="transport">
+        <button id="prevBtn" aria-label="Previous track">←</button>
+        <button id="playBtn" class="round-play" aria-label="Play">▶</button>
+        <button id="nextBtn" aria-label="Next track">→</button>
+      </div>
+      <div class="progress-line">
+        <span id="currentTime">0:00</span>
+        <input id="progress" type="range" min="0" max="100" value="0">
+        <span id="totalTime">5:08</span>
+      </div>
+      <div class="volume-line"><span>VOL</span><input id="volume" type="range" min="0" max="1" value=".85" step=".01"></div>
+    </div>
+    <div class="tracks" id="trackList"></div>
+  </div>
+</section>
+
+<section class="section record-section">
+  <div class="section-head compact"><div><span>THE RECORD</span><h2>SECOND DEATH</h2></div></div>
+  <div class="record-grid">
+    <img src="assets/images/second-death-front.jpg" alt="Second Death front cover">
+    <img src="assets/images/second-death-back.jpg" alt="Second Death back cover">
+  </div>
+</section>
+
+<section class="section archive-section" id="archive">
+  <div class="section-head">
+    <div><span>FROM THE ARCHIVE</span><h2>1988–1989</h2></div>
+    <p>Original photos, demo inserts, cassette artwork and contemporary fanzine material from Desecrate's first era.</p>
+  </div>
+  <div class="archive-grid">
+    <figure class="archive-card">
+      <button class="archive-open" data-full="assets/images/archive/early-band-photo.png" aria-label="Open Early Desecrate band photo">
+        <img src="assets/images/archive/early-band-photo.png" alt="Early Desecrate band photo">
+      </button>
+      <figcaption>Early Desecrate band photo</figcaption>
+    </figure>
+<figure class="archive-card">
+      <button class="archive-open" data-full="assets/images/archive/old-logo.png" aria-label="Open Original Desecrate logo">
+        <img src="assets/images/archive/old-logo.png" alt="Original Desecrate logo">
+      </button>
+      <figcaption>Original Desecrate logo</figcaption>
+    </figure>
+<figure class="archive-card">
+      <button class="archive-open" data-full="assets/images/archive/cassette-insert.png" aria-label="Open Original demo cassette and insert">
+        <img src="assets/images/archive/cassette-insert.png" alt="Original demo cassette and insert">
+      </button>
+      <figcaption>Original demo cassette and insert</figcaption>
+    </figure>
+<figure class="archive-card">
+      <button class="archive-open" data-full="assets/images/archive/demo-material.png" aria-label="Open Original demo material">
+        <img src="assets/images/archive/demo-material.png" alt="Original demo material">
+      </button>
+      <figcaption>Original demo material</figcaption>
+    </figure>
+<figure class="archive-card">
+      <button class="archive-open" data-full="assets/images/archive/lonely-disgrace.png" aria-label="Open Lonely Disgrace cassette">
+        <img src="assets/images/archive/lonely-disgrace.png" alt="Lonely Disgrace cassette">
+      </button>
+      <figcaption>Lonely Disgrace cassette</figcaption>
+    </figure>
+<figure class="archive-card">
+      <button class="archive-open" data-full="assets/images/archive/demo-insert-scan.png" aria-label="Open 1989 demo insert">
+        <img src="assets/images/archive/demo-insert-scan.png" alt="1989 demo insert">
+      </button>
+      <figcaption>1989 demo insert</figcaption>
+    </figure>
+<figure class="archive-card">
+      <button class="archive-open" data-full="assets/images/archive/we-only-make-jokes.png" aria-label="Open Early Desecrate artwork">
+        <img src="assets/images/archive/we-only-make-jokes.png" alt="Early Desecrate artwork">
+      </button>
+      <figcaption>Early Desecrate artwork</figcaption>
+    </figure>
+<figure class="archive-card">
+      <button class="archive-open" data-full="assets/images/archive/fanzine-review.png" aria-label="Open Early fanzine feature">
+        <img src="assets/images/archive/fanzine-review.png" alt="Early fanzine feature">
+      </button>
+      <figcaption>Early fanzine feature</figcaption>
+    </figure>
+<figure class="archive-card">
+      <button class="archive-open" data-full="assets/images/archive/fanzine-interview.png" aria-label="Open Desecrate fanzine interview">
+        <img src="assets/images/archive/fanzine-interview.png" alt="Desecrate fanzine interview">
+      </button>
+      <figcaption>Desecrate fanzine interview</figcaption>
+    </figure>
+<figure class="archive-card">
+      <button class="archive-open" data-full="assets/images/archive/lonely-disgrace-alt.png" aria-label="Open Lonely Disgrace archive image">
+        <img src="assets/images/archive/lonely-disgrace-alt.png" alt="Lonely Disgrace archive image">
+      </button>
+      <figcaption>Lonely Disgrace archive image</figcaption>
+    </figure>
+  </div>
+</section>
+
+<section class="band-section" id="band">
+  <img src="assets/images/promo-2026.png" alt="Desecrate 2026">
+  <div class="band-shade"></div>
+  <div class="band-copy">
+    <span>DESECRATE · 2026</span>
+    <h2>THE BAND</h2>
+    <div class="members">
+      <div><b>JOHN S. SWAHN</b><small>VOCALS</small></div>
+      <div><b>RICKARD B. CEDER</b><small>GUITAR</small></div>
+      <div><b>DAVE JANNEY</b><small>GUITAR</small></div>
+      <div><b>JENS ÅBERG</b><small>BASS</small></div>
+      <div><b>JAKOB BERGSTRÖM</b><small>DRUMS</small></div>
+    </div>
+  </div>
+</section>
+</main>
+
+<footer>© 2026 DESECRATE <span>·</span> UPPSALA, SWEDEN <span>·</span> EST. 1988</footer>
+
+<div class="sticky-player" id="stickyPlayer">
+  <div class="sticky-info"><img src="assets/images/second-death-square.jpg" alt=""><div><b id="stickyTitle">Second Death</b><span>DESECRATE</span></div></div>
+  <div class="sticky-buttons"><button id="stickyPrev">←</button><button id="stickyPlay">▶</button><button id="stickyNext">→</button></div>
+</div>
+
+<div class="lightbox" id="lightbox" aria-hidden="true">
+  <button id="closeLightbox" aria-label="Close">×</button>
+  <img id="lightboxImage" alt="">
+</div>
+
+<audio id="audio" preload="metadata"></audio>
+<script>window.DESECRATE_TRACKS=[{"n": 1, "title": "Second Death", "duration": "5:08", "src": "assets/audio/01-second-death.mp3"}, {"n": 2, "title": "World Pollution", "duration": "3:34", "src": "assets/audio/02-world-pollution.mp3"}, {"n": 3, "title": "Disorder", "duration": "3:49", "src": "assets/audio/03-disorder.mp3"}, {"n": 4, "title": "Scooby Dooaaauöö", "duration": "0:26", "src": "assets/audio/04-scooby-dooaaauoo.mp3"}, {"n": 5, "title": "Undivided Attention", "duration": "4:11", "src": "assets/audio/05-undivided-attention.mp3"}, {"n": 6, "title": "Injustice of Society", "duration": "3:08", "src": "assets/audio/06-injustice-of-society.mp3"}, {"n": 7, "title": "Lightened Souls", "duration": "3:11", "src": "assets/audio/07-lightened-souls.mp3"}, {"n": 8, "title": "Possessor Of Life", "duration": "3:34", "src": "assets/audio/08-possessor-of-life.mp3"}, {"n": 9, "title": "Schedule", "duration": "3:47", "src": "assets/audio/09-schedule.mp3"}, {"n": 10, "title": "F**k Trump", "duration": "0:31", "src": "assets/audio/10-fk-trump.mp3"}, {"n": 11, "title": "Desecration", "duration": "3:16", "src": "assets/audio/11-desecration.mp3"}, {"n": 12, "title": "Minds Of Iustitia", "duration": "3:10", "src": "assets/audio/12-minds-of-iustitia.mp3"}, {"n": 13, "title": "Bang Your Head", "duration": "2:49", "src": "assets/audio/13-bang-your-head.mp3"}];</script>
+<script src="script.js"></script>
+</body>
+</html>
