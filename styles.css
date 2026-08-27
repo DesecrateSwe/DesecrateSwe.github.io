@@ -1120,3 +1120,30 @@ body.video-modal-open{
     height:auto;
   }
 }
+
+
+/* v33 — tighter demo cassette artwork */
+.demo-player .demo-cover{
+  margin:0 auto 22px !important;
+  width:min(72%, 260px) !important;
+  border:1px solid #4a3a2b !important;
+  background:#080706 !important;
+  overflow:hidden !important;
+}
+
+.demo-player .demo-cover img{
+  display:block !important;
+  width:100% !important;
+  height:auto !important;
+  max-height:none !important;
+  object-fit:contain !important;
+  object-position:center !important;
+  background:transparent !important;
+}
+
+@media(max-width:700px){
+  .demo-player .demo-cover{
+    width:min(68%, 230px) !important;
+    margin:0 auto 20px !important;
+  }
+}
