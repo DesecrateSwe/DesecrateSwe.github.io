@@ -1,307 +1,291 @@
-const tracks=window.DESECRATE_TRACKS;
-const audio=document.getElementById("audio");
-const list=document.getElementById("trackList");
-const nowTitle=document.getElementById("nowTitle");
-const stickyTitle=document.getElementById("stickyTitle");
-const playBtn=document.getElementById("playBtn");
-const prevBtn=document.getElementById("prevBtn");
-const nextBtn=document.getElementById("nextBtn");
-const stickyPlay=document.getElementById("stickyPlay");
-const stickyPrev=document.getElementById("stickyPrev");
-const stickyNext=document.getElementById("stickyNext");
-const sticky=document.getElementById("stickyPlayer");
-const progress=document.getElementById("progress");
-const volume=document.getElementById("volume");
-const currentTime=document.getElementById("currentTime");
-const totalTime=document.getElementById("totalTime");
-let current=0;
+const albumTracks = window.DESECRATE_TRACKS || [];
+const demo1988Tracks = window.DESECRATE_DEMO_1988 || [];
+const arrangerTracks = window.DESECRATE_ARRANGER_1989 || [];
+const lonelyTracks = window.DESECRATE_LONELY_1989 || [];
+const liveTracks = window.DESECRATE_LIVE_TRACKS || [];
 
-function render(){
-  list.innerHTML=tracks.map((t,i)=>`<div class="track-row ${i===current?"active":""}" data-i="${i}">
-    <span>${String(t.n).padStart(2,"0")}</span><b>${t.title}</b><em>${t.duration}</em>
-  </div>`).join("");
-  list.querySelectorAll(".track-row").forEach(r=>r.addEventListener("click",()=>load(Number(r.dataset.i),true)));
+const audio = document.getElementById("audio");
+audio.preload = "metadata";
+
+const sticky = document.getElementById("stickyPlayer");
+const stickyTitle = document.getElementById("stickyTitle");
+const stickySource = document.getElementById("stickySource");
+const stickyPlay = document.getElementById("stickyPlay");
+const stickyPrev = document.getElementById("stickyPrev");
+const stickyNext = document.getElementById("stickyNext");
+
+const collections = {
+  album: {
+    label: "SECOND DEATH · 2026",
+    tracks: albumTracks,
+    list: document.getElementById("trackList"),
+    title: document.getElementById("nowTitle"),
+    play: document.getElementById("playBtn"),
+    prev: document.getElementById("prevBtn"),
+    next: document.getElementById("nextBtn"),
+    progress: document.getElementById("progress"),
+    current: document.getElementById("currentTime"),
+    total: document.getElementById("totalTime"),
+    rowClass: "track-row"
+  },
+  demo1988: {
+    label: "WE ONLY MAKE JOKES · 1988",
+    tracks: demo1988Tracks,
+    list: document.getElementById("demoTrackList"),
+    title: document.getElementById("demoNowTitle"),
+    note: document.getElementById("demoNowNote"),
+    play: document.getElementById("demoPlayBtn"),
+    prev: document.getElementById("demoPrevBtn"),
+    next: document.getElementById("demoNextBtn"),
+    progress: document.getElementById("demoProgress"),
+    current: document.getElementById("demoCurrentTime"),
+    total: document.getElementById("demoTotalTime"),
+    rowClass: "demo-track-row"
+  },
+  arranger: {
+    label: "ARRANGER OF DISORDER · 1989",
+    tracks: arrangerTracks,
+    list: document.getElementById("arrangerTrackList"),
+    title: document.getElementById("arrangerNowTitle"),
+    play: document.getElementById("arrangerPlayBtn"),
+    prev: document.getElementById("arrangerPrevBtn"),
+    next: document.getElementById("arrangerNextBtn"),
+    progress: document.getElementById("arrangerProgress"),
+    current: document.getElementById("arrangerCurrentTime"),
+    total: document.getElementById("arrangerTotalTime"),
+    rowClass: "demo-track-row"
+  },
+  lonely: {
+    label: "LONELY DISGRACE · 1989",
+    tracks: lonelyTracks,
+    list: document.getElementById("lonelyTrackList"),
+    title: document.getElementById("lonelyNowTitle"),
+    play: document.getElementById("lonelyPlayBtn"),
+    prev: document.getElementById("lonelyPrevBtn"),
+    next: document.getElementById("lonelyNextBtn"),
+    progress: document.getElementById("lonelyProgress"),
+    current: document.getElementById("lonelyCurrentTime"),
+    total: document.getElementById("lonelyTotalTime"),
+    rowClass: "demo-track-row"
+  },
+  live: {
+    label: "LIVE ARCHIVE · 1989",
+    tracks: liveTracks,
+    list: document.getElementById("liveTrackList"),
+    title: document.getElementById("liveNowTitle"),
+    play: document.getElementById("livePlayBtn"),
+    prev: document.getElementById("livePrevBtn"),
+    next: document.getElementById("liveNextBtn"),
+    progress: document.getElementById("liveProgress"),
+    current: document.getElementById("liveCurrentTime"),
+    total: document.getElementById("liveTotalTime"),
+    rowClass: "live-track-row"
+  }
+};
+
+let activeCollection = "album";
+let activeIndex = 0;
+
+function fmt(seconds){
+  if (!Number.isFinite(seconds)) return "0:00";
+  return `${Math.floor(seconds / 60)}:${Math.floor(seconds % 60).toString().padStart(2, "0")}`;
 }
-function load(i,autoplay=false){
-  current=i; const t=tracks[i];
-  audio.src=t.src; nowTitle.textContent=t.title; stickyTitle.textContent=t.title;
-  totalTime.textContent=t.duration; currentTime.textContent="0:00"; progress.value=0; render();
-  if(autoplay){audio.play();sticky.classList.add("visible");}
+
+function getCollection(key = activeCollection){
+  return collections[key];
 }
-function toggle(){ if(!audio.src) load(current,false); if(audio.paused){audio.play();sticky.classList.add("visible")}else audio.pause(); }
-function prev(){load((current-1+tracks.length)%tracks.length,true)}
-function next(){load((current+1)%tracks.length,true)}
-function state(){const s=audio.paused?"▶":"Ⅱ";playBtn.textContent=s;stickyPlay.textContent=s}
-function fmt(s){if(!Number.isFinite(s))return"0:00";return`${Math.floor(s/60)}:${Math.floor(s%60).toString().padStart(2,"0")}`}
 
-playBtn.onclick=toggle; stickyPlay.onclick=toggle; prevBtn.onclick=prev; stickyPrev.onclick=prev; nextBtn.onclick=next; stickyNext.onclick=next;
-document.getElementById("playAlbumBtn").onclick=()=>{load(0,true);document.getElementById("music").scrollIntoView({behavior:"smooth"})};
-audio.addEventListener("play",state);audio.addEventListener("pause",state);audio.addEventListener("ended",next);
-audio.addEventListener("timeupdate",()=>{if(!audio.duration)return;progress.value=audio.currentTime/audio.duration*100;currentTime.textContent=fmt(audio.currentTime)});
-progress.addEventListener("input",()=>{if(audio.duration)audio.currentTime=progress.value/100*audio.duration});
-volume.addEventListener("input",()=>audio.volume=Number(volume.value));audio.volume=Number(volume.value);
+function renderCollection(key){
+  const c = getCollection(key);
+  if (!c || !c.list) return;
 
-const lightbox=document.getElementById("lightbox"), lbImg=document.getElementById("lightboxImage");
-document.querySelectorAll(".archive-open").forEach(b=>b.addEventListener("click",()=>{lbImg.src=b.dataset.full;lightbox.classList.add("open");lightbox.setAttribute("aria-hidden","false")}));
-function closeLb(){lightbox.classList.remove("open");lightbox.setAttribute("aria-hidden","true");lbImg.src=""}
-document.getElementById("closeLightbox").onclick=closeLb;lightbox.addEventListener("click",e=>{if(e.target===lightbox)closeLb()});
-document.addEventListener("keydown",e=>{if(e.key==="Escape")closeLb()});
-render();load(0,false);
+  c.list.innerHTML = c.tracks.map((t, i) => {
+    const isActive = key === activeCollection && i === activeIndex;
+    const note = key === "demo1988" && t.note ? `<small>${t.note}</small>` : "";
+    return `<div class="${c.rowClass} ${isActive ? "active" : ""}" data-collection="${key}" data-i="${i}">
+      <span>${String(t.n).padStart(2, "0")}</span>
+      <div><b>${t.title}</b>${note}</div>
+      <em>${t.duration}</em>
+    </div>`;
+  }).join("");
 
-
-// v11: archival live-demo player
-(() => {
-  const tracks = window.DESECRATE_LIVE_TRACKS || [];
-  if (!tracks.length) return;
-
-  const liveAudio = new Audio();
-  liveAudio.preload = "metadata";
-
-  const list = document.getElementById("liveTrackList");
-  const title = document.getElementById("liveNowTitle");
-  const play = document.getElementById("livePlayBtn");
-  const prev = document.getElementById("livePrevBtn");
-  const next = document.getElementById("liveNextBtn");
-  const progress = document.getElementById("liveProgress");
-  const currentTime = document.getElementById("liveCurrentTime");
-  const totalTime = document.getElementById("liveTotalTime");
-  let index = 0;
-
-  function format(s){
-    if(!Number.isFinite(s)) return "0:00";
-    return `${Math.floor(s/60)}:${Math.floor(s%60).toString().padStart(2,"0")}`;
-  }
-
-  function render(){
-    list.innerHTML = tracks.map((t,i)=>`
-      <div class="live-track-row ${i===index?"active":""}" data-i="${i}">
-        <span>${String(t.n).padStart(2,"0")}</span>
-        <b>${t.title}</b>
-        <em>${t.duration}</em>
-      </div>`).join("");
-    list.querySelectorAll(".live-track-row").forEach(row=>{
-      row.addEventListener("click",()=>load(Number(row.dataset.i), true));
+  c.list.querySelectorAll("[data-i]").forEach(row => {
+    row.addEventListener("click", () => {
+      playTrack(row.dataset.collection, Number(row.dataset.i), true);
     });
-  }
-
-  function load(i, autoplay=false){
-    index=i;
-    const t=tracks[i];
-    liveAudio.src=t.src;
-    title.textContent=t.title;
-    totalTime.textContent=t.duration;
-    currentTime.textContent="0:00";
-    progress.value=0;
-    render();
-    if(autoplay) liveAudio.play();
-  }
-
-  function toggle(){
-    if(!liveAudio.src) load(index,false);
-    liveAudio.paused ? liveAudio.play() : liveAudio.pause();
-  }
-  function previous(){ load((index-1+tracks.length)%tracks.length,true); }
-  function following(){ load((index+1)%tracks.length,true); }
-
-  play.addEventListener("click",toggle);
-  prev.addEventListener("click",previous);
-  next.addEventListener("click",following);
-  liveAudio.addEventListener("play",()=>play.textContent="Ⅱ");
-  liveAudio.addEventListener("pause",()=>play.textContent="▶");
-  liveAudio.addEventListener("ended",following);
-  liveAudio.addEventListener("timeupdate",()=>{
-    if(!liveAudio.duration) return;
-    progress.value=liveAudio.currentTime/liveAudio.duration*100;
-    currentTime.textContent=format(liveAudio.currentTime);
   });
-  progress.addEventListener("input",()=>{
-    if(liveAudio.duration) liveAudio.currentTime=progress.value/100*liveAudio.duration;
+}
+
+function renderAll(){
+  Object.keys(collections).forEach(renderCollection);
+}
+
+function updateSectionUI(){
+  Object.entries(collections).forEach(([key, c]) => {
+    if (!c.play) return;
+    const isActive = key === activeCollection;
+    c.play.textContent = isActive && !audio.paused ? "Ⅱ" : "▶";
   });
 
-  render();
-  load(0,false);
-})();
+  const c = getCollection();
+  const track = c?.tracks?.[activeIndex];
+  if (!c || !track) return;
 
+  if (c.title) c.title.textContent = track.title;
+  if (c.note) c.note.textContent = track.note || "Original demo recording";
+  if (c.total) c.total.textContent = track.duration;
+  if (stickyTitle) stickyTitle.textContent = track.title;
+  if (stickySource) stickySource.textContent = c.label;
+  if (stickyPlay) stickyPlay.textContent = audio.paused ? "▶" : "Ⅱ";
+}
 
-// v13: 1988 demo player
-(() => {
-  const tracks = window.DESECRATE_DEMO_1988 || [];
-  if (!tracks.length) return;
+function playTrack(collectionKey, index, autoplay = false){
+  const c = getCollection(collectionKey);
+  if (!c || !c.tracks.length) return;
 
-  const audio = new Audio();
-  audio.preload = "metadata";
+  activeCollection = collectionKey;
+  activeIndex = Math.max(0, Math.min(index, c.tracks.length - 1));
+  const track = c.tracks[activeIndex];
 
-  const list = document.getElementById("demoTrackList");
-  const title = document.getElementById("demoNowTitle");
-  const note = document.getElementById("demoNowNote");
-  const play = document.getElementById("demoPlayBtn");
-  const prev = document.getElementById("demoPrevBtn");
-  const next = document.getElementById("demoNextBtn");
-  const progress = document.getElementById("demoProgress");
-  const currentTime = document.getElementById("demoCurrentTime");
-  const totalTime = document.getElementById("demoTotalTime");
-  let index = 0;
-
-  function fmt(s){
-    if(!Number.isFinite(s)) return "0:00";
-    return `${Math.floor(s/60)}:${Math.floor(s%60).toString().padStart(2,"0")}`;
+  const desired = new URL(track.src, document.baseURI).href;
+  if (audio.src !== desired) {
+    audio.src = track.src;
+    audio.load();
   }
 
-  function render(){
-    list.innerHTML = tracks.map((t,i)=>`
-      <div class="demo-track-row ${i===index ? "active" : ""}" data-i="${i}">
-        <span>${String(t.n).padStart(2,"0")}</span>
-        <div>
-          <b>${t.title}</b>
-          ${t.note ? `<small>${t.note}</small>` : ""}
-        </div>
-        <em>${t.duration}</em>
-      </div>`).join("");
+  if (c.current) c.current.textContent = "0:00";
+  if (c.progress) c.progress.value = 0;
 
-    list.querySelectorAll(".demo-track-row").forEach(row=>{
-      row.addEventListener("click",()=>load(Number(row.dataset.i),true));
-    });
+  renderAll();
+  updateSectionUI();
+
+  if (autoplay) {
+    const promise = audio.play();
+    if (promise && typeof promise.catch === "function") {
+      promise.catch(err => console.warn("Audio playback blocked:", err));
+    }
+    if (sticky) sticky.classList.add("visible");
+  }
+}
+
+function toggleCollection(key){
+  const c = getCollection(key);
+  if (!c || !c.tracks.length) return;
+
+  if (activeCollection !== key) {
+    playTrack(key, 0, true);
+    return;
   }
 
-  function load(i, autoplay=false){
-    index=i;
-    const t=tracks[i];
-    audio.src=t.src;
-    title.textContent=t.title;
-    note.textContent=t.note || "Original demo recording";
-    totalTime.textContent=t.duration;
-    currentTime.textContent="0:00";
-    progress.value=0;
-    render();
-    if(autoplay) audio.play();
+  if (!audio.src) {
+    playTrack(key, activeIndex, true);
+    return;
   }
 
-  function toggle(){
-    if(!audio.src) load(index,false);
-    audio.paused ? audio.play() : audio.pause();
+  if (audio.paused) {
+    audio.play().catch(err => console.warn("Audio playback blocked:", err));
+    if (sticky) sticky.classList.add("visible");
+  } else {
+    audio.pause();
   }
-  function previous(){load((index-1+tracks.length)%tracks.length,true)}
-  function following(){load((index+1)%tracks.length,true)}
+}
 
-  play.addEventListener("click",toggle);
-  prev.addEventListener("click",previous);
-  next.addEventListener("click",following);
-  audio.addEventListener("play",()=>play.textContent="Ⅱ");
-  audio.addEventListener("pause",()=>play.textContent="▶");
-  audio.addEventListener("ended",following);
-  audio.addEventListener("timeupdate",()=>{
-    if(!audio.duration) return;
-    progress.value=audio.currentTime/audio.duration*100;
-    currentTime.textContent=fmt(audio.currentTime);
+function previous(){
+  const c = getCollection();
+  if (!c || !c.tracks.length) return;
+  playTrack(activeCollection, (activeIndex - 1 + c.tracks.length) % c.tracks.length, true);
+}
+
+function next(){
+  const c = getCollection();
+  if (!c || !c.tracks.length) return;
+  playTrack(activeCollection, (activeIndex + 1) % c.tracks.length, true);
+}
+
+Object.entries(collections).forEach(([key, c]) => {
+  if (c.play) c.play.addEventListener("click", () => toggleCollection(key));
+  if (c.prev) c.prev.addEventListener("click", () => {
+    if (activeCollection !== key) playTrack(key, 0, true);
+    else previous();
   });
-  progress.addEventListener("input",()=>{
-    if(audio.duration) audio.currentTime=progress.value/100*audio.duration;
+  if (c.next) c.next.addEventListener("click", () => {
+    if (activeCollection !== key) playTrack(key, 0, true);
+    else next();
   });
-
-  render();
-  load(0,false);
-})();
-
-
-// v14: Arranger of Disorder (1989) demo player
-(() => {
-  const tracks = window.DESECRATE_ARRANGER_1989 || [];
-  if (!tracks.length) return;
-  const audio = new Audio();
-  audio.preload = "metadata";
-  const list = document.getElementById("arrangerTrackList");
-  const title = document.getElementById("arrangerNowTitle");
-  const play = document.getElementById("arrangerPlayBtn");
-  const prev = document.getElementById("arrangerPrevBtn");
-  const next = document.getElementById("arrangerNextBtn");
-  const progress = document.getElementById("arrangerProgress");
-  const current = document.getElementById("arrangerCurrentTime");
-  const total = document.getElementById("arrangerTotalTime");
-  let index = 0;
-
-  const fmt = s => Number.isFinite(s) ? `${Math.floor(s/60)}:${Math.floor(s%60).toString().padStart(2,"0")}` : "0:00";
-
-  function render(){
-    list.innerHTML = tracks.map((t,i)=>`
-      <div class="demo-track-row ${i===index ? "active" : ""}" data-i="${i}">
-        <span>${String(t.n).padStart(2,"0")}</span>
-        <div><b>${t.title}</b></div>
-        <em>${t.duration}</em>
-      </div>`).join("");
-    list.querySelectorAll(".demo-track-row").forEach(row =>
-      row.addEventListener("click", () => load(Number(row.dataset.i), true))
-    );
-  }
-  function load(i, autoplay=false){
-    index=i;
-    const t=tracks[i];
-    audio.src=t.src;
-    title.textContent=t.title;
-    total.textContent=t.duration;
-    current.textContent="0:00";
-    progress.value=0;
-    render();
-    if(autoplay) audio.play();
-  }
-  play.addEventListener("click",()=> audio.paused ? audio.play() : audio.pause());
-  prev.addEventListener("click",()=>load((index-1+tracks.length)%tracks.length,true));
-  next.addEventListener("click",()=>load((index+1)%tracks.length,true));
-  audio.addEventListener("play",()=>play.textContent="Ⅱ");
-  audio.addEventListener("pause",()=>play.textContent="▶");
-  audio.addEventListener("ended",()=>load((index+1)%tracks.length,true));
-  audio.addEventListener("timeupdate",()=>{
-    if(!audio.duration) return;
-    progress.value=audio.currentTime/audio.duration*100;
-    current.textContent=fmt(audio.currentTime);
+  if (c.progress) c.progress.addEventListener("input", () => {
+    if (activeCollection === key && audio.duration) {
+      audio.currentTime = Number(c.progress.value) / 100 * audio.duration;
+    }
   });
-  progress.addEventListener("input",()=>{
-    if(audio.duration) audio.currentTime=progress.value/100*audio.duration;
+});
+
+if (stickyPlay) stickyPlay.addEventListener("click", () => toggleCollection(activeCollection));
+if (stickyPrev) stickyPrev.addEventListener("click", previous);
+if (stickyNext) stickyNext.addEventListener("click", next);
+
+const volume = document.getElementById("volume");
+if (volume) {
+  audio.volume = Number(volume.value);
+  volume.addEventListener("input", () => audio.volume = Number(volume.value));
+}
+
+audio.addEventListener("play", () => {
+  if (sticky) sticky.classList.add("visible");
+  updateSectionUI();
+});
+
+audio.addEventListener("pause", updateSectionUI);
+audio.addEventListener("ended", next);
+
+audio.addEventListener("timeupdate", () => {
+  const c = getCollection();
+  if (!c || !audio.duration) return;
+  if (c.progress) c.progress.value = audio.currentTime / audio.duration * 100;
+  if (c.current) c.current.textContent = fmt(audio.currentTime);
+});
+
+audio.addEventListener("loadedmetadata", () => {
+  const c = getCollection();
+  if (!c) return;
+  if (c.total && Number.isFinite(audio.duration)) c.total.textContent = fmt(audio.duration);
+});
+
+const playAlbumBtn = document.getElementById("playAlbumBtn");
+if (playAlbumBtn) {
+  playAlbumBtn.addEventListener("click", () => {
+    playTrack("album", 0, true);
+    const music = document.getElementById("music");
+    if (music) music.scrollIntoView({behavior:"smooth"});
   });
-  render();
-  load(0,false);
-})();
+}
 
+// Archive lightbox
+const lightbox = document.getElementById("lightbox");
+const lbImg = document.getElementById("lightboxImage");
+document.querySelectorAll(".archive-open").forEach(btn => {
+  btn.addEventListener("click", () => {
+    if (!lightbox || !lbImg) return;
+    lbImg.src = btn.dataset.full;
+    lightbox.classList.add("open");
+    lightbox.setAttribute("aria-hidden", "false");
+  });
+});
+function closeLightbox(){
+  if (!lightbox || !lbImg) return;
+  lightbox.classList.remove("open");
+  lightbox.setAttribute("aria-hidden", "true");
+  lbImg.src = "";
+}
+const closeLb = document.getElementById("closeLightbox");
+if (closeLb) closeLb.addEventListener("click", closeLightbox);
+if (lightbox) lightbox.addEventListener("click", e => {
+  if (e.target === lightbox) closeLightbox();
+});
+document.addEventListener("keydown", e => {
+  if (e.key === "Escape") closeLightbox();
+});
 
-// v15: Lonely Disgrace (1989) demo player
-(() => {
-  const tracks=window.DESECRATE_LONELY_1989||[];
-  if(!tracks.length)return;
-  const audio=new Audio(); audio.preload="metadata";
-  const list=document.getElementById("lonelyTrackList");
-  const title=document.getElementById("lonelyNowTitle");
-  const play=document.getElementById("lonelyPlayBtn");
-  const prev=document.getElementById("lonelyPrevBtn");
-  const next=document.getElementById("lonelyNextBtn");
-  const progress=document.getElementById("lonelyProgress");
-  const current=document.getElementById("lonelyCurrentTime");
-  const total=document.getElementById("lonelyTotalTime");
-  let index=0;
-  const fmt=s=>Number.isFinite(s)?`${Math.floor(s/60)}:${Math.floor(s%60).toString().padStart(2,"0")}`:"0:00";
-  function render(){
-    list.innerHTML=tracks.map((t,i)=>`
-      <div class="demo-track-row ${i===index?"active":""}" data-i="${i}">
-        <span>${String(t.n).padStart(2,"0")}</span><div><b>${t.title}</b></div><em>${t.duration}</em>
-      </div>`).join("");
-    list.querySelectorAll(".demo-track-row").forEach(r=>r.addEventListener("click",()=>load(Number(r.dataset.i),true)));
-  }
-  function load(i,autoplay=false){
-    index=i; const t=tracks[i]; audio.src=t.src; title.textContent=t.title;
-    total.textContent=t.duration; current.textContent="0:00"; progress.value=0; render();
-    if(autoplay)audio.play();
-  }
-  play.addEventListener("click",()=>audio.paused?audio.play():audio.pause());
-  prev.addEventListener("click",()=>load((index-1+tracks.length)%tracks.length,true));
-  next.addEventListener("click",()=>load((index+1)%tracks.length,true));
-  audio.addEventListener("play",()=>play.textContent="Ⅱ");
-  audio.addEventListener("pause",()=>play.textContent="▶");
-  audio.addEventListener("ended",()=>load((index+1)%tracks.length,true));
-  audio.addEventListener("timeupdate",()=>{if(!audio.duration)return;progress.value=audio.currentTime/audio.duration*100;current.textContent=fmt(audio.currentTime);});
-  progress.addEventListener("input",()=>{if(audio.duration)audio.currentTime=progress.value/100*audio.duration;});
-  render(); load(0,false);
-})();
-
-
-// v23: mobile sticky menu
+// Mobile menu
 (() => {
   const btn = document.getElementById("mobileMenuBtn");
   const nav = document.getElementById("mainNav");
@@ -314,15 +298,14 @@ render();load(0,false);
     document.body.classList.toggle("menu-open", open);
   }
 
-  btn.addEventListener("click", () => {
-    setOpen(!nav.classList.contains("open"));
-  });
-
-  nav.querySelectorAll("a").forEach(a => {
-    a.addEventListener("click", () => setOpen(false));
-  });
-
+  btn.addEventListener("click", () => setOpen(!nav.classList.contains("open")));
+  nav.querySelectorAll("a").forEach(a => a.addEventListener("click", () => setOpen(false)));
   window.addEventListener("resize", () => {
     if (window.innerWidth > 700) setOpen(false);
   });
 })();
+
+// Initial state
+renderAll();
+if (albumTracks.length) playTrack("album", 0, false);
+else if (demo1988Tracks.length) playTrack("demo1988", 0, false);
