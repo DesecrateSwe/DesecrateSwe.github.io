@@ -23,6 +23,7 @@
   <nav class="main-nav">
     <a href="#home">Home</a>
     <a href="#story">Story</a>
+    <a href="#live-archive">Live Demo</a>
     <a href="#album">Second Death</a>
     <a href="#music">Music</a>
     <a href="#video">Video</a>
@@ -47,12 +48,13 @@
     <article class="story-panel panel" id="story">
       <div class="panel-title">THE STORY</div>
       <div class="timeline">
-        <div><b>1988</b><span>Desecrate formed in Uppsala, Sweden.</span></div>
-        <div><b>1989</b><span>Demo recordings including <em>Disorder</em>, <em>Lightened Souls</em> and <em>Minds of Iustitia</em>.</span></div>
-        <div><b>1989</b><span><em>Lonely Disgrace</em> demo.</span></div>
-        <div><b>2026</b><span><em>Second Death</em>. The original songs, re-recorded for the band's first full-length album.</span></div>
+        <div><b>1987</b><span>John Swahn, Rickard Ceder and Jakob Bergström played together in Twilight and reached the final of an Uppsala talent competition. John and Jakob also had the tongue-in-cheek thrash project Equinox.</span></div>
+        <div><b>1988</b><span>Rickard Ceder wanted to play heavier music. Together with Jakob Bergström he began the first Desecrate demo at Nyby Fritidsgård. John Swahn was brought in on vocals.</span></div>
+        <div><b>1989</b><span><em>Arranger Of Disorder</em> and <em>Lonely Disgrace</em> were recorded at Musikhuset in Enköping.</span></div>
+        <div><b>1990</b><span>After several live shows, including support slots for Fallen Angel, differences over musical direction and ambition led to the band splitting up.</span></div>
+        <div><b>2026</b><span>The old songs return on Desecrate's first full-length album, <em>Second Death</em>.</span></div>
       </div>
-      <a class="outline-btn" href="#archive">VIEW THE ARCHIVE</a>
+      <a class="outline-btn" href="#history-full">FULL BAND HISTORY</a>
     </article>
 
     <article class="album-panel panel" id="album">
@@ -110,6 +112,51 @@
   <div class="record-grid">
     <img src="assets/images/second-death-front.jpg" alt="Second Death front cover">
     <img src="assets/images/second-death-back.jpg" alt="Second Death back cover">
+  </div>
+</section>
+
+
+<section class="section live-archive-section" id="live-archive">
+  <div class="section-head">
+    <div>
+      <span>SURVIVING LIVE RECORDINGS</span>
+      <h2>THE LOST SECOND DEATH</h2>
+    </div>
+    <p>The original studio recording of <em>Second Death</em> and <em>Possessor of Life</em> was erased during the final mix. These live recordings preserve the songs from the original era.</p>
+  </div>
+
+  <div class="live-archive-grid">
+    <div class="live-player">
+      <span class="smallcap">LIVE ARCHIVE · 1989</span>
+      <h3 id="liveNowTitle">Second Death</h3>
+      <p class="live-note">Original live recording · archival audio</p>
+      <div class="transport">
+        <button id="livePrevBtn" aria-label="Previous live track">←</button>
+        <button id="livePlayBtn" class="round-play" aria-label="Play live track">▶</button>
+        <button id="liveNextBtn" aria-label="Next live track">→</button>
+      </div>
+      <div class="progress-line">
+        <span id="liveCurrentTime">0:00</span>
+        <input id="liveProgress" type="range" min="0" max="100" value="0">
+        <span id="liveTotalTime">0:00</span>
+      </div>
+    </div>
+
+    <div class="live-tracklist" id="liveTrackList"></div>
+  </div>
+
+  <div class="then-now">
+    <article>
+      <span>THEN</span>
+      <strong>SECOND DEATH · LIVE 1989</strong>
+      <p>The song survived only through live material after the studio demo was lost.</p>
+    </article>
+    <i>→</i>
+    <article>
+      <span>NOW</span>
+      <strong>SECOND DEATH · 2026</strong>
+      <p>Rebuilt and released as the title track of Desecrate's first full-length album.</p>
+    </article>
   </div>
 </section>
 
@@ -261,18 +308,19 @@
   <div class="band-copy">
     <span>DESECRATE · 2026</span>
     <h2>THE BAND</h2>
-    <div class="members">
-      <div><b>JOHN S. SWAHN</b><small>VOCALS</small></div>
-      <div><b>RICKARD B. CEDER</b><small>GUITAR</small></div>
+    <div class="members promo-lineup">
+      <div><b>RICKARD “CEDER” CEDER</b><small>GUITAR</small></div>
       <div><b>DAVE JANNEY</b><small>GUITAR</small></div>
-      <div><b>JENS ÅBERG</b><small>BASS</small></div>
-      <div><b>JAKOB BERGSTRÖM</b><small>DRUMS</small></div>
+      <div><b>JOHN SWAHN</b><small>VOCALS</small></div>
+      <div><b>JAKOB “KOBBEN” BERGSTRÖM</b><small>DRUMS</small></div>
+      <div><b>JENS “JENKA” ÅBERG</b><small>BASS</small></div>
     </div>
+    <p class="photo-order">PROMO PHOTO · LEFT TO RIGHT</p>
   </div>
 </section>
 </main>
 
-<footer>© 2026 DESECRATE <span>·</span> UPPSALA, SWEDEN <span>·</span> EST. 1988</footer>
+<footer>© 2026 DESECRATE <span>·</span> UPPSALA, SWEDEN <span>·</span> EST. 1988<span class="footer-signature">Website desecrated by Eric “Devilswahn” Swahn</span></footer>
 
 <div class="sticky-player" id="stickyPlayer">
   <div class="sticky-info"><img src="assets/images/second-death-square.jpg" alt=""><div><b id="stickyTitle">Second Death</b><span>DESECRATE</span></div></div>
@@ -285,6 +333,7 @@
 </div>
 
 <audio id="audio" preload="metadata"></audio>
+<script>window.DESECRATE_LIVE_TRACKS=[{"n": 1, "title": "Second Death", "duration": "4:08", "src": "assets/audio/live/01-second-death-live.mp3"}, {"n": 2, "title": "Angels Fuck", "duration": "0:21", "src": "assets/audio/live/02-angels-fuck-live.mp3"}, {"n": 3, "title": "Scooby Dooaaauöö II", "duration": "0:21", "src": "assets/audio/live/03-scooby-doo-ii-live.mp3"}, {"n": 4, "title": "Possessor of Life", "duration": "3:35", "src": "assets/audio/live/04-possessor-of-life-live.mp3"}, {"n": 5, "title": "Scooby Dooaaauöö III", "duration": "0:35", "src": "assets/audio/live/05-scooby-doo-iii-live.mp3"}];</script>
 <script>window.DESECRATE_TRACKS=[{"n": 1, "title": "Second Death", "duration": "5:08", "src": "assets/audio/01-second-death.mp3"}, {"n": 2, "title": "World Pollution", "duration": "3:34", "src": "assets/audio/02-world-pollution.mp3"}, {"n": 3, "title": "Disorder", "duration": "3:49", "src": "assets/audio/03-disorder.mp3"}, {"n": 4, "title": "Scooby Dooaaauöö", "duration": "0:26", "src": "assets/audio/04-scooby-dooaaauoo.mp3"}, {"n": 5, "title": "Undivided Attention", "duration": "4:11", "src": "assets/audio/05-undivided-attention.mp3"}, {"n": 6, "title": "Injustice of Society", "duration": "3:08", "src": "assets/audio/06-injustice-of-society.mp3"}, {"n": 7, "title": "Lightened Souls", "duration": "3:11", "src": "assets/audio/07-lightened-souls.mp3"}, {"n": 8, "title": "Possessor Of Life", "duration": "3:34", "src": "assets/audio/08-possessor-of-life.mp3"}, {"n": 9, "title": "Schedule", "duration": "3:47", "src": "assets/audio/09-schedule.mp3"}, {"n": 10, "title": "F**k Trump", "duration": "0:31", "src": "assets/audio/10-fk-trump.mp3"}, {"n": 11, "title": "Desecration", "duration": "3:16", "src": "assets/audio/11-desecration.mp3"}, {"n": 12, "title": "Minds Of Iustitia", "duration": "3:10", "src": "assets/audio/12-minds-of-iustitia.mp3"}, {"n": 13, "title": "Bang Your Head", "duration": "2:49", "src": "assets/audio/13-bang-your-head.mp3"}];</script>
 <script src="script.js"></script>
 </body>
