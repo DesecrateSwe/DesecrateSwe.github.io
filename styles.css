@@ -246,3 +246,20 @@ footer{min-height:80px;display:flex;align-items:center;justify-content:center;ga
   .then-now i{transform:rotate(90deg);padding:5px}
   .promo-lineup{grid-template-columns:repeat(2,1fr)}
 }
+
+
+/* v12 — Devils Fate clarification */
+.track-note{
+  color:#776a5d;
+  font-size:9px;
+  font-style:italic;
+}
+.history-detail{
+  padding:12px 14px;
+  border-left:2px solid #927557;
+  background:rgba(151,119,83,.06);
+}
+.devils-then-now{
+  margin-top:0;
+  margin-bottom:18px;
+}
