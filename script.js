@@ -139,7 +139,8 @@ function updateSectionUI(){
   if (stickySource) stickySource.textContent = c.label;
   if (stickyPlay) stickyPlay.textContent = audio.paused ? "▶" : "Ⅱ";
   if (activeCollection === "live" && liveLocationNote) {
-    const parts = [track.location, track.date].filter(Boolean);
+    const liveTrack = collections.live.tracks[activeIndex];
+    const parts = [liveTrack?.location, liveTrack?.date].filter(Boolean);
     liveLocationNote.textContent = parts.join(" · ");
   }
 }

@@ -863,3 +863,39 @@ footer{min-height:80px;display:flex;align-items:center;justify-content:center;ga
   letter-spacing:.09em;
   text-transform:uppercase;
 }
+
+
+/* v31 — full 2026 promo image on mobile, no cropping */
+.band-mobile-promo{
+  display:none;
+}
+
+@media(max-width:700px){
+  .band-section{
+    background-image:none !important;
+    background:none !important;
+    padding-top:0 !important;
+    min-height:0 !important;
+  }
+
+  .band-mobile-promo{
+    display:block;
+    width:100%;
+    height:auto;
+    object-fit:contain;
+    margin:0;
+    border:0;
+  }
+
+  .band-section::before{
+    display:none !important;
+  }
+
+  .band-section .band-overlay{
+    position:relative !important;
+    min-height:0 !important;
+    padding-top:28px !important;
+    background:
+      linear-gradient(180deg,rgba(4,4,4,.86),#050505 32%) !important;
+  }
+}
