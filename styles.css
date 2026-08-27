@@ -497,3 +497,11 @@ footer{min-height:80px;display:flex;align-items:center;justify-content:center;ga
     grid-row:2;
   }
 }
+
+
+/* v22 — ensure demo tracklists render as full right-hand columns */
+#arrangerTrackList,
+#lonelyTrackList{
+  min-height:100%;
+  align-self:stretch;
+}
