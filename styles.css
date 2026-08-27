@@ -967,3 +967,46 @@ footer{min-height:80px;display:flex;align-items:center;justify-content:center;ga
     margin:0 !important;
   }
 }
+
+/* v33 — mobile lineup: show the complete promo photo above the text */
+@media(max-width:700px){
+  .band-section > img,
+  .band-section > .band-shade{
+    display:none !important;
+  }
+
+  .band-mobile-promo-wrap{
+    display:block !important;
+    width:100% !important;
+    line-height:0 !important;
+    background:#050505 !important;
+  }
+
+  .band-mobile-promo-wrap .band-mobile-promo{
+    display:block !important;
+    position:static !important;
+    width:100% !important;
+    height:auto !important;
+    max-width:100% !important;
+    max-height:none !important;
+    object-fit:contain !important;
+    object-position:center !important;
+  }
+
+  .band-section .band-copy{
+    position:static !important;
+    width:100% !important;
+    padding:34px 6vw 42px !important;
+    background:#050505 !important;
+  }
+
+  .band-section .band-copy h2{
+    font-size:clamp(52px,15vw,86px) !important;
+    line-height:.98 !important;
+    margin:10px 0 34px !important;
+  }
+
+  .band-section .promo-lineup{
+    margin-top:0 !important;
+  }
+}
