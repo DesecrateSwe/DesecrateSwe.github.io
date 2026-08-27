@@ -42,3 +42,26 @@ footer{min-height:80px;display:flex;align-items:center;justify-content:center;ga
 .lightbox{position:fixed;inset:0;z-index:500;background:rgba(0,0,0,.94);display:none;align-items:center;justify-content:center;padding:30px}.lightbox.open{display:flex}.lightbox img{max-width:94vw;max-height:90vh;object-fit:contain}.lightbox button{position:absolute;right:22px;top:14px;background:none;border:0;color:white;font-size:42px;cursor:pointer}
 @media(max-width:1050px){.header-inner{grid-template-columns:1fr 2fr 1fr}.main-nav a{padding-left:15px;padding-right:15px}.dashboard-grid{grid-template-columns:1fr}.panel{min-height:0}.album-panel{grid-template-columns:1fr 1fr}.music-grid{grid-template-columns:1fr}.player-card{position:static}.members{grid-template-columns:repeat(3,1fr)}}
 @media(max-width:700px){.header-inner{height:94px;grid-template-columns:1fr}.origin,.yt-small{display:none}.brand{height:80px}.brand img{width:90vw}.main-nav{overflow-x:auto;justify-content:flex-start}.main-nav a{white-space:nowrap;padding:13px 14px}.hero{height:510px}.hero-photo{object-position:58% center}.hero-bottom p{font-size:11px}.hero-bottom h1{font-size:34px}.album-panel{grid-template-columns:1fr}.section{padding:65px 5vw}.section-head{grid-template-columns:1fr;gap:12px}.section-head h2{font-size:52px}.record-grid{grid-template-columns:1fr}.members{grid-template-columns:1fr 1fr}.band-section{height:650px}.band-copy{padding-top:100px}.archive-grid{columns:2 150px}}
+
+.members-history-section{background:linear-gradient(180deg,#0c0a08,#050505);border-top:1px solid #2f251d}
+.bio-grid{max-width:1380px;margin:0 auto;display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
+.bio-card{min-height:300px;padding:24px 22px 22px;border:1px solid #443629;background:linear-gradient(180deg,#0d0b09,#080706);position:relative}
+.bio-card:before{content:"";position:absolute;left:0;top:0;bottom:0;width:2px;background:#9a7c59;opacity:.55}
+.bio-top{border-bottom:1px solid #33291f;padding-bottom:16px;margin-bottom:16px}
+.bio-role{display:block;font:500 9px Oswald;letter-spacing:.18em;color:#9f8566;margin-bottom:7px}
+.bio-card h3{font:500 27px Oswald;letter-spacing:.045em;color:#d0b38f;margin:0;line-height:1.05}
+.bio-card p{color:#a49a8e;font-size:12px;line-height:1.7;margin:0 0 22px}
+.bio-facts{display:flex;flex-wrap:wrap;gap:7px}
+.bio-facts span{padding:6px 8px;border:1px solid #382e25;background:#080706;color:#8c7c6b;font:500 8px Oswald;letter-spacing:.08em;text-transform:uppercase}
+.demo-history{max-width:1380px;margin:70px auto 0;padding-top:34px;border-top:1px solid #3b3026}
+.demo-history-head span{font:500 9px Oswald;letter-spacing:.2em;color:#9b8062}
+.demo-history-head h3{margin:2px 0 28px;font:500 clamp(42px,6vw,78px) Oswald;letter-spacing:.045em;color:#ccb08d}
+.demo-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
+.demo-card{border:1px solid #443629;background:#080706;padding:22px}
+.demo-year{font:500 13px Oswald;letter-spacing:.16em;color:#9e8464}
+.demo-card h4{min-height:52px;margin:7px 0 18px;font:500 23px/1.05 Oswald;letter-spacing:.055em;color:#d2b795}
+.demo-card ol{margin:0;padding:0 0 0 22px;color:#b2a79b;font-size:11px;line-height:1.9}
+.demo-meta{margin:20px 0 0;padding-top:14px;border-top:1px solid #30271f;color:#756a5f;font:500 9px/1.7 Oswald;letter-spacing:.06em;text-transform:uppercase}
+.archive-note{color:#71675d;font-size:10px;line-height:1.6;margin:18px 0 0}
+@media(max-width:1000px){.bio-grid{grid-template-columns:repeat(2,1fr)}.demo-grid{grid-template-columns:1fr}.demo-card h4{min-height:0}}
+@media(max-width:620px){.bio-grid{grid-template-columns:1fr}}
