@@ -1089,3 +1089,34 @@ body.video-modal-open{
     display:none !important;
   }
 }
+
+
+/* Demo cassette artwork inside archival players */
+.demo-player .demo-cover{
+  margin:-26px -26px 24px;
+  border-bottom:1px solid #49392c;
+  background:#f5f3ed;
+  overflow:hidden;
+}
+
+.demo-player .demo-cover img{
+  display:block;
+  width:100%;
+  height:auto;
+  max-height:420px;
+  object-fit:contain;
+  object-position:center;
+  background:#f5f3ed;
+}
+
+@media(max-width:700px){
+  .demo-player .demo-cover{
+    margin:-26px -26px 22px;
+  }
+
+  .demo-player .demo-cover img{
+    max-height:none;
+    width:100%;
+    height:auto;
+  }
+}
