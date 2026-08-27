@@ -505,3 +505,109 @@ footer{min-height:80px;display:flex;align-items:center;justify-content:center;ga
   min-height:100%;
   align-self:stretch;
 }
+
+
+/* v23 — sticky navigation */
+.site-header{
+  position:relative;
+  z-index:120;
+}
+.main-nav{
+  position:sticky;
+  top:0;
+  z-index:130;
+  background:rgba(5,5,5,.94);
+  backdrop-filter:blur(12px);
+  -webkit-backdrop-filter:blur(12px);
+  border-bottom:1px solid rgba(179,152,118,.22);
+}
+.mobile-menu-btn{display:none}
+
+@media(max-width:700px){
+  .site-header{
+    position:static;
+    border-bottom:0;
+  }
+
+  .header-inner{
+    position:relative;
+    z-index:100;
+  }
+
+  .main-nav{
+    position:fixed;
+    inset:0;
+    z-index:200;
+    height:auto;
+    padding:92px 26px 28px;
+    display:flex;
+    flex-direction:column;
+    align-items:stretch;
+    justify-content:flex-start;
+    gap:0;
+    overflow-y:auto;
+    background:rgba(4,4,4,.985);
+    backdrop-filter:blur(18px);
+    -webkit-backdrop-filter:blur(18px);
+    border:0;
+    transform:translateY(-105%);
+    opacity:0;
+    pointer-events:none;
+    transition:transform .22s ease,opacity .22s ease;
+  }
+
+  .main-nav.open{
+    transform:translateY(0);
+    opacity:1;
+    pointer-events:auto;
+  }
+
+  .main-nav a{
+    display:block;
+    width:100%;
+    padding:18px 4px;
+    border-bottom:1px solid #2e251d;
+    font-size:15px;
+    letter-spacing:.15em;
+  }
+
+  .mobile-menu-btn{
+    position:fixed;
+    top:12px;
+    right:12px;
+    z-index:220;
+    width:46px;
+    height:46px;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+    gap:5px;
+    border:1px solid #594733;
+    background:rgba(7,7,7,.94);
+    backdrop-filter:blur(10px);
+    -webkit-backdrop-filter:blur(10px);
+    cursor:pointer;
+  }
+
+  .mobile-menu-btn span{
+    width:20px;
+    height:1px;
+    background:#c0a17b;
+    transition:.2s;
+  }
+
+  .mobile-menu-btn.open span:nth-child(1){
+    transform:translateY(6px) rotate(45deg);
+  }
+  .mobile-menu-btn.open span:nth-child(2){
+    opacity:0;
+  }
+  .mobile-menu-btn.open span:nth-child(3){
+    transform:translateY(-6px) rotate(-45deg);
+  }
+
+  body.menu-open{
+    overflow:hidden;
+  }
+}

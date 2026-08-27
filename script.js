@@ -299,3 +299,30 @@ render();load(0,false);
   progress.addEventListener("input",()=>{if(audio.duration)audio.currentTime=progress.value/100*audio.duration;});
   render(); load(0,false);
 })();
+
+
+// v23: mobile sticky menu
+(() => {
+  const btn = document.getElementById("mobileMenuBtn");
+  const nav = document.getElementById("mainNav");
+  if (!btn || !nav) return;
+
+  function setOpen(open){
+    btn.classList.toggle("open", open);
+    nav.classList.toggle("open", open);
+    btn.setAttribute("aria-expanded", open ? "true" : "false");
+    document.body.classList.toggle("menu-open", open);
+  }
+
+  btn.addEventListener("click", () => {
+    setOpen(!nav.classList.contains("open"));
+  });
+
+  nav.querySelectorAll("a").forEach(a => {
+    a.addEventListener("click", () => setOpen(false));
+  });
+
+  window.addEventListener("resize", () => {
+    if (window.innerWidth > 700) setOpen(false);
+  });
+})();
