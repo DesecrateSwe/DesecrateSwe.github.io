@@ -65,3 +65,18 @@ footer{min-height:80px;display:flex;align-items:center;justify-content:center;ga
 .archive-note{color:#71675d;font-size:10px;line-height:1.6;margin:18px 0 0}
 @media(max-width:1000px){.bio-grid{grid-template-columns:repeat(2,1fr)}.demo-grid{grid-template-columns:1fr}.demo-card h4{min-height:0}}
 @media(max-width:620px){.bio-grid{grid-template-columns:1fr}}
+
+.history-timeline{max-width:1380px;margin:0 auto 62px;border-top:1px solid #443629}
+.history-era{display:grid;grid-template-columns:145px 1fr;border-bottom:1px solid #33291f;padding:28px 0}
+.history-year{font:500 28px Oswald;letter-spacing:.08em;color:#79644e;padding:2px 24px 0 4px}
+.history-copy{border-left:1px solid #3a2f25;padding-left:30px}
+.history-kicker,.artifact-copy>span{font:500 9px Oswald;letter-spacing:.19em;color:#8f7558}
+.history-copy h3,.artifact-copy h3{font:500 30px/1.05 Oswald;letter-spacing:.045em;color:#d0b38f;margin:5px 0 12px}
+.history-copy p,.artifact-copy p{max-width:900px;color:#9d9388;font-size:12px;line-height:1.7;margin:0 0 17px}
+.lineup-strip{display:flex;flex-wrap:wrap;gap:7px}
+.lineup-strip span{border:1px solid #382e25;background:#080706;padding:6px 8px;color:#8d7d6c;font:500 8px Oswald;letter-spacing:.07em;text-transform:uppercase}
+.history-artifact{max-width:1380px;margin:72px auto 0;padding-top:35px;border-top:1px solid #3b3026;display:grid;grid-template-columns:.7fr 1.3fr;gap:48px;align-items:start}
+.history-artifact figure{margin:0;border:1px solid #493a2c;background:#070605;padding:9px}
+.history-artifact img{display:block;width:100%;height:auto;filter:grayscale(1) sepia(.15) contrast(1.05)}
+.history-artifact figcaption{padding:10px 3px 2px;color:#76695d;font:500 8px Oswald;letter-spacing:.1em;text-transform:uppercase}
+@media(max-width:800px){.history-era{grid-template-columns:1fr}.history-year{padding:0 0 10px}.history-copy{border-left:0;padding-left:0}.history-artifact{grid-template-columns:1fr;gap:20px}}
