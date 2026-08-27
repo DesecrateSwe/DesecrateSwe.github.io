@@ -10,6 +10,7 @@ audio.preload = "metadata";
 const sticky = document.getElementById("stickyPlayer");
 const stickyTitle = document.getElementById("stickyTitle");
 const stickySource = document.getElementById("stickySource");
+const stickyCover = document.getElementById("stickyCover");
 const stickyPlay = document.getElementById("stickyPlay");
 const stickyPrev = document.getElementById("stickyPrev");
 const stickyNext = document.getElementById("stickyNext");
@@ -18,6 +19,7 @@ const liveLocationNote = document.getElementById("liveLocationNote");
 const collections = {
   album: {
     label: "SECOND DEATH · 2026",
+    cover: "assets/images/second-death-square.jpg",
     tracks: albumTracks,
     list: document.getElementById("trackList"),
     title: document.getElementById("nowTitle"),
@@ -31,6 +33,7 @@ const collections = {
   },
   demo1988: {
     label: "WE ONLY MAKE JOKES · 1988",
+    cover: "assets/images/demo-covers/we-only-make-jokes-cover.jpg",
     tracks: demo1988Tracks,
     list: document.getElementById("demoTrackList"),
     title: document.getElementById("demoNowTitle"),
@@ -45,6 +48,7 @@ const collections = {
   },
   arranger: {
     label: "ARRANGER OF DISORDER · 1989",
+    cover: "assets/images/demo-covers/arranger-of-disorder-cover.jpg",
     tracks: arrangerTracks,
     list: document.getElementById("arrangerTrackList"),
     title: document.getElementById("arrangerNowTitle"),
@@ -58,6 +62,7 @@ const collections = {
   },
   lonely: {
     label: "LONELY DISGRACE · 1989",
+    cover: "assets/images/demo-covers/lonely-disgrace-cover.jpg",
     tracks: lonelyTracks,
     list: document.getElementById("lonelyTrackList"),
     title: document.getElementById("lonelyNowTitle"),
@@ -70,7 +75,8 @@ const collections = {
     rowClass: "demo-track-row"
   },
   live: {
-    label: "LIVE ARCHIVE · 1989",
+    label: "LIVE ARCHIVE · 1988–1990",
+    cover: "assets/images/demo-covers/live-second-death-cover.jpg",
     tracks: liveTracks,
     list: document.getElementById("liveTrackList"),
     title: document.getElementById("liveNowTitle"),
@@ -137,6 +143,7 @@ function updateSectionUI(){
   if (c.total) c.total.textContent = track.duration;
   if (stickyTitle) stickyTitle.textContent = track.title;
   if (stickySource) stickySource.textContent = c.label;
+  if (stickyCover && c.cover) stickyCover.src = c.cover;
   if (stickyPlay) stickyPlay.textContent = audio.paused ? "▶" : "Ⅱ";
   if (activeCollection === "live" && liveLocationNote) {
     const liveTrack = collections.live.tracks[activeIndex];
@@ -152,10 +159,13 @@ function playTrack(collectionKey, index, autoplay = false){
   activeCollection = collectionKey;
   activeIndex = Math.max(0, Math.min(index, c.tracks.length - 1));
   const track = c.tracks[activeIndex];
-
   const desired = new URL(track.src, document.baseURI).href;
+
+  // Always stop the previous file before switching source.
   if (audio.src !== desired) {
+    audio.pause();
     audio.src = track.src;
+    audio.currentTime = 0;
     audio.load();
   }
 
@@ -166,11 +176,25 @@ function playTrack(collectionKey, index, autoplay = false){
   updateSectionUI();
 
   if (autoplay) {
-    const promise = audio.play();
-    if (promise && typeof promise.catch === "function") {
-      promise.catch(err => console.warn("Audio playback blocked:", err));
-    }
     if (sticky) sticky.classList.add("visible");
+
+    const startPlayback = () => {
+      const promise = audio.play();
+      if (promise && typeof promise.catch === "function") {
+        promise.catch(err => {
+          console.warn("Audio playback failed:", track.src, err);
+          updateSectionUI();
+        });
+      }
+    };
+
+    // If metadata is already available, start immediately.
+    // Otherwise wait for the new source to become playable.
+    if (audio.readyState >= 2) {
+      startPlayback();
+    } else {
+      audio.addEventListener("canplay", startPlayback, { once:true });
+    }
   }
 }
 
@@ -241,6 +265,12 @@ audio.addEventListener("play", () => {
 });
 
 audio.addEventListener("pause", updateSectionUI);
+audio.addEventListener("error", () => {
+  const c = getCollection();
+  const track = c?.tracks?.[activeIndex];
+  console.warn("Could not load audio file:", track?.src);
+  updateSectionUI();
+});
 audio.addEventListener("ended", next);
 
 audio.addEventListener("timeupdate", () => {

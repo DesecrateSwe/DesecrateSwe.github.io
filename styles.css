@@ -1147,3 +1147,28 @@ body.video-modal-open{
     margin:0 auto 20px !important;
   }
 }
+
+
+/* Live Archive cover — match the original demo players */
+.live-player .live-demo-cover{
+  margin:0 auto 22px;
+  width:min(72%,260px);
+  border:1px solid #4a3a2b;
+  background:#080706;
+  overflow:hidden;
+}
+
+.live-player .live-demo-cover img{
+  display:block;
+  width:100%;
+  height:auto;
+  object-fit:contain;
+  object-position:center;
+}
+
+@media(max-width:700px){
+  .live-player .live-demo-cover{
+    width:min(68%,230px);
+    margin:0 auto 20px;
+  }
+}
