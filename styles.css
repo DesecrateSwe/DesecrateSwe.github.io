@@ -483,3 +483,17 @@ footer{min-height:80px;display:flex;align-items:center;justify-content:center;ga
     grid-template-columns:1fr;
   }
 }
+
+
+/* v21 — Måns + Mårten on the same second row; Mårten last */
+@media(min-width:1251px){
+  .members-history-section .member-card-mans{
+    grid-column:2 / span 2;
+    grid-row:2;
+  }
+
+  .members-history-section .member-card-marten{
+    grid-column:4 / span 2;
+    grid-row:2;
+  }
+}
