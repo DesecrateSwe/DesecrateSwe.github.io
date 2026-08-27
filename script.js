@@ -161,11 +161,9 @@ function playTrack(collectionKey, index, autoplay = false){
   const track = c.tracks[activeIndex];
   const desired = new URL(track.src, document.baseURI).href;
 
-  // Always stop the previous file before switching source.
   if (audio.src !== desired) {
     audio.pause();
     audio.src = track.src;
-    audio.currentTime = 0;
     audio.load();
   }
 
@@ -178,22 +176,14 @@ function playTrack(collectionKey, index, autoplay = false){
   if (autoplay) {
     if (sticky) sticky.classList.add("visible");
 
-    const startPlayback = () => {
-      const promise = audio.play();
-      if (promise && typeof promise.catch === "function") {
-        promise.catch(err => {
-          console.warn("Audio playback failed:", track.src, err);
-          updateSectionUI();
-        });
-      }
-    };
-
-    // If metadata is already available, start immediately.
-    // Otherwise wait for the new source to become playable.
-    if (audio.readyState >= 2) {
-      startPlayback();
-    } else {
-      audio.addEventListener("canplay", startPlayback, { once:true });
+    // Start immediately from the user's click/tap.
+    // Waiting for canplay can cause mobile browsers to block playback.
+    const promise = audio.play();
+    if (promise && typeof promise.catch === "function") {
+      promise.catch(err => {
+        console.warn("Audio playback failed:", track.src, err);
+        updateSectionUI();
+      });
     }
   }
 }
