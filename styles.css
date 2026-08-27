@@ -364,3 +364,122 @@ footer{min-height:80px;display:flex;align-items:center;justify-content:center;ga
 }
 @media(max-width:1000px){.bio-photo{height:300px}}
 @media(max-width:620px){.bio-photo{height:360px}}
+
+
+/* v20 — rebuilt members layout */
+.members-history-section .bio-grid{
+  grid-template-columns:repeat(5,minmax(0,1fr));
+  gap:14px;
+  align-items:stretch;
+}
+
+.members-history-section .member-card{
+  min-width:0;
+  display:flex;
+  flex-direction:column;
+  min-height:100%;
+}
+
+.members-history-section .member-card .bio-photo{
+  height:270px;
+  margin:0 -22px 22px;
+  flex:0 0 auto;
+}
+
+.members-history-section .member-card .bio-photo img{
+  width:100%;
+  height:100%;
+  object-fit:cover;
+  object-position:center 18%;
+}
+
+.members-history-section .member-card-marten{
+  grid-column:1 / span 2;
+  display:grid;
+  grid-template-columns:minmax(0,1.05fr) minmax(0,.95fr);
+  column-gap:22px;
+  align-items:stretch;
+  padding-top:0;
+}
+
+.members-history-section .member-card-marten .bio-photo{
+  grid-row:1 / span 3;
+  grid-column:1;
+  height:100%;
+  min-height:330px;
+  margin:0;
+  border-right:1px solid #443629;
+  border-bottom:0;
+}
+
+.members-history-section .member-card-marten .bio-top,
+.members-history-section .member-card-marten > p,
+.members-history-section .member-card-marten .bio-facts{
+  grid-column:2;
+  margin-left:0;
+  margin-right:0;
+}
+
+.members-history-section .member-card-marten .bio-top{
+  padding-top:24px;
+}
+
+.members-history-section .member-card-mans{
+  grid-column:3 / span 2;
+  min-height:330px;
+  justify-content:center;
+}
+
+.members-history-section .member-card-mans::after{
+  content:"PHOTO TO BE ADDED";
+  display:block;
+  margin-top:auto;
+  padding-top:22px;
+  color:#5f5246;
+  font:500 8px Oswald,sans-serif;
+  letter-spacing:.14em;
+}
+
+@media(max-width:1250px){
+  .members-history-section .bio-grid{
+    grid-template-columns:repeat(3,minmax(0,1fr));
+  }
+  .members-history-section .member-card-marten{
+    grid-column:1 / span 2;
+  }
+  .members-history-section .member-card-mans{
+    grid-column:3;
+  }
+}
+
+@media(max-width:850px){
+  .members-history-section .bio-grid{
+    grid-template-columns:repeat(2,minmax(0,1fr));
+  }
+  .members-history-section .member-card-marten,
+  .members-history-section .member-card-mans{
+    grid-column:auto;
+  }
+  .members-history-section .member-card-marten{
+    display:flex;
+  }
+  .members-history-section .member-card-marten .bio-photo{
+    height:320px;
+    min-height:0;
+    margin:0 -22px 22px;
+    border-right:0;
+    border-bottom:1px solid #443629;
+  }
+  .members-history-section .member-card-marten .bio-top,
+  .members-history-section .member-card-marten > p,
+  .members-history-section .member-card-marten .bio-facts{
+    margin-left:0;
+    margin-right:0;
+  }
+}
+
+@media(max-width:560px){
+  .members-history-section .bio-grid{
+    grid-template-columns:1fr;
+  }
+}
