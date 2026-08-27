@@ -343,3 +343,24 @@ footer{min-height:80px;display:flex;align-items:center;justify-content:center;ga
 
 /* v16 editorial restructure */
 .story-eyebrow{display:block;color:var(--gold);font-family:Oswald,sans-serif;font-size:.75rem;letter-spacing:.18em;margin:8px 0 14px}.story-lead{font-family:Oswald,sans-serif;font-size:clamp(1.45rem,2.3vw,2.25rem);line-height:1.05;margin:0 0 16px}.story-summary{color:#c8c2b9;line-height:1.75}.story-points{display:flex;flex-wrap:wrap;gap:8px;margin:20px 0}.story-points span{border:1px solid #493827;padding:7px 9px;color:#c89a64;font:600 .68rem Oswald,sans-serif;letter-spacing:.08em}.full-story-section{padding-top:92px}.story-head{margin-bottom:38px}.story-chapters{max-width:1180px;margin:0 auto;border-top:1px solid #38291e}.story-chapter{display:grid;grid-template-columns:150px 1fr;gap:36px;padding:34px 0;border-bottom:1px solid #2b211a}.chapter-year{font:600 1.8rem Oswald,sans-serif;color:#b87843;letter-spacing:.06em;line-height:1.05}.story-chapter h3{font:600 clamp(1.35rem,2.4vw,2.1rem) Oswald,sans-serif;margin:4px 0 12px;letter-spacing:.03em}.story-chapter p{max-width:900px;color:#c8c2b9;line-height:1.8;margin:0 0 12px}.story-anecdote{background:linear-gradient(90deg,rgba(150,86,38,.11),transparent);padding-left:20px;padding-right:20px}.return-chapter{background:linear-gradient(90deg,rgba(190,130,68,.13),transparent);padding-left:20px;padding-right:20px}.era-divider{max-width:1280px;margin:95px auto 28px;padding:35px 30px;border-top:1px solid #68462c;border-bottom:1px solid #34271e;text-align:center}.era-divider span{color:#b87843;font:600 .75rem Oswald,sans-serif;letter-spacing:.2em}.era-divider h2{font:600 clamp(1.7rem,3.5vw,3rem) Oswald,sans-serif;margin:7px 0}.era-divider p{color:#9e978f;margin:0}.modern-divider{margin-top:110px}.members-history-section .bio-grid{margin-top:20px}@media(max-width:720px){.story-chapter{grid-template-columns:1fr;gap:8px}.chapter-year{font-size:1.2rem}.story-anecdote,.return-chapter{padding-left:12px;padding-right:12px}.era-divider{margin-top:65px;padding:28px 18px}}
+
+
+/* v19: portraits from the 2026 Desecrate promo image */
+.bio-card:has(.bio-photo){padding-top:0;overflow:hidden}
+.bio-photo{
+  height:260px;
+  margin:0 -22px 22px;
+  border-bottom:1px solid #443629;
+  background:#050505;
+  overflow:hidden;
+}
+.bio-photo img{
+  display:block;
+  width:100%;
+  height:100%;
+  object-fit:cover;
+  object-position:center 18%;
+  filter:grayscale(1) contrast(1.08);
+}
+@media(max-width:1000px){.bio-photo{height:300px}}
+@media(max-width:620px){.bio-photo{height:360px}}
