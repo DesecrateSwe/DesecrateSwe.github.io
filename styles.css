@@ -899,3 +899,71 @@ footer{min-height:80px;display:flex;align-items:center;justify-content:center;ga
       linear-gradient(180deg,rgba(4,4,4,.86),#050505 32%) !important;
   }
 }
+
+
+/* v32 — definitive mobile lineup section fix */
+.band-mobile-promo-wrap,
+.band-mobile-promo{
+  display:none;
+}
+
+@media(max-width:700px){
+
+  .band-section{
+    display:block !important;
+    min-height:0 !important;
+    height:auto !important;
+    padding:0 !important;
+    margin:0 !important;
+    background:none !important;
+    background-image:none !important;
+    overflow:visible !important;
+  }
+
+  .band-section::before,
+  .band-section::after{
+    display:none !important;
+    content:none !important;
+  }
+
+  .band-mobile-promo-wrap{
+    display:block !important;
+    width:100% !important;
+    height:auto !important;
+    margin:0 !important;
+    padding:0 !important;
+    background:#000 !important;
+    overflow:visible !important;
+  }
+
+  .band-mobile-promo{
+    display:block !important;
+    width:100% !important;
+    max-width:none !important;
+    height:auto !important;
+    max-height:none !important;
+    object-fit:contain !important;
+    object-position:center center !important;
+    margin:0 !important;
+    padding:0 !important;
+  }
+
+  .band-section .band-overlay{
+    position:relative !important;
+    inset:auto !important;
+    width:100% !important;
+    min-height:0 !important;
+    height:auto !important;
+    margin:0 !important;
+    padding:28px 24px 34px !important;
+    background:#050505 !important;
+  }
+
+  .band-section .band-copy,
+  .band-section .band-content{
+    position:relative !important;
+    inset:auto !important;
+    transform:none !important;
+    margin:0 !important;
+  }
+}
