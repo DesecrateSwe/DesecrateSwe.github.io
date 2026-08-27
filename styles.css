@@ -80,3 +80,32 @@ footer{min-height:80px;display:flex;align-items:center;justify-content:center;ga
 .history-artifact img{display:block;width:100%;height:auto;filter:grayscale(1) sepia(.15) contrast(1.05)}
 .history-artifact figcaption{padding:10px 3px 2px;color:#76695d;font:500 8px Oswald;letter-spacing:.1em;text-transform:uppercase}
 @media(max-width:800px){.history-era{grid-template-columns:1fr}.history-year{padding:0 0 10px}.history-copy{border-left:0;padding-left:0}.history-artifact{grid-template-columns:1fr;gap:20px}}
+
+
+/* v9: Smaller historic live flyer presentation */
+.history-artifact{
+  grid-template-columns: .95fr .75fr;
+  gap: 46px;
+  align-items: start;
+}
+.history-artifact figure{
+  width: min(100%, 520px);
+  justify-self: end;
+}
+.history-artifact img{
+  width: 100%;
+  max-height: 620px;
+  object-fit: contain;
+}
+@media(max-width:800px){
+  .history-artifact{
+    grid-template-columns:1fr;
+  }
+  .history-artifact figure{
+    width:min(100%,460px);
+    justify-self:start;
+  }
+}
+
+/* v10: flyer now lives in the main archive gallery */
+.history-artifact{display:none!important}
