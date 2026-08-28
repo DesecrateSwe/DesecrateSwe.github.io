@@ -8,7 +8,8 @@ window.JOHN_SWAHN_SITE_DATA = {
         "1987–1988 documented",
         "Vocals · guitars · bass",
         "Kidkkus! + Zzzzzzyzzzzzz · 24 playable tracks",
-        "Original cassette archive"
+        "Original cassette archive",
+        "24 playable tracks"
       ],
       "description": "The earliest project currently represented in the archive. Both surviving Equinox demos are now preserved with playable audio: Kidkkus! (1987) with ten tracks and Zzzzzzyzzzzzz (1988) with fourteen tracks. The original 1988 cassette artwork credits J.S. Wahn on vocals & guitar and states that the demo was produced and mixed by John Eric Olof Swahn.",
       "artwork": "assets/equinox/1987-kidkkus-front.gif",
@@ -38,7 +39,8 @@ window.JOHN_SWAHN_SITE_DATA = {
       "kicker": "Early archive",
       "meta": [
         "1987 documented",
-        "Rock You · 2 playable tracks"
+        "Rock You · 2 playable tracks",
+        "2 playable tracks"
       ],
       "description": "The current Twilight archive is represented by the 1987 release Rock You, with the supplied original audio for Rock You and Edge of Lies now indexed and playable.",
       "artwork": "",
@@ -58,7 +60,8 @@ window.JOHN_SWAHN_SITE_DATA = {
         "Vocals",
         "We Only Make Jokes… · 5 playable tracks",
         "Return: 2026",
-        "Original demo & press archive"
+        "Original demo & press archive",
+        "18 playable tracks"
       ],
       "description": "Desecrate recorded three preserved demos during its original period, played shows around Uppsala and returned to the material in 2026 with the full-length album Second Death. The 1988 debut demo We Only Make Jokes... We Made You! is now preserved with all five supplied tracks playable, alongside the surviving artwork, cassette material, press pages, show flyer and photographs from the band's early years.",
       "artwork": "assets/desecrate/1988-band-photo-collage.png",
@@ -87,7 +90,8 @@ window.JOHN_SWAHN_SITE_DATA = {
       "slug": "develop",
       "kicker": "1990 archive",
       "meta": [
-        "1990 documented"
+        "1990 documented",
+        "11 playable tracks"
       ],
       "description": "Represented by the archive recording Fret . No further band history has been added yet.",
       "artwork": "",
@@ -103,7 +107,8 @@ window.JOHN_SWAHN_SITE_DATA = {
       "slug": "edison",
       "kicker": "1990 archive",
       "meta": [
-        "1990 documented"
+        "1990 documented",
+        "4 playable tracks"
       ],
       "description": "Represented by the archive recording God Blessed Rock'n'roll .",
       "artwork": "",
@@ -112,7 +117,7 @@ window.JOHN_SWAHN_SITE_DATA = {
       "external": [],
       "aliases": [],
       "releaseCount": 1,
-      "songCount": 0
+      "songCount": 4
     },
     {
       "title": "Big November",
@@ -122,7 +127,8 @@ window.JOHN_SWAHN_SITE_DATA = {
         "1991 documented",
         "John Swahn's Big November",
         "Vocals · songwriter",
-        "Original vinyl archive"
+        "Original vinyl archive",
+        "16 playable tracks"
       ],
       "description": "The current archive includes Wonders Of Devotion I & II and Mirrors Do The Talkin' . The latter appears on the 1991 Nyby Fritidsgård compilation, where John is credited on vocals and as the song's writer/composer.",
       "artwork": "assets/big-november/1991-nyby-fritidsgard-front.png",
@@ -134,7 +140,7 @@ window.JOHN_SWAHN_SITE_DATA = {
         "John Swahns Big November"
       ],
       "releaseCount": 2,
-      "songCount": 1
+      "songCount": 16
     },
     {
       "title": "Xtortex",
@@ -171,7 +177,8 @@ window.JOHN_SWAHN_SITE_DATA = {
       "meta": [
         "1999–2003 documented",
         "4 original covers",
-        "Original release artwork"
+        "Original release artwork",
+        "22 playable tracks"
       ],
       "description": "The archive now includes original cover artwork for The Playground and The Sweet Revenge Of Mitzi Dupree from 1999, Green All Over from 2000 and Eaten By The Machine from 2003. Together they document a compact Almost Human release run across the turn of the millennium.",
       "artwork": "assets/almost-human/2000-green-all-over.gif",
@@ -185,7 +192,7 @@ window.JOHN_SWAHN_SITE_DATA = {
       ],
       "aliases": [],
       "releaseCount": 5,
-      "songCount": 17
+      "songCount": 22
     },
     {
       "title": "The Unkinds",
@@ -194,7 +201,8 @@ window.JOHN_SWAHN_SITE_DATA = {
       "meta": [
         "2003 documented",
         "Studio + live",
-        "Original artwork"
+        "Original artwork",
+        "15 playable tracks"
       ],
       "description": "The archive now includes original artwork for Almost Human together with a separate live release, Live at Fellini 2003 , documenting The Unkinds in Uppsala during 2003.",
       "artwork": "assets/the-unkinds/2003-almost-human-front.jpg",
@@ -217,7 +225,8 @@ window.JOHN_SWAHN_SITE_DATA = {
       "meta": [
         "2003–2010 documented",
         "2024 archive return",
-        "Original release artwork"
+        "Original release artwork",
+        "131 playable tracks"
       ],
       "description": "The supplied archive now includes original Treebeard artwork for The Eldest , Anguish On Parade , Not for Sale , May Contain Small Bones , Admiration and Bulletin Board , plus additional later cover material that can be identified in more detail as the archive grows.",
       "artwork": "assets/treebeard/2004-anguish-on-parade.gif",
@@ -231,7 +240,7 @@ window.JOHN_SWAHN_SITE_DATA = {
       ],
       "aliases": [],
       "releaseCount": 9,
-      "songCount": 40
+      "songCount": 131
     },
     {
       "title": "Aphophis",
@@ -240,7 +249,8 @@ window.JOHN_SWAHN_SITE_DATA = {
       "meta": [
         "2008–2026 documented",
         "22 supplied artworks",
-        "SwahnSong Production"
+        "SwahnSong Production",
+        "127 playable tracks"
       ],
       "description": "The largest continuous project archive currently supplied, extending from the 2008 material through Sarcophagus , Hieroglyphs , Symphony for the Devil and The Spherical Waltz into an extensive 2024–2026 sequence culminating in Chronophobia .",
       "artwork": "assets/aphophis/2026-chronophobia-front.jpg",
@@ -249,7 +259,26 @@ window.JOHN_SWAHN_SITE_DATA = {
       "external": [],
       "aliases": [],
       "releaseCount": 13,
-      "songCount": 31
+      "songCount": 127
+    },
+    {
+      "title": "Aztrozmurfen",
+      "slug": "astrozmurfen",
+      "kicker": "Audio archive",
+      "meta": [
+        "Superhero",
+        "3 playable versions"
+      ],
+      "description": "The supplied audio archive contains three versions of Superhero under the Aztrozmurfen name. Further project and release information can be added when supplied.",
+      "artwork": "",
+      "url": "projects/astrozmurfen.html",
+      "archiveId": "",
+      "external": [],
+      "aliases": [
+        "Aztrozmurfen - Superhero"
+      ],
+      "releaseCount": 1,
+      "songCount": 3
     }
   ],
   "releases": [
@@ -588,6 +617,17 @@ window.JOHN_SWAHN_SITE_DATA = {
       "projectRaw": "Desecrate",
       "type": "Album",
       "era": "2020s"
+    },
+    {
+      "year": "",
+      "title": "Superhero",
+      "project": "Aztrozmurfen",
+      "projectRaw": "Aztrozmurfen - Superhero",
+      "type": "Archive recording",
+      "era": "",
+      "source": "R2 audio archive",
+      "discogs": "",
+      "archiveId": ""
     }
   ]
 };

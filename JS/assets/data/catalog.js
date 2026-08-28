@@ -17,7 +17,7 @@ window.JOHN_SWAHN_TRACKS = [
       "Drums: Jakob Bergström",
       "Produced and mixed by John Swahn"
     ],
-    "audio": "https://audio.desecrate.se/Equinox/1987%20-%20Kidkkus/01-Equinox-Kill_as_One-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Equinox/1987%20-%20Equinox-Kidkkus-1987-sWhN/01-Equinox-Kill_as_One-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "Original Kidkkus! audio supplied from the John Swahn archive.",
@@ -25,7 +25,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/equinox-kidkkus-1987.nfo",
     "source": "Audio + NFO + artwork",
     "audioCandidates": [
-      "https://audio.desecrate.se/Equinox/1987%20-%20Kidkkus/01-Equinox-Kill_as_One-sWhN.mp3"
+      "https://audio.desecrate.se/Equinox/1987%20-%20Equinox-Kidkkus-1987-sWhN/01-Equinox-Kill_as_One-sWhN.mp3"
     ]
   },
   {
@@ -46,7 +46,7 @@ window.JOHN_SWAHN_TRACKS = [
       "Drums: Jakob Bergström",
       "Produced and mixed by John Swahn"
     ],
-    "audio": "https://audio.desecrate.se/Equinox/1987%20-%20Kidkkus/02-Equinox-Running_Wild-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Equinox/1987%20-%20Equinox-Kidkkus-1987-sWhN/02-Equinox-Running_Wild-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "Original Kidkkus! audio supplied from the John Swahn archive.",
@@ -54,7 +54,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/equinox-kidkkus-1987.nfo",
     "source": "Audio + NFO + artwork",
     "audioCandidates": [
-      "https://audio.desecrate.se/Equinox/1987%20-%20Kidkkus/02-Equinox-Running_Wild-sWhN.mp3"
+      "https://audio.desecrate.se/Equinox/1987%20-%20Equinox-Kidkkus-1987-sWhN/02-Equinox-Running_Wild-sWhN.mp3"
     ]
   },
   {
@@ -75,7 +75,7 @@ window.JOHN_SWAHN_TRACKS = [
       "Drums: John Swahn",
       "Produced and mixed by John Swahn"
     ],
-    "audio": "https://audio.desecrate.se/Equinox/1987%20-%20Kidkkus/03-Equinox-Evil_and_Boots-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Equinox/1987%20-%20Equinox-Kidkkus-1987-sWhN/03-Equinox-Evil_and_Boots-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "Original Kidkkus! audio supplied from the John Swahn archive.",
@@ -83,7 +83,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/equinox-kidkkus-1987.nfo",
     "source": "Audio + NFO + artwork",
     "audioCandidates": [
-      "https://audio.desecrate.se/Equinox/1987%20-%20Kidkkus/03-Equinox-Evil_and_Boots-sWhN.mp3"
+      "https://audio.desecrate.se/Equinox/1987%20-%20Equinox-Kidkkus-1987-sWhN/03-Equinox-Evil_and_Boots-sWhN.mp3"
     ]
   },
   {
@@ -104,7 +104,7 @@ window.JOHN_SWAHN_TRACKS = [
       "Drums: John Swahn",
       "Produced and mixed by John Swahn"
     ],
-    "audio": "https://audio.desecrate.se/Equinox/1987%20-%20Kidkkus/04-Equinox-Angels_Fuck-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Equinox/1987%20-%20Equinox-Kidkkus-1987-sWhN/04-Equinox-Angels_Fuck-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "Original Kidkkus! audio supplied from the John Swahn archive.",
@@ -112,7 +112,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/equinox-kidkkus-1987.nfo",
     "source": "Audio + NFO + artwork",
     "audioCandidates": [
-      "https://audio.desecrate.se/Equinox/1987%20-%20Kidkkus/04-Equinox-Angels_Fuck-sWhN.mp3"
+      "https://audio.desecrate.se/Equinox/1987%20-%20Equinox-Kidkkus-1987-sWhN/04-Equinox-Angels_Fuck-sWhN.mp3"
     ]
   },
   {
@@ -133,7 +133,7 @@ window.JOHN_SWAHN_TRACKS = [
       "Drums: John Swahn",
       "Produced and mixed by John Swahn"
     ],
-    "audio": "https://audio.desecrate.se/Equinox/1987%20-%20Kidkkus/05-Equinox-Equinox_Misfit-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Equinox/1987%20-%20Equinox-Kidkkus-1987-sWhN/05-Equinox-Equinox_Misfit-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "Original Kidkkus! audio supplied from the John Swahn archive.",
@@ -141,7 +141,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/equinox-kidkkus-1987.nfo",
     "source": "Audio + NFO + artwork",
     "audioCandidates": [
-      "https://audio.desecrate.se/Equinox/1987%20-%20Kidkkus/05-Equinox-Equinox_Misfit-sWhN.mp3"
+      "https://audio.desecrate.se/Equinox/1987%20-%20Equinox-Kidkkus-1987-sWhN/05-Equinox-Equinox_Misfit-sWhN.mp3"
     ]
   },
   {
@@ -162,7 +162,7 @@ window.JOHN_SWAHN_TRACKS = [
       "Drums: Jakob Bergström",
       "Produced and mixed by John Swahn"
     ],
-    "audio": "https://audio.desecrate.se/Equinox/1987%20-%20Kidkkus/06-Equinox-Holy_Evil-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Equinox/1987%20-%20Equinox-Kidkkus-1987-sWhN/06-Equinox-Holy_Evil-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "Original Kidkkus! audio supplied from the John Swahn archive.",
@@ -170,7 +170,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/equinox-kidkkus-1987.nfo",
     "source": "Audio + NFO + artwork",
     "audioCandidates": [
-      "https://audio.desecrate.se/Equinox/1987%20-%20Kidkkus/06-Equinox-Holy_Evil-sWhN.mp3"
+      "https://audio.desecrate.se/Equinox/1987%20-%20Equinox-Kidkkus-1987-sWhN/06-Equinox-Holy_Evil-sWhN.mp3"
     ]
   },
   {
@@ -191,7 +191,7 @@ window.JOHN_SWAHN_TRACKS = [
       "Drums: John Swahn",
       "Produced and mixed by John Swahn"
     ],
-    "audio": "https://audio.desecrate.se/Equinox/1987%20-%20Kidkkus/07-Equinox-See_Without_Eyes-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Equinox/1987%20-%20Equinox-Kidkkus-1987-sWhN/07-Equinox-See_Without_Eyes-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "Original Kidkkus! audio supplied from the John Swahn archive.",
@@ -199,7 +199,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/equinox-kidkkus-1987.nfo",
     "source": "Audio + NFO + artwork",
     "audioCandidates": [
-      "https://audio.desecrate.se/Equinox/1987%20-%20Kidkkus/07-Equinox-See_Without_Eyes-sWhN.mp3"
+      "https://audio.desecrate.se/Equinox/1987%20-%20Equinox-Kidkkus-1987-sWhN/07-Equinox-See_Without_Eyes-sWhN.mp3"
     ]
   },
   {
@@ -220,7 +220,7 @@ window.JOHN_SWAHN_TRACKS = [
       "Drums: John Swahn",
       "Produced and mixed by John Swahn"
     ],
-    "audio": "https://audio.desecrate.se/Equinox/1987%20-%20Kidkkus/08-Equinox-Merry_Christmas-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Equinox/1987%20-%20Equinox-Kidkkus-1987-sWhN/08-Equinox-Merry_Christmas-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "Original Kidkkus! audio supplied from the John Swahn archive.",
@@ -228,7 +228,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/equinox-kidkkus-1987.nfo",
     "source": "Audio + NFO + artwork",
     "audioCandidates": [
-      "https://audio.desecrate.se/Equinox/1987%20-%20Kidkkus/08-Equinox-Merry_Christmas-sWhN.mp3"
+      "https://audio.desecrate.se/Equinox/1987%20-%20Equinox-Kidkkus-1987-sWhN/08-Equinox-Merry_Christmas-sWhN.mp3"
     ]
   },
   {
@@ -249,7 +249,7 @@ window.JOHN_SWAHN_TRACKS = [
       "Drums: John Swahn",
       "Produced and mixed by John Swahn"
     ],
-    "audio": "https://audio.desecrate.se/Equinox/1987%20-%20Kidkkus/09-Equinox-All_the_Glasses-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Equinox/1987%20-%20Equinox-Kidkkus-1987-sWhN/09-Equinox-All_the_Glasses-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "Original Kidkkus! audio supplied from the John Swahn archive.",
@@ -257,7 +257,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/equinox-kidkkus-1987.nfo",
     "source": "Audio + NFO + artwork",
     "audioCandidates": [
-      "https://audio.desecrate.se/Equinox/1987%20-%20Kidkkus/09-Equinox-All_the_Glasses-sWhN.mp3"
+      "https://audio.desecrate.se/Equinox/1987%20-%20Equinox-Kidkkus-1987-sWhN/09-Equinox-All_the_Glasses-sWhN.mp3"
     ]
   },
   {
@@ -278,7 +278,7 @@ window.JOHN_SWAHN_TRACKS = [
       "Drums: Jakob Bergström",
       "Produced and mixed by John Swahn"
     ],
-    "audio": "https://audio.desecrate.se/Equinox/1987%20-%20Kidkkus/10-Equinox-Sightseeing_in_Hell-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Equinox/1987%20-%20Equinox-Kidkkus-1987-sWhN/10-Equinox-Sightseeing_in_Hell-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "Original Kidkkus! audio supplied from the John Swahn archive.",
@@ -286,413 +286,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/equinox-kidkkus-1987.nfo",
     "source": "Audio + NFO + artwork",
     "audioCandidates": [
-      "https://audio.desecrate.se/Equinox/1987%20-%20Kidkkus/10-Equinox-Sightseeing_in_Hell-sWhN.mp3"
-    ]
-  },
-  {
-    "id": "equinox-zzzzzz-1988-01-zzzzzzyzzzzzz",
-    "title": "Zzzzzzyzzzzzz",
-    "artist": "Equinox",
-    "project": "Equinox",
-    "release": "Zzzzzzyzzzzzz",
-    "year": "1988",
-    "genre": "Thrash metal",
-    "duration": "01:41",
-    "trackNumber": "01",
-    "releaseType": "Demo / cassette",
-    "version": "",
-    "credits": [
-      "Written by J.S. Wahn & J.Y. Bergström",
-      "Vocals & guitar: J.S. Wahn (John Swahn)",
-      "Drums: J.Y. Bergström",
-      "Produced and mixed by John Eric Olof Swahn"
-    ],
-    "audio": "https://audio.desecrate.se/Equinox/1988%20-%20Zzzzzzyzzzzzz/01.%20Zzzzzzyzzzzzz.mp3",
-    "video": "",
-    "lyrics": "",
-    "notes": "Original 1988 Equinox demo audio supplied from the archive. Titles and sequence are documented on the original cassette inlay.",
-    "sourceCard": "",
-    "sourceFile": "",
-    "source": "Audio + original cassette artwork",
-    "audioCandidates": [
-      "https://audio.desecrate.se/Equinox/1988%20-%20Zzzzzzyzzzzzz/01.%20Zzzzzzyzzzzzz.mp3"
-    ]
-  },
-  {
-    "id": "equinox-zzzzzz-1988-02-don-t-scream",
-    "title": "Don't Scream",
-    "artist": "Equinox",
-    "project": "Equinox",
-    "release": "Zzzzzzyzzzzzz",
-    "year": "1988",
-    "genre": "Thrash metal",
-    "duration": "00:39",
-    "trackNumber": "02",
-    "releaseType": "Demo / cassette",
-    "version": "",
-    "credits": [
-      "Written by J.S. Wahn & J.Y. Bergström",
-      "Vocals & guitar: J.S. Wahn (John Swahn)",
-      "Drums: J.Y. Bergström",
-      "Produced and mixed by John Eric Olof Swahn"
-    ],
-    "audio": "https://audio.desecrate.se/Equinox/1988%20-%20Zzzzzzyzzzzzz/02.%20Don't%20Scream.mp3",
-    "video": "",
-    "lyrics": "",
-    "notes": "Original 1988 Equinox demo audio supplied from the archive. Titles and sequence are documented on the original cassette inlay.",
-    "sourceCard": "",
-    "sourceFile": "",
-    "source": "Audio + original cassette artwork",
-    "audioCandidates": [
-      "https://audio.desecrate.se/Equinox/1988%20-%20Zzzzzzyzzzzzz/02.%20Don't%20Scream.mp3"
-    ]
-  },
-  {
-    "id": "equinox-zzzzzz-1988-03-killing-plutons",
-    "title": "Killing Plutons",
-    "artist": "Equinox",
-    "project": "Equinox",
-    "release": "Zzzzzzyzzzzzz",
-    "year": "1988",
-    "genre": "Thrash metal",
-    "duration": "00:45",
-    "trackNumber": "03",
-    "releaseType": "Demo / cassette",
-    "version": "",
-    "credits": [
-      "Written by J.S. Wahn & J.Y. Bergström",
-      "Vocals & guitar: J.S. Wahn (John Swahn)",
-      "Drums: J.Y. Bergström",
-      "Produced and mixed by John Eric Olof Swahn"
-    ],
-    "audio": "https://audio.desecrate.se/Equinox/1988%20-%20Zzzzzzyzzzzzz/03.%20Killing%20Plutons.mp3",
-    "video": "",
-    "lyrics": "",
-    "notes": "Original 1988 Equinox demo audio supplied from the archive. Titles and sequence are documented on the original cassette inlay.",
-    "sourceCard": "",
-    "sourceFile": "",
-    "source": "Audio + original cassette artwork",
-    "audioCandidates": [
-      "https://audio.desecrate.se/Equinox/1988%20-%20Zzzzzzyzzzzzz/03.%20Killing%20Plutons.mp3"
-    ]
-  },
-  {
-    "id": "equinox-zzzzzz-1988-04-cows-forbidden",
-    "title": "Cows Forbidden",
-    "artist": "Equinox",
-    "project": "Equinox",
-    "release": "Zzzzzzyzzzzzz",
-    "year": "1988",
-    "genre": "Thrash metal",
-    "duration": "00:20",
-    "trackNumber": "04",
-    "releaseType": "Demo / cassette",
-    "version": "",
-    "credits": [
-      "Written by J.S. Wahn & J.Y. Bergström",
-      "Vocals & guitar: J.S. Wahn (John Swahn)",
-      "Drums: J.Y. Bergström",
-      "Produced and mixed by John Eric Olof Swahn"
-    ],
-    "audio": "https://audio.desecrate.se/Equinox/1988%20-%20Zzzzzzyzzzzzz/04.%20%20Cows%20Forbidden.mp3",
-    "video": "",
-    "lyrics": "",
-    "notes": "Original 1988 Equinox demo audio supplied from the archive. Titles and sequence are documented on the original cassette inlay.",
-    "sourceCard": "",
-    "sourceFile": "",
-    "source": "Audio + original cassette artwork",
-    "audioCandidates": [
-      "https://audio.desecrate.se/Equinox/1988%20-%20Zzzzzzyzzzzzz/04.%20%20Cows%20Forbidden.mp3"
-    ]
-  },
-  {
-    "id": "equinox-zzzzzz-1988-05-equinox-raper",
-    "title": "Equinox Raper",
-    "artist": "Equinox",
-    "project": "Equinox",
-    "release": "Zzzzzzyzzzzzz",
-    "year": "1988",
-    "genre": "Thrash metal",
-    "duration": "01:25",
-    "trackNumber": "05",
-    "releaseType": "Demo / cassette",
-    "version": "",
-    "credits": [
-      "Written by J.S. Wahn & J.Y. Bergström",
-      "Vocals & guitar: J.S. Wahn (John Swahn)",
-      "Drums: J.Y. Bergström",
-      "Produced and mixed by John Eric Olof Swahn"
-    ],
-    "audio": "https://audio.desecrate.se/Equinox/1988%20-%20Zzzzzzyzzzzzz/05.%20Equinox%20Raper.mp3",
-    "video": "",
-    "lyrics": "",
-    "notes": "Original 1988 Equinox demo audio supplied from the archive. Titles and sequence are documented on the original cassette inlay.",
-    "sourceCard": "",
-    "sourceFile": "",
-    "source": "Audio + original cassette artwork",
-    "audioCandidates": [
-      "https://audio.desecrate.se/Equinox/1988%20-%20Zzzzzzyzzzzzz/05.%20Equinox%20Raper.mp3"
-    ]
-  },
-  {
-    "id": "equinox-zzzzzz-1988-06-headache",
-    "title": "Headache",
-    "artist": "Equinox",
-    "project": "Equinox",
-    "release": "Zzzzzzyzzzzzz",
-    "year": "1988",
-    "genre": "Thrash metal",
-    "duration": "00:26",
-    "trackNumber": "06",
-    "releaseType": "Demo / cassette",
-    "version": "",
-    "credits": [
-      "Written by J.S. Wahn & J.Y. Bergström",
-      "Vocals & guitar: J.S. Wahn (John Swahn)",
-      "Drums: J.Y. Bergström",
-      "Produced and mixed by John Eric Olof Swahn"
-    ],
-    "audio": "https://audio.desecrate.se/Equinox/1988%20-%20Zzzzzzyzzzzzz/06.%20Headache.mp3",
-    "video": "",
-    "lyrics": "",
-    "notes": "Original 1988 Equinox demo audio supplied from the archive. Titles and sequence are documented on the original cassette inlay.",
-    "sourceCard": "",
-    "sourceFile": "",
-    "source": "Audio + original cassette artwork",
-    "audioCandidates": [
-      "https://audio.desecrate.se/Equinox/1988%20-%20Zzzzzzyzzzzzz/06.%20Headache.mp3"
-    ]
-  },
-  {
-    "id": "equinox-zzzzzz-1988-07-death-of-the-smoker",
-    "title": "Death Of The Smoker",
-    "artist": "Equinox",
-    "project": "Equinox",
-    "release": "Zzzzzzyzzzzzz",
-    "year": "1988",
-    "genre": "Thrash metal",
-    "duration": "01:52",
-    "trackNumber": "07",
-    "releaseType": "Demo / cassette",
-    "version": "",
-    "credits": [
-      "Written by J.S. Wahn & J.Y. Bergström",
-      "Vocals & guitar: J.S. Wahn (John Swahn)",
-      "Drums: J.Y. Bergström",
-      "Produced and mixed by John Eric Olof Swahn"
-    ],
-    "audio": "https://audio.desecrate.se/Equinox/1988%20-%20Zzzzzzyzzzzzz/07.%20Death%20Of%20The%20Smoker.mp3",
-    "video": "",
-    "lyrics": "",
-    "notes": "Original 1988 Equinox demo audio supplied from the archive. Titles and sequence are documented on the original cassette inlay.",
-    "sourceCard": "",
-    "sourceFile": "",
-    "source": "Audio + original cassette artwork",
-    "audioCandidates": [
-      "https://audio.desecrate.se/Equinox/1988%20-%20Zzzzzzyzzzzzz/07.%20Death%20Of%20The%20Smoker.mp3"
-    ]
-  },
-  {
-    "id": "equinox-zzzzzz-1988-08-satan-says",
-    "title": "Satan Says",
-    "artist": "Equinox",
-    "project": "Equinox",
-    "release": "Zzzzzzyzzzzzz",
-    "year": "1988",
-    "genre": "Thrash metal",
-    "duration": "01:39",
-    "trackNumber": "08",
-    "releaseType": "Demo / cassette",
-    "version": "",
-    "credits": [
-      "Written by J.S. Wahn & J.Y. Bergström",
-      "Vocals & guitar: J.S. Wahn (John Swahn)",
-      "Drums: J.Y. Bergström",
-      "Produced and mixed by John Eric Olof Swahn"
-    ],
-    "audio": "https://audio.desecrate.se/Equinox/1988%20-%20Zzzzzzyzzzzzz/08.%20Satan%20Says.mp3",
-    "video": "",
-    "lyrics": "",
-    "notes": "Original 1988 Equinox demo audio supplied from the archive. Titles and sequence are documented on the original cassette inlay.",
-    "sourceCard": "",
-    "sourceFile": "",
-    "source": "Audio + original cassette artwork",
-    "audioCandidates": [
-      "https://audio.desecrate.se/Equinox/1988%20-%20Zzzzzzyzzzzzz/08.%20Satan%20Says.mp3"
-    ]
-  },
-  {
-    "id": "equinox-zzzzzz-1988-09-algot-bierman",
-    "title": "Algot Bierman",
-    "artist": "Equinox",
-    "project": "Equinox",
-    "release": "Zzzzzzyzzzzzz",
-    "year": "1988",
-    "genre": "Thrash metal",
-    "duration": "00:36",
-    "trackNumber": "09",
-    "releaseType": "Demo / cassette",
-    "version": "",
-    "credits": [
-      "Written by J.S. Wahn & J.Y. Bergström",
-      "Vocals & guitar: J.S. Wahn (John Swahn)",
-      "Drums: J.Y. Bergström",
-      "Produced and mixed by John Eric Olof Swahn"
-    ],
-    "audio": "https://audio.desecrate.se/Equinox/1988%20-%20Zzzzzzyzzzzzz/09.%20Algot%20Bierman.mp3",
-    "video": "",
-    "lyrics": "",
-    "notes": "Original 1988 Equinox demo audio supplied from the archive. Titles and sequence are documented on the original cassette inlay.",
-    "sourceCard": "",
-    "sourceFile": "",
-    "source": "Audio + original cassette artwork",
-    "audioCandidates": [
-      "https://audio.desecrate.se/Equinox/1988%20-%20Zzzzzzyzzzzzz/09.%20Algot%20Bierman.mp3"
-    ]
-  },
-  {
-    "id": "equinox-zzzzzz-1988-10-who-dares-win",
-    "title": "Who Dares Win?",
-    "artist": "Equinox",
-    "project": "Equinox",
-    "release": "Zzzzzzyzzzzzz",
-    "year": "1988",
-    "genre": "Thrash metal",
-    "duration": "00:55",
-    "trackNumber": "10",
-    "releaseType": "Demo / cassette",
-    "version": "",
-    "credits": [
-      "Written by J.S. Wahn & J.Y. Bergström",
-      "Vocals & guitar: J.S. Wahn (John Swahn)",
-      "Drums: J.Y. Bergström",
-      "Produced and mixed by John Eric Olof Swahn"
-    ],
-    "audio": "https://audio.desecrate.se/Equinox/1988%20-%20Zzzzzzyzzzzzz/10.%20Who%20Dares%20Win.mp3",
-    "video": "",
-    "lyrics": "",
-    "notes": "Original 1988 Equinox demo audio supplied from the archive. Titles and sequence are documented on the original cassette inlay.",
-    "sourceCard": "",
-    "sourceFile": "",
-    "source": "Audio + original cassette artwork",
-    "audioCandidates": [
-      "https://audio.desecrate.se/Equinox/1988%20-%20Zzzzzzyzzzzzz/10.%20Who%20Dares%20Win.mp3"
-    ]
-  },
-  {
-    "id": "equinox-zzzzzz-1988-11-living-fortune",
-    "title": "Living Fortune",
-    "artist": "Equinox",
-    "project": "Equinox",
-    "release": "Zzzzzzyzzzzzz",
-    "year": "1988",
-    "genre": "Thrash metal",
-    "duration": "01:16",
-    "trackNumber": "11",
-    "releaseType": "Demo / cassette",
-    "version": "",
-    "credits": [
-      "Written by J.S. Wahn & J.Y. Bergström",
-      "Vocals & guitar: J.S. Wahn (John Swahn)",
-      "Drums: J.Y. Bergström",
-      "Produced and mixed by John Eric Olof Swahn"
-    ],
-    "audio": "https://audio.desecrate.se/Equinox/1988%20-%20Zzzzzzyzzzzzz/11.%20Living%20Fortune.mp3",
-    "video": "",
-    "lyrics": "",
-    "notes": "Original 1988 Equinox demo audio supplied from the archive. Titles and sequence are documented on the original cassette inlay.",
-    "sourceCard": "",
-    "sourceFile": "",
-    "source": "Audio + original cassette artwork",
-    "audioCandidates": [
-      "https://audio.desecrate.se/Equinox/1988%20-%20Zzzzzzyzzzzzz/11.%20Living%20Fortune.mp3"
-    ]
-  },
-  {
-    "id": "equinox-zzzzzz-1988-12-punk-all-night",
-    "title": "Punk All Night",
-    "artist": "Equinox",
-    "project": "Equinox",
-    "release": "Zzzzzzyzzzzzz",
-    "year": "1988",
-    "genre": "Thrash metal",
-    "duration": "00:42",
-    "trackNumber": "12",
-    "releaseType": "Demo / cassette",
-    "version": "",
-    "credits": [
-      "Written by J.S. Wahn & J.Y. Bergström",
-      "Vocals & guitar: J.S. Wahn (John Swahn)",
-      "Drums: J.Y. Bergström",
-      "Produced and mixed by John Eric Olof Swahn"
-    ],
-    "audio": "https://audio.desecrate.se/Equinox/1988%20-%20Zzzzzzyzzzzzz/12.%20Punk%20All%20Night.mp3",
-    "video": "",
-    "lyrics": "",
-    "notes": "Original 1988 Equinox demo audio supplied from the archive. Titles and sequence are documented on the original cassette inlay.",
-    "sourceCard": "",
-    "sourceFile": "",
-    "source": "Audio + original cassette artwork",
-    "audioCandidates": [
-      "https://audio.desecrate.se/Equinox/1988%20-%20Zzzzzzyzzzzzz/12.%20Punk%20All%20Night.mp3"
-    ]
-  },
-  {
-    "id": "equinox-zzzzzz-1988-13-standing-in-darkness",
-    "title": "Standing In Darkness",
-    "artist": "Equinox",
-    "project": "Equinox",
-    "release": "Zzzzzzyzzzzzz",
-    "year": "1988",
-    "genre": "Thrash metal",
-    "duration": "00:54",
-    "trackNumber": "13",
-    "releaseType": "Demo / cassette",
-    "version": "",
-    "credits": [
-      "Written by J.S. Wahn & J.Y. Bergström",
-      "Vocals & guitar: J.S. Wahn (John Swahn)",
-      "Drums: J.Y. Bergström",
-      "Produced and mixed by John Eric Olof Swahn"
-    ],
-    "audio": "https://audio.desecrate.se/Equinox/1988%20-%20Zzzzzzyzzzzzz/13.%20Standing%20In%20Darkness.mp3",
-    "video": "",
-    "lyrics": "",
-    "notes": "Original 1988 Equinox demo audio supplied from the archive. Titles and sequence are documented on the original cassette inlay.",
-    "sourceCard": "",
-    "sourceFile": "",
-    "source": "Audio + original cassette artwork",
-    "audioCandidates": [
-      "https://audio.desecrate.se/Equinox/1988%20-%20Zzzzzzyzzzzzz/13.%20Standing%20In%20Darkness.mp3"
-    ]
-  },
-  {
-    "id": "equinox-zzzzzz-1988-14-death-voffis-in-snow",
-    "title": "Death Voffis In Snow",
-    "artist": "Equinox",
-    "project": "Equinox",
-    "release": "Zzzzzzyzzzzzz",
-    "year": "1988",
-    "genre": "Thrash metal",
-    "duration": "00:44",
-    "trackNumber": "14",
-    "releaseType": "Demo / cassette",
-    "version": "",
-    "credits": [
-      "Written by J.S. Wahn & J.Y. Bergström",
-      "Vocals & guitar: J.S. Wahn (John Swahn)",
-      "Drums: J.Y. Bergström",
-      "Produced and mixed by John Eric Olof Swahn"
-    ],
-    "audio": "https://audio.desecrate.se/Equinox/1988%20-%20Zzzzzzyzzzzzz/14.%20Death%20Voffis%20In%20Snow.mp3",
-    "video": "",
-    "lyrics": "",
-    "notes": "Original 1988 Equinox demo audio supplied from the archive. Titles and sequence are documented on the original cassette inlay.",
-    "sourceCard": "",
-    "sourceFile": "",
-    "source": "Audio + original cassette artwork",
-    "audioCandidates": [
-      "https://audio.desecrate.se/Equinox/1988%20-%20Zzzzzzyzzzzzz/14.%20Death%20Voffis%20In%20Snow.mp3"
+      "https://audio.desecrate.se/Equinox/1987%20-%20Equinox-Kidkkus-1987-sWhN/10-Equinox-Sightseeing_in_Hell-sWhN.mp3"
     ]
   },
   {
@@ -756,7 +350,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Demo / cassette",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Desecrate/1988%20-%20We%20Only%20Make%20Jokes...%20We%20Made%20You/01-Desecrate-Devils_Fate-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Desecrate/1988%20-%20We_Only_Make_Jokes___We_Made_You/01-Desecrate-Devils_Fate-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "Original 1988 Desecrate audio supplied from the John Swahn archive.",
@@ -764,7 +358,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/desecrate-we-only-make-jokes-1988.nfo",
     "source": "Audio + NFO + artwork",
     "audioCandidates": [
-      "https://audio.desecrate.se/Desecrate/1988%20-%20We%20Only%20Make%20Jokes...%20We%20Made%20You/01-Desecrate-Devils_Fate-sWhN.mp3"
+      "https://audio.desecrate.se/Desecrate/1988%20-%20We_Only_Make_Jokes___We_Made_You/01-Desecrate-Devils_Fate-sWhN.mp3"
     ]
   },
   {
@@ -780,7 +374,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Demo / cassette",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Desecrate/1988%20-%20We%20Only%20Make%20Jokes...%20We%20Made%20You/02-Desecrate-Desecration-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Desecrate/1988%20-%20We_Only_Make_Jokes___We_Made_You/02-Desecrate-Desecration-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "Original 1988 Desecrate audio supplied from the John Swahn archive.",
@@ -788,7 +382,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/desecrate-we-only-make-jokes-1988.nfo",
     "source": "Audio + NFO + artwork",
     "audioCandidates": [
-      "https://audio.desecrate.se/Desecrate/1988%20-%20We%20Only%20Make%20Jokes...%20We%20Made%20You/02-Desecrate-Desecration-sWhN.mp3"
+      "https://audio.desecrate.se/Desecrate/1988%20-%20We_Only_Make_Jokes___We_Made_You/02-Desecrate-Desecration-sWhN.mp3"
     ]
   },
   {
@@ -804,7 +398,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Demo / cassette",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Desecrate/1988%20-%20We%20Only%20Make%20Jokes...%20We%20Made%20You/03-Desecrate-Injustice_of_Society-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Desecrate/1988%20-%20We_Only_Make_Jokes___We_Made_You/03-Desecrate-Injustice_of_Society-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "Original 1988 Desecrate audio supplied from the John Swahn archive.",
@@ -812,11 +406,11 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/desecrate-we-only-make-jokes-1988.nfo",
     "source": "Audio + NFO + artwork",
     "audioCandidates": [
-      "https://audio.desecrate.se/Desecrate/1988%20-%20We%20Only%20Make%20Jokes...%20We%20Made%20You/03-Desecrate-Injustice_of_Society-sWhN.mp3"
+      "https://audio.desecrate.se/Desecrate/1988%20-%20We_Only_Make_Jokes___We_Made_You/03-Desecrate-Injustice_of_Society-sWhN.mp3"
     ]
   },
   {
-    "id": "desecrate-we-only-make-jokes-we-made-you-1988-04-scooby-dooaaau-i",
+    "id": "desecrate-we-only-make-jokes-we-made-you-1988-04-scooby-dooaaauoo-i",
     "title": "Scooby Dooaaauöö I",
     "artist": "Desecrate",
     "project": "Desecrate",
@@ -828,7 +422,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Demo / cassette",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Desecrate/1988%20-%20We%20Only%20Make%20Jokes...%20We%20Made%20You/04-Desecrate-Scooby_Dooaaau%C3%B6%C3%B6_I-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Desecrate/1988%20-%20We_Only_Make_Jokes___We_Made_You/04-Desecrate-Scooby_Dooaaau%C3%B6%C3%B6_I-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "Original 1988 Desecrate audio supplied from the John Swahn archive.",
@@ -836,7 +430,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/desecrate-we-only-make-jokes-1988.nfo",
     "source": "Audio + NFO + artwork",
     "audioCandidates": [
-      "https://audio.desecrate.se/Desecrate/1988%20-%20We%20Only%20Make%20Jokes...%20We%20Made%20You/04-Desecrate-Scooby_Dooaaau%C3%B6%C3%B6_I-sWhN.mp3"
+      "https://audio.desecrate.se/Desecrate/1988%20-%20We_Only_Make_Jokes___We_Made_You/04-Desecrate-Scooby_Dooaaau%C3%B6%C3%B6_I-sWhN.mp3"
     ]
   },
   {
@@ -852,7 +446,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Demo / cassette",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Desecrate/1988%20-%20We%20Only%20Make%20Jokes...%20We%20Made%20You/05-Desecrate-Bang_Your_Head_to_Death-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Desecrate/1988%20-%20We_Only_Make_Jokes___We_Made_You/05-Desecrate-Bang_Your_Head_to_Death-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "Original 1988 Desecrate audio supplied from the John Swahn archive.",
@@ -860,7 +454,413 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/desecrate-we-only-make-jokes-1988.nfo",
     "source": "Audio + NFO + artwork",
     "audioCandidates": [
-      "https://audio.desecrate.se/Desecrate/1988%20-%20We%20Only%20Make%20Jokes...%20We%20Made%20You/05-Desecrate-Bang_Your_Head_to_Death-sWhN.mp3"
+      "https://audio.desecrate.se/Desecrate/1988%20-%20We_Only_Make_Jokes___We_Made_You/05-Desecrate-Bang_Your_Head_to_Death-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "equinox-zzzzzzyzzzzzz-1988-01-zzzzzzyzzzzzz",
+    "title": "Zzzzzzyzzzzzz",
+    "artist": "Equinox",
+    "project": "Equinox",
+    "release": "Zzzzzzyzzzzzz",
+    "year": "1988",
+    "genre": "Thrash metal",
+    "duration": "01:41",
+    "trackNumber": "01",
+    "releaseType": "Demo / cassette",
+    "version": "",
+    "credits": [
+      "Written by J.S. Wahn & J.Y. Bergström",
+      "Vocals & guitar: J.S. Wahn (John Swahn)",
+      "Drums: J.Y. Bergström",
+      "Produced and mixed by John Eric Olof Swahn"
+    ],
+    "audio": "https://audio.desecrate.se/Equinox/1988%20-%20Equinox%20-%20Zzzzzzyzzzzzz/01.%20Zzzzzzyzzzzzz.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "Original 1988 Equinox demo audio supplied from the archive. Titles and sequence are documented on the original cassette inlay.",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "Audio + original cassette artwork",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Equinox/1988%20-%20Equinox%20-%20Zzzzzzyzzzzzz/01.%20Zzzzzzyzzzzzz.mp3"
+    ]
+  },
+  {
+    "id": "equinox-zzzzzzyzzzzzz-1988-02-don-t-scream",
+    "title": "Don't Scream",
+    "artist": "Equinox",
+    "project": "Equinox",
+    "release": "Zzzzzzyzzzzzz",
+    "year": "1988",
+    "genre": "Thrash metal",
+    "duration": "00:39",
+    "trackNumber": "02",
+    "releaseType": "Demo / cassette",
+    "version": "",
+    "credits": [
+      "Written by J.S. Wahn & J.Y. Bergström",
+      "Vocals & guitar: J.S. Wahn (John Swahn)",
+      "Drums: J.Y. Bergström",
+      "Produced and mixed by John Eric Olof Swahn"
+    ],
+    "audio": "https://audio.desecrate.se/Equinox/1988%20-%20Equinox%20-%20Zzzzzzyzzzzzz/02.%20Don%27t%20Scream.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "Original 1988 Equinox demo audio supplied from the archive. Titles and sequence are documented on the original cassette inlay.",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "Audio + original cassette artwork",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Equinox/1988%20-%20Equinox%20-%20Zzzzzzyzzzzzz/02.%20Don%27t%20Scream.mp3"
+    ]
+  },
+  {
+    "id": "equinox-zzzzzzyzzzzzz-1988-03-killing-plutons",
+    "title": "Killing Plutons",
+    "artist": "Equinox",
+    "project": "Equinox",
+    "release": "Zzzzzzyzzzzzz",
+    "year": "1988",
+    "genre": "Thrash metal",
+    "duration": "00:45",
+    "trackNumber": "03",
+    "releaseType": "Demo / cassette",
+    "version": "",
+    "credits": [
+      "Written by J.S. Wahn & J.Y. Bergström",
+      "Vocals & guitar: J.S. Wahn (John Swahn)",
+      "Drums: J.Y. Bergström",
+      "Produced and mixed by John Eric Olof Swahn"
+    ],
+    "audio": "https://audio.desecrate.se/Equinox/1988%20-%20Equinox%20-%20Zzzzzzyzzzzzz/03.%20Killing%20Plutons.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "Original 1988 Equinox demo audio supplied from the archive. Titles and sequence are documented on the original cassette inlay.",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "Audio + original cassette artwork",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Equinox/1988%20-%20Equinox%20-%20Zzzzzzyzzzzzz/03.%20Killing%20Plutons.mp3"
+    ]
+  },
+  {
+    "id": "equinox-zzzzzzyzzzzzz-1988-04-cows-forbidden",
+    "title": "Cows Forbidden",
+    "artist": "Equinox",
+    "project": "Equinox",
+    "release": "Zzzzzzyzzzzzz",
+    "year": "1988",
+    "genre": "Thrash metal",
+    "duration": "00:20",
+    "trackNumber": "04",
+    "releaseType": "Demo / cassette",
+    "version": "",
+    "credits": [
+      "Written by J.S. Wahn & J.Y. Bergström",
+      "Vocals & guitar: J.S. Wahn (John Swahn)",
+      "Drums: J.Y. Bergström",
+      "Produced and mixed by John Eric Olof Swahn"
+    ],
+    "audio": "https://audio.desecrate.se/Equinox/1988%20-%20Equinox%20-%20Zzzzzzyzzzzzz/04.%20%20Cows%20Forbidden.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "Original 1988 Equinox demo audio supplied from the archive. Titles and sequence are documented on the original cassette inlay.",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "Audio + original cassette artwork",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Equinox/1988%20-%20Equinox%20-%20Zzzzzzyzzzzzz/04.%20%20Cows%20Forbidden.mp3"
+    ]
+  },
+  {
+    "id": "equinox-zzzzzzyzzzzzz-1988-05-equinox-raper",
+    "title": "Equinox Raper",
+    "artist": "Equinox",
+    "project": "Equinox",
+    "release": "Zzzzzzyzzzzzz",
+    "year": "1988",
+    "genre": "Thrash metal",
+    "duration": "01:25",
+    "trackNumber": "05",
+    "releaseType": "Demo / cassette",
+    "version": "",
+    "credits": [
+      "Written by J.S. Wahn & J.Y. Bergström",
+      "Vocals & guitar: J.S. Wahn (John Swahn)",
+      "Drums: J.Y. Bergström",
+      "Produced and mixed by John Eric Olof Swahn"
+    ],
+    "audio": "https://audio.desecrate.se/Equinox/1988%20-%20Equinox%20-%20Zzzzzzyzzzzzz/05.%20Equinox%20Raper.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "Original 1988 Equinox demo audio supplied from the archive. Titles and sequence are documented on the original cassette inlay.",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "Audio + original cassette artwork",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Equinox/1988%20-%20Equinox%20-%20Zzzzzzyzzzzzz/05.%20Equinox%20Raper.mp3"
+    ]
+  },
+  {
+    "id": "equinox-zzzzzzyzzzzzz-1988-06-headache",
+    "title": "Headache",
+    "artist": "Equinox",
+    "project": "Equinox",
+    "release": "Zzzzzzyzzzzzz",
+    "year": "1988",
+    "genre": "Thrash metal",
+    "duration": "00:26",
+    "trackNumber": "06",
+    "releaseType": "Demo / cassette",
+    "version": "",
+    "credits": [
+      "Written by J.S. Wahn & J.Y. Bergström",
+      "Vocals & guitar: J.S. Wahn (John Swahn)",
+      "Drums: J.Y. Bergström",
+      "Produced and mixed by John Eric Olof Swahn"
+    ],
+    "audio": "https://audio.desecrate.se/Equinox/1988%20-%20Equinox%20-%20Zzzzzzyzzzzzz/06.%20Headache.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "Original 1988 Equinox demo audio supplied from the archive. Titles and sequence are documented on the original cassette inlay.",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "Audio + original cassette artwork",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Equinox/1988%20-%20Equinox%20-%20Zzzzzzyzzzzzz/06.%20Headache.mp3"
+    ]
+  },
+  {
+    "id": "equinox-zzzzzzyzzzzzz-1988-07-death-of-the-smoker",
+    "title": "Death Of The Smoker",
+    "artist": "Equinox",
+    "project": "Equinox",
+    "release": "Zzzzzzyzzzzzz",
+    "year": "1988",
+    "genre": "Thrash metal",
+    "duration": "01:52",
+    "trackNumber": "07",
+    "releaseType": "Demo / cassette",
+    "version": "",
+    "credits": [
+      "Written by J.S. Wahn & J.Y. Bergström",
+      "Vocals & guitar: J.S. Wahn (John Swahn)",
+      "Drums: J.Y. Bergström",
+      "Produced and mixed by John Eric Olof Swahn"
+    ],
+    "audio": "https://audio.desecrate.se/Equinox/1988%20-%20Equinox%20-%20Zzzzzzyzzzzzz/07.%20Death%20Of%20The%20Smoker.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "Original 1988 Equinox demo audio supplied from the archive. Titles and sequence are documented on the original cassette inlay.",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "Audio + original cassette artwork",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Equinox/1988%20-%20Equinox%20-%20Zzzzzzyzzzzzz/07.%20Death%20Of%20The%20Smoker.mp3"
+    ]
+  },
+  {
+    "id": "equinox-zzzzzzyzzzzzz-1988-08-satan-says",
+    "title": "Satan Says",
+    "artist": "Equinox",
+    "project": "Equinox",
+    "release": "Zzzzzzyzzzzzz",
+    "year": "1988",
+    "genre": "Thrash metal",
+    "duration": "01:39",
+    "trackNumber": "08",
+    "releaseType": "Demo / cassette",
+    "version": "",
+    "credits": [
+      "Written by J.S. Wahn & J.Y. Bergström",
+      "Vocals & guitar: J.S. Wahn (John Swahn)",
+      "Drums: J.Y. Bergström",
+      "Produced and mixed by John Eric Olof Swahn"
+    ],
+    "audio": "https://audio.desecrate.se/Equinox/1988%20-%20Equinox%20-%20Zzzzzzyzzzzzz/08.%20Satan%20Says.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "Original 1988 Equinox demo audio supplied from the archive. Titles and sequence are documented on the original cassette inlay.",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "Audio + original cassette artwork",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Equinox/1988%20-%20Equinox%20-%20Zzzzzzyzzzzzz/08.%20Satan%20Says.mp3"
+    ]
+  },
+  {
+    "id": "equinox-zzzzzzyzzzzzz-1988-09-algot-bierman",
+    "title": "Algot Bierman",
+    "artist": "Equinox",
+    "project": "Equinox",
+    "release": "Zzzzzzyzzzzzz",
+    "year": "1988",
+    "genre": "Thrash metal",
+    "duration": "00:36",
+    "trackNumber": "09",
+    "releaseType": "Demo / cassette",
+    "version": "",
+    "credits": [
+      "Written by J.S. Wahn & J.Y. Bergström",
+      "Vocals & guitar: J.S. Wahn (John Swahn)",
+      "Drums: J.Y. Bergström",
+      "Produced and mixed by John Eric Olof Swahn"
+    ],
+    "audio": "https://audio.desecrate.se/Equinox/1988%20-%20Equinox%20-%20Zzzzzzyzzzzzz/09.%20Algot%20Bierman.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "Original 1988 Equinox demo audio supplied from the archive. Titles and sequence are documented on the original cassette inlay.",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "Audio + original cassette artwork",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Equinox/1988%20-%20Equinox%20-%20Zzzzzzyzzzzzz/09.%20Algot%20Bierman.mp3"
+    ]
+  },
+  {
+    "id": "equinox-zzzzzzyzzzzzz-1988-10-who-dares-win",
+    "title": "Who Dares Win?",
+    "artist": "Equinox",
+    "project": "Equinox",
+    "release": "Zzzzzzyzzzzzz",
+    "year": "1988",
+    "genre": "Thrash metal",
+    "duration": "00:55",
+    "trackNumber": "10",
+    "releaseType": "Demo / cassette",
+    "version": "",
+    "credits": [
+      "Written by J.S. Wahn & J.Y. Bergström",
+      "Vocals & guitar: J.S. Wahn (John Swahn)",
+      "Drums: J.Y. Bergström",
+      "Produced and mixed by John Eric Olof Swahn"
+    ],
+    "audio": "https://audio.desecrate.se/Equinox/1988%20-%20Equinox%20-%20Zzzzzzyzzzzzz/10.%20Who%20Dares%20Win.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "Original 1988 Equinox demo audio supplied from the archive. Titles and sequence are documented on the original cassette inlay.",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "Audio + original cassette artwork",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Equinox/1988%20-%20Equinox%20-%20Zzzzzzyzzzzzz/10.%20Who%20Dares%20Win.mp3"
+    ]
+  },
+  {
+    "id": "equinox-zzzzzzyzzzzzz-1988-11-living-fortune",
+    "title": "Living Fortune",
+    "artist": "Equinox",
+    "project": "Equinox",
+    "release": "Zzzzzzyzzzzzz",
+    "year": "1988",
+    "genre": "Thrash metal",
+    "duration": "01:16",
+    "trackNumber": "11",
+    "releaseType": "Demo / cassette",
+    "version": "",
+    "credits": [
+      "Written by J.S. Wahn & J.Y. Bergström",
+      "Vocals & guitar: J.S. Wahn (John Swahn)",
+      "Drums: J.Y. Bergström",
+      "Produced and mixed by John Eric Olof Swahn"
+    ],
+    "audio": "https://audio.desecrate.se/Equinox/1988%20-%20Equinox%20-%20Zzzzzzyzzzzzz/11.%20Living%20Fortune.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "Original 1988 Equinox demo audio supplied from the archive. Titles and sequence are documented on the original cassette inlay.",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "Audio + original cassette artwork",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Equinox/1988%20-%20Equinox%20-%20Zzzzzzyzzzzzz/11.%20Living%20Fortune.mp3"
+    ]
+  },
+  {
+    "id": "equinox-zzzzzzyzzzzzz-1988-12-punk-all-night",
+    "title": "Punk All Night",
+    "artist": "Equinox",
+    "project": "Equinox",
+    "release": "Zzzzzzyzzzzzz",
+    "year": "1988",
+    "genre": "Thrash metal",
+    "duration": "00:42",
+    "trackNumber": "12",
+    "releaseType": "Demo / cassette",
+    "version": "",
+    "credits": [
+      "Written by J.S. Wahn & J.Y. Bergström",
+      "Vocals & guitar: J.S. Wahn (John Swahn)",
+      "Drums: J.Y. Bergström",
+      "Produced and mixed by John Eric Olof Swahn"
+    ],
+    "audio": "https://audio.desecrate.se/Equinox/1988%20-%20Equinox%20-%20Zzzzzzyzzzzzz/12.%20Punk%20All%20Night.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "Original 1988 Equinox demo audio supplied from the archive. Titles and sequence are documented on the original cassette inlay.",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "Audio + original cassette artwork",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Equinox/1988%20-%20Equinox%20-%20Zzzzzzyzzzzzz/12.%20Punk%20All%20Night.mp3"
+    ]
+  },
+  {
+    "id": "equinox-zzzzzzyzzzzzz-1988-13-standing-in-darkness",
+    "title": "Standing In Darkness",
+    "artist": "Equinox",
+    "project": "Equinox",
+    "release": "Zzzzzzyzzzzzz",
+    "year": "1988",
+    "genre": "Thrash metal",
+    "duration": "00:54",
+    "trackNumber": "13",
+    "releaseType": "Demo / cassette",
+    "version": "",
+    "credits": [
+      "Written by J.S. Wahn & J.Y. Bergström",
+      "Vocals & guitar: J.S. Wahn (John Swahn)",
+      "Drums: J.Y. Bergström",
+      "Produced and mixed by John Eric Olof Swahn"
+    ],
+    "audio": "https://audio.desecrate.se/Equinox/1988%20-%20Equinox%20-%20Zzzzzzyzzzzzz/13.%20Standing%20In%20Darkness.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "Original 1988 Equinox demo audio supplied from the archive. Titles and sequence are documented on the original cassette inlay.",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "Audio + original cassette artwork",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Equinox/1988%20-%20Equinox%20-%20Zzzzzzyzzzzzz/13.%20Standing%20In%20Darkness.mp3"
+    ]
+  },
+  {
+    "id": "equinox-zzzzzzyzzzzzz-1988-14-death-voffis-in-snow",
+    "title": "Death Voffis In Snow",
+    "artist": "Equinox",
+    "project": "Equinox",
+    "release": "Zzzzzzyzzzzzz",
+    "year": "1988",
+    "genre": "Thrash metal",
+    "duration": "00:44",
+    "trackNumber": "14",
+    "releaseType": "Demo / cassette",
+    "version": "",
+    "credits": [
+      "Written by J.S. Wahn & J.Y. Bergström",
+      "Vocals & guitar: J.S. Wahn (John Swahn)",
+      "Drums: J.Y. Bergström",
+      "Produced and mixed by John Eric Olof Swahn"
+    ],
+    "audio": "https://audio.desecrate.se/Equinox/1988%20-%20Equinox%20-%20Zzzzzzyzzzzzz/14.%20Death%20Voffis%20In%20Snow.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "Original 1988 Equinox demo audio supplied from the archive. Titles and sequence are documented on the original cassette inlay.",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "Audio + original cassette artwork",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Equinox/1988%20-%20Equinox%20-%20Zzzzzzyzzzzzz/14.%20Death%20Voffis%20In%20Snow.mp3"
     ]
   },
   {
@@ -868,7 +868,7 @@ window.JOHN_SWAHN_TRACKS = [
     "title": "Disorder",
     "artist": "Desecrate",
     "project": "Desecrate",
-    "release": "Arranger Of Disorder",
+    "release": "Arranger of Disorder",
     "year": "1989",
     "genre": "Thrash Metal",
     "duration": "03:55",
@@ -886,7 +886,7 @@ window.JOHN_SWAHN_TRACKS = [
       "Produced by Kari",
       "Mixed by Kari & Desecrate"
     ],
-    "audio": "https://audio.desecrate.se/Desecrate/1989%20-%20Arranger%20of%20Disorder/01-Desecrate-Disorder-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Desecrate/1989%20-%20Arranger_of_Disorder/01-Desecrate-Disorder-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "Original 1989 Desecrate demo audio supplied from the John Swahn archive. Recorded at Musikhuset, Enköping, 27–28 May 1989.",
@@ -894,7 +894,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/desecrate-arranger-of-disorder-1989.nfo",
     "source": "Audio + NFO + artwork",
     "audioCandidates": [
-      "https://audio.desecrate.se/Desecrate/1989%20-%20Arranger%20of%20Disorder/01-Desecrate-Disorder-sWhN.mp3"
+      "https://audio.desecrate.se/Desecrate/1989%20-%20Arranger_of_Disorder/01-Desecrate-Disorder-sWhN.mp3"
     ]
   },
   {
@@ -902,7 +902,7 @@ window.JOHN_SWAHN_TRACKS = [
     "title": "Lightened Souls",
     "artist": "Desecrate",
     "project": "Desecrate",
-    "release": "Arranger Of Disorder",
+    "release": "Arranger of Disorder",
     "year": "1989",
     "genre": "Thrash Metal",
     "duration": "03:23",
@@ -920,7 +920,7 @@ window.JOHN_SWAHN_TRACKS = [
       "Produced by Kari",
       "Mixed by Kari & Desecrate"
     ],
-    "audio": "https://audio.desecrate.se/Desecrate/1989%20-%20Arranger%20of%20Disorder/02-Desecrate-Lightened_Souls-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Desecrate/1989%20-%20Arranger_of_Disorder/02-Desecrate-Lightened_Souls-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "Original 1989 Desecrate demo audio supplied from the John Swahn archive. Recorded at Musikhuset, Enköping, 27–28 May 1989.",
@@ -928,7 +928,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/desecrate-arranger-of-disorder-1989.nfo",
     "source": "Audio + NFO + artwork",
     "audioCandidates": [
-      "https://audio.desecrate.se/Desecrate/1989%20-%20Arranger%20of%20Disorder/02-Desecrate-Lightened_Souls-sWhN.mp3"
+      "https://audio.desecrate.se/Desecrate/1989%20-%20Arranger_of_Disorder/02-Desecrate-Lightened_Souls-sWhN.mp3"
     ]
   },
   {
@@ -936,7 +936,7 @@ window.JOHN_SWAHN_TRACKS = [
     "title": "Minds of Justitia",
     "artist": "Desecrate",
     "project": "Desecrate",
-    "release": "Arranger Of Disorder",
+    "release": "Arranger of Disorder",
     "year": "1989",
     "genre": "Thrash Metal",
     "duration": "03:35",
@@ -954,7 +954,7 @@ window.JOHN_SWAHN_TRACKS = [
       "Produced by Kari",
       "Mixed by Kari & Desecrate"
     ],
-    "audio": "https://audio.desecrate.se/Desecrate/1989%20-%20Arranger%20of%20Disorder/03-Desecrate-Minds_of_Justitia-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Desecrate/1989%20-%20Arranger_of_Disorder/03-Desecrate-Minds_of_Justitia-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "Original 1989 Desecrate demo audio supplied from the John Swahn archive. Recorded at Musikhuset, Enköping, 27–28 May 1989.",
@@ -962,7 +962,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/desecrate-arranger-of-disorder-1989.nfo",
     "source": "Audio + NFO + artwork",
     "audioCandidates": [
-      "https://audio.desecrate.se/Desecrate/1989%20-%20Arranger%20of%20Disorder/03-Desecrate-Minds_of_Justitia-sWhN.mp3"
+      "https://audio.desecrate.se/Desecrate/1989%20-%20Arranger_of_Disorder/03-Desecrate-Minds_of_Justitia-sWhN.mp3"
     ]
   },
   {
@@ -1026,7 +1026,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Live recording",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Desecrate/1989%20-%20Live/03-Desecrate-Scooby_Dooaaau%C3%B7%C3%B7_II-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Desecrate/1989%20-%20Live/03-Desecrate-Scooby_Dooaaau%C3%B6%C3%B6_II-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -1034,7 +1034,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/desecrate-live-1989.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Desecrate/1989%20-%20Live/03-Desecrate-Scooby_Dooaaau%C3%B7%C3%B7_II-sWhN.mp3"
+      "https://audio.desecrate.se/Desecrate/1989%20-%20Live/03-Desecrate-Scooby_Dooaaau%C3%B6%C3%B6_II-sWhN.mp3"
     ]
   },
   {
@@ -1074,7 +1074,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Live recording",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Desecrate/1989%20-%20Live/05-Desecrate-Scooby_Dooaaau%C3%B7%C3%B7_III-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Desecrate/1989%20-%20Live/05-Desecrate-Scooby_Dooaaau%C3%B6%C3%B6_III-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -1082,7 +1082,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/desecrate-live-1989.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Desecrate/1989%20-%20Live/05-Desecrate-Scooby_Dooaaau%C3%B7%C3%B7_III-sWhN.mp3"
+      "https://audio.desecrate.se/Desecrate/1989%20-%20Live/05-Desecrate-Scooby_Dooaaau%C3%B6%C3%B6_III-sWhN.mp3"
     ]
   },
   {
@@ -1098,7 +1098,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Demo / cassette",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Desecrate/1989%20-%20Lonely%20Disgrace/01-Desecrate-World_Pollution-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Desecrate/1989%20-%20Lonely_Disgrace/01-Desecrate-World_Pollution-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -1106,7 +1106,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/desecrate-lonely-disgrace-1989.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Desecrate/1989%20-%20Lonely%20Disgrace/01-Desecrate-World_Pollution-sWhN.mp3"
+      "https://audio.desecrate.se/Desecrate/1989%20-%20Lonely_Disgrace/01-Desecrate-World_Pollution-sWhN.mp3"
     ]
   },
   {
@@ -1122,7 +1122,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Demo / cassette",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Desecrate/1989%20-%20Lonely%20Disgrace/02-Desecrate-Undivided_Etension-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Desecrate/1989%20-%20Lonely_Disgrace/02-Desecrate-Undivided_Etension-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -1130,7 +1130,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/desecrate-lonely-disgrace-1989.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Desecrate/1989%20-%20Lonely%20Disgrace/02-Desecrate-Undivided_Etension-sWhN.mp3"
+      "https://audio.desecrate.se/Desecrate/1989%20-%20Lonely_Disgrace/02-Desecrate-Undivided_Etension-sWhN.mp3"
     ]
   },
   {
@@ -1146,7 +1146,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Demo / cassette",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Desecrate/1989%20-%20Lonely%20Disgrace/03-Desecrate-Blietzkrieg_Bop-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Desecrate/1989%20-%20Lonely_Disgrace/03-Desecrate-Blietzkrieg_Bop-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -1154,7 +1154,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/desecrate-lonely-disgrace-1989.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Desecrate/1989%20-%20Lonely%20Disgrace/03-Desecrate-Blietzkrieg_Bop-sWhN.mp3"
+      "https://audio.desecrate.se/Desecrate/1989%20-%20Lonely_Disgrace/03-Desecrate-Blietzkrieg_Bop-sWhN.mp3"
     ]
   },
   {
@@ -1170,7 +1170,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Demo / cassette",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Desecrate/1989%20-%20Lonely%20Disgrace/04-Desecrate-Scedule-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Desecrate/1989%20-%20Lonely_Disgrace/04-Desecrate-Scedule-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -1178,7 +1178,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/desecrate-lonely-disgrace-1989.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Desecrate/1989%20-%20Lonely%20Disgrace/04-Desecrate-Scedule-sWhN.mp3"
+      "https://audio.desecrate.se/Desecrate/1989%20-%20Lonely_Disgrace/04-Desecrate-Scedule-sWhN.mp3"
     ]
   },
   {
@@ -1194,7 +1194,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Demo / cassette",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Desecrate/1989%20-%20Lonely%20Disgrace/05-Desecrate-Fuck_Bush-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Desecrate/1989%20-%20Lonely_Disgrace/05-Desecrate-Fuck_Bush-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -1202,7 +1202,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/desecrate-lonely-disgrace-1989.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Desecrate/1989%20-%20Lonely%20Disgrace/05-Desecrate-Fuck_Bush-sWhN.mp3"
+      "https://audio.desecrate.se/Desecrate/1989%20-%20Lonely_Disgrace/05-Desecrate-Fuck_Bush-sWhN.mp3"
     ]
   },
   {
@@ -1470,11 +1470,107 @@ window.JOHN_SWAHN_TRACKS = [
     ]
   },
   {
+    "id": "edison-god-blessed-rock-n-roll-1990-01-red-riding-hood",
+    "title": "Red Riding Hood",
+    "artist": "Edison",
+    "project": "Edison",
+    "release": "God Blessed Rock'n'roll",
+    "year": "1990",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "01",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Edison/1990%20-%20God%20Blessed%20Rock%27n%27roll/01%20-%20Edison%20-%20Red%20Riding%20Hood.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Edison/1990%20-%20God%20Blessed%20Rock%27n%27roll/01%20-%20Edison%20-%20Red%20Riding%20Hood.mp3"
+    ]
+  },
+  {
+    "id": "edison-god-blessed-rock-n-roll-1990-02-liberty",
+    "title": "Liberty",
+    "artist": "Edison",
+    "project": "Edison",
+    "release": "God Blessed Rock'n'roll",
+    "year": "1990",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "02",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Edison/1990%20-%20God%20Blessed%20Rock%27n%27roll/02%20-%20Edison%20-%20Liberty.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Edison/1990%20-%20God%20Blessed%20Rock%27n%27roll/02%20-%20Edison%20-%20Liberty.mp3"
+    ]
+  },
+  {
+    "id": "edison-god-blessed-rock-n-roll-1990-03-god-blessed-rock-n-roll",
+    "title": "God Blessed Rock'n'roll",
+    "artist": "Edison",
+    "project": "Edison",
+    "release": "God Blessed Rock'n'roll",
+    "year": "1990",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "03",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Edison/1990%20-%20God%20Blessed%20Rock%27n%27roll/03%20-%20Edison%20-%20God%20Blessed%20Rock%27n%27roll.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Edison/1990%20-%20God%20Blessed%20Rock%27n%27roll/03%20-%20Edison%20-%20God%20Blessed%20Rock%27n%27roll.mp3"
+    ]
+  },
+  {
+    "id": "edison-god-blessed-rock-n-roll-1990-04-the-book-suggestion",
+    "title": "The Book Suggestion",
+    "artist": "Edison",
+    "project": "Edison",
+    "release": "God Blessed Rock'n'roll",
+    "year": "1990",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "04",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Edison/1990%20-%20God%20Blessed%20Rock%27n%27roll/04%20-%20Edison%20-%20The%20Book%20Suggestion.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Edison/1990%20-%20God%20Blessed%20Rock%27n%27roll/04%20-%20Edison%20-%20The%20Book%20Suggestion.mp3"
+    ]
+  },
+  {
     "id": "john-swahn-s-big-november-mirrors-do-the-talkin-1991-01-mirrors-do-the-talkin",
     "title": "Mirrors Do the Talkin",
     "artist": "John Swahn's Big November",
     "project": "John Swahn's Big November",
-    "release": "Mirrors Do the Talkin",
+    "release": "Mirrors Do The Talkin'",
     "year": "1991",
     "genre": "Rock",
     "duration": "03:45",
@@ -1482,7 +1578,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Compilation track",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/John%20Swahns%20Big%20November/1991%20-%20Mirrors%20Do%20The%20Talkin/01-John_Swahns_Big_November-Mirrors_Do_the_Talkin-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/John%20Swahns%20Big%20November/1991%20-%20Mirrors_Do_the_Talkin/01-John_Swahns_Big_November_-Mirrors_Do_the_Talkin-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -1490,8 +1586,367 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/big-november-mirrors-do-the-talkin-1991.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/John%20Swahns%20Big%20November/1991%20-%20Mirrors%20Do%20The%20Talkin/01-John_Swahns_Big_November-Mirrors_Do_the_Talkin-sWhN.mp3",
-      "https://audio.desecrate.se/John%20Swahns%20Big%20November/1991%20-%20Mirrors%20Do%20the%20Talkin/01-John_Swahns_Big_November-Mirrors_Do_the_Talkin-sWhN.mp3"
+      "https://audio.desecrate.se/John%20Swahns%20Big%20November/1991%20-%20Mirrors_Do_the_Talkin/01-John_Swahns_Big_November_-Mirrors_Do_the_Talkin-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "john-swahn-s-big-november-wonders-of-devotion-i-ii-1991-01-the-presentation",
+    "title": "The Presentation",
+    "artist": "John Swahn's Big November",
+    "project": "John Swahn's Big November",
+    "release": "Wonders Of Devotion I & II",
+    "year": "1991",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "01",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/John%20Swahns%20Big%20November/1991%20-%20Wonders%20Of%20Devotion%20I%20%26%20II/01%20-%20The%20Presentation.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/John%20Swahns%20Big%20November/1991%20-%20Wonders%20Of%20Devotion%20I%20%26%20II/01%20-%20The%20Presentation.mp3"
+    ]
+  },
+  {
+    "id": "john-swahn-s-big-november-wonders-of-devotion-i-ii-1991-02-lady-fortuna",
+    "title": "Lady Fortuna",
+    "artist": "John Swahn's Big November",
+    "project": "John Swahn's Big November",
+    "release": "Wonders Of Devotion I & II",
+    "year": "1991",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "02",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/John%20Swahns%20Big%20November/1991%20-%20Wonders%20Of%20Devotion%20I%20%26%20II/02%20-%20Lady%20Fortuna.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/John%20Swahns%20Big%20November/1991%20-%20Wonders%20Of%20Devotion%20I%20%26%20II/02%20-%20Lady%20Fortuna.mp3"
+    ]
+  },
+  {
+    "id": "john-swahn-s-big-november-wonders-of-devotion-i-ii-1991-03-mirrors-do-the-talkin",
+    "title": "Mirrors (Do The Talkin')",
+    "artist": "John Swahn's Big November",
+    "project": "John Swahn's Big November",
+    "release": "Wonders Of Devotion I & II",
+    "year": "1991",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "03",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/John%20Swahns%20Big%20November/1991%20-%20Wonders%20Of%20Devotion%20I%20%26%20II/03%20-%20Mirrors%20%28Do%20The%20Talkin%27%29.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/John%20Swahns%20Big%20November/1991%20-%20Wonders%20Of%20Devotion%20I%20%26%20II/03%20-%20Mirrors%20%28Do%20The%20Talkin%27%29.mp3"
+    ]
+  },
+  {
+    "id": "john-swahn-s-big-november-wonders-of-devotion-i-ii-1991-04-neapel-rain",
+    "title": "Neapel Rain",
+    "artist": "John Swahn's Big November",
+    "project": "John Swahn's Big November",
+    "release": "Wonders Of Devotion I & II",
+    "year": "1991",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "04",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/John%20Swahns%20Big%20November/1991%20-%20Wonders%20Of%20Devotion%20I%20%26%20II/04%20-%20Neapel%20Rain.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/John%20Swahns%20Big%20November/1991%20-%20Wonders%20Of%20Devotion%20I%20%26%20II/04%20-%20Neapel%20Rain.mp3"
+    ]
+  },
+  {
+    "id": "john-swahn-s-big-november-wonders-of-devotion-i-ii-1991-05-the-crunge",
+    "title": "The Crunge",
+    "artist": "John Swahn's Big November",
+    "project": "John Swahn's Big November",
+    "release": "Wonders Of Devotion I & II",
+    "year": "1991",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "05",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/John%20Swahns%20Big%20November/1991%20-%20Wonders%20Of%20Devotion%20I%20%26%20II/05%20-%20The%20Crunge.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/John%20Swahns%20Big%20November/1991%20-%20Wonders%20Of%20Devotion%20I%20%26%20II/05%20-%20The%20Crunge.mp3"
+    ]
+  },
+  {
+    "id": "john-swahn-s-big-november-wonders-of-devotion-i-ii-1991-06-sign-on-the-wall",
+    "title": "Sign On The Wall",
+    "artist": "John Swahn's Big November",
+    "project": "John Swahn's Big November",
+    "release": "Wonders Of Devotion I & II",
+    "year": "1991",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "06",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/John%20Swahns%20Big%20November/1991%20-%20Wonders%20Of%20Devotion%20I%20%26%20II/06%20-%20Sign%20On%20The%20Wall.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/John%20Swahns%20Big%20November/1991%20-%20Wonders%20Of%20Devotion%20I%20%26%20II/06%20-%20Sign%20On%20The%20Wall.mp3"
+    ]
+  },
+  {
+    "id": "john-swahn-s-big-november-wonders-of-devotion-i-ii-1991-07-good-girls-bad-girls",
+    "title": "Good Girls, Bad Girls",
+    "artist": "John Swahn's Big November",
+    "project": "John Swahn's Big November",
+    "release": "Wonders Of Devotion I & II",
+    "year": "1991",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "07",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/John%20Swahns%20Big%20November/1991%20-%20Wonders%20Of%20Devotion%20I%20%26%20II/07%20-%20Good%20Girls%2C%20Bad%20Girls.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/John%20Swahns%20Big%20November/1991%20-%20Wonders%20Of%20Devotion%20I%20%26%20II/07%20-%20Good%20Girls%2C%20Bad%20Girls.mp3"
+    ]
+  },
+  {
+    "id": "john-swahn-s-big-november-wonders-of-devotion-i-ii-1991-08-sharpshooter",
+    "title": "Sharpshooter",
+    "artist": "John Swahn's Big November",
+    "project": "John Swahn's Big November",
+    "release": "Wonders Of Devotion I & II",
+    "year": "1991",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "08",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/John%20Swahns%20Big%20November/1991%20-%20Wonders%20Of%20Devotion%20I%20%26%20II/08%20-%20Sharpshooter.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/John%20Swahns%20Big%20November/1991%20-%20Wonders%20Of%20Devotion%20I%20%26%20II/08%20-%20Sharpshooter.mp3"
+    ]
+  },
+  {
+    "id": "john-swahn-s-big-november-wonders-of-devotion-i-ii-1991-09-birds-on-the-bridge",
+    "title": "Birds On The Bridge",
+    "artist": "John Swahn's Big November",
+    "project": "John Swahn's Big November",
+    "release": "Wonders Of Devotion I & II",
+    "year": "1991",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "09",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/John%20Swahns%20Big%20November/1991%20-%20Wonders%20Of%20Devotion%20I%20%26%20II/09%20-%20Birds%20On%20The%20Bridge.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/John%20Swahns%20Big%20November/1991%20-%20Wonders%20Of%20Devotion%20I%20%26%20II/09%20-%20Birds%20On%20The%20Bridge.mp3"
+    ]
+  },
+  {
+    "id": "john-swahn-s-big-november-wonders-of-devotion-i-ii-1991-10-lady-fortuna-live",
+    "title": "Lady Fortuna [live]",
+    "artist": "John Swahn's Big November",
+    "project": "John Swahn's Big November",
+    "release": "Wonders Of Devotion I & II",
+    "year": "1991",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "10",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/John%20Swahns%20Big%20November/1991%20-%20Wonders%20Of%20Devotion%20I%20%26%20II/10%20-%20Lady%20Fortuna%20%5Blive%5D.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/John%20Swahns%20Big%20November/1991%20-%20Wonders%20Of%20Devotion%20I%20%26%20II/10%20-%20Lady%20Fortuna%20%5Blive%5D.mp3"
+    ]
+  },
+  {
+    "id": "john-swahn-s-big-november-wonders-of-devotion-i-ii-1991-11-mirrors-live",
+    "title": "Mirrors [live]",
+    "artist": "John Swahn's Big November",
+    "project": "John Swahn's Big November",
+    "release": "Wonders Of Devotion I & II",
+    "year": "1991",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "11",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/John%20Swahns%20Big%20November/1991%20-%20Wonders%20Of%20Devotion%20I%20%26%20II/11%20-%20Mirrors%20%20%5Blive%5D.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/John%20Swahns%20Big%20November/1991%20-%20Wonders%20Of%20Devotion%20I%20%26%20II/11%20-%20Mirrors%20%20%5Blive%5D.mp3"
+    ]
+  },
+  {
+    "id": "john-swahn-s-big-november-wonders-of-devotion-i-ii-1991-12-smoke-on-the-water-live",
+    "title": "Smoke On The Water [live]",
+    "artist": "John Swahn's Big November",
+    "project": "John Swahn's Big November",
+    "release": "Wonders Of Devotion I & II",
+    "year": "1991",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "12",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/John%20Swahns%20Big%20November/1991%20-%20Wonders%20Of%20Devotion%20I%20%26%20II/12%20-%20Smoke%20On%20The%20Water%20%20%5Blive%5D.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/John%20Swahns%20Big%20November/1991%20-%20Wonders%20Of%20Devotion%20I%20%26%20II/12%20-%20Smoke%20On%20The%20Water%20%20%5Blive%5D.mp3"
+    ]
+  },
+  {
+    "id": "john-swahn-s-big-november-wonders-of-devotion-i-ii-1991-13-neapel-rain-live",
+    "title": "Neapel Rain [live]",
+    "artist": "John Swahn's Big November",
+    "project": "John Swahn's Big November",
+    "release": "Wonders Of Devotion I & II",
+    "year": "1991",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "13",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/John%20Swahns%20Big%20November/1991%20-%20Wonders%20Of%20Devotion%20I%20%26%20II/13%20-%20Neapel%20Rain%20%5Blive%5D.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/John%20Swahns%20Big%20November/1991%20-%20Wonders%20Of%20Devotion%20I%20%26%20II/13%20-%20Neapel%20Rain%20%5Blive%5D.mp3"
+    ]
+  },
+  {
+    "id": "john-swahn-s-big-november-wonders-of-devotion-i-ii-1991-14-sign-on-the-wall-live",
+    "title": "Sign On The Wall [live]",
+    "artist": "John Swahn's Big November",
+    "project": "John Swahn's Big November",
+    "release": "Wonders Of Devotion I & II",
+    "year": "1991",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "14",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/John%20Swahns%20Big%20November/1991%20-%20Wonders%20Of%20Devotion%20I%20%26%20II/14%20-%20Sign%20On%20The%20Wall%20%20%5Blive%5D.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/John%20Swahns%20Big%20November/1991%20-%20Wonders%20Of%20Devotion%20I%20%26%20II/14%20-%20Sign%20On%20The%20Wall%20%20%5Blive%5D.mp3"
+    ]
+  },
+  {
+    "id": "john-swahn-s-big-november-wonders-of-devotion-i-ii-1991-15-the-crunge-live",
+    "title": "The Crunge [live]",
+    "artist": "John Swahn's Big November",
+    "project": "John Swahn's Big November",
+    "release": "Wonders Of Devotion I & II",
+    "year": "1991",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "15",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/John%20Swahns%20Big%20November/1991%20-%20Wonders%20Of%20Devotion%20I%20%26%20II/15%20-%20The%20Crunge%20%20%5Blive%5D.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/John%20Swahns%20Big%20November/1991%20-%20Wonders%20Of%20Devotion%20I%20%26%20II/15%20-%20The%20Crunge%20%20%5Blive%5D.mp3"
     ]
   },
   {
@@ -1507,7 +1962,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "EP",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Almost%20Human/1999%20-%20The%20Playground/01-Almost_Human-Just_Like_Holding_Hands-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Almost%20Human/1999%20-%20The_Playground/01-Almost_Human-Just_Like_Holding_Hands-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -1515,7 +1970,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/almost-human-the-playground-1999.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Almost%20Human/1999%20-%20The%20Playground/01-Almost_Human-Just_Like_Holding_Hands-sWhN.mp3"
+      "https://audio.desecrate.se/Almost%20Human/1999%20-%20The_Playground/01-Almost_Human-Just_Like_Holding_Hands-sWhN.mp3"
     ]
   },
   {
@@ -1531,7 +1986,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "EP",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Almost%20Human/1999%20-%20The%20Playground/02-Almost_Human-Itchy_Bitchy-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Almost%20Human/1999%20-%20The_Playground/02-Almost_Human-Itchy_Bitchy-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -1539,7 +1994,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/almost-human-the-playground-1999.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Almost%20Human/1999%20-%20The%20Playground/02-Almost_Human-Itchy_Bitchy-sWhN.mp3"
+      "https://audio.desecrate.se/Almost%20Human/1999%20-%20The_Playground/02-Almost_Human-Itchy_Bitchy-sWhN.mp3"
     ]
   },
   {
@@ -1555,7 +2010,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "EP",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Almost%20Human/1999%20-%20The%20Playground/03-Almost_Human-Johnny_the_Spliff-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Almost%20Human/1999%20-%20The_Playground/03-Almost_Human-Johnny_the_Spliff-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -1563,7 +2018,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/almost-human-the-playground-1999.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Almost%20Human/1999%20-%20The%20Playground/03-Almost_Human-Johnny_the_Spliff-sWhN.mp3"
+      "https://audio.desecrate.se/Almost%20Human/1999%20-%20The_Playground/03-Almost_Human-Johnny_the_Spliff-sWhN.mp3"
     ]
   },
   {
@@ -1579,7 +2034,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "EP",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Almost%20Human/1999%20-%20The%20Playground/04-Almost_Human-Spit-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Almost%20Human/1999%20-%20The_Playground/04-Almost_Human-Spit-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -1587,7 +2042,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/almost-human-the-playground-1999.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Almost%20Human/1999%20-%20The%20Playground/04-Almost_Human-Spit-sWhN.mp3"
+      "https://audio.desecrate.se/Almost%20Human/1999%20-%20The_Playground/04-Almost_Human-Spit-sWhN.mp3"
     ]
   },
   {
@@ -1595,7 +2050,7 @@ window.JOHN_SWAHN_TRACKS = [
     "title": "I Can See Through You",
     "artist": "Almost Human",
     "project": "Almost Human",
-    "release": "The Sweet Revenge of Mitzi Dupree",
+    "release": "The Sweet Revenge Of Mitzi Dupree",
     "year": "1999",
     "genre": "Rock",
     "duration": "03:08",
@@ -1603,7 +2058,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "EP",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Almost%20Human/1999%20-%20The%20Sweet%20Revenge%20of%20Mitzi%20Dupree/01-Almost_Human-I_Can_See_Through_You-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Almost%20Human/1999%20-%20The_Sweet_Revenge_of_Mitzi_Dupree/01-Almost_Human-I_Can_See_Through_You-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -1611,7 +2066,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/almost-human-sweet-revenge-mitzi-dupree-1999.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Almost%20Human/1999%20-%20The%20Sweet%20Revenge%20of%20Mitzi%20Dupree/01-Almost_Human-I_Can_See_Through_You-sWhN.mp3"
+      "https://audio.desecrate.se/Almost%20Human/1999%20-%20The_Sweet_Revenge_of_Mitzi_Dupree/01-Almost_Human-I_Can_See_Through_You-sWhN.mp3"
     ]
   },
   {
@@ -1619,7 +2074,7 @@ window.JOHN_SWAHN_TRACKS = [
     "title": "Devils Playground",
     "artist": "Almost Human",
     "project": "Almost Human",
-    "release": "The Sweet Revenge of Mitzi Dupree",
+    "release": "The Sweet Revenge Of Mitzi Dupree",
     "year": "1999",
     "genre": "Rock",
     "duration": "01:42",
@@ -1627,7 +2082,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "EP",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Almost%20Human/1999%20-%20The%20Sweet%20Revenge%20of%20Mitzi%20Dupree/02-Almost_Human-Devils_Playground-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Almost%20Human/1999%20-%20The_Sweet_Revenge_of_Mitzi_Dupree/02-Almost_Human-Devils_Playground-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -1635,7 +2090,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/almost-human-sweet-revenge-mitzi-dupree-1999.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Almost%20Human/1999%20-%20The%20Sweet%20Revenge%20of%20Mitzi%20Dupree/02-Almost_Human-Devils_Playground-sWhN.mp3"
+      "https://audio.desecrate.se/Almost%20Human/1999%20-%20The_Sweet_Revenge_of_Mitzi_Dupree/02-Almost_Human-Devils_Playground-sWhN.mp3"
     ]
   },
   {
@@ -1643,7 +2098,7 @@ window.JOHN_SWAHN_TRACKS = [
     "title": "Cheater",
     "artist": "Almost Human",
     "project": "Almost Human",
-    "release": "The Sweet Revenge of Mitzi Dupree",
+    "release": "The Sweet Revenge Of Mitzi Dupree",
     "year": "1999",
     "genre": "Rock",
     "duration": "02:38",
@@ -1651,7 +2106,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "EP",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Almost%20Human/1999%20-%20The%20Sweet%20Revenge%20of%20Mitzi%20Dupree/03-Almost_Human-Cheater-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Almost%20Human/1999%20-%20The_Sweet_Revenge_of_Mitzi_Dupree/03-Almost_Human-Cheater-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -1659,7 +2114,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/almost-human-sweet-revenge-mitzi-dupree-1999.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Almost%20Human/1999%20-%20The%20Sweet%20Revenge%20of%20Mitzi%20Dupree/03-Almost_Human-Cheater-sWhN.mp3"
+      "https://audio.desecrate.se/Almost%20Human/1999%20-%20The_Sweet_Revenge_of_Mitzi_Dupree/03-Almost_Human-Cheater-sWhN.mp3"
     ]
   },
   {
@@ -1667,7 +2122,7 @@ window.JOHN_SWAHN_TRACKS = [
     "title": "Best in Show",
     "artist": "Almost Human",
     "project": "Almost Human",
-    "release": "The Sweet Revenge of Mitzi Dupree",
+    "release": "The Sweet Revenge Of Mitzi Dupree",
     "year": "1999",
     "genre": "Rock",
     "duration": "02:21",
@@ -1675,7 +2130,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "EP",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Almost%20Human/1999%20-%20The%20Sweet%20Revenge%20of%20Mitzi%20Dupree/04-Almost_Human-Best_in_Show-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Almost%20Human/1999%20-%20The_Sweet_Revenge_of_Mitzi_Dupree/04-Almost_Human-Best_in_Show-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -1683,7 +2138,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/almost-human-sweet-revenge-mitzi-dupree-1999.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Almost%20Human/1999%20-%20The%20Sweet%20Revenge%20of%20Mitzi%20Dupree/04-Almost_Human-Best_in_Show-sWhN.mp3"
+      "https://audio.desecrate.se/Almost%20Human/1999%20-%20The_Sweet_Revenge_of_Mitzi_Dupree/04-Almost_Human-Best_in_Show-sWhN.mp3"
     ]
   },
   {
@@ -1691,7 +2146,7 @@ window.JOHN_SWAHN_TRACKS = [
     "title": "Suit Yourself",
     "artist": "Almost Human",
     "project": "Almost Human",
-    "release": "The Sweet Revenge of Mitzi Dupree",
+    "release": "The Sweet Revenge Of Mitzi Dupree",
     "year": "1999",
     "genre": "Rock",
     "duration": "01:00",
@@ -1699,7 +2154,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "EP",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Almost%20Human/1999%20-%20The%20Sweet%20Revenge%20of%20Mitzi%20Dupree/05-Almost_Human-Suit_Yourself-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Almost%20Human/1999%20-%20The_Sweet_Revenge_of_Mitzi_Dupree/05-Almost_Human-Suit_Yourself-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -1707,7 +2162,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/almost-human-sweet-revenge-mitzi-dupree-1999.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Almost%20Human/1999%20-%20The%20Sweet%20Revenge%20of%20Mitzi%20Dupree/05-Almost_Human-Suit_Yourself-sWhN.mp3"
+      "https://audio.desecrate.se/Almost%20Human/1999%20-%20The_Sweet_Revenge_of_Mitzi_Dupree/05-Almost_Human-Suit_Yourself-sWhN.mp3"
     ]
   },
   {
@@ -1723,7 +2178,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "EP",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Almost%20Human/2000%20-%20Green%20All%20Over/01-Almost_Human-We_All_Belong-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Almost%20Human/2000%20-%20Green_All_Over/01-Almost_Human-We_All_Belong-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -1731,7 +2186,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/almost-human-green-all-over-2000.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Almost%20Human/2000%20-%20Green%20All%20Over/01-Almost_Human-We_All_Belong-sWhN.mp3"
+      "https://audio.desecrate.se/Almost%20Human/2000%20-%20Green_All_Over/01-Almost_Human-We_All_Belong-sWhN.mp3"
     ]
   },
   {
@@ -1747,7 +2202,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "EP",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Almost%20Human/2000%20-%20Green%20All%20Over/02-Almost_Human-Cold_Turkey-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Almost%20Human/2000%20-%20Green_All_Over/02-Almost_Human-Cold_Turkey-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -1755,7 +2210,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/almost-human-green-all-over-2000.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Almost%20Human/2000%20-%20Green%20All%20Over/02-Almost_Human-Cold_Turkey-sWhN.mp3"
+      "https://audio.desecrate.se/Almost%20Human/2000%20-%20Green_All_Over/02-Almost_Human-Cold_Turkey-sWhN.mp3"
     ]
   },
   {
@@ -1771,7 +2226,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "EP",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Almost%20Human/2000%20-%20Green%20All%20Over/03-Almost_Human-Lack_of-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Almost%20Human/2000%20-%20Green_All_Over/03-Almost_Human-Lack_of-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -1779,7 +2234,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/almost-human-green-all-over-2000.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Almost%20Human/2000%20-%20Green%20All%20Over/03-Almost_Human-Lack_of-sWhN.mp3"
+      "https://audio.desecrate.se/Almost%20Human/2000%20-%20Green_All_Over/03-Almost_Human-Lack_of-sWhN.mp3"
     ]
   },
   {
@@ -1795,7 +2250,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "EP",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Almost%20Human/2000%20-%20Green%20All%20Over/04-Almost_Human-Unused-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Almost%20Human/2000%20-%20Green_All_Over/04-Almost_Human-Unused-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -1803,7 +2258,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/almost-human-green-all-over-2000.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Almost%20Human/2000%20-%20Green%20All%20Over/04-Almost_Human-Unused-sWhN.mp3"
+      "https://audio.desecrate.se/Almost%20Human/2000%20-%20Green_All_Over/04-Almost_Human-Unused-sWhN.mp3"
     ]
   },
   {
@@ -1819,7 +2274,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "EP",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Almost%20Human/2003%20-%20Eaten%20by%20the%20Machine/01-Almost_Human-The_Wake-Up_Call-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Almost%20Human/2003%20-%20Eaten_by_the_Machine/01-Almost_Human-The_Wake-Up_Call-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -1827,8 +2282,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/almost-human-eaten-by-the-machine-2003.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Almost%20Human/2003%20-%20Eaten%20by%20the%20Machine/01-Almost_Human-The_Wake-Up_Call-sWhN.mp3",
-      "https://audio.desecrate.se/Almost%20Human/2003%20-%20Eaten%20By%20The%20Machine/01-Almost_Human-The_Wake-Up_Call-sWhN.mp3"
+      "https://audio.desecrate.se/Almost%20Human/2003%20-%20Eaten_by_the_Machine/01-Almost_Human-The_Wake-Up_Call-sWhN.mp3"
     ]
   },
   {
@@ -1844,7 +2298,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "EP",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Almost%20Human/2003%20-%20Eaten%20by%20the%20Machine/02-Almost_Human-No_Krime-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Almost%20Human/2003%20-%20Eaten_by_the_Machine/02-Almost_Human-No_Krime-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -1852,8 +2306,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/almost-human-eaten-by-the-machine-2003.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Almost%20Human/2003%20-%20Eaten%20by%20the%20Machine/02-Almost_Human-No_Krime-sWhN.mp3",
-      "https://audio.desecrate.se/Almost%20Human/2003%20-%20Eaten%20By%20The%20Machine/02-Almost_Human-No_Krime-sWhN.mp3"
+      "https://audio.desecrate.se/Almost%20Human/2003%20-%20Eaten_by_the_Machine/02-Almost_Human-No_Krime-sWhN.mp3"
     ]
   },
   {
@@ -1869,7 +2322,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "EP",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Almost%20Human/2003%20-%20Eaten%20by%20the%20Machine/03-Almost_Human-Wasted_One-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Almost%20Human/2003%20-%20Eaten_by_the_Machine/03-Almost_Human-Wasted_One-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -1877,8 +2330,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/almost-human-eaten-by-the-machine-2003.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Almost%20Human/2003%20-%20Eaten%20by%20the%20Machine/03-Almost_Human-Wasted_One-sWhN.mp3",
-      "https://audio.desecrate.se/Almost%20Human/2003%20-%20Eaten%20By%20The%20Machine/03-Almost_Human-Wasted_One-sWhN.mp3"
+      "https://audio.desecrate.se/Almost%20Human/2003%20-%20Eaten_by_the_Machine/03-Almost_Human-Wasted_One-sWhN.mp3"
     ]
   },
   {
@@ -1894,7 +2346,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "EP",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Almost%20Human/2003%20-%20Eaten%20by%20the%20Machine/04-Almost_Human-Unemployed_Hero-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Almost%20Human/2003%20-%20Eaten_by_the_Machine/04-Almost_Human-Unemployed_Hero-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -1902,8 +2354,127 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/almost-human-eaten-by-the-machine-2003.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Almost%20Human/2003%20-%20Eaten%20by%20the%20Machine/04-Almost_Human-Unemployed_Hero-sWhN.mp3",
-      "https://audio.desecrate.se/Almost%20Human/2003%20-%20Eaten%20By%20The%20Machine/04-Almost_Human-Unemployed_Hero-sWhN.mp3"
+      "https://audio.desecrate.se/Almost%20Human/2003%20-%20Eaten_by_the_Machine/04-Almost_Human-Unemployed_Hero-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "almost-human-left-overs-2003-01-suit-yourself",
+    "title": "Suit Yourself",
+    "artist": "Almost Human",
+    "project": "Almost Human",
+    "release": "Left Overs",
+    "year": "2003",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "01",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Almost%20Human/2003%20-%20Left_Overs/01%20-%20Suit%20Yourself.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Almost%20Human/2003%20-%20Left_Overs/01%20-%20Suit%20Yourself.mp3"
+    ]
+  },
+  {
+    "id": "almost-human-left-overs-2003-02-you-got-me-involved",
+    "title": "You Got Me Involved",
+    "artist": "Almost Human",
+    "project": "Almost Human",
+    "release": "Left Overs",
+    "year": "2003",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "02",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Almost%20Human/2003%20-%20Left_Overs/02%20-%20You%20Got%20Me%20Involved.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Almost%20Human/2003%20-%20Left_Overs/02%20-%20You%20Got%20Me%20Involved.mp3"
+    ]
+  },
+  {
+    "id": "almost-human-left-overs-2003-03-wasted-one-alt-version",
+    "title": "Wasted One (alt. version)",
+    "artist": "Almost Human",
+    "project": "Almost Human",
+    "release": "Left Overs",
+    "year": "2003",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "03",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Almost%20Human/2003%20-%20Left_Overs/03%20-%20Wasted%20One%20%28alt.%20version%29.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Almost%20Human/2003%20-%20Left_Overs/03%20-%20Wasted%20One%20%28alt.%20version%29.mp3"
+    ]
+  },
+  {
+    "id": "almost-human-left-overs-2003-04-daisies",
+    "title": "Daisies",
+    "artist": "Almost Human",
+    "project": "Almost Human",
+    "release": "Left Overs",
+    "year": "2003",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "04",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Almost%20Human/2003%20-%20Left_Overs/04%20-%20Daisies.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Almost%20Human/2003%20-%20Left_Overs/04%20-%20Daisies.mp3"
+    ]
+  },
+  {
+    "id": "almost-human-left-overs-2003-05-the-wake-up-call-hargshamn-01-06-22",
+    "title": "The Wake-Up Call (Hargshamn 01-06-22)",
+    "artist": "Almost Human",
+    "project": "Almost Human",
+    "release": "Left Overs",
+    "year": "2003",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "05",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Almost%20Human/2003%20-%20Left_Overs/05%20-%20The%20Wake-Up%20Call%20%28Hargshamn%2001-06-22%29.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Almost%20Human/2003%20-%20Left_Overs/05%20-%20The%20Wake-Up%20Call%20%28Hargshamn%2001-06-22%29.mp3"
     ]
   },
   {
@@ -1919,7 +2490,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "CD promo",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Almost%20Human/01-The_Unkinds-Merry-Go-Around-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Almost_Human/01-The_Unkinds-Merry-Go-Around-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -1927,7 +2498,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/the-unkinds-almost-human-2003.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Almost%20Human/01-The_Unkinds-Merry-Go-Around-sWhN.mp3"
+      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Almost_Human/01-The_Unkinds-Merry-Go-Around-sWhN.mp3"
     ]
   },
   {
@@ -1943,7 +2514,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "CD promo",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Almost%20Human/02-The_Unkinds-FFWD_A#-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Almost_Human/02-The_Unkinds-FFWD_A-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -1951,7 +2522,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/the-unkinds-almost-human-2003.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Almost%20Human/02-The_Unkinds-FFWD_A#-sWhN.mp3"
+      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Almost_Human/02-The_Unkinds-FFWD_A-sWhN.mp3"
     ]
   },
   {
@@ -1967,7 +2538,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "CD promo",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Almost%20Human/03-The_Unkinds-Skit_Ner_Dig-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Almost_Human/03-The_Unkinds-Skit_Ner_Dig-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -1975,7 +2546,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/the-unkinds-almost-human-2003.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Almost%20Human/03-The_Unkinds-Skit_Ner_Dig-sWhN.mp3"
+      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Almost_Human/03-The_Unkinds-Skit_Ner_Dig-sWhN.mp3"
     ]
   },
   {
@@ -1991,7 +2562,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "CD promo",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Almost%20Human/04-The_Unkinds-Live_Like_A_King-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Almost_Human/04-The_Unkinds-Live_Like_A_King-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -1999,7 +2570,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/the-unkinds-almost-human-2003.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Almost%20Human/04-The_Unkinds-Live_Like_A_King-sWhN.mp3"
+      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Almost_Human/04-The_Unkinds-Live_Like_A_King-sWhN.mp3"
     ]
   },
   {
@@ -2015,7 +2586,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "CD promo",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Almost%20Human/05-The_Unkinds-Unemployed_Hero-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Almost_Human/05-The_Unkinds-Unemployed_Hero-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -2023,7 +2594,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/the-unkinds-almost-human-2003.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Almost%20Human/05-The_Unkinds-Unemployed_Hero-sWhN.mp3"
+      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Almost_Human/05-The_Unkinds-Unemployed_Hero-sWhN.mp3"
     ]
   },
   {
@@ -2039,7 +2610,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "CD promo",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Almost%20Human/06-The_Unkinds-Up_Your_Nose_(Live_Jam)-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Almost_Human/06-The_Unkinds-Up_Your_Nose_%28Live_Jam%29-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -2047,8 +2618,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/the-unkinds-almost-human-2003.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Almost%20Human/06-The_Unkinds-Up_Your_Nose_(Live_Jam)-sWhN.mp3",
-      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Almost%20Human/06-The_Unkinds-Up_Your_Nose-sWhN.mp3"
+      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Almost_Human/06-The_Unkinds-Up_Your_Nose_%28Live_Jam%29-sWhN.mp3"
     ]
   },
   {
@@ -2064,7 +2634,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Live recording",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live%20at%20Fellini%20Uppsala%2002-20/01-The_Unkinds-Intro_Jam-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live_at_Fellini_Uppsala_02-20/01-The_Unkinds-Intro_Jam-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -2072,8 +2642,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/the-unkinds-live-fellini-2003.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live%20at%20Fellini%20Uppsala%2002-20/01-The_Unkinds-Intro_Jam-sWhN.mp3",
-      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live%20at%20Fellini/01-The_Unkinds-Intro_Jam-sWhN.mp3"
+      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live_at_Fellini_Uppsala_02-20/01-The_Unkinds-Intro_Jam-sWhN.mp3"
     ]
   },
   {
@@ -2089,7 +2658,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Live recording",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live%20at%20Fellini%20Uppsala%2002-20/02-The_Unkinds-Timber-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live_at_Fellini_Uppsala_02-20/02-The_Unkinds-Timber-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -2097,8 +2666,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/the-unkinds-live-fellini-2003.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live%20at%20Fellini%20Uppsala%2002-20/02-The_Unkinds-Timber-sWhN.mp3",
-      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live%20at%20Fellini/02-The_Unkinds-Timber-sWhN.mp3"
+      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live_at_Fellini_Uppsala_02-20/02-The_Unkinds-Timber-sWhN.mp3"
     ]
   },
   {
@@ -2114,7 +2682,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Live recording",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live%20at%20Fellini%20Uppsala%2002-20/03-The_Unkinds-Unemployed_Heroes-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live_at_Fellini_Uppsala_02-20/03-The_Unkinds-Unemployed_Heroes-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -2122,8 +2690,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/the-unkinds-live-fellini-2003.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live%20at%20Fellini%20Uppsala%2002-20/03-The_Unkinds-Unemployed_Heroes-sWhN.mp3",
-      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live%20at%20Fellini/03-The_Unkinds-Unemployed_Heroes-sWhN.mp3"
+      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live_at_Fellini_Uppsala_02-20/03-The_Unkinds-Unemployed_Heroes-sWhN.mp3"
     ]
   },
   {
@@ -2139,7 +2706,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Live recording",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live%20at%20Fellini%20Uppsala%2002-20/04-The_Unkinds-Ffwd_A#-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live_at_Fellini_Uppsala_02-20/04-The_Unkinds-Ffwd_A-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -2147,8 +2714,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/the-unkinds-live-fellini-2003.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live%20at%20Fellini%20Uppsala%2002-20/04-The_Unkinds-Ffwd_A#-sWhN.mp3",
-      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live%20at%20Fellini/04-The_Unkinds-Ffwd_A#-sWhN.mp3"
+      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live_at_Fellini_Uppsala_02-20/04-The_Unkinds-Ffwd_A-sWhN.mp3"
     ]
   },
   {
@@ -2164,7 +2730,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Live recording",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live%20at%20Fellini%20Uppsala%2002-20/05-The_Unkinds-Merry-Go-Around-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live_at_Fellini_Uppsala_02-20/05-The_Unkinds-Merry-Go-Around-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -2172,8 +2738,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/the-unkinds-live-fellini-2003.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live%20at%20Fellini%20Uppsala%2002-20/05-The_Unkinds-Merry-Go-Around-sWhN.mp3",
-      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live%20at%20Fellini/05-The_Unkinds-Merry-Go-Around-sWhN.mp3"
+      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live_at_Fellini_Uppsala_02-20/05-The_Unkinds-Merry-Go-Around-sWhN.mp3"
     ]
   },
   {
@@ -2189,7 +2754,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Live recording",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live%20at%20Fellini%20Uppsala%2002-20/06-The_Unkinds-Skit_Ner_Dig_(the_F_Word_Song)-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live_at_Fellini_Uppsala_02-20/06-The_Unkinds-Skit_Ner_Dig_%28the_F_Word_Song%29-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -2197,10 +2762,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/the-unkinds-live-fellini-2003.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live%20at%20Fellini%20Uppsala%2002-20/06-The_Unkinds-Skit_Ner_Dig_(the_F_Word_Song)-sWhN.mp3",
-      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live%20at%20Fellini%20Uppsala%2002-20/06-The_Unkinds-Skit_Ner_Dig-sWhN.mp3",
-      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live%20at%20Fellini/06-The_Unkinds-Skit_Ner_Dig_(the_F_Word_Song)-sWhN.mp3",
-      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live%20at%20Fellini/06-The_Unkinds-Skit_Ner_Dig-sWhN.mp3"
+      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live_at_Fellini_Uppsala_02-20/06-The_Unkinds-Skit_Ner_Dig_%28the_F_Word_Song%29-sWhN.mp3"
     ]
   },
   {
@@ -2216,7 +2778,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Live recording",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live%20at%20Fellini%20Uppsala%2002-20/07-The_Unkinds-Lack_of-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live_at_Fellini_Uppsala_02-20/07-The_Unkinds-Lack_of-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -2224,8 +2786,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/the-unkinds-live-fellini-2003.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live%20at%20Fellini%20Uppsala%2002-20/07-The_Unkinds-Lack_of-sWhN.mp3",
-      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live%20at%20Fellini/07-The_Unkinds-Lack_of-sWhN.mp3"
+      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live_at_Fellini_Uppsala_02-20/07-The_Unkinds-Lack_of-sWhN.mp3"
     ]
   },
   {
@@ -2241,7 +2802,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Live recording",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live%20at%20Fellini%20Uppsala%2002-20/08-The_Unkinds-Live_Like_A_King-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live_at_Fellini_Uppsala_02-20/08-The_Unkinds-Live_Like_A_King-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -2249,8 +2810,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/the-unkinds-live-fellini-2003.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live%20at%20Fellini%20Uppsala%2002-20/08-The_Unkinds-Live_Like_A_King-sWhN.mp3",
-      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live%20at%20Fellini/08-The_Unkinds-Live_Like_A_King-sWhN.mp3"
+      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live_at_Fellini_Uppsala_02-20/08-The_Unkinds-Live_Like_A_King-sWhN.mp3"
     ]
   },
   {
@@ -2266,7 +2826,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Live recording",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live%20at%20Fellini%20Uppsala%2002-20/09-The_Unkinds-Skindippin_in_the_Swamps-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live_at_Fellini_Uppsala_02-20/09-The_Unkinds-Skindippin_in_the_Swamps-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -2274,8 +2834,2023 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/the-unkinds-live-fellini-2003.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live%20at%20Fellini%20Uppsala%2002-20/09-The_Unkinds-Skindippin_in_the_Swamps-sWhN.mp3",
-      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live%20at%20Fellini/09-The_Unkinds-Skindippin_in_the_Swamps-sWhN.mp3"
+      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live_at_Fellini_Uppsala_02-20/09-The_Unkinds-Skindippin_in_the_Swamps-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-the-eldest-2003-01-treelude",
+    "title": "Treelude",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "The Eldest",
+    "year": "2003",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "01",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2003%20-%20The_Eldest/01-Treebeard-Treelude-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2003%20-%20The_Eldest/01-Treebeard-Treelude-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-the-eldest-2003-02-the-nananana-song",
+    "title": "The Nananana Song",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "The Eldest",
+    "year": "2003",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "02",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2003%20-%20The_Eldest/02-Treebeard-The_Nananana_Song-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2003%20-%20The_Eldest/02-Treebeard-The_Nananana_Song-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-the-eldest-2003-03-no-padre-yes-padre",
+    "title": "No Padre Yes Padre",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "The Eldest",
+    "year": "2003",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "03",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2003%20-%20The_Eldest/03-Treebeard-No_Padre_Yes_Padre-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2003%20-%20The_Eldest/03-Treebeard-No_Padre_Yes_Padre-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-the-eldest-2003-04-including-pain",
+    "title": "Including Pain",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "The Eldest",
+    "year": "2003",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "04",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2003%20-%20The_Eldest/04-Treebeard-Including_Pain-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2003%20-%20The_Eldest/04-Treebeard-Including_Pain-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-the-eldest-2003-05-swedish-democracy",
+    "title": "Swedish Democracy",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "The Eldest",
+    "year": "2003",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "05",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2003%20-%20The_Eldest/05-Treebeard-Swedish_Democracy-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2003%20-%20The_Eldest/05-Treebeard-Swedish_Democracy-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-the-eldest-2003-06-in-a-anguish-mood",
+    "title": "In A Anguish Mood",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "The Eldest",
+    "year": "2003",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "06",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2003%20-%20The_Eldest/06-Treebeard-In_A_Anguish_Mood-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2003%20-%20The_Eldest/06-Treebeard-In_A_Anguish_Mood-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-the-eldest-2003-07-newspaper-boy",
+    "title": "Newspaper Boy",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "The Eldest",
+    "year": "2003",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "07",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2003%20-%20The_Eldest/07-Treebeard-Newspaper_Boy-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2003%20-%20The_Eldest/07-Treebeard-Newspaper_Boy-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-the-eldest-2003-08-echoing",
+    "title": "Echoing",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "The Eldest",
+    "year": "2003",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "08",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2003%20-%20The_Eldest/08-Treebeard-Echoing-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2003%20-%20The_Eldest/08-Treebeard-Echoing-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-the-eldest-2003-09-little-lupin",
+    "title": "Little Lupin",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "The Eldest",
+    "year": "2003",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "09",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2003%20-%20The_Eldest/09-Treebeard-Little_Lupin-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2003%20-%20The_Eldest/09-Treebeard-Little_Lupin-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-the-eldest-2003-10-recognize-the-name",
+    "title": "Recognize the Name",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "The Eldest",
+    "year": "2003",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "10",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2003%20-%20The_Eldest/10-Treebeard-Recognize_the_Name-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2003%20-%20The_Eldest/10-Treebeard-Recognize_the_Name-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-the-eldest-2003-11-coffee-kettle",
+    "title": "Coffee Kettle",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "The Eldest",
+    "year": "2003",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "11",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2003%20-%20The_Eldest/11-Treebeard-Coffee_Kettle-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2003%20-%20The_Eldest/11-Treebeard-Coffee_Kettle-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-the-eldest-2003-12-catastrophic",
+    "title": "Catastrophic",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "The Eldest",
+    "year": "2003",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "12",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2003%20-%20The_Eldest/12-Treebeard-Catastrophic-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2003%20-%20The_Eldest/12-Treebeard-Catastrophic-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-the-eldest-2003-13-up-my-sleeve",
+    "title": "Up My Sleeve",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "The Eldest",
+    "year": "2003",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "13",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2003%20-%20The_Eldest/13-Treebeard-Up_My_Sleeve-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2003%20-%20The_Eldest/13-Treebeard-Up_My_Sleeve-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-the-eldest-2003-14-a-man-about-town",
+    "title": "A Man About Town",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "The Eldest",
+    "year": "2003",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "14",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2003%20-%20The_Eldest/14-Treebeard-A_Man_About_Town-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2003%20-%20The_Eldest/14-Treebeard-A_Man_About_Town-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-the-eldest-2003-15-hidden-track",
+    "title": "Hidden Track",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "The Eldest",
+    "year": "2003",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "15",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2003%20-%20The_Eldest/15-Treebeard-Hidden_Track-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2003%20-%20The_Eldest/15-Treebeard-Hidden_Track-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-anguish-on-parade-2004-01-saddle-of-your-sorrow",
+    "title": "Saddle of Your Sorrow",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "Anguish On Parade",
+    "year": "2004",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "01",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2004%20-%20Anguish_on_Parade/01-Treebeard-Saddle_of_Your_Sorrow-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2004%20-%20Anguish_on_Parade/01-Treebeard-Saddle_of_Your_Sorrow-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-anguish-on-parade-2004-02-in-one-breath",
+    "title": "In One Breath",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "Anguish On Parade",
+    "year": "2004",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "02",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2004%20-%20Anguish_on_Parade/02-Treebeard-In_One_Breath-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2004%20-%20Anguish_on_Parade/02-Treebeard-In_One_Breath-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-anguish-on-parade-2004-03-no-krime",
+    "title": "No Krime",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "Anguish On Parade",
+    "year": "2004",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "03",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2004%20-%20Anguish_on_Parade/03-Treebeard-No_Krime-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2004%20-%20Anguish_on_Parade/03-Treebeard-No_Krime-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-anguish-on-parade-2004-04-sarcasm",
+    "title": "Sarcasm",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "Anguish On Parade",
+    "year": "2004",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "04",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2004%20-%20Anguish_on_Parade/04-Treebeard-Sarcasm-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2004%20-%20Anguish_on_Parade/04-Treebeard-Sarcasm-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-anguish-on-parade-2004-05-mind-over-matter",
+    "title": "Mind Over Matter",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "Anguish On Parade",
+    "year": "2004",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "05",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2004%20-%20Anguish_on_Parade/05-Treebeard-Mind_Over_Matter-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2004%20-%20Anguish_on_Parade/05-Treebeard-Mind_Over_Matter-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-anguish-on-parade-2004-06-lifeious",
+    "title": "Lifeious",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "Anguish On Parade",
+    "year": "2004",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "06",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2004%20-%20Anguish_on_Parade/06-Treebeard-Lifeious-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2004%20-%20Anguish_on_Parade/06-Treebeard-Lifeious-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-anguish-on-parade-2004-07-no-padre-yes-padre",
+    "title": "No Padre Yes Padre",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "Anguish On Parade",
+    "year": "2004",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "07",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2004%20-%20Anguish_on_Parade/07-Treebeard-No_Padre_Yes_Padre-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2004%20-%20Anguish_on_Parade/07-Treebeard-No_Padre_Yes_Padre-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-anguish-on-parade-2004-08-its-called-politics",
+    "title": "Its Called Politics",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "Anguish On Parade",
+    "year": "2004",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "08",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2004%20-%20Anguish_on_Parade/08-Treebeard-Its_Called_Politics-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2004%20-%20Anguish_on_Parade/08-Treebeard-Its_Called_Politics-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-anguish-on-parade-2004-09-mordor-blizz",
+    "title": "Mordor Blizz",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "Anguish On Parade",
+    "year": "2004",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "09",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2004%20-%20Anguish_on_Parade/09-Treebeard-Mordor_Blizz-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2004%20-%20Anguish_on_Parade/09-Treebeard-Mordor_Blizz-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-anguish-on-parade-2004-10-all-gone-now",
+    "title": "All Gone Now",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "Anguish On Parade",
+    "year": "2004",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "10",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2004%20-%20Anguish_on_Parade/10-Treebeard-All_Gone_Now-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2004%20-%20Anguish_on_Parade/10-Treebeard-All_Gone_Now-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-anguish-on-parade-2004-11-that-unknown-place",
+    "title": "That Unknown Place",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "Anguish On Parade",
+    "year": "2004",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "11",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2004%20-%20Anguish_on_Parade/11-Treebeard-That_Unknown_Place-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2004%20-%20Anguish_on_Parade/11-Treebeard-That_Unknown_Place-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-anguish-on-parade-2004-12-silence",
+    "title": "Silence",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "Anguish On Parade",
+    "year": "2004",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "12",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2004%20-%20Anguish_on_Parade/12-Treebeard-Silence-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2004%20-%20Anguish_on_Parade/12-Treebeard-Silence-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-anguish-on-parade-2004-13-marching-men",
+    "title": "Marching Men",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "Anguish On Parade",
+    "year": "2004",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "13",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2004%20-%20Anguish_on_Parade/13-Treebeard-Marching_Men-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2004%20-%20Anguish_on_Parade/13-Treebeard-Marching_Men-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-anguish-on-parade-2004-14-nightfall",
+    "title": "Nightfall",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "Anguish On Parade",
+    "year": "2004",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "14",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2004%20-%20Anguish_on_Parade/14-Treebeard-Nightfall-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2004%20-%20Anguish_on_Parade/14-Treebeard-Nightfall-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-not-for-sale-2005-01-the-wake-up-call",
+    "title": "The Wake Up Call",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "Not for Sale",
+    "year": "2005",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "01",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2005%20-%20Not_for_Sale/01-Treebeard-The_Wake_Up_Call-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2005%20-%20Not_for_Sale/01-Treebeard-The_Wake_Up_Call-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-not-for-sale-2005-02-im-too-sexy",
+    "title": "Im Too Sexy",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "Not for Sale",
+    "year": "2005",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "02",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2005%20-%20Not_for_Sale/02-Treebeard-Im_Too_Sexy-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2005%20-%20Not_for_Sale/02-Treebeard-Im_Too_Sexy-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-not-for-sale-2005-03-swedish-democracy",
+    "title": "Swedish Democracy",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "Not for Sale",
+    "year": "2005",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "03",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2005%20-%20Not_for_Sale/03-Treebeard-Swedish_Democracy-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2005%20-%20Not_for_Sale/03-Treebeard-Swedish_Democracy-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-not-for-sale-2005-04-echoing",
+    "title": "Echoing",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "Not for Sale",
+    "year": "2005",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "04",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2005%20-%20Not_for_Sale/04-Treebeard-Echoing-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2005%20-%20Not_for_Sale/04-Treebeard-Echoing-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-not-for-sale-2005-05-newspaper-boy",
+    "title": "Newspaper Boy",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "Not for Sale",
+    "year": "2005",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "05",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2005%20-%20Not_for_Sale/05-Treebeard-Newspaper_Boy-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2005%20-%20Not_for_Sale/05-Treebeard-Newspaper_Boy-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-not-for-sale-2005-06-path-of-virtue",
+    "title": "Path of Virtue",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "Not for Sale",
+    "year": "2005",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "06",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2005%20-%20Not_for_Sale/06-Treebeard-Path_of_Virtue-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2005%20-%20Not_for_Sale/06-Treebeard-Path_of_Virtue-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-not-for-sale-2005-07-catastrophic",
+    "title": "Catastrophic",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "Not for Sale",
+    "year": "2005",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "07",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2005%20-%20Not_for_Sale/07-Treebeard-Catastrophic-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2005%20-%20Not_for_Sale/07-Treebeard-Catastrophic-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-not-for-sale-2005-08-polly-pure",
+    "title": "Polly Pure",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "Not for Sale",
+    "year": "2005",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "08",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2005%20-%20Not_for_Sale/08-Treebeard-Polly_Pure-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2005%20-%20Not_for_Sale/08-Treebeard-Polly_Pure-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-not-for-sale-2005-09-fuck",
+    "title": "Fuck",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "Not for Sale",
+    "year": "2005",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "09",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2005%20-%20Not_for_Sale/09-Treebeard-Fuck-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2005%20-%20Not_for_Sale/09-Treebeard-Fuck-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-not-for-sale-2005-10-as-the-new-day-dawns",
+    "title": "As the New Day Dawns",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "Not for Sale",
+    "year": "2005",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "10",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2005%20-%20Not_for_Sale/10-Treebeard-As_the_New_Day_Dawns-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2005%20-%20Not_for_Sale/10-Treebeard-As_the_New_Day_Dawns-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-not-for-sale-2005-11-up-my-sleeve",
+    "title": "Up My Sleeve",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "Not for Sale",
+    "year": "2005",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "11",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2005%20-%20Not_for_Sale/11-Treebeard-Up_My_Sleeve-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2005%20-%20Not_for_Sale/11-Treebeard-Up_My_Sleeve-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-not-for-sale-2005-12-39-lashes",
+    "title": "39 Lashes",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "Not for Sale",
+    "year": "2005",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "12",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2005%20-%20Not_for_Sale/12-Treebeard-39_Lashes-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2005%20-%20Not_for_Sale/12-Treebeard-39_Lashes-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-not-for-sale-2005-13-fishbate",
+    "title": "Fishbate",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "Not for Sale",
+    "year": "2005",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "13",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2005%20-%20Not_for_Sale/13-Treebeard-Fishbate-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2005%20-%20Not_for_Sale/13-Treebeard-Fishbate-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-not-for-sale-2005-14-in-a-anguish-mood",
+    "title": "In A Anguish Mood",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "Not for Sale",
+    "year": "2005",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "14",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2005%20-%20Not_for_Sale/14-Treebeard-In_A_Anguish_Mood-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2005%20-%20Not_for_Sale/14-Treebeard-In_A_Anguish_Mood-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-not-for-sale-2005-15-little-lupin",
+    "title": "Little Lupin",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "Not for Sale",
+    "year": "2005",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "15",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2005%20-%20Not_for_Sale/15-Treebeard-Little_Lupin-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2005%20-%20Not_for_Sale/15-Treebeard-Little_Lupin-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-not-for-sale-2005-16-not-for-sale",
+    "title": "Not for Sale",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "Not for Sale",
+    "year": "2005",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "16",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2005%20-%20Not_for_Sale/16-Treebeard-Not_for_Sale-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2005%20-%20Not_for_Sale/16-Treebeard-Not_for_Sale-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-not-for-sale-2005-17-fk",
+    "title": "Fk",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "Not for Sale",
+    "year": "2005",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "17",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2005%20-%20Not_for_Sale/17-Treebeard-Fk-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2005%20-%20Not_for_Sale/17-Treebeard-Fk-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-may-contain-small-bones-2006-01-possessed-by-the-trumpets",
+    "title": "Possessed by the Trumpets",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "May Contain Small Bones",
+    "year": "2006",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "01",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2006%20-%20May_Contain_Small_Bones/01-Treebeard-Possessed_by_the_Trumpets-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2006%20-%20May_Contain_Small_Bones/01-Treebeard-Possessed_by_the_Trumpets-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-may-contain-small-bones-2006-02-hidden-in-the-snow",
+    "title": "Hidden in the Snow",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "May Contain Small Bones",
+    "year": "2006",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "02",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2006%20-%20May_Contain_Small_Bones/02-Treebeard-Hidden_in_the_Snow-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2006%20-%20May_Contain_Small_Bones/02-Treebeard-Hidden_in_the_Snow-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-may-contain-small-bones-2006-03-rivendell",
+    "title": "Rivendell",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "May Contain Small Bones",
+    "year": "2006",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "03",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2006%20-%20May_Contain_Small_Bones/03-Treebeard-Rivendell-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2006%20-%20May_Contain_Small_Bones/03-Treebeard-Rivendell-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-may-contain-small-bones-2006-04-into-the-forest",
+    "title": "Into the Forest",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "May Contain Small Bones",
+    "year": "2006",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "04",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2006%20-%20May_Contain_Small_Bones/04-Treebeard-Into_the_Forest-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2006%20-%20May_Contain_Small_Bones/04-Treebeard-Into_the_Forest-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-may-contain-small-bones-2006-05-mustapha",
+    "title": "Mustapha",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "May Contain Small Bones",
+    "year": "2006",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "05",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2006%20-%20May_Contain_Small_Bones/05-Treebeard-Mustapha-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2006%20-%20May_Contain_Small_Bones/05-Treebeard-Mustapha-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-may-contain-small-bones-2006-06-snowspace",
+    "title": "Snowspace",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "May Contain Small Bones",
+    "year": "2006",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "06",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2006%20-%20May_Contain_Small_Bones/06-Treebeard-Snowspace-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2006%20-%20May_Contain_Small_Bones/06-Treebeard-Snowspace-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-may-contain-small-bones-2006-07-rubbish",
+    "title": "Rubbish",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "May Contain Small Bones",
+    "year": "2006",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "07",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2006%20-%20May_Contain_Small_Bones/07-Treebeard-Rubbish-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2006%20-%20May_Contain_Small_Bones/07-Treebeard-Rubbish-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-may-contain-small-bones-2006-08-under-the-influence",
+    "title": "Under the Influence",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "May Contain Small Bones",
+    "year": "2006",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "08",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2006%20-%20May_Contain_Small_Bones/08-Treebeard-Under_the_Influence-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2006%20-%20May_Contain_Small_Bones/08-Treebeard-Under_the_Influence-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-may-contain-small-bones-2006-09-what-goes-on",
+    "title": "What Goes on",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "May Contain Small Bones",
+    "year": "2006",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "09",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2006%20-%20May_Contain_Small_Bones/09-Treebeard-What_Goes_on-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2006%20-%20May_Contain_Small_Bones/09-Treebeard-What_Goes_on-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-may-contain-small-bones-2006-10-jungle-metal",
+    "title": "Jungle Metal",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "May Contain Small Bones",
+    "year": "2006",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "10",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2006%20-%20May_Contain_Small_Bones/10-Treebeard-Jungle_Metal-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2006%20-%20May_Contain_Small_Bones/10-Treebeard-Jungle_Metal-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-may-contain-small-bones-2006-11-demadmemadem",
+    "title": "Demadmemadem",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "May Contain Small Bones",
+    "year": "2006",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "11",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2006%20-%20May_Contain_Small_Bones/11-Treebeard-Demadmemadem-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2006%20-%20May_Contain_Small_Bones/11-Treebeard-Demadmemadem-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-may-contain-small-bones-2006-12-strange-ways",
+    "title": "Strange Ways",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "May Contain Small Bones",
+    "year": "2006",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "12",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2006%20-%20May_Contain_Small_Bones/12-Treebeard-Strange_Ways-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2006%20-%20May_Contain_Small_Bones/12-Treebeard-Strange_Ways-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-may-contain-small-bones-2006-13-headless",
+    "title": "Headless",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "May Contain Small Bones",
+    "year": "2006",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "13",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2006%20-%20May_Contain_Small_Bones/13-Treebeard-Headless-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2006%20-%20May_Contain_Small_Bones/13-Treebeard-Headless-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-principle-of-evil-2008-01-first-we-bow",
+    "title": "First We  Bow",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Principle of Evil",
+    "year": "2008",
+    "genre": "Metal",
+    "duration": "01:23",
+    "trackNumber": "01",
+    "releaseType": "EP",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2008%20-%20Principle_of_Evil-%28EP%29/01-Aphophis-First_We_Bow-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "nfo-aphophis-principle-of-evil-2008",
+    "sourceFile": "assets/nfo/aphophis-principle-of-evil-2008.nfo",
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2008%20-%20Principle_of_Evil-%28EP%29/01-Aphophis-First_We_Bow-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-principle-of-evil-2008-02-solar-barque",
+    "title": "Solar Barque",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Principle of Evil",
+    "year": "2008",
+    "genre": "Metal",
+    "duration": "05:45",
+    "trackNumber": "02",
+    "releaseType": "EP",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2008%20-%20Principle_of_Evil-%28EP%29/02-Aphophis-Solar_Barque-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "nfo-aphophis-principle-of-evil-2008",
+    "sourceFile": "assets/nfo/aphophis-principle-of-evil-2008.nfo",
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2008%20-%20Principle_of_Evil-%28EP%29/02-Aphophis-Solar_Barque-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-principle-of-evil-2008-03-from-prince-to-prentice",
+    "title": "From Prince to Prentice",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Principle of Evil",
+    "year": "2008",
+    "genre": "Metal",
+    "duration": "05:36",
+    "trackNumber": "03",
+    "releaseType": "EP",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2008%20-%20Principle_of_Evil-%28EP%29/03-Aphophis-Form_Prince_to_Prentice-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "nfo-aphophis-principle-of-evil-2008",
+    "sourceFile": "assets/nfo/aphophis-principle-of-evil-2008.nfo",
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2008%20-%20Principle_of_Evil-%28EP%29/03-Aphophis-Form_Prince_to_Prentice-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-principle-of-evil-2008-04-serpent-of-rebirth",
+    "title": "Serpent of Rebirth",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Principle of Evil",
+    "year": "2008",
+    "genre": "Metal",
+    "duration": "04:59",
+    "trackNumber": "04",
+    "releaseType": "EP",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2008%20-%20Principle_of_Evil-%28EP%29/04-Aphophis-Serpent_of_Rebirth-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "nfo-aphophis-principle-of-evil-2008",
+    "sourceFile": "assets/nfo/aphophis-principle-of-evil-2008.nfo",
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2008%20-%20Principle_of_Evil-%28EP%29/04-Aphophis-Serpent_of_Rebirth-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-principle-of-evil-2008-05-then-we-bow-again",
+    "title": "Then We Bow  Again",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Principle of Evil",
+    "year": "2008",
+    "genre": "Metal",
+    "duration": "05:09",
+    "trackNumber": "05",
+    "releaseType": "EP",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2008%20-%20Principle_of_Evil-%28EP%29/05-Aphophis-Then_We_Bow_Again-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "nfo-aphophis-principle-of-evil-2008",
+    "sourceFile": "assets/nfo/aphophis-principle-of-evil-2008.nfo",
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2008%20-%20Principle_of_Evil-%28EP%29/05-Aphophis-Then_We_Bow_Again-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-principle-of-evil-bonus-trax-2008-01-backwaters-bonus-track",
+    "title": "Backwaters (Bonus Track)",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Principle of Evil Bonus Trax",
+    "year": "2008",
+    "genre": "Metal",
+    "duration": "01:46",
+    "trackNumber": "01",
+    "releaseType": "EP / bonus",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2008%20-%20Principle_of_Evil_Bonus_Trax-%28EP%29/01-Aphophis-Backwaters_%28Bonus_Track%29-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "nfo-aphophis-principle-of-evil-bonus-trax-2008",
+    "sourceFile": "assets/nfo/aphophis-principle-of-evil-bonus-2008.nfo",
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2008%20-%20Principle_of_Evil_Bonus_Trax-%28EP%29/01-Aphophis-Backwaters_%28Bonus_Track%29-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-principle-of-evil-bonus-trax-2008-02-in-league-with-satan-bonus-track",
+    "title": "In League with Satan (Bonus Track)",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Principle of Evil Bonus Trax",
+    "year": "2008",
+    "genre": "Metal",
+    "duration": "03:22",
+    "trackNumber": "02",
+    "releaseType": "EP / bonus",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2008%20-%20Principle_of_Evil_Bonus_Trax-%28EP%29/02-Aphophis-In_League_with_Satan_%28Bonus_Track%29-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "nfo-aphophis-principle-of-evil-bonus-trax-2008",
+    "sourceFile": "assets/nfo/aphophis-principle-of-evil-bonus-2008.nfo",
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2008%20-%20Principle_of_Evil_Bonus_Trax-%28EP%29/02-Aphophis-In_League_with_Satan_%28Bonus_Track%29-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-principle-of-evil-bonus-trax-2008-03-czardas-bonus-track",
+    "title": "Czardas (Bonus Track)",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Principle of Evil Bonus Trax",
+    "year": "2008",
+    "genre": "Metal",
+    "duration": "04:17",
+    "trackNumber": "03",
+    "releaseType": "EP / bonus",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2008%20-%20Principle_of_Evil_Bonus_Trax-%28EP%29/03-Aphophis-Czardas_%28Bonus_Track%29-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "nfo-aphophis-principle-of-evil-bonus-trax-2008",
+    "sourceFile": "assets/nfo/aphophis-principle-of-evil-bonus-2008.nfo",
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2008%20-%20Principle_of_Evil_Bonus_Trax-%28EP%29/03-Aphophis-Czardas_%28Bonus_Track%29-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-principle-of-evil-bonus-trax-2008-04-rain-song-bonus-track",
+    "title": "Rain Song (Bonus Track)",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Principle of Evil Bonus Trax",
+    "year": "2008",
+    "genre": "Metal",
+    "duration": "00:35",
+    "trackNumber": "04",
+    "releaseType": "EP / bonus",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2008%20-%20Principle_of_Evil_Bonus_Trax-%28EP%29/04-Aphophis-Rain_Song_%28Bonus_Track%29-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "nfo-aphophis-principle-of-evil-bonus-trax-2008",
+    "sourceFile": "assets/nfo/aphophis-principle-of-evil-bonus-2008.nfo",
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2008%20-%20Principle_of_Evil_Bonus_Trax-%28EP%29/04-Aphophis-Rain_Song_%28Bonus_Track%29-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-admiration-2008-01-contradictions",
+    "title": "Contradictions",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "Admiration",
+    "year": "2008",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "01",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2008%20-%20Admiration/01-Treebeard-Contradictions-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2008%20-%20Admiration/01-Treebeard-Contradictions-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-admiration-2008-02-enjoy-the-plague",
+    "title": "Enjoy the Plague",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "Admiration",
+    "year": "2008",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "02",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2008%20-%20Admiration/02-Treebeard-Enjoy_the_Plague-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2008%20-%20Admiration/02-Treebeard-Enjoy_the_Plague-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-admiration-2008-03-midsummers-eve",
+    "title": "Midsummers Eve",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "Admiration",
+    "year": "2008",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "03",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2008%20-%20Admiration/03-Treebeard-Midsummers_Eve-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2008%20-%20Admiration/03-Treebeard-Midsummers_Eve-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-admiration-2008-04-cyon-dukhunensis",
+    "title": "Cyon Dukhunensis",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "Admiration",
+    "year": "2008",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "04",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2008%20-%20Admiration/04-Treebeard-Cyon_Dukhunensis-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2008%20-%20Admiration/04-Treebeard-Cyon_Dukhunensis-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-admiration-2008-05-owed-to-h",
+    "title": "Owed to H",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "Admiration",
+    "year": "2008",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "05",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2008%20-%20Admiration/05-Treebeard-Owed_to_H-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2008%20-%20Admiration/05-Treebeard-Owed_to_H-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-admiration-2008-06-cocaine-buffe",
+    "title": "Cocaine Buffe",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "Admiration",
+    "year": "2008",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "06",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2008%20-%20Admiration/06-Treebeard-Cocaine_Buffe-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2008%20-%20Admiration/06-Treebeard-Cocaine_Buffe-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-admiration-2008-07-scrambled-porn",
+    "title": "Scrambled Porn",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "Admiration",
+    "year": "2008",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "07",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2008%20-%20Admiration/07-Treebeard-Scrambled_Porn-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2008%20-%20Admiration/07-Treebeard-Scrambled_Porn-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-admiration-2008-08-kali",
+    "title": "Kali",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "Admiration",
+    "year": "2008",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "08",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2008%20-%20Admiration/08-Treebeard-Kali-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2008%20-%20Admiration/08-Treebeard-Kali-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-admiration-2008-09-sanctuary",
+    "title": "Sanctuary",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "Admiration",
+    "year": "2008",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "09",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2008%20-%20Admiration/09-Treebeard-Sanctuary-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2008%20-%20Admiration/09-Treebeard-Sanctuary-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-admiration-2008-10-the-temples-of-syrinx",
+    "title": "The Temples of Syrinx",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "Admiration",
+    "year": "2008",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "10",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2008%20-%20Admiration/10-Treebeard-The_Temples_of_Syrinx-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2008%20-%20Admiration/10-Treebeard-The_Temples_of_Syrinx-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-admiration-2008-11-stolen-art-triangles",
+    "title": "Stolen Art Triangles",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "Admiration",
+    "year": "2008",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "11",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2008%20-%20Admiration/11-Treebeard-Stolen_Art_Triangles-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2008%20-%20Admiration/11-Treebeard-Stolen_Art_Triangles-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-admiration-2008-12-souls-of-the-black-forest",
+    "title": "Souls of the Black Forest",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "Admiration",
+    "year": "2008",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "12",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2008%20-%20Admiration/12-Treebeard-Souls_of_the_Black_Forest-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2008%20-%20Admiration/12-Treebeard-Souls_of_the_Black_Forest-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-admiration-2008-13-its-eating",
+    "title": "Its Eating",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "Admiration",
+    "year": "2008",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "13",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2008%20-%20Admiration/13-Treebeard-Its_Eating-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2008%20-%20Admiration/13-Treebeard-Its_Eating-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-admiration-2008-14-deconstruction",
+    "title": "Deconstruction",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "Admiration",
+    "year": "2008",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "14",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2008%20-%20Admiration/14-Treebeard-Deconstruction-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2008%20-%20Admiration/14-Treebeard-Deconstruction-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-admiration-2008-15-once-in-lifetime",
+    "title": "Once in Lifetime",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "Admiration",
+    "year": "2008",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "15",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2008%20-%20Admiration/15-Treebeard-Once_in_Lifetime-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2008%20-%20Admiration/15-Treebeard-Once_in_Lifetime-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-admiration-2008-16-bharat-guest-house",
+    "title": "Bharat Guest House",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "Admiration",
+    "year": "2008",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "16",
+    "releaseType": "Album",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2008%20-%20Admiration/16-Treebeard-Bharat_Guest_House-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2008%20-%20Admiration/16-Treebeard-Bharat_Guest_House-sWhN.mp3"
     ]
   },
   {
@@ -2291,7 +4866,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin%20Board/01-Treebeard-Welcome_to_the_Machine-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin_Board/01-Treebeard-Welcome_to_the_Machine-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -2299,7 +4874,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/treebeard-bulletin-board-2008.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin%20Board/01-Treebeard-Welcome_to_the_Machine-sWhN.mp3"
+      "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin_Board/01-Treebeard-Welcome_to_the_Machine-sWhN.mp3"
     ]
   },
   {
@@ -2315,7 +4890,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin%20Board/02-Treebeard-Spectrums-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin_Board/02-Treebeard-Spectrums-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -2323,7 +4898,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/treebeard-bulletin-board-2008.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin%20Board/02-Treebeard-Spectrums-sWhN.mp3"
+      "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin_Board/02-Treebeard-Spectrums-sWhN.mp3"
     ]
   },
   {
@@ -2339,7 +4914,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin%20Board/03-Treebeard-Conflicting_Interpretation-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin_Board/03-Treebeard-Conflicting_Interpretation-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -2347,7 +4922,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/treebeard-bulletin-board-2008.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin%20Board/03-Treebeard-Conflicting_Interpretation-sWhN.mp3"
+      "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin_Board/03-Treebeard-Conflicting_Interpretation-sWhN.mp3"
     ]
   },
   {
@@ -2363,7 +4938,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin%20Board/04-Treebeard-Interjection_Interlude_I-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin_Board/04-Treebeard-Interjection_Interlude_I-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -2371,7 +4946,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/treebeard-bulletin-board-2008.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin%20Board/04-Treebeard-Interjection_Interlude_I-sWhN.mp3"
+      "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin_Board/04-Treebeard-Interjection_Interlude_I-sWhN.mp3"
     ]
   },
   {
@@ -2387,7 +4962,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin%20Board/05-Treebeard-Army_of_the_Undead-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin_Board/05-Treebeard-Army_of_the_Undead-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -2395,7 +4970,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/treebeard-bulletin-board-2008.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin%20Board/05-Treebeard-Army_of_the_Undead-sWhN.mp3"
+      "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin_Board/05-Treebeard-Army_of_the_Undead-sWhN.mp3"
     ]
   },
   {
@@ -2411,7 +4986,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin%20Board/06-Treebeard-Chicken-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin_Board/06-Treebeard-Chicken-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -2419,7 +4994,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/treebeard-bulletin-board-2008.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin%20Board/06-Treebeard-Chicken-sWhN.mp3"
+      "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin_Board/06-Treebeard-Chicken-sWhN.mp3"
     ]
   },
   {
@@ -2435,7 +5010,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin%20Board/07-Treebeard-Namaste_Chi-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin_Board/07-Treebeard-Namaste_Chi-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -2443,7 +5018,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/treebeard-bulletin-board-2008.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin%20Board/07-Treebeard-Namaste_Chi-sWhN.mp3"
+      "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin_Board/07-Treebeard-Namaste_Chi-sWhN.mp3"
     ]
   },
   {
@@ -2459,7 +5034,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin%20Board/08-Treebeard-Defleshed-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin_Board/08-Treebeard-Defleshed-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -2467,7 +5042,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/treebeard-bulletin-board-2008.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin%20Board/08-Treebeard-Defleshed-sWhN.mp3"
+      "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin_Board/08-Treebeard-Defleshed-sWhN.mp3"
     ]
   },
   {
@@ -2483,7 +5058,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin%20Board/09-Treebeard-Interjection_Interlude_II-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin_Board/09-Treebeard-Interjection_Interlude_II-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -2491,7 +5066,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/treebeard-bulletin-board-2008.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin%20Board/09-Treebeard-Interjection_Interlude_II-sWhN.mp3"
+      "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin_Board/09-Treebeard-Interjection_Interlude_II-sWhN.mp3"
     ]
   },
   {
@@ -2507,7 +5082,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin%20Board/10-Treebeard-Saranam_Gacchami-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin_Board/10-Treebeard-Saranam_Gacch%C3%A2mi-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -2515,7 +5090,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/treebeard-bulletin-board-2008.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin%20Board/10-Treebeard-Saranam_Gacchami-sWhN.mp3"
+      "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin_Board/10-Treebeard-Saranam_Gacch%C3%A2mi-sWhN.mp3"
     ]
   },
   {
@@ -2531,7 +5106,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin%20Board/11-Treebeard-Indoctrinated-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin_Board/11-Treebeard-Indoctrinated-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -2539,7 +5114,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/treebeard-bulletin-board-2008.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin%20Board/11-Treebeard-Indoctrinated-sWhN.mp3"
+      "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin_Board/11-Treebeard-Indoctrinated-sWhN.mp3"
     ]
   },
   {
@@ -2555,7 +5130,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin%20Board/12-Treebeard-Black_End-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin_Board/12-Treebeard-Black_End-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -2563,7 +5138,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/treebeard-bulletin-board-2008.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin%20Board/12-Treebeard-Black_End-sWhN.mp3"
+      "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin_Board/12-Treebeard-Black_End-sWhN.mp3"
     ]
   },
   {
@@ -2579,7 +5154,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin%20Board/13-Treebeard-Harbour_Coffin_(Demo)-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin_Board/13-Treebeard-Harbour_Coffin_%28Demo%29-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -2587,8 +5162,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/treebeard-bulletin-board-2008.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin%20Board/13-Treebeard-Harbour_Coffin_(Demo)-sWhN.mp3",
-      "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin%20Board/13-Treebeard-Harbour_Coffin-sWhN.mp3"
+      "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin_Board/13-Treebeard-Harbour_Coffin_%28Demo%29-sWhN.mp3"
     ]
   },
   {
@@ -2604,7 +5178,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin%20Board/14-Treebeard-Look_at_Me,_Im_Sandra_Dee_(Demo)-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin_Board/14-Treebeard-Look_at_Me_Im_Sandra_Dee_%28Demo%29-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -2612,18 +5186,159 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/treebeard-bulletin-board-2008.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin%20Board/14-Treebeard-Look_at_Me,_Im_Sandra_Dee_(Demo)-sWhN.mp3",
-      "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin%20Board/14-Treebeard-Look_at_Me_Im_Sandra_Dee_(Demo)-sWhN.mp3",
-      "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin%20Board/14-Treebeard-Look_at_Me,_Im_Sandra_Dee-sWhN.mp3",
-      "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin%20Board/14-Treebeard-Look_at_Me_Im_Sandra_Dee-sWhN.mp3"
+      "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin_Board/14-Treebeard-Look_at_Me_Im_Sandra_Dee_%28Demo%29-sWhN.mp3"
     ]
   },
   {
-    "id": "treebeard-don-t-judge-a-album-by-it-s-cover-2009-01-39-lashes-jesus-christ-superstar-cover",
+    "id": "aphophis-the-books-of-overthrowing-apep-2009-01-spitting-upon-apep",
+    "title": "spitting upon apep",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "The Books Of Overthrowing Apep",
+    "year": "2009",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "01",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2009%20-%20The%20Books%20Of%20Overthrowing%20Apep/01-aph%C3%B4phis-spitting_upon_apep.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2009%20-%20The%20Books%20Of%20Overthrowing%20Apep/01-aph%C3%B4phis-spitting_upon_apep.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-the-books-of-overthrowing-apep-2009-02-defiling-apep-with-the-left-foot",
+    "title": "defiling apep with the left foot",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "The Books Of Overthrowing Apep",
+    "year": "2009",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "02",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2009%20-%20The%20Books%20Of%20Overthrowing%20Apep/02-aph%C3%B4phis-defiling_apep_with_the_left_foot.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2009%20-%20The%20Books%20Of%20Overthrowing%20Apep/02-aph%C3%B4phis-defiling_apep_with_the_left_foot.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-the-books-of-overthrowing-apep-2009-03-taking-a-lance-to-smite-apep",
+    "title": "taking a lance to smite apep",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "The Books Of Overthrowing Apep",
+    "year": "2009",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "03",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2009%20-%20The%20Books%20Of%20Overthrowing%20Apep/03-aph%C3%B4phis-taking_a_lance_to_smite_apep.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2009%20-%20The%20Books%20Of%20Overthrowing%20Apep/03-aph%C3%B4phis-taking_a_lance_to_smite_apep.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-the-books-of-overthrowing-apep-2009-04-fettering-apep",
+    "title": "fettering apep",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "The Books Of Overthrowing Apep",
+    "year": "2009",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "04",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2009%20-%20The%20Books%20Of%20Overthrowing%20Apep/04-aph%C3%B4phis-fettering_apep.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2009%20-%20The%20Books%20Of%20Overthrowing%20Apep/04-aph%C3%B4phis-fettering_apep.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-the-books-of-overthrowing-apep-2009-05-taking-a-knife-to-smite-apep",
+    "title": "taking a knife to smite apep",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "The Books Of Overthrowing Apep",
+    "year": "2009",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "05",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2009%20-%20The%20Books%20Of%20Overthrowing%20Apep/05-aph%C3%B4phis-taking_a_knife_to_smite_apep.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2009%20-%20The%20Books%20Of%20Overthrowing%20Apep/05-aph%C3%B4phis-taking_a_knife_to_smite_apep.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-the-books-of-overthrowing-apep-2009-06-putting-fire-upon-apep",
+    "title": "putting fire upon apep",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "The Books Of Overthrowing Apep",
+    "year": "2009",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "06",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2009%20-%20The%20Books%20Of%20Overthrowing%20Apep/06-aph%C3%B4phis-putting_fire_upon_apep.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2009%20-%20The%20Books%20Of%20Overthrowing%20Apep/06-aph%C3%B4phis-putting_fire_upon_apep.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-don-t-judge-a-album-by-its-cover-2009-01-39-lashes-jesus-christ-superstar-cover",
     "title": "39 Lashes (Jesus Christ Superstar Cover)",
     "artist": "Treebeard",
     "project": "Treebeard",
-    "release": "Don't Judge A Album By It's Cover",
+    "release": "Don't Judge A Album by Its Cover",
     "year": "2009",
     "genre": "Alternative",
     "duration": "01:19",
@@ -2631,7 +5346,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/01-Treebeard-39_Lashes_(Jesus_Christ_Superstar_Cover)-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Treebeard/2009%20-%20Dont_Judge_A_Album_by_Its_Cover/01-Treebeard-39_Lashes_%28Jesus_Christ_Superstar_Cover%29-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -2639,18 +5354,15 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/treebeard-dont-judge-album-cover-2009.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/01-Treebeard-39_Lashes_(Jesus_Christ_Superstar_Cover)-sWhN.mp3",
-      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/01-Treebeard-39_Lashes-sWhN.mp3",
-      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20By%20Its%20Cover/01-Treebeard-39_Lashes_(Jesus_Christ_Superstar_Cover)-sWhN.mp3",
-      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20By%20Its%20Cover/01-Treebeard-39_Lashes-sWhN.mp3"
+      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont_Judge_A_Album_by_Its_Cover/01-Treebeard-39_Lashes_%28Jesus_Christ_Superstar_Cover%29-sWhN.mp3"
     ]
   },
   {
-    "id": "treebeard-don-t-judge-a-album-by-it-s-cover-2009-02-welcome-to-the-machine-pink-floyd-cover",
+    "id": "treebeard-don-t-judge-a-album-by-its-cover-2009-02-welcome-to-the-machine-pink-floyd-cover",
     "title": "Welcome to the Machine (Pink Floyd Cover)",
     "artist": "Treebeard",
     "project": "Treebeard",
-    "release": "Don't Judge A Album By It's Cover",
+    "release": "Don't Judge A Album by Its Cover",
     "year": "2009",
     "genre": "Alternative",
     "duration": "05:59",
@@ -2658,7 +5370,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/02-Treebeard-Welcome_to_the_Machine_(Pink_Floyd_Cover)-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Treebeard/2009%20-%20Dont_Judge_A_Album_by_Its_Cover/02-Treebeard-Welcome_to_the_Machine_%28Pink_Floyd_Cover%29-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -2666,18 +5378,15 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/treebeard-dont-judge-album-cover-2009.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/02-Treebeard-Welcome_to_the_Machine_(Pink_Floyd_Cover)-sWhN.mp3",
-      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/02-Treebeard-Welcome_to_the_Machine-sWhN.mp3",
-      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20By%20Its%20Cover/02-Treebeard-Welcome_to_the_Machine_(Pink_Floyd_Cover)-sWhN.mp3",
-      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20By%20Its%20Cover/02-Treebeard-Welcome_to_the_Machine-sWhN.mp3"
+      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont_Judge_A_Album_by_Its_Cover/02-Treebeard-Welcome_to_the_Machine_%28Pink_Floyd_Cover%29-sWhN.mp3"
     ]
   },
   {
-    "id": "treebeard-don-t-judge-a-album-by-it-s-cover-2009-03-strange-ways-kiss-cover",
+    "id": "treebeard-don-t-judge-a-album-by-its-cover-2009-03-strange-ways-kiss-cover",
     "title": "Strange Ways (Kiss Cover)",
     "artist": "Treebeard",
     "project": "Treebeard",
-    "release": "Don't Judge A Album By It's Cover",
+    "release": "Don't Judge A Album by Its Cover",
     "year": "2009",
     "genre": "Alternative",
     "duration": "03:17",
@@ -2685,7 +5394,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/03-Treebeard-Strange_Ways_(Kiss_Cover)-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Treebeard/2009%20-%20Dont_Judge_A_Album_by_Its_Cover/03-Treebeard-Strange_Ways_%28Kiss_Cover%29-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -2693,18 +5402,15 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/treebeard-dont-judge-album-cover-2009.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/03-Treebeard-Strange_Ways_(Kiss_Cover)-sWhN.mp3",
-      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/03-Treebeard-Strange_Ways-sWhN.mp3",
-      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20By%20Its%20Cover/03-Treebeard-Strange_Ways_(Kiss_Cover)-sWhN.mp3",
-      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20By%20Its%20Cover/03-Treebeard-Strange_Ways-sWhN.mp3"
+      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont_Judge_A_Album_by_Its_Cover/03-Treebeard-Strange_Ways_%28Kiss_Cover%29-sWhN.mp3"
     ]
   },
   {
-    "id": "treebeard-don-t-judge-a-album-by-it-s-cover-2009-04-what-goes-on-the-beatles-cover",
+    "id": "treebeard-don-t-judge-a-album-by-its-cover-2009-04-what-goes-on-the-beatles-cover",
     "title": "What Goes on (The Beatles Cover)",
     "artist": "Treebeard",
     "project": "Treebeard",
-    "release": "Don't Judge A Album By It's Cover",
+    "release": "Don't Judge A Album by Its Cover",
     "year": "2009",
     "genre": "Alternative",
     "duration": "02:18",
@@ -2712,7 +5418,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/04-Treebeard-What_Goes_on_(The_Beatles_Cover)-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Treebeard/2009%20-%20Dont_Judge_A_Album_by_Its_Cover/04-Treebeard-What_Goes_on_%28the_Beatles_Cover%29-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -2720,18 +5426,15 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/treebeard-dont-judge-album-cover-2009.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/04-Treebeard-What_Goes_on_(The_Beatles_Cover)-sWhN.mp3",
-      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/04-Treebeard-What_Goes_on-sWhN.mp3",
-      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20By%20Its%20Cover/04-Treebeard-What_Goes_on_(The_Beatles_Cover)-sWhN.mp3",
-      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20By%20Its%20Cover/04-Treebeard-What_Goes_on-sWhN.mp3"
+      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont_Judge_A_Album_by_Its_Cover/04-Treebeard-What_Goes_on_%28the_Beatles_Cover%29-sWhN.mp3"
     ]
   },
   {
-    "id": "treebeard-don-t-judge-a-album-by-it-s-cover-2009-05-owed-to-h-simpson-theme",
+    "id": "treebeard-don-t-judge-a-album-by-its-cover-2009-05-owed-to-h-simpson-theme",
     "title": "Owed to ''H'' (Simpson Theme)",
     "artist": "Treebeard",
     "project": "Treebeard",
-    "release": "Don't Judge A Album By It's Cover",
+    "release": "Don't Judge A Album by Its Cover",
     "year": "2009",
     "genre": "Alternative",
     "duration": "01:32",
@@ -2739,7 +5442,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/05-Treebeard-Owed_to_H_(Simpson_Theme)-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Treebeard/2009%20-%20Dont_Judge_A_Album_by_Its_Cover/05-Treebeard-Owed_to_H_%28Simpson_Theme%29-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -2747,18 +5450,15 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/treebeard-dont-judge-album-cover-2009.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/05-Treebeard-Owed_to_H_(Simpson_Theme)-sWhN.mp3",
-      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/05-Treebeard-Owed_to_H-sWhN.mp3",
-      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20By%20Its%20Cover/05-Treebeard-Owed_to_H_(Simpson_Theme)-sWhN.mp3",
-      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20By%20Its%20Cover/05-Treebeard-Owed_to_H-sWhN.mp3"
+      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont_Judge_A_Album_by_Its_Cover/05-Treebeard-Owed_to_H_%28Simpson_Theme%29-sWhN.mp3"
     ]
   },
   {
-    "id": "treebeard-don-t-judge-a-album-by-it-s-cover-2009-06-jungle-metal-kool-the-gang-cover",
+    "id": "treebeard-don-t-judge-a-album-by-its-cover-2009-06-jungle-metal-kool-the-gang-cover",
     "title": "Jungle Metal (Kool & The Gang Cover)",
     "artist": "Treebeard",
     "project": "Treebeard",
-    "release": "Don't Judge A Album By It's Cover",
+    "release": "Don't Judge A Album by Its Cover",
     "year": "2009",
     "genre": "Alternative",
     "duration": "01:10",
@@ -2766,7 +5466,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/06-Treebeard-Jungle_Metal_(Kool_&_The_Gang_Cover)-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Treebeard/2009%20-%20Dont_Judge_A_Album_by_Its_Cover/06-Treebeard-Jungle_Metal_%28Kool_and_the_Gang_Cover%29-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -2774,20 +5474,15 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/treebeard-dont-judge-album-cover-2009.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/06-Treebeard-Jungle_Metal_(Kool_&_The_Gang_Cover)-sWhN.mp3",
-      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/06-Treebeard-Jungle_Metal_(Kool_and_The_Gang_Cover)-sWhN.mp3",
-      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/06-Treebeard-Jungle_Metal-sWhN.mp3",
-      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20By%20Its%20Cover/06-Treebeard-Jungle_Metal_(Kool_&_The_Gang_Cover)-sWhN.mp3",
-      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20By%20Its%20Cover/06-Treebeard-Jungle_Metal_(Kool_and_The_Gang_Cover)-sWhN.mp3",
-      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20By%20Its%20Cover/06-Treebeard-Jungle_Metal-sWhN.mp3"
+      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont_Judge_A_Album_by_Its_Cover/06-Treebeard-Jungle_Metal_%28Kool_and_the_Gang_Cover%29-sWhN.mp3"
     ]
   },
   {
-    "id": "treebeard-don-t-judge-a-album-by-it-s-cover-2009-07-mustapha-the-queen-cover",
+    "id": "treebeard-don-t-judge-a-album-by-its-cover-2009-07-mustapha-the-queen-cover",
     "title": "Mustapha (The Queen Cover)",
     "artist": "Treebeard",
     "project": "Treebeard",
-    "release": "Don't Judge A Album By It's Cover",
+    "release": "Don't Judge A Album by Its Cover",
     "year": "2009",
     "genre": "Alternative",
     "duration": "03:04",
@@ -2795,7 +5490,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/07-Treebeard-Mustapha_(The_Queen_Cover)-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Treebeard/2009%20-%20Dont_Judge_A_Album_by_Its_Cover/07-Treebeard-Mustapha_%28the_Queen_Cover%29-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -2803,18 +5498,15 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/treebeard-dont-judge-album-cover-2009.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/07-Treebeard-Mustapha_(The_Queen_Cover)-sWhN.mp3",
-      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/07-Treebeard-Mustapha-sWhN.mp3",
-      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20By%20Its%20Cover/07-Treebeard-Mustapha_(The_Queen_Cover)-sWhN.mp3",
-      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20By%20Its%20Cover/07-Treebeard-Mustapha-sWhN.mp3"
+      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont_Judge_A_Album_by_Its_Cover/07-Treebeard-Mustapha_%28the_Queen_Cover%29-sWhN.mp3"
     ]
   },
   {
-    "id": "treebeard-don-t-judge-a-album-by-it-s-cover-2009-08-once-in-lifetime-talking-heads-cover",
+    "id": "treebeard-don-t-judge-a-album-by-its-cover-2009-08-once-in-lifetime-talking-heads-cover",
     "title": "Once in Lifetime (Talking Heads Cover)",
     "artist": "Treebeard",
     "project": "Treebeard",
-    "release": "Don't Judge A Album By It's Cover",
+    "release": "Don't Judge A Album by Its Cover",
     "year": "2009",
     "genre": "Alternative",
     "duration": "01:54",
@@ -2822,7 +5514,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/08-Treebeard-Once_in_Lifetime_(Talking_Heads_Cover)-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Treebeard/2009%20-%20Dont_Judge_A_Album_by_Its_Cover/08-Treebeard-Once_in_Lifetime_%28Talking_Heads_Cover%29-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -2830,18 +5522,15 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/treebeard-dont-judge-album-cover-2009.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/08-Treebeard-Once_in_Lifetime_(Talking_Heads_Cover)-sWhN.mp3",
-      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/08-Treebeard-Once_in_Lifetime-sWhN.mp3",
-      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20By%20Its%20Cover/08-Treebeard-Once_in_Lifetime_(Talking_Heads_Cover)-sWhN.mp3",
-      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20By%20Its%20Cover/08-Treebeard-Once_in_Lifetime-sWhN.mp3"
+      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont_Judge_A_Album_by_Its_Cover/08-Treebeard-Once_in_Lifetime_%28Talking_Heads_Cover%29-sWhN.mp3"
     ]
   },
   {
-    "id": "treebeard-don-t-judge-a-album-by-it-s-cover-2009-09-the-temples-of-syrinx-rush-cover",
+    "id": "treebeard-don-t-judge-a-album-by-its-cover-2009-09-the-temples-of-syrinx-rush-cover",
     "title": "The Temples of Syrinx (Rush Cover)",
     "artist": "Treebeard",
     "project": "Treebeard",
-    "release": "Don't Judge A Album By It's Cover",
+    "release": "Don't Judge A Album by Its Cover",
     "year": "2009",
     "genre": "Alternative",
     "duration": "02:10",
@@ -2849,7 +5538,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/09-Treebeard-The_Temples_of_Syrinx_(Rush_Cover)-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Treebeard/2009%20-%20Dont_Judge_A_Album_by_Its_Cover/09-Treebeard-The_Temples_of_Syrinx_%28Rush_Cover%29-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -2857,18 +5546,15 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/treebeard-dont-judge-album-cover-2009.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/09-Treebeard-The_Temples_of_Syrinx_(Rush_Cover)-sWhN.mp3",
-      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/09-Treebeard-The_Temples_of_Syrinx-sWhN.mp3",
-      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20By%20Its%20Cover/09-Treebeard-The_Temples_of_Syrinx_(Rush_Cover)-sWhN.mp3",
-      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20By%20Its%20Cover/09-Treebeard-The_Temples_of_Syrinx-sWhN.mp3"
+      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont_Judge_A_Album_by_Its_Cover/09-Treebeard-The_Temples_of_Syrinx_%28Rush_Cover%29-sWhN.mp3"
     ]
   },
   {
-    "id": "treebeard-don-t-judge-a-album-by-it-s-cover-2009-10-bharat-guest-house-india-national-anthem",
+    "id": "treebeard-don-t-judge-a-album-by-its-cover-2009-10-bharat-guest-house-india-national-anthem",
     "title": "Bharat Guest House (India National Anthem)",
     "artist": "Treebeard",
     "project": "Treebeard",
-    "release": "Don't Judge A Album By It's Cover",
+    "release": "Don't Judge A Album by Its Cover",
     "year": "2009",
     "genre": "Alternative",
     "duration": "02:19",
@@ -2876,7 +5562,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/10-Treebeard-Bharat_Guest_House_(India_National_Anthem)-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Treebeard/2009%20-%20Dont_Judge_A_Album_by_Its_Cover/10-Treebeard-Bharat_Guest_House_%28India_National_Anthem%29-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -2884,18 +5570,15 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/treebeard-dont-judge-album-cover-2009.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/10-Treebeard-Bharat_Guest_House_(India_National_Anthem)-sWhN.mp3",
-      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/10-Treebeard-Bharat_Guest_House-sWhN.mp3",
-      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20By%20Its%20Cover/10-Treebeard-Bharat_Guest_House_(India_National_Anthem)-sWhN.mp3",
-      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20By%20Its%20Cover/10-Treebeard-Bharat_Guest_House-sWhN.mp3"
+      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont_Judge_A_Album_by_Its_Cover/10-Treebeard-Bharat_Guest_House_%28India_National_Anthem%29-sWhN.mp3"
     ]
   },
   {
-    "id": "treebeard-don-t-judge-a-album-by-it-s-cover-2009-11-chicken-pee-wee-ellis-cover",
+    "id": "treebeard-don-t-judge-a-album-by-its-cover-2009-11-chicken-pee-wee-ellis-cover",
     "title": "Chicken (Pee Wee Ellis Cover)",
     "artist": "Treebeard",
     "project": "Treebeard",
-    "release": "Don't Judge A Album By It's Cover",
+    "release": "Don't Judge A Album by Its Cover",
     "year": "2009",
     "genre": "Alternative",
     "duration": "04:30",
@@ -2903,7 +5586,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/11-Treebeard-Chicken_(Pee_Wee_Ellis_Cover)-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Treebeard/2009%20-%20Dont_Judge_A_Album_by_Its_Cover/11-Treebeard-Chicken_%28Pee_Wee_Ellis_Cover%29-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -2911,18 +5594,15 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/treebeard-dont-judge-album-cover-2009.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/11-Treebeard-Chicken_(Pee_Wee_Ellis_Cover)-sWhN.mp3",
-      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/11-Treebeard-Chicken-sWhN.mp3",
-      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20By%20Its%20Cover/11-Treebeard-Chicken_(Pee_Wee_Ellis_Cover)-sWhN.mp3",
-      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20By%20Its%20Cover/11-Treebeard-Chicken-sWhN.mp3"
+      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont_Judge_A_Album_by_Its_Cover/11-Treebeard-Chicken_%28Pee_Wee_Ellis_Cover%29-sWhN.mp3"
     ]
   },
   {
-    "id": "treebeard-don-t-judge-a-album-by-it-s-cover-2009-12-i-m-too-sexy-right-said-fred-cover",
+    "id": "treebeard-don-t-judge-a-album-by-its-cover-2009-12-i-m-too-sexy-right-said-fred-cover",
     "title": "I'm Too Sexy (Right Said Fred Cover)",
     "artist": "Treebeard",
     "project": "Treebeard",
-    "release": "Don't Judge A Album By It's Cover",
+    "release": "Don't Judge A Album by Its Cover",
     "year": "2009",
     "genre": "Alternative",
     "duration": "02:35",
@@ -2930,7 +5610,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/12-Treebeard-Im_Too_Sexy_(Right_Said_Fred_Cover)-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Treebeard/2009%20-%20Dont_Judge_A_Album_by_Its_Cover/12-Treebeard-Im_Too_Sexy_%28Right_Said_Fred_Cover%29-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -2938,18 +5618,279 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/treebeard-dont-judge-album-cover-2009.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/12-Treebeard-Im_Too_Sexy_(Right_Said_Fred_Cover)-sWhN.mp3",
-      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/12-Treebeard-Im_Too_Sexy-sWhN.mp3",
-      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20By%20Its%20Cover/12-Treebeard-Im_Too_Sexy_(Right_Said_Fred_Cover)-sWhN.mp3",
-      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20By%20Its%20Cover/12-Treebeard-Im_Too_Sexy-sWhN.mp3"
+      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont_Judge_A_Album_by_Its_Cover/12-Treebeard-Im_Too_Sexy_%28Right_Said_Fred_Cover%29-sWhN.mp3"
     ]
   },
   {
-    "id": "treebeard-best-of-2010-01-once-in-lifetime",
+    "id": "treebeard-don-t-judge-a-album-by-its-cover-2009-13-not-for-sale-colorblind-james-and-the-death-valley-boys-cover",
+    "title": "Not for Sale (Colorblind James and the Death Valley Boys Cover)",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "Don't Judge A Album by Its Cover",
+    "year": "2009",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "13",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2009%20-%20Dont_Judge_A_Album_by_Its_Cover/13-Treebeard-Not_for_Sale_%28Colorblind_James_and_the_Death_Valley_Boys_Cover%29-sWhN.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont_Judge_A_Album_by_Its_Cover/13-Treebeard-Not_for_Sale_%28Colorblind_James_and_the_Death_Valley_Boys_Cover%29-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-sarcophagus-2010-01-darkness-prevails",
+    "title": "darkness prevails",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Sarcophagus",
+    "year": "2010",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "01",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2010%20-%20Sarcophagus/01-aph%C3%B4phis-darkness_prevails.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2010%20-%20Sarcophagus/01-aph%C3%B4phis-darkness_prevails.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-sarcophagus-2010-02-in-blood-we-trust",
+    "title": "in blood we trust",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Sarcophagus",
+    "year": "2010",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "02",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2010%20-%20Sarcophagus/02-aph%C3%B4phis-in_blood_we_trust.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2010%20-%20Sarcophagus/02-aph%C3%B4phis-in_blood_we_trust.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-sarcophagus-2010-03-pounding-metal",
+    "title": "pounding metal",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Sarcophagus",
+    "year": "2010",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "03",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2010%20-%20Sarcophagus/03-aph%C3%B4phis-pounding_metal.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2010%20-%20Sarcophagus/03-aph%C3%B4phis-pounding_metal.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-sarcophagus-2010-04-countdown-to-existence",
+    "title": "countdown to existence",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Sarcophagus",
+    "year": "2010",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "04",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2010%20-%20Sarcophagus/04-aph%C3%B4phis-countdown_to_existence.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2010%20-%20Sarcophagus/04-aph%C3%B4phis-countdown_to_existence.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-sarcophagus-2010-05-sarcophagus",
+    "title": "sarcophagus",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Sarcophagus",
+    "year": "2010",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "05",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2010%20-%20Sarcophagus/05-aph%C3%B4phis-sarcophagus.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2010%20-%20Sarcophagus/05-aph%C3%B4phis-sarcophagus.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-sarcophagus-2010-06-killing-season",
+    "title": "killing season",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Sarcophagus",
+    "year": "2010",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "06",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2010%20-%20Sarcophagus/06-aph%C3%B4phis-killing_season.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2010%20-%20Sarcophagus/06-aph%C3%B4phis-killing_season.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-sarcophagus-2010-07-satana",
+    "title": "satana",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Sarcophagus",
+    "year": "2010",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "07",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2010%20-%20Sarcophagus/07-aph%C3%B4phis-satana.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2010%20-%20Sarcophagus/07-aph%C3%B4phis-satana.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-sarcophagus-2010-08-souls-of-the-black-forest",
+    "title": "souls of the black forest",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Sarcophagus",
+    "year": "2010",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "08",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2010%20-%20Sarcophagus/08-aph%C3%B4phis-souls_of_the_black_forest.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2010%20-%20Sarcophagus/08-aph%C3%B4phis-souls_of_the_black_forest.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-sarcophagus-2010-09-in-league-with-satan",
+    "title": "in league with satan",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Sarcophagus",
+    "year": "2010",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "09",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2010%20-%20Sarcophagus/09-aph%C3%B4phis-in_league_with_satan.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2010%20-%20Sarcophagus/09-aph%C3%B4phis-in_league_with_satan.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-sarcophagus-2010-10-summoning",
+    "title": "summoning",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Sarcophagus",
+    "year": "2010",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "10",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2010%20-%20Sarcophagus/10-aph%C3%B4phis-summoning.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2010%20-%20Sarcophagus/10-aph%C3%B4phis-summoning.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-best-of-2010-2010-01-once-in-lifetime",
     "title": "Once in Lifetime",
     "artist": "Treebeard",
     "project": "Treebeard",
-    "release": "Best Of",
+    "release": "Best of 2010",
     "year": "2010",
     "genre": "Other",
     "duration": "01:54",
@@ -2957,7 +5898,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20of/01-Treebeard-Once_in_Lifetime-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Treebeard/2010%20-%20Best_of/01-Treebeard-Once_in_Lifetime-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -2965,16 +5906,15 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/treebeard-best-of-2010.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20of/01-Treebeard-Once_in_Lifetime-sWhN.mp3",
-      "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20Of/01-Treebeard-Once_in_Lifetime-sWhN.mp3"
+      "https://audio.desecrate.se/Treebeard/2010%20-%20Best_of/01-Treebeard-Once_in_Lifetime-sWhN.mp3"
     ]
   },
   {
-    "id": "treebeard-best-of-2010-02-welcome-to-the-machine",
+    "id": "treebeard-best-of-2010-2010-02-welcome-to-the-machine",
     "title": "Welcome to the Machine",
     "artist": "Treebeard",
     "project": "Treebeard",
-    "release": "Best Of",
+    "release": "Best of 2010",
     "year": "2010",
     "genre": "Other",
     "duration": "05:59",
@@ -2982,7 +5922,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20of/02-Treebeard-Welcome_to_the_Machine-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Treebeard/2010%20-%20Best_of/02-Treebeard-Welcome_to_the_Machine-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -2990,16 +5930,15 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/treebeard-best-of-2010.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20of/02-Treebeard-Welcome_to_the_Machine-sWhN.mp3",
-      "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20Of/02-Treebeard-Welcome_to_the_Machine-sWhN.mp3"
+      "https://audio.desecrate.se/Treebeard/2010%20-%20Best_of/02-Treebeard-Welcome_to_the_Machine-sWhN.mp3"
     ]
   },
   {
-    "id": "treebeard-best-of-2010-03-that-unknown-place",
+    "id": "treebeard-best-of-2010-2010-03-that-unknown-place",
     "title": "That Unknown Place",
     "artist": "Treebeard",
     "project": "Treebeard",
-    "release": "Best Of",
+    "release": "Best of 2010",
     "year": "2010",
     "genre": "Other",
     "duration": "03:44",
@@ -3007,7 +5946,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20of/03-Treebeard-That_Unknown_Place-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Treebeard/2010%20-%20Best_of/03-Treebeard-That_Unknown_Place-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -3015,16 +5954,15 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/treebeard-best-of-2010.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20of/03-Treebeard-That_Unknown_Place-sWhN.mp3",
-      "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20Of/03-Treebeard-That_Unknown_Place-sWhN.mp3"
+      "https://audio.desecrate.se/Treebeard/2010%20-%20Best_of/03-Treebeard-That_Unknown_Place-sWhN.mp3"
     ]
   },
   {
-    "id": "treebeard-best-of-2010-04-snowspace",
+    "id": "treebeard-best-of-2010-2010-04-snowspace",
     "title": "Snowspace",
     "artist": "Treebeard",
     "project": "Treebeard",
-    "release": "Best Of",
+    "release": "Best of 2010",
     "year": "2010",
     "genre": "Other",
     "duration": "03:12",
@@ -3032,7 +5970,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20of/04-Treebeard-Snowspace-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Treebeard/2010%20-%20Best_of/04-Treebeard-Snowspace-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -3040,16 +5978,15 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/treebeard-best-of-2010.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20of/04-Treebeard-Snowspace-sWhN.mp3",
-      "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20Of/04-Treebeard-Snowspace-sWhN.mp3"
+      "https://audio.desecrate.se/Treebeard/2010%20-%20Best_of/04-Treebeard-Snowspace-sWhN.mp3"
     ]
   },
   {
-    "id": "treebeard-best-of-2010-05-mustapha",
+    "id": "treebeard-best-of-2010-2010-05-mustapha",
     "title": "Mustapha",
     "artist": "Treebeard",
     "project": "Treebeard",
-    "release": "Best Of",
+    "release": "Best of 2010",
     "year": "2010",
     "genre": "Other",
     "duration": "03:04",
@@ -3057,7 +5994,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20of/05-Treebeard-Mustapha-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Treebeard/2010%20-%20Best_of/05-Treebeard-Mustapha-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -3065,16 +6002,15 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/treebeard-best-of-2010.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20of/05-Treebeard-Mustapha-sWhN.mp3",
-      "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20Of/05-Treebeard-Mustapha-sWhN.mp3"
+      "https://audio.desecrate.se/Treebeard/2010%20-%20Best_of/05-Treebeard-Mustapha-sWhN.mp3"
     ]
   },
   {
-    "id": "treebeard-best-of-2010-06-catastrophic",
+    "id": "treebeard-best-of-2010-2010-06-catastrophic",
     "title": "Catastrophic",
     "artist": "Treebeard",
     "project": "Treebeard",
-    "release": "Best Of",
+    "release": "Best of 2010",
     "year": "2010",
     "genre": "Other",
     "duration": "04:15",
@@ -3082,7 +6018,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20of/06-Treebeard-Catastrophic-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Treebeard/2010%20-%20Best_of/06-Treebeard-Catastrophic-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -3090,16 +6026,15 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/treebeard-best-of-2010.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20of/06-Treebeard-Catastrophic-sWhN.mp3",
-      "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20Of/06-Treebeard-Catastrophic-sWhN.mp3"
+      "https://audio.desecrate.se/Treebeard/2010%20-%20Best_of/06-Treebeard-Catastrophic-sWhN.mp3"
     ]
   },
   {
-    "id": "treebeard-best-of-2010-07-saddle-of-your-sorrow",
+    "id": "treebeard-best-of-2010-2010-07-saddle-of-your-sorrow",
     "title": "Saddle of Your Sorrow",
     "artist": "Treebeard",
     "project": "Treebeard",
-    "release": "Best Of",
+    "release": "Best of 2010",
     "year": "2010",
     "genre": "Other",
     "duration": "04:19",
@@ -3107,7 +6042,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20of/07-Treebeard-Saddle_of_Your_Sorrow-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Treebeard/2010%20-%20Best_of/07-Treebeard-Saddle_of_Your_Sorrow-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -3115,16 +6050,15 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/treebeard-best-of-2010.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20of/07-Treebeard-Saddle_of_Your_Sorrow-sWhN.mp3",
-      "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20Of/07-Treebeard-Saddle_of_Your_Sorrow-sWhN.mp3"
+      "https://audio.desecrate.se/Treebeard/2010%20-%20Best_of/07-Treebeard-Saddle_of_Your_Sorrow-sWhN.mp3"
     ]
   },
   {
-    "id": "treebeard-best-of-2010-08-headless",
+    "id": "treebeard-best-of-2010-2010-08-headless",
     "title": "Headless",
     "artist": "Treebeard",
     "project": "Treebeard",
-    "release": "Best Of",
+    "release": "Best of 2010",
     "year": "2010",
     "genre": "Other",
     "duration": "02:19",
@@ -3132,7 +6066,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20of/08-Treebeard-Headless-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Treebeard/2010%20-%20Best_of/08-Treebeard-Headless-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -3140,16 +6074,15 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/treebeard-best-of-2010.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20of/08-Treebeard-Headless-sWhN.mp3",
-      "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20Of/08-Treebeard-Headless-sWhN.mp3"
+      "https://audio.desecrate.se/Treebeard/2010%20-%20Best_of/08-Treebeard-Headless-sWhN.mp3"
     ]
   },
   {
-    "id": "treebeard-best-of-2010-09-midsummer-s-eve",
+    "id": "treebeard-best-of-2010-2010-09-midsummer-s-eve",
     "title": "Midsummer's Eve",
     "artist": "Treebeard",
     "project": "Treebeard",
-    "release": "Best Of",
+    "release": "Best of 2010",
     "year": "2010",
     "genre": "Other",
     "duration": "02:48",
@@ -3157,7 +6090,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20of/09-Treebeard-Midsummers_Eve-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Treebeard/2010%20-%20Best_of/09-Treebeard-Midsummers_Eve-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -3165,16 +6098,15 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/treebeard-best-of-2010.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20of/09-Treebeard-Midsummers_Eve-sWhN.mp3",
-      "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20Of/09-Treebeard-Midsummers_Eve-sWhN.mp3"
+      "https://audio.desecrate.se/Treebeard/2010%20-%20Best_of/09-Treebeard-Midsummers_Eve-sWhN.mp3"
     ]
   },
   {
-    "id": "treebeard-best-of-2010-10-all-gone-now",
+    "id": "treebeard-best-of-2010-2010-10-all-gone-now",
     "title": "All Gone Now",
     "artist": "Treebeard",
     "project": "Treebeard",
-    "release": "Best Of",
+    "release": "Best of 2010",
     "year": "2010",
     "genre": "Other",
     "duration": "02:35",
@@ -3182,7 +6114,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20of/10-Treebeard-All_Gone_Now-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Treebeard/2010%20-%20Best_of/10-Treebeard-All_Gone_Now-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -3190,16 +6122,15 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/treebeard-best-of-2010.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20of/10-Treebeard-All_Gone_Now-sWhN.mp3",
-      "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20Of/10-Treebeard-All_Gone_Now-sWhN.mp3"
+      "https://audio.desecrate.se/Treebeard/2010%20-%20Best_of/10-Treebeard-All_Gone_Now-sWhN.mp3"
     ]
   },
   {
-    "id": "treebeard-best-of-2010-11-fishbate",
+    "id": "treebeard-best-of-2010-2010-11-fishbate",
     "title": "Fishbate",
     "artist": "Treebeard",
     "project": "Treebeard",
-    "release": "Best Of",
+    "release": "Best of 2010",
     "year": "2010",
     "genre": "Other",
     "duration": "03:45",
@@ -3207,7 +6138,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20of/11-Treebeard-Fishbate-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Treebeard/2010%20-%20Best_of/11-Treebeard-Fishbate-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -3215,16 +6146,15 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/treebeard-best-of-2010.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20of/11-Treebeard-Fishbate-sWhN.mp3",
-      "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20Of/11-Treebeard-Fishbate-sWhN.mp3"
+      "https://audio.desecrate.se/Treebeard/2010%20-%20Best_of/11-Treebeard-Fishbate-sWhN.mp3"
     ]
   },
   {
-    "id": "treebeard-best-of-2010-12-as-the-new-day-dawns",
+    "id": "treebeard-best-of-2010-2010-12-as-the-new-day-dawns",
     "title": "As the New Day Dawns",
     "artist": "Treebeard",
     "project": "Treebeard",
-    "release": "Best Of",
+    "release": "Best of 2010",
     "year": "2010",
     "genre": "Other",
     "duration": "02:33",
@@ -3232,7 +6162,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20of/12-Treebeard-As_the_New_Day_Dawns-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Treebeard/2010%20-%20Best_of/12-Treebeard-As_the_New_Day_Dawns-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -3240,16 +6170,15 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/treebeard-best-of-2010.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20of/12-Treebeard-As_the_New_Day_Dawns-sWhN.mp3",
-      "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20Of/12-Treebeard-As_the_New_Day_Dawns-sWhN.mp3"
+      "https://audio.desecrate.se/Treebeard/2010%20-%20Best_of/12-Treebeard-As_the_New_Day_Dawns-sWhN.mp3"
     ]
   },
   {
-    "id": "treebeard-best-of-2010-13-hidden-in-the-snow",
+    "id": "treebeard-best-of-2010-2010-13-hidden-in-the-snow",
     "title": "Hidden in the Snow",
     "artist": "Treebeard",
     "project": "Treebeard",
-    "release": "Best Of",
+    "release": "Best of 2010",
     "year": "2010",
     "genre": "Other",
     "duration": "03:04",
@@ -3257,7 +6186,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20of/13-Treebeard-Hidden_in_the_Snow-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Treebeard/2010%20-%20Best_of/13-Treebeard-Hidden_in_the_Snow-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -3265,16 +6194,15 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/treebeard-best-of-2010.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20of/13-Treebeard-Hidden_in_the_Snow-sWhN.mp3",
-      "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20Of/13-Treebeard-Hidden_in_the_Snow-sWhN.mp3"
+      "https://audio.desecrate.se/Treebeard/2010%20-%20Best_of/13-Treebeard-Hidden_in_the_Snow-sWhN.mp3"
     ]
   },
   {
-    "id": "treebeard-best-of-2010-14-39-lashes",
+    "id": "treebeard-best-of-2010-2010-14-39-lashes",
     "title": "39 Lashes",
     "artist": "Treebeard",
     "project": "Treebeard",
-    "release": "Best Of",
+    "release": "Best of 2010",
     "year": "2010",
     "genre": "Other",
     "duration": "01:19",
@@ -3282,7 +6210,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20of/14-Treebeard-39_Lashes-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Treebeard/2010%20-%20Best_of/14-Treebeard-39_Lashes-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -3290,241 +6218,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/treebeard-best-of-2010.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20of/14-Treebeard-39_Lashes-sWhN.mp3",
-      "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20Of/14-Treebeard-39_Lashes-sWhN.mp3"
-    ]
-  },
-  {
-    "id": "aphophis-principle-of-evil-2008-01-first-we-bow",
-    "title": "First We  Bow",
-    "artist": "Aphophis",
-    "project": "Aphophis",
-    "release": "Principle Of Evil",
-    "year": "2008",
-    "genre": "Metal",
-    "duration": "01:23",
-    "trackNumber": "01",
-    "releaseType": "EP",
-    "version": "",
-    "credits": [],
-    "audio": "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20of%20Evil/01-Aphophis-First_We_Bow-sWhN.mp3",
-    "video": "",
-    "lyrics": "",
-    "notes": "",
-    "sourceCard": "nfo-aphophis-principle-of-evil-2008",
-    "sourceFile": "assets/nfo/aphophis-principle-of-evil-2008.nfo",
-    "source": "NFO",
-    "audioCandidates": [
-      "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20of%20Evil/01-Aphophis-First_We_Bow-sWhN.mp3",
-      "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20Of%20Evil/01-Aphophis-First_We_Bow-sWhN.mp3"
-    ]
-  },
-  {
-    "id": "aphophis-principle-of-evil-2008-02-solar-barque",
-    "title": "Solar Barque",
-    "artist": "Aphophis",
-    "project": "Aphophis",
-    "release": "Principle Of Evil",
-    "year": "2008",
-    "genre": "Metal",
-    "duration": "05:45",
-    "trackNumber": "02",
-    "releaseType": "EP",
-    "version": "",
-    "credits": [],
-    "audio": "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20of%20Evil/02-Aphophis-Solar_Barque-sWhN.mp3",
-    "video": "",
-    "lyrics": "",
-    "notes": "",
-    "sourceCard": "nfo-aphophis-principle-of-evil-2008",
-    "sourceFile": "assets/nfo/aphophis-principle-of-evil-2008.nfo",
-    "source": "NFO",
-    "audioCandidates": [
-      "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20of%20Evil/02-Aphophis-Solar_Barque-sWhN.mp3",
-      "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20Of%20Evil/02-Aphophis-Solar_Barque-sWhN.mp3"
-    ]
-  },
-  {
-    "id": "aphophis-principle-of-evil-2008-03-from-prince-to-prentice",
-    "title": "From Prince to Prentice",
-    "artist": "Aphophis",
-    "project": "Aphophis",
-    "release": "Principle Of Evil",
-    "year": "2008",
-    "genre": "Metal",
-    "duration": "05:36",
-    "trackNumber": "03",
-    "releaseType": "EP",
-    "version": "",
-    "credits": [],
-    "audio": "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20of%20Evil/03-Aphophis-From_Prince_to_Prentice-sWhN.mp3",
-    "video": "",
-    "lyrics": "",
-    "notes": "",
-    "sourceCard": "nfo-aphophis-principle-of-evil-2008",
-    "sourceFile": "assets/nfo/aphophis-principle-of-evil-2008.nfo",
-    "source": "NFO",
-    "audioCandidates": [
-      "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20of%20Evil/03-Aphophis-From_Prince_to_Prentice-sWhN.mp3",
-      "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20Of%20Evil/03-Aphophis-From_Prince_to_Prentice-sWhN.mp3"
-    ]
-  },
-  {
-    "id": "aphophis-principle-of-evil-2008-04-serpent-of-rebirth",
-    "title": "Serpent of Rebirth",
-    "artist": "Aphophis",
-    "project": "Aphophis",
-    "release": "Principle Of Evil",
-    "year": "2008",
-    "genre": "Metal",
-    "duration": "04:59",
-    "trackNumber": "04",
-    "releaseType": "EP",
-    "version": "",
-    "credits": [],
-    "audio": "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20of%20Evil/04-Aphophis-Serpent_of_Rebirth-sWhN.mp3",
-    "video": "",
-    "lyrics": "",
-    "notes": "",
-    "sourceCard": "nfo-aphophis-principle-of-evil-2008",
-    "sourceFile": "assets/nfo/aphophis-principle-of-evil-2008.nfo",
-    "source": "NFO",
-    "audioCandidates": [
-      "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20of%20Evil/04-Aphophis-Serpent_of_Rebirth-sWhN.mp3",
-      "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20Of%20Evil/04-Aphophis-Serpent_of_Rebirth-sWhN.mp3"
-    ]
-  },
-  {
-    "id": "aphophis-principle-of-evil-2008-05-then-we-bow-again",
-    "title": "Then We Bow  Again",
-    "artist": "Aphophis",
-    "project": "Aphophis",
-    "release": "Principle Of Evil",
-    "year": "2008",
-    "genre": "Metal",
-    "duration": "05:09",
-    "trackNumber": "05",
-    "releaseType": "EP",
-    "version": "",
-    "credits": [],
-    "audio": "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20of%20Evil/05-Aphophis-Then_We_Bow_Again-sWhN.mp3",
-    "video": "",
-    "lyrics": "",
-    "notes": "",
-    "sourceCard": "nfo-aphophis-principle-of-evil-2008",
-    "sourceFile": "assets/nfo/aphophis-principle-of-evil-2008.nfo",
-    "source": "NFO",
-    "audioCandidates": [
-      "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20of%20Evil/05-Aphophis-Then_We_Bow_Again-sWhN.mp3",
-      "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20Of%20Evil/05-Aphophis-Then_We_Bow_Again-sWhN.mp3"
-    ]
-  },
-  {
-    "id": "aphophis-principle-of-evil-bonus-trax-2008-01-backwaters-bonus-track",
-    "title": "Backwaters (Bonus Track)",
-    "artist": "Aphophis",
-    "project": "Aphophis",
-    "release": "Principle Of Evil Bonus Trax",
-    "year": "2008",
-    "genre": "Metal",
-    "duration": "01:46",
-    "trackNumber": "01",
-    "releaseType": "EP / bonus",
-    "version": "",
-    "credits": [],
-    "audio": "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20of%20Evil%20Bonus%20Trax/01-Aphophis-Backwaters_(Bonus_Track)-sWhN.mp3",
-    "video": "",
-    "lyrics": "",
-    "notes": "",
-    "sourceCard": "nfo-aphophis-principle-of-evil-bonus-trax-2008",
-    "sourceFile": "assets/nfo/aphophis-principle-of-evil-bonus-2008.nfo",
-    "source": "NFO",
-    "audioCandidates": [
-      "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20of%20Evil%20Bonus%20Trax/01-Aphophis-Backwaters_(Bonus_Track)-sWhN.mp3",
-      "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20of%20Evil%20Bonus%20Trax/01-Aphophis-Backwaters-sWhN.mp3",
-      "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20Of%20Evil%20Bonus%20Trax/01-Aphophis-Backwaters_(Bonus_Track)-sWhN.mp3",
-      "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20Of%20Evil%20Bonus%20Trax/01-Aphophis-Backwaters-sWhN.mp3"
-    ]
-  },
-  {
-    "id": "aphophis-principle-of-evil-bonus-trax-2008-02-in-league-with-satan-bonus-track",
-    "title": "In League with Satan (Bonus Track)",
-    "artist": "Aphophis",
-    "project": "Aphophis",
-    "release": "Principle Of Evil Bonus Trax",
-    "year": "2008",
-    "genre": "Metal",
-    "duration": "03:22",
-    "trackNumber": "02",
-    "releaseType": "EP / bonus",
-    "version": "",
-    "credits": [],
-    "audio": "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20of%20Evil%20Bonus%20Trax/02-Aphophis-In_League_with_Satan_(Bonus_Track)-sWhN.mp3",
-    "video": "",
-    "lyrics": "",
-    "notes": "",
-    "sourceCard": "nfo-aphophis-principle-of-evil-bonus-trax-2008",
-    "sourceFile": "assets/nfo/aphophis-principle-of-evil-bonus-2008.nfo",
-    "source": "NFO",
-    "audioCandidates": [
-      "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20of%20Evil%20Bonus%20Trax/02-Aphophis-In_League_with_Satan_(Bonus_Track)-sWhN.mp3",
-      "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20of%20Evil%20Bonus%20Trax/02-Aphophis-In_League_with_Satan-sWhN.mp3",
-      "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20Of%20Evil%20Bonus%20Trax/02-Aphophis-In_League_with_Satan_(Bonus_Track)-sWhN.mp3",
-      "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20Of%20Evil%20Bonus%20Trax/02-Aphophis-In_League_with_Satan-sWhN.mp3"
-    ]
-  },
-  {
-    "id": "aphophis-principle-of-evil-bonus-trax-2008-03-czardas-bonus-track",
-    "title": "Czardas (Bonus Track)",
-    "artist": "Aphophis",
-    "project": "Aphophis",
-    "release": "Principle Of Evil Bonus Trax",
-    "year": "2008",
-    "genre": "Metal",
-    "duration": "04:17",
-    "trackNumber": "03",
-    "releaseType": "EP / bonus",
-    "version": "",
-    "credits": [],
-    "audio": "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20of%20Evil%20Bonus%20Trax/03-Aphophis-Czardas_(Bonus_Track)-sWhN.mp3",
-    "video": "",
-    "lyrics": "",
-    "notes": "",
-    "sourceCard": "nfo-aphophis-principle-of-evil-bonus-trax-2008",
-    "sourceFile": "assets/nfo/aphophis-principle-of-evil-bonus-2008.nfo",
-    "source": "NFO",
-    "audioCandidates": [
-      "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20of%20Evil%20Bonus%20Trax/03-Aphophis-Czardas_(Bonus_Track)-sWhN.mp3",
-      "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20of%20Evil%20Bonus%20Trax/03-Aphophis-Czardas-sWhN.mp3",
-      "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20Of%20Evil%20Bonus%20Trax/03-Aphophis-Czardas_(Bonus_Track)-sWhN.mp3",
-      "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20Of%20Evil%20Bonus%20Trax/03-Aphophis-Czardas-sWhN.mp3"
-    ]
-  },
-  {
-    "id": "aphophis-principle-of-evil-bonus-trax-2008-04-rain-song-bonus-track",
-    "title": "Rain Song (Bonus Track)",
-    "artist": "Aphophis",
-    "project": "Aphophis",
-    "release": "Principle Of Evil Bonus Trax",
-    "year": "2008",
-    "genre": "Metal",
-    "duration": "00:35",
-    "trackNumber": "04",
-    "releaseType": "EP / bonus",
-    "version": "",
-    "credits": [],
-    "audio": "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20of%20Evil%20Bonus%20Trax/04-Aphophis-Rain_Song_(Bonus_Track)-sWhN.mp3",
-    "video": "",
-    "lyrics": "",
-    "notes": "",
-    "sourceCard": "nfo-aphophis-principle-of-evil-bonus-trax-2008",
-    "sourceFile": "assets/nfo/aphophis-principle-of-evil-bonus-2008.nfo",
-    "source": "NFO",
-    "audioCandidates": [
-      "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20of%20Evil%20Bonus%20Trax/04-Aphophis-Rain_Song_(Bonus_Track)-sWhN.mp3",
-      "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20of%20Evil%20Bonus%20Trax/04-Aphophis-Rain_Song-sWhN.mp3",
-      "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20Of%20Evil%20Bonus%20Trax/04-Aphophis-Rain_Song_(Bonus_Track)-sWhN.mp3",
-      "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20Of%20Evil%20Bonus%20Trax/04-Aphophis-Rain_Song-sWhN.mp3"
+      "https://audio.desecrate.se/Treebeard/2010%20-%20Best_of/14-Treebeard-39_Lashes-sWhN.mp3"
     ]
   },
   {
@@ -3820,7 +6514,7 @@ window.JOHN_SWAHN_TRACKS = [
     "title": "Dies Irae",
     "artist": "Aphophis",
     "project": "Aphophis",
-    "release": "Symphony For The Devil",
+    "release": "Symphony for the Devil",
     "year": "2012",
     "genre": "Metal",
     "duration": "01:22",
@@ -3828,7 +6522,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony%20for%20the%20Devil/01-Aphophis-Dies_Irae-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony_for_the_Devil/01-Aphophis-Dies_Irae-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -3836,8 +6530,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/aphophis-symphony-for-the-devil-2012.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony%20for%20the%20Devil/01-Aphophis-Dies_Irae-sWhN.mp3",
-      "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony%20For%20The%20Devil/01-Aphophis-Dies_Irae-sWhN.mp3"
+      "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony_for_the_Devil/01-Aphophis-Dies_Irae-sWhN.mp3"
     ]
   },
   {
@@ -3845,7 +6538,7 @@ window.JOHN_SWAHN_TRACKS = [
     "title": "World Encircler",
     "artist": "Aphophis",
     "project": "Aphophis",
-    "release": "Symphony For The Devil",
+    "release": "Symphony for the Devil",
     "year": "2012",
     "genre": "Metal",
     "duration": "03:12",
@@ -3853,7 +6546,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony%20for%20the%20Devil/02-Aphophis-World_Encircler-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony_for_the_Devil/02-Aphophis-World_Encircler-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -3861,8 +6554,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/aphophis-symphony-for-the-devil-2012.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony%20for%20the%20Devil/02-Aphophis-World_Encircler-sWhN.mp3",
-      "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony%20For%20The%20Devil/02-Aphophis-World_Encircler-sWhN.mp3"
+      "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony_for_the_Devil/02-Aphophis-World_Encircler-sWhN.mp3"
     ]
   },
   {
@@ -3870,7 +6562,7 @@ window.JOHN_SWAHN_TRACKS = [
     "title": "Mdcxxiii",
     "artist": "Aphophis",
     "project": "Aphophis",
-    "release": "Symphony For The Devil",
+    "release": "Symphony for the Devil",
     "year": "2012",
     "genre": "Metal",
     "duration": "01:52",
@@ -3878,7 +6570,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony%20for%20the%20Devil/03-Aphophis-Mdcxxiii-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony_for_the_Devil/03-Aphophis-Mdcxxiii-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -3886,8 +6578,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/aphophis-symphony-for-the-devil-2012.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony%20for%20the%20Devil/03-Aphophis-Mdcxxiii-sWhN.mp3",
-      "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony%20For%20The%20Devil/03-Aphophis-Mdcxxiii-sWhN.mp3"
+      "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony_for_the_Devil/03-Aphophis-Mdcxxiii-sWhN.mp3"
     ]
   },
   {
@@ -3895,7 +6586,7 @@ window.JOHN_SWAHN_TRACKS = [
     "title": "He Who Was Spat Out",
     "artist": "Aphophis",
     "project": "Aphophis",
-    "release": "Symphony For The Devil",
+    "release": "Symphony for the Devil",
     "year": "2012",
     "genre": "Metal",
     "duration": "03:44",
@@ -3903,7 +6594,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony%20for%20the%20Devil/04-Aphophis-He_Who_Was_Spat_Out-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony_for_the_Devil/04-Aphophis-He_Who_Was_Spat_Out-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -3911,8 +6602,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/aphophis-symphony-for-the-devil-2012.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony%20for%20the%20Devil/04-Aphophis-He_Who_Was_Spat_Out-sWhN.mp3",
-      "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony%20For%20The%20Devil/04-Aphophis-He_Who_Was_Spat_Out-sWhN.mp3"
+      "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony_for_the_Devil/04-Aphophis-He_Who_Was_Spat_Out-sWhN.mp3"
     ]
   },
   {
@@ -3920,7 +6610,7 @@ window.JOHN_SWAHN_TRACKS = [
     "title": "Dies Illa",
     "artist": "Aphophis",
     "project": "Aphophis",
-    "release": "Symphony For The Devil",
+    "release": "Symphony for the Devil",
     "year": "2012",
     "genre": "Metal",
     "duration": "03:50",
@@ -3928,7 +6618,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony%20for%20the%20Devil/05-Aphophis-Dies_Illa-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony_for_the_Devil/05-Aphophis-Dies_Illa-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -3936,8 +6626,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/aphophis-symphony-for-the-devil-2012.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony%20for%20the%20Devil/05-Aphophis-Dies_Illa-sWhN.mp3",
-      "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony%20For%20The%20Devil/05-Aphophis-Dies_Illa-sWhN.mp3"
+      "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony_for_the_Devil/05-Aphophis-Dies_Illa-sWhN.mp3"
     ]
   },
   {
@@ -3945,7 +6634,7 @@ window.JOHN_SWAHN_TRACKS = [
     "title": "Natural Landscape",
     "artist": "Aphophis",
     "project": "Aphophis",
-    "release": "Symphony For The Devil",
+    "release": "Symphony for the Devil",
     "year": "2012",
     "genre": "Metal",
     "duration": "03:12",
@@ -3953,7 +6642,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony%20for%20the%20Devil/06-Aphophis-Natural_Landscape-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony_for_the_Devil/06-Aphophis-Natural_Landscape-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -3961,8 +6650,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/aphophis-symphony-for-the-devil-2012.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony%20for%20the%20Devil/06-Aphophis-Natural_Landscape-sWhN.mp3",
-      "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony%20For%20The%20Devil/06-Aphophis-Natural_Landscape-sWhN.mp3"
+      "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony_for_the_Devil/06-Aphophis-Natural_Landscape-sWhN.mp3"
     ]
   },
   {
@@ -3970,7 +6658,7 @@ window.JOHN_SWAHN_TRACKS = [
     "title": "Zako Take One",
     "artist": "Aphophis",
     "project": "Aphophis",
-    "release": "Symphony For The Devil",
+    "release": "Symphony for the Devil",
     "year": "2012",
     "genre": "Metal",
     "duration": "01:50",
@@ -3978,7 +6666,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony%20for%20the%20Devil/07-Aphophis-Zako_Take_One-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony_for_the_Devil/07-Aphophis-Zako_Take_One-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -3986,8 +6674,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/aphophis-symphony-for-the-devil-2012.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony%20for%20the%20Devil/07-Aphophis-Zako_Take_One-sWhN.mp3",
-      "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony%20For%20The%20Devil/07-Aphophis-Zako_Take_One-sWhN.mp3"
+      "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony_for_the_Devil/07-Aphophis-Zako_Take_One-sWhN.mp3"
     ]
   },
   {
@@ -3995,7 +6682,7 @@ window.JOHN_SWAHN_TRACKS = [
     "title": "Hypostyle Hall",
     "artist": "Aphophis",
     "project": "Aphophis",
-    "release": "Symphony For The Devil",
+    "release": "Symphony for the Devil",
     "year": "2012",
     "genre": "Metal",
     "duration": "04:40",
@@ -4003,7 +6690,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony%20for%20the%20Devil/08-Aphophis-Hypostyle_Hall-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony_for_the_Devil/08-Aphophis-Hypostyle_Hall-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -4011,8 +6698,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/aphophis-symphony-for-the-devil-2012.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony%20for%20the%20Devil/08-Aphophis-Hypostyle_Hall-sWhN.mp3",
-      "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony%20For%20The%20Devil/08-Aphophis-Hypostyle_Hall-sWhN.mp3"
+      "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony_for_the_Devil/08-Aphophis-Hypostyle_Hall-sWhN.mp3"
     ]
   },
   {
@@ -4020,7 +6706,7 @@ window.JOHN_SWAHN_TRACKS = [
     "title": "Dona Eis Requim",
     "artist": "Aphophis",
     "project": "Aphophis",
-    "release": "Symphony For The Devil",
+    "release": "Symphony for the Devil",
     "year": "2012",
     "genre": "Metal",
     "duration": "04:16",
@@ -4028,7 +6714,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony%20for%20the%20Devil/09-Aphophis-Dona_Eis_Requim-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony_for_the_Devil/09-Aphophis-Dona_Eis_Requim-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -4036,8 +6722,7 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/aphophis-symphony-for-the-devil-2012.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony%20for%20the%20Devil/09-Aphophis-Dona_Eis_Requim-sWhN.mp3",
-      "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony%20For%20The%20Devil/09-Aphophis-Dona_Eis_Requim-sWhN.mp3"
+      "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony_for_the_Devil/09-Aphophis-Dona_Eis_Requim-sWhN.mp3"
     ]
   },
   {
@@ -4045,7 +6730,7 @@ window.JOHN_SWAHN_TRACKS = [
     "title": "Endpaper",
     "artist": "Aphophis",
     "project": "Aphophis",
-    "release": "Symphony For The Devil",
+    "release": "Symphony for the Devil",
     "year": "2012",
     "genre": "Metal",
     "duration": "00:44",
@@ -4053,7 +6738,7 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony%20for%20the%20Devil/10-Aphophis-Endpaper-sWhN.mp3",
+    "audio": "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony_for_the_Devil/10-Aphophis-Endpaper-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
@@ -4061,8 +6746,2359 @@ window.JOHN_SWAHN_TRACKS = [
     "sourceFile": "assets/nfo/aphophis-symphony-for-the-devil-2012.nfo",
     "source": "NFO",
     "audioCandidates": [
-      "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony%20for%20the%20Devil/10-Aphophis-Endpaper-sWhN.mp3",
-      "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony%20For%20The%20Devil/10-Aphophis-Endpaper-sWhN.mp3"
+      "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony_for_the_Devil/10-Aphophis-Endpaper-sWhN.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-the-spherical-waltz-2016-01-june-purification-rite",
+    "title": "june purification rite",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "The Spherical Waltz",
+    "year": "2016",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "01",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2016%20-%20The%20Spherical%20Waltz/01-aph%C3%B4phis-june_purification_rite.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2016%20-%20The%20Spherical%20Waltz/01-aph%C3%B4phis-june_purification_rite.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-the-spherical-waltz-2016-02-lighting-the-calcite-lamp",
+    "title": "lighting the calcite lamp",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "The Spherical Waltz",
+    "year": "2016",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "02",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2016%20-%20The%20Spherical%20Waltz/02-aph%C3%B4phis-lighting_the_calcite_lamp.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2016%20-%20The%20Spherical%20Waltz/02-aph%C3%B4phis-lighting_the_calcite_lamp.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-the-spherical-waltz-2016-03-astronomy",
+    "title": "astronomy",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "The Spherical Waltz",
+    "year": "2016",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "03",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2016%20-%20The%20Spherical%20Waltz/03-aph%C3%B4phis-astronomy.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2016%20-%20The%20Spherical%20Waltz/03-aph%C3%B4phis-astronomy.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-the-spherical-waltz-2016-04-the-spherical-waltz",
+    "title": "the spherical waltz",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "The Spherical Waltz",
+    "year": "2016",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "04",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2016%20-%20The%20Spherical%20Waltz/04-aph%C3%B4phis-the_spherical_waltz.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2016%20-%20The%20Spherical%20Waltz/04-aph%C3%B4phis-the_spherical_waltz.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-the-spherical-waltz-2016-05-well-to-hell",
+    "title": "well to hell",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "The Spherical Waltz",
+    "year": "2016",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "05",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2016%20-%20The%20Spherical%20Waltz/05-aph%C3%B4phis-well_to_hell.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2016%20-%20The%20Spherical%20Waltz/05-aph%C3%B4phis-well_to_hell.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-the-spherical-waltz-2016-06-moonage-daydream",
+    "title": "moonage daydream",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "The Spherical Waltz",
+    "year": "2016",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "06",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2016%20-%20The%20Spherical%20Waltz/06-aph%C3%B4phis-moonage_daydream.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2016%20-%20The%20Spherical%20Waltz/06-aph%C3%B4phis-moonage_daydream.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-the-spherical-waltz-2016-07-symphony-for-the-devil",
+    "title": "symphony for the devil",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "The Spherical Waltz",
+    "year": "2016",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "07",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2016%20-%20The%20Spherical%20Waltz/07-aph%C3%B4phis-symphony_for_the_devil.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2016%20-%20The%20Spherical%20Waltz/07-aph%C3%B4phis-symphony_for_the_devil.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-the-spherical-waltz-2016-08-esoteric",
+    "title": "esoteric",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "The Spherical Waltz",
+    "year": "2016",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "08",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2016%20-%20The%20Spherical%20Waltz/08-aph%C3%B4phis-esoteric.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2016%20-%20The%20Spherical%20Waltz/08-aph%C3%B4phis-esoteric.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-the-spherical-waltz-2016-09-the-temples-of-syrinx",
+    "title": "the temples of syrinx",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "The Spherical Waltz",
+    "year": "2016",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "09",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2016%20-%20The%20Spherical%20Waltz/09-aph%C3%B4phis-the_temples_of_syrinx.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2016%20-%20The%20Spherical%20Waltz/09-aph%C3%B4phis-the_temples_of_syrinx.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-the-spherical-waltz-2016-10-escape-velocity",
+    "title": "escape velocity",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "The Spherical Waltz",
+    "year": "2016",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "10",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2016%20-%20The%20Spherical%20Waltz/10-aph%C3%B4phis-escape_velocity.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2016%20-%20The%20Spherical%20Waltz/10-aph%C3%B4phis-escape_velocity.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-exit-space-left-2024-01-in-paradisium",
+    "title": "In Paradisium",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Exit Space Left",
+    "year": "2024",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "01",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2024%20-%20Exit%20Space%20Left/01%20-%20In%20Paradisium.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2024%20-%20Exit%20Space%20Left/01%20-%20In%20Paradisium.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-exit-space-left-2024-02-nocturne",
+    "title": "Nocturne",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Exit Space Left",
+    "year": "2024",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "02",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2024%20-%20Exit%20Space%20Left/02%20-%20Nocturne.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2024%20-%20Exit%20Space%20Left/02%20-%20Nocturne.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-exit-space-left-2024-03-scars-of-the-stars",
+    "title": "Scars Of The Stars",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Exit Space Left",
+    "year": "2024",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "03",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2024%20-%20Exit%20Space%20Left/03%20-%20Scars%20Of%20The%20Stars.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2024%20-%20Exit%20Space%20Left/03%20-%20Scars%20Of%20The%20Stars.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-exit-space-left-2024-04-disorder",
+    "title": "Disorder",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Exit Space Left",
+    "year": "2024",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "04",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2024%20-%20Exit%20Space%20Left/04%20-%20Disorder.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2024%20-%20Exit%20Space%20Left/04%20-%20Disorder.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-exit-space-left-2024-05-learning-to-crawl",
+    "title": "Learning To Crawl",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Exit Space Left",
+    "year": "2024",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "05",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2024%20-%20Exit%20Space%20Left/05%20-%20Learning%20To%20Crawl.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2024%20-%20Exit%20Space%20Left/05%20-%20Learning%20To%20Crawl.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-exit-space-left-2024-06-apocalypsis",
+    "title": "Apocalypsis",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Exit Space Left",
+    "year": "2024",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "06",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2024%20-%20Exit%20Space%20Left/06%20-%20Apocalypsis.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2024%20-%20Exit%20Space%20Left/06%20-%20Apocalypsis.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-exit-space-left-2024-07-drones",
+    "title": "Drones",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Exit Space Left",
+    "year": "2024",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "07",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2024%20-%20Exit%20Space%20Left/07%20-%20Drones.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2024%20-%20Exit%20Space%20Left/07%20-%20Drones.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-exit-space-left-2024-08-anger-management",
+    "title": "Anger Management",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Exit Space Left",
+    "year": "2024",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "08",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2024%20-%20Exit%20Space%20Left/08%20-%20Anger%20Management.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2024%20-%20Exit%20Space%20Left/08%20-%20Anger%20Management.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-exit-space-left-2024-09-from-prince-to-prentice",
+    "title": "From Prince To Prentice",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Exit Space Left",
+    "year": "2024",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "09",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2024%20-%20Exit%20Space%20Left/09%20-%20From%20Prince%20To%20Prentice.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2024%20-%20Exit%20Space%20Left/09%20-%20From%20Prince%20To%20Prentice.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-exit-space-left-2024-10-dorarp",
+    "title": "Dörarp",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Exit Space Left",
+    "year": "2024",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "10",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2024%20-%20Exit%20Space%20Left/10%20-%20D%C3%B6rarp.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2024%20-%20Exit%20Space%20Left/10%20-%20D%C3%B6rarp.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-exit-space-left-2024-11-obstacles-to-progress",
+    "title": "Obstacles To Progress",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Exit Space Left",
+    "year": "2024",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "11",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2024%20-%20Exit%20Space%20Left/11%20-%20Obstacles%20To%20Progress.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2024%20-%20Exit%20Space%20Left/11%20-%20Obstacles%20To%20Progress.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-exit-space-left-2024-12-exit-space-left",
+    "title": "Exit Space Left",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Exit Space Left",
+    "year": "2024",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "12",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2024%20-%20Exit%20Space%20Left/12%20-%20Exit%20Space%20Left.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2024%20-%20Exit%20Space%20Left/12%20-%20Exit%20Space%20Left.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-exit-space-leftovers-2024-01-enemy-to-the-sun",
+    "title": "Enemy To The Sun",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Exit Space Leftovers",
+    "year": "2024",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "01",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2024%20-%20Exit%20Space%20Leftovers/01%20-%20Enemy%20To%20The%20Sun.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2024%20-%20Exit%20Space%20Leftovers/01%20-%20Enemy%20To%20The%20Sun.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-exit-space-leftovers-2024-02-among-the-dead",
+    "title": "Among The Dead",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Exit Space Leftovers",
+    "year": "2024",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "02",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2024%20-%20Exit%20Space%20Leftovers/02%20-%20Among%20The%20Dead.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2024%20-%20Exit%20Space%20Leftovers/02%20-%20Among%20The%20Dead.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-exit-space-leftovers-2024-03-the-banishing",
+    "title": "The Banishing",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Exit Space Leftovers",
+    "year": "2024",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "03",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2024%20-%20Exit%20Space%20Leftovers/03%20-%20The%20Banishing.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2024%20-%20Exit%20Space%20Leftovers/03%20-%20The%20Banishing.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-exit-space-leftovers-2024-04-extrasensory-perception",
+    "title": "Extrasensory Perception",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Exit Space Leftovers",
+    "year": "2024",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "04",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2024%20-%20Exit%20Space%20Leftovers/04%20-%20Extrasensory%20Perception.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2024%20-%20Exit%20Space%20Leftovers/04%20-%20Extrasensory%20Perception.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-exit-space-leftovers-2024-05-three-little-birds",
+    "title": "Three Little Birds",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Exit Space Leftovers",
+    "year": "2024",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "05",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2024%20-%20Exit%20Space%20Leftovers/05%20-%20Three%20Little%20Birds.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2024%20-%20Exit%20Space%20Leftovers/05%20-%20Three%20Little%20Birds.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-exit-space-leftovers-2024-06-i-feel-the-earth-move",
+    "title": "I Feel the Earth Move",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Exit Space Leftovers",
+    "year": "2024",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "06",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2024%20-%20Exit%20Space%20Leftovers/06%20-%20I%20Feel%20the%20Earth%20Move.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2024%20-%20Exit%20Space%20Leftovers/06%20-%20I%20Feel%20the%20Earth%20Move.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-exit-space-leftovers-2024-07-backwaters",
+    "title": "Backwaters",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Exit Space Leftovers",
+    "year": "2024",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "07",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2024%20-%20Exit%20Space%20Leftovers/07%20-%20Backwaters.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2024%20-%20Exit%20Space%20Leftovers/07%20-%20Backwaters.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-exit-space-leftovers-2024-08-the-nile-song",
+    "title": "The Nile Song",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Exit Space Leftovers",
+    "year": "2024",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "08",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2024%20-%20Exit%20Space%20Leftovers/08%20-%20The%20Nile%20Song.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2024%20-%20Exit%20Space%20Leftovers/08%20-%20The%20Nile%20Song.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-exit-space-leftovers-2024-09-defleshed",
+    "title": "Defleshed",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Exit Space Leftovers",
+    "year": "2024",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "09",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2024%20-%20Exit%20Space%20Leftovers/09%20-%20Defleshed.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2024%20-%20Exit%20Space%20Leftovers/09%20-%20Defleshed.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-exit-space-leftovers-2024-10-czardas",
+    "title": "Czardas",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Exit Space Leftovers",
+    "year": "2024",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "10",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2024%20-%20Exit%20Space%20Leftovers/10%20-%20Czardas.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2024%20-%20Exit%20Space%20Leftovers/10%20-%20Czardas.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-exit-space-leftovers-2024-11-army-of-the-undead",
+    "title": "Army Of The Undead",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Exit Space Leftovers",
+    "year": "2024",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "11",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2024%20-%20Exit%20Space%20Leftovers/11%20-%20Army%20Of%20The%20Undead.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2024%20-%20Exit%20Space%20Leftovers/11%20-%20Army%20Of%20The%20Undead.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-exit-space-leftovers-2024-12-time-standing-still-part-i",
+    "title": "Time Standing Still (Part I)",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Exit Space Leftovers",
+    "year": "2024",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "12",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2024%20-%20Exit%20Space%20Leftovers/12%20-%20Time%20Standing%20Still%20%28Part%20I%29.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2024%20-%20Exit%20Space%20Leftovers/12%20-%20Time%20Standing%20Still%20%28Part%20I%29.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-exit-space-leftovers-2024-13-i-am-the-walrus",
+    "title": "I Am The Walrus",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Exit Space Leftovers",
+    "year": "2024",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "13",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2024%20-%20Exit%20Space%20Leftovers/13%20-%20I%20Am%20The%20Walrus.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2024%20-%20Exit%20Space%20Leftovers/13%20-%20I%20Am%20The%20Walrus.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-exit-space-leftovers-2024-14-nine-months-from-march",
+    "title": "Nine Months From March",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Exit Space Leftovers",
+    "year": "2024",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "14",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2024%20-%20Exit%20Space%20Leftovers/14%20-%20Nine%20Months%20From%20March.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2024%20-%20Exit%20Space%20Leftovers/14%20-%20Nine%20Months%20From%20March.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-exit-space-leftovers-2024-15-the-serpent-waltz",
+    "title": "The Serpent Waltz",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Exit Space Leftovers",
+    "year": "2024",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "15",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2024%20-%20Exit%20Space%20Leftovers/15%20-%20The%20Serpent%20Waltz.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2024%20-%20Exit%20Space%20Leftovers/15%20-%20The%20Serpent%20Waltz.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-through-the-hourglass-2024-01-spitting-upon-apep",
+    "title": "Spitting Upon Apep",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Through The Hourglass",
+    "year": "2024",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "01",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2024%20-%20Through%20The%20Hourglass/01%20-%20Spitting%20Upon%20Apep.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2024%20-%20Through%20The%20Hourglass/01%20-%20Spitting%20Upon%20Apep.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-through-the-hourglass-2024-02-death-on-swept-wings",
+    "title": "Death On Swept Wings",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Through The Hourglass",
+    "year": "2024",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "02",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2024%20-%20Through%20The%20Hourglass/02%20-%20Death%20On%20Swept%20Wings.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2024%20-%20Through%20The%20Hourglass/02%20-%20Death%20On%20Swept%20Wings.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-through-the-hourglass-2024-03-june-purification-rite",
+    "title": "June Purification Rite",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Through The Hourglass",
+    "year": "2024",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "03",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2024%20-%20Through%20The%20Hourglass/03%20-%20June%20Purification%20Rite.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2024%20-%20Through%20The%20Hourglass/03%20-%20June%20Purification%20Rite.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-through-the-hourglass-2024-04-solar-barque",
+    "title": "Solar Barque",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Through The Hourglass",
+    "year": "2024",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "04",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2024%20-%20Through%20The%20Hourglass/04%20-%20Solar%20Barque.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2024%20-%20Through%20The%20Hourglass/04%20-%20Solar%20Barque.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-through-the-hourglass-2024-05-astronomy",
+    "title": "Astronomy",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Through The Hourglass",
+    "year": "2024",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "05",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2024%20-%20Through%20The%20Hourglass/05%20-%20Astronomy.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2024%20-%20Through%20The%20Hourglass/05%20-%20Astronomy.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-through-the-hourglass-2024-06-taking-a-lance-to-smite-apep",
+    "title": "Taking A Lance To Smite Apep",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Through The Hourglass",
+    "year": "2024",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "06",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2024%20-%20Through%20The%20Hourglass/06%20-%20Taking%20A%20Lance%20To%20Smite%20Apep.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2024%20-%20Through%20The%20Hourglass/06%20-%20Taking%20A%20Lance%20To%20Smite%20Apep.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-through-the-hourglass-2024-07-countdown-to-existence",
+    "title": "Countdown To Existence",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Through The Hourglass",
+    "year": "2024",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "07",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2024%20-%20Through%20The%20Hourglass/07%20-%20Countdown%20To%20Existence.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2024%20-%20Through%20The%20Hourglass/07%20-%20Countdown%20To%20Existence.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-through-the-hourglass-2024-08-serpent-of-rebirth",
+    "title": "Serpent Of Rebirth",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Through The Hourglass",
+    "year": "2024",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "08",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2024%20-%20Through%20The%20Hourglass/08%20-%20Serpent%20Of%20Rebirth.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2024%20-%20Through%20The%20Hourglass/08%20-%20Serpent%20Of%20Rebirth.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-through-the-hourglass-2024-09-taking-a-knife-to-smite-apep",
+    "title": "Taking A Knife To Smite Apep",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Through The Hourglass",
+    "year": "2024",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "09",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2024%20-%20Through%20The%20Hourglass/09%20-%20Taking%20A%20Knife%20To%20Smite%20Apep.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2024%20-%20Through%20The%20Hourglass/09%20-%20Taking%20A%20Knife%20To%20Smite%20Apep.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-through-the-hourglass-2024-10-in-nomine-satana",
+    "title": "In Nomine Satana",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Through The Hourglass",
+    "year": "2024",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "10",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2024%20-%20Through%20The%20Hourglass/10%20-%20In%20Nomine%20Satana.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2024%20-%20Through%20The%20Hourglass/10%20-%20In%20Nomine%20Satana.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-through-the-hourglass-2024-11-escape-velocity",
+    "title": "Escape Velocity",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Through The Hourglass",
+    "year": "2024",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "11",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2024%20-%20Through%20The%20Hourglass/11%20-%20Escape%20Velocity.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2024%20-%20Through%20The%20Hourglass/11%20-%20Escape%20Velocity.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-vii-2024-01-opus-26",
+    "title": "Opus 26",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "VII",
+    "year": "2024",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "01",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2024%20-%20VII/01%20Opus%2026.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2024%20-%20VII/01%20Opus%2026.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-vii-2024-02-shepherd-of-trees",
+    "title": "shepherd of trees",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "VII",
+    "year": "2024",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "02",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2024%20-%20VII/02%20shepherd%20of%20trees.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2024%20-%20VII/02%20shepherd%20of%20trees.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-vii-2024-03-no-solution",
+    "title": "No Solution",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "VII",
+    "year": "2024",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "03",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2024%20-%20VII/03%20No%20Solution.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2024%20-%20VII/03%20No%20Solution.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-vii-2024-04-strawberry-song",
+    "title": "strawberry Song",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "VII",
+    "year": "2024",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "04",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2024%20-%20VII/04%20strawberry%20Song.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2024%20-%20VII/04%20strawberry%20Song.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-vii-2024-05-escapepipe",
+    "title": "Escapepipe",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "VII",
+    "year": "2024",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "05",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2024%20-%20VII/05%20Escapepipe.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2024%20-%20VII/05%20Escapepipe.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-vii-2024-06-cochin-fever",
+    "title": "Cochin Fever",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "VII",
+    "year": "2024",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "06",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2024%20-%20VII/06%20Cochin%20Fever.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2024%20-%20VII/06%20Cochin%20Fever.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-vii-2024-07-writing-letters",
+    "title": "Writing Letters",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "VII",
+    "year": "2024",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "07",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2024%20-%20VII/07%20Writing%20Letters.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2024%20-%20VII/07%20Writing%20Letters.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-vii-2024-08-seven",
+    "title": "Seven",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "VII",
+    "year": "2024",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "08",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2024%20-%20VII/08%20Seven.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2024%20-%20VII/08%20Seven.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-vii-2024-09-printed-matter",
+    "title": "Printed Matter",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "VII",
+    "year": "2024",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "09",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2024%20-%20VII/09%20Printed%20Matter.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2024%20-%20VII/09%20Printed%20Matter.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-vii-2024-10-im-so-glad",
+    "title": "im so glad",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "VII",
+    "year": "2024",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "10",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2024%20-%20VII/10%20im%20so%20glad.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2024%20-%20VII/10%20im%20so%20glad.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-vii-2024-11-dead-again-marcus-song",
+    "title": "Dead Again (Marcus Song)",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "VII",
+    "year": "2024",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "11",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2024%20-%20VII/11%20Dead%20Again%20%28Marcus%20Song%29.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2024%20-%20VII/11%20Dead%20Again%20%28Marcus%20Song%29.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-vii-2024-12-requiem-masses",
+    "title": "Requiem Masses",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "VII",
+    "year": "2024",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "12",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2024%20-%20VII/12%20Requiem%20Masses.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2024%20-%20VII/12%20Requiem%20Masses.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-vii-2024-13-last-march-of-the-ents",
+    "title": "Last March of the Ents",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "VII",
+    "year": "2024",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "13",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2024%20-%20VII/13%20Last%20March%20of%20the%20Ents.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2024%20-%20VII/13%20Last%20March%20of%20the%20Ents.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-vii-2024-14-shepherd-of-trees-alicia-remix",
+    "title": "shepherd of trees (alicia remix)",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "VII",
+    "year": "2024",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "14",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2024%20-%20VII/14%20shepherd%20of%20trees%20%28alicia%20remix%29.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2024%20-%20VII/14%20shepherd%20of%20trees%20%28alicia%20remix%29.mp3"
+    ]
+  },
+  {
+    "id": "treebeard-vii-2024-15-cochin-fever-live-in-fort-kochi-india",
+    "title": "Cochin Fever (Live In Fort Kochi, India)",
+    "artist": "Treebeard",
+    "project": "Treebeard",
+    "release": "VII",
+    "year": "2024",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "15",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Treebeard/2024%20-%20VII/15%20Cochin%20Fever%20%28Live%20In%20Fort%20Kochi%2C%20India%29.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2024%20-%20VII/15%20Cochin%20Fever%20%28Live%20In%20Fort%20Kochi%2C%20India%29.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-dynasties-2025-01-fanfare",
+    "title": "Fanfare",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Dynasties",
+    "year": "2025",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "01",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2025%20-%20Dynasties/01%20-%20Fanfare.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2025%20-%20Dynasties/01%20-%20Fanfare.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-dynasties-2025-02-into-the-fire",
+    "title": "Into The Fire",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Dynasties",
+    "year": "2025",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "02",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2025%20-%20Dynasties/02%20-%20Into%20The%20Fire.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2025%20-%20Dynasties/02%20-%20Into%20The%20Fire.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-dynasties-2025-03-parasite",
+    "title": "Parasite",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Dynasties",
+    "year": "2025",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "03",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2025%20-%20Dynasties/03%20-%20Parasite.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2025%20-%20Dynasties/03%20-%20Parasite.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-dynasties-2025-04-just-a-boy",
+    "title": "Just A Boy",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Dynasties",
+    "year": "2025",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "04",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2025%20-%20Dynasties/04%20-%20Just%20A%20Boy.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2025%20-%20Dynasties/04%20-%20Just%20A%20Boy.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-dynasties-2025-05-save-your-love",
+    "title": "Save Your Love",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Dynasties",
+    "year": "2025",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "05",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2025%20-%20Dynasties/05%20-%20Save%20Your%20Love.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2025%20-%20Dynasties/05%20-%20Save%20Your%20Love.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-dynasties-2025-06-only-you",
+    "title": "Only You",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Dynasties",
+    "year": "2025",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "06",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2025%20-%20Dynasties/06%20-%20Only%20You.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2025%20-%20Dynasties/06%20-%20Only%20You.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-dynasties-2025-07-sure-know-something",
+    "title": "Sure Know Something",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Dynasties",
+    "year": "2025",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "07",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2025%20-%20Dynasties/07%20-%20Sure%20Know%20Something.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2025%20-%20Dynasties/07%20-%20Sure%20Know%20Something.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-dynasties-2025-08-watchin-you",
+    "title": "Watchin' You",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Dynasties",
+    "year": "2025",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "08",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2025%20-%20Dynasties/08%20-%20Watchin%27%20You.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2025%20-%20Dynasties/08%20-%20Watchin%27%20You.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-dynasties-2025-09-under-the-rose",
+    "title": "Under The Rose",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Dynasties",
+    "year": "2025",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "09",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2025%20-%20Dynasties/09%20-%20Under%20The%20Rose.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2025%20-%20Dynasties/09%20-%20Under%20The%20Rose.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-dynasties-2025-10-she",
+    "title": "She",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Dynasties",
+    "year": "2025",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "10",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2025%20-%20Dynasties/10%20-%20She.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2025%20-%20Dynasties/10%20-%20She.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-dynasties-2025-11-charisma",
+    "title": "Charisma",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Dynasties",
+    "year": "2025",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "11",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2025%20-%20Dynasties/11%20-%20Charisma.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2025%20-%20Dynasties/11%20-%20Charisma.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-dynasties-2025-12-the-oath",
+    "title": "The Oath",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Dynasties",
+    "year": "2025",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "12",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2025%20-%20Dynasties/12%20-%20The%20Oath.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2025%20-%20Dynasties/12%20-%20The%20Oath.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-dynasties-2025-13-war-machine",
+    "title": "War Machine",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Dynasties",
+    "year": "2025",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "13",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2025%20-%20Dynasties/13%20-%20War%20Machine.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2025%20-%20Dynasties/13%20-%20War%20Machine.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-dynasties-2025-14-easy-as-it-seems",
+    "title": "Easy As It Seems",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Dynasties",
+    "year": "2025",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "14",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2025%20-%20Dynasties/14%20-%20Easy%20As%20It%20Seems.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2025%20-%20Dynasties/14%20-%20Easy%20As%20It%20Seems.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-dynasties-2025-15-gimme-more",
+    "title": "Gimme More",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Dynasties",
+    "year": "2025",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "15",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2025%20-%20Dynasties/15%20-%20Gimme%20More.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2025%20-%20Dynasties/15%20-%20Gimme%20More.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-dynasties-2025-16-beth",
+    "title": "Beth",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Dynasties",
+    "year": "2025",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "16",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2025%20-%20Dynasties/16%20-%20Beth.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2025%20-%20Dynasties/16%20-%20Beth.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-the-aphophis-universe-phase-one-2025-01-prelude-to-decline",
+    "title": "Prelude To Decline",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "The Aphophis Universe, Phase One",
+    "year": "2025",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "01",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2025%20-%20The%20Aphophis%20Universe%2C%20Phase%20One/01%20-%20Prelude%20To%20Decline.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2025%20-%20The%20Aphophis%20Universe%2C%20Phase%20One/01%20-%20Prelude%20To%20Decline.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-the-aphophis-universe-phase-one-2025-02-vulcan",
+    "title": "Vulcan",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "The Aphophis Universe, Phase One",
+    "year": "2025",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "02",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2025%20-%20The%20Aphophis%20Universe%2C%20Phase%20One/02%20-%20Vulcan.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2025%20-%20The%20Aphophis%20Universe%2C%20Phase%20One/02%20-%20Vulcan.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-the-aphophis-universe-phase-one-2025-03-earth-resounding",
+    "title": "Earth Resounding",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "The Aphophis Universe, Phase One",
+    "year": "2025",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "03",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2025%20-%20The%20Aphophis%20Universe%2C%20Phase%20One/03%20-%20Earth%20Resounding.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2025%20-%20The%20Aphophis%20Universe%2C%20Phase%20One/03%20-%20Earth%20Resounding.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-the-aphophis-universe-phase-one-2025-04-the-infinite-nothing",
+    "title": "The Infinite Nothing",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "The Aphophis Universe, Phase One",
+    "year": "2025",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "04",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2025%20-%20The%20Aphophis%20Universe%2C%20Phase%20One/04%20-%20The%20Infinite%20Nothing.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2025%20-%20The%20Aphophis%20Universe%2C%20Phase%20One/04%20-%20The%20Infinite%20Nothing.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-the-aphophis-universe-phase-one-2025-05-a-piece-untitled",
+    "title": "A Piece Untitled",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "The Aphophis Universe, Phase One",
+    "year": "2025",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "05",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2025%20-%20The%20Aphophis%20Universe%2C%20Phase%20One/05%20-%20A%20Piece%20Untitled.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2025%20-%20The%20Aphophis%20Universe%2C%20Phase%20One/05%20-%20A%20Piece%20Untitled.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-the-aphophis-universe-phase-one-2025-06-endangered-species",
+    "title": "Endangered Species",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "The Aphophis Universe, Phase One",
+    "year": "2025",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "06",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2025%20-%20The%20Aphophis%20Universe%2C%20Phase%20One/06%20-%20Endangered%20Species.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2025%20-%20The%20Aphophis%20Universe%2C%20Phase%20One/06%20-%20Endangered%20Species.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-chronophobia-2026-01-chronophobia",
+    "title": "Chronophobia",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Chronophobia",
+    "year": "2026",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "01",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2026%20-%20Chronophobia/2026%20-%20Aph%C3%B4phis%20-%20Chronophobia/01%20-%20Chronophobia.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2026%20-%20Chronophobia/2026%20-%20Aph%C3%B4phis%20-%20Chronophobia/01%20-%20Chronophobia.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-chronophobia-2026-02-don-t-break-the-oath",
+    "title": "Don't Break The Oath",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Chronophobia",
+    "year": "2026",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "02",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2026%20-%20Chronophobia/2026%20-%20Aph%C3%B4phis%20-%20Chronophobia/02%20-%20Don%27t%20Break%20The%20Oath.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2026%20-%20Chronophobia/2026%20-%20Aph%C3%B4phis%20-%20Chronophobia/02%20-%20Don%27t%20Break%20The%20Oath.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-chronophobia-2026-03-time",
+    "title": "Time",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Chronophobia",
+    "year": "2026",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "03",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2026%20-%20Chronophobia/2026%20-%20Aph%C3%B4phis%20-%20Chronophobia/03%20-%20Time.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2026%20-%20Chronophobia/2026%20-%20Aph%C3%B4phis%20-%20Chronophobia/03%20-%20Time.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-chronophobia-2026-04-monster-nue",
+    "title": "Monster Nue",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Chronophobia",
+    "year": "2026",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "04",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2026%20-%20Chronophobia/2026%20-%20Aph%C3%B4phis%20-%20Chronophobia/04%20-%20Monster%20Nue.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2026%20-%20Chronophobia/2026%20-%20Aph%C3%B4phis%20-%20Chronophobia/04%20-%20Monster%20Nue.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-chronophobia-2026-05-the-turning-god",
+    "title": "The Turning God",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Chronophobia",
+    "year": "2026",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "05",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2026%20-%20Chronophobia/2026%20-%20Aph%C3%B4phis%20-%20Chronophobia/05%20-%20The%20Turning%20God.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2026%20-%20Chronophobia/2026%20-%20Aph%C3%B4phis%20-%20Chronophobia/05%20-%20The%20Turning%20God.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-chronophobia-2026-06-vortex-sun",
+    "title": "Vortex Sun",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Chronophobia",
+    "year": "2026",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "06",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2026%20-%20Chronophobia/2026%20-%20Aph%C3%B4phis%20-%20Chronophobia/06%20-%20Vortex%20Sun.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2026%20-%20Chronophobia/2026%20-%20Aph%C3%B4phis%20-%20Chronophobia/06%20-%20Vortex%20Sun.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-chronophobia-2026-07-nebula",
+    "title": "Nebula",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Chronophobia",
+    "year": "2026",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "07",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2026%20-%20Chronophobia/2026%20-%20Aph%C3%B4phis%20-%20Chronophobia/07%20-%20Nebula.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2026%20-%20Chronophobia/2026%20-%20Aph%C3%B4phis%20-%20Chronophobia/07%20-%20Nebula.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-chronophobia-2026-08-pipeline",
+    "title": "Pipeline",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Chronophobia",
+    "year": "2026",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "08",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2026%20-%20Chronophobia/2026%20-%20Aph%C3%B4phis%20-%20Chronophobia/08%20-%20Pipeline.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2026%20-%20Chronophobia/2026%20-%20Aph%C3%B4phis%20-%20Chronophobia/08%20-%20Pipeline.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-chronophobia-2026-09-the-test-of-time",
+    "title": "The Test Of Time",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Chronophobia",
+    "year": "2026",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "09",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2026%20-%20Chronophobia/2026%20-%20Aph%C3%B4phis%20-%20Chronophobia/09%20-%20The%20Test%20Of%20Time.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2026%20-%20Chronophobia/2026%20-%20Aph%C3%B4phis%20-%20Chronophobia/09%20-%20The%20Test%20Of%20Time.mp3"
+    ]
+  },
+  {
+    "id": "aphophis-chronophobia-2026-10-screaming-in-ultraviolet",
+    "title": "Screaming In Ultraviolet",
+    "artist": "Aphophis",
+    "project": "Aphophis",
+    "release": "Chronophobia",
+    "year": "2026",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "10",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aphophis/2026%20-%20Chronophobia/2026%20-%20Aph%C3%B4phis%20-%20Chronophobia/10%20-%20Screaming%20In%20Ultraviolet.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2026%20-%20Chronophobia/2026%20-%20Aph%C3%B4phis%20-%20Chronophobia/10%20-%20Screaming%20In%20Ultraviolet.mp3"
+    ]
+  },
+  {
+    "id": "aztrozmurfen-superhero-01-superhero-it-s-in-the-game-version",
+    "title": "Superhero",
+    "artist": "Aztrozmurfen",
+    "project": "Aztrozmurfen",
+    "release": "Superhero",
+    "year": "",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "01",
+    "releaseType": "Archive recording",
+    "version": "It's in the game Version",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aztrozmurfen%20-%20Superhero/Aztrozmurfen%20-%20Superhero%20%28It%27s%20in%20the%20game%20Version%29.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aztrozmurfen%20-%20Superhero/Aztrozmurfen%20-%20Superhero%20%28It%27s%20in%20the%20game%20Version%29.mp3"
+    ]
+  },
+  {
+    "id": "aztrozmurfen-superhero-02-superhero-hockey-version",
+    "title": "Superhero",
+    "artist": "Aztrozmurfen",
+    "project": "Aztrozmurfen",
+    "release": "Superhero",
+    "year": "",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "02",
+    "releaseType": "Archive recording",
+    "version": "Hockey Version",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aztrozmurfen%20-%20Superhero/Aztrozmurfen%20-%20Superhero%28Hockey%20Version%29.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aztrozmurfen%20-%20Superhero/Aztrozmurfen%20-%20Superhero%28Hockey%20Version%29.mp3"
+    ]
+  },
+  {
+    "id": "aztrozmurfen-superhero-03-superhero-original-version",
+    "title": "Superhero",
+    "artist": "Aztrozmurfen",
+    "project": "Aztrozmurfen",
+    "release": "Superhero",
+    "year": "",
+    "genre": "",
+    "duration": "",
+    "trackNumber": "03",
+    "releaseType": "Archive recording",
+    "version": "Original version",
+    "credits": [],
+    "audio": "https://audio.desecrate.se/Aztrozmurfen%20-%20Superhero/Aztrozmurfen%20-%20Superhero.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "R2 audio archive",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aztrozmurfen%20-%20Superhero/Aztrozmurfen%20-%20Superhero.mp3"
     ]
   }
 ];
@@ -4074,5 +9110,6 @@ window.JOHN_SWAHN_PROJECT_ART = {
   "Almost Human": "assets/almost-human/2000-green-all-over.gif",
   "The Unkinds": "assets/the-unkinds/2003-almost-human-front.jpg",
   "Treebeard": "assets/treebeard/2003-the-eldest-cover.jpg",
-  "Aphophis": "assets/aphophis/2026-chronophobia-front.jpg"
+  "Aphophis": "assets/aphophis/2026-chronophobia-front.jpg",
+  "Aztrozmurfen": ""
 };

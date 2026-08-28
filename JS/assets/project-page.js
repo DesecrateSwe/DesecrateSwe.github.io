@@ -5,6 +5,14 @@
  const p=data.projects.find(x=>x.slug===key); if(!p)return;
  const names=new Set([p.title,...(p.aliases||[])]);
  const esc=v=>String(v??'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#039;');
+ const hero=document.querySelector('.page-hero');
+ if(hero){
+   const kicker=hero.querySelector('.eyebrow'); if(kicker) kicker.textContent=p.kicker||'Project archive';
+   const h1=hero.querySelector('h1'); if(h1) h1.textContent=p.title;
+   const desc=hero.querySelector('.page-hero-grid > div > p'); if(desc) desc.textContent=p.description||'';
+   const row=hero.querySelector('.page-kicker-row');
+   if(row){row.innerHTML=[...(p.meta||[]),`${p.releaseCount||0} ${p.releaseCount===1?'release':'releases'}`,].map(x=>`<span>${esc(x)}</span>`).join('');}
+ }
  const audioUrl=src=>/^https?:\/\//i.test(String(src||''))?String(src):`../${src}`;
  const audioSources=t=>(t.audioCandidates?.length?t.audioCandidates:[t.audio]).filter(Boolean).map(audioUrl);
  const releases=data.releases.filter(r=>names.has(r.project)||names.has(r.projectRaw));
