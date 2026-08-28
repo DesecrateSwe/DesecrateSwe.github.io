@@ -11,7 +11,7 @@
   let limit=60;
   const decade=y=>{const n=parseInt(y,10);return Number.isFinite(n)?`${Math.floor(n/10)*10}s`:'';};
   const params=new URLSearchParams(location.search); input.value=params.get('q')||''; if(params.get('project'))project.value=params.get('project');
-  const totalCount=document.getElementById('songTotalCount'); if(totalCount){totalCount.textContent=`${tracks.length} indexed track ${tracks.length===1?'appearance':'appearances'}`;} const audioCount=document.getElementById('songAudioCount'); if(audioCount){const n=tracks.filter(t=>t.audio).length;audioCount.textContent=`${n} playable audio ${n===1?'track':'tracks'}`;}
+  const totalCount=document.getElementById('songTotalCount'); if(totalCount){totalCount.textContent=`${tracks.length} spår`;} const audioCount=document.getElementById('songAudioCount'); if(audioCount){const n=tracks.filter(t=>t.audio).length;audioCount.textContent=`${n} spelbara spår`;}
   function get(){const q=norm(input.value);let a=tracks.filter(t=>{const h=norm([t.title,t.artist,t.project,t.release,t.year,t.genre,t.releaseType,...(t.credits||[])].join(' '));return(!q||q.split(/\s+/).every(x=>h.includes(x)))&&(project.value==='all'||t.project===project.value)&&(era.value==='all'||decade(t.year)===era.value);});a.sort((a,b)=>sort.value==='year-desc'?+b.year-+a.year||a.title.localeCompare(b.title):sort.value==='title-asc'?a.title.localeCompare(b.title):sort.value==='project-asc'?a.project.localeCompare(b.project)||+a.year-+b.year:+a.year-+b.year||a.project.localeCompare(b.project)||a.title.localeCompare(b.title));return a;}
   function render(){
     const a=get(),v=a.slice(0,limit);
@@ -20,11 +20,11 @@
       const artNode=t.audio
         ? `<button class="song-project-art track-play" type="button" aria-label="Play ${esc(t.title)}" aria-pressed="false" data-audio-src="${esc(audioUrl(t.audio))}" data-audio-sources="${esc(JSON.stringify(audioSources(t)))}" data-audio-title="${esc(t.title)}" data-audio-project="${esc(t.artist||t.project)}" data-audio-release="${esc(t.release)}">${image}<span class="track-play-icon" aria-hidden="true">▶</span></button>`
         : `<span class="song-project-art">${image}</span>`;
-      const audioTag=t.audio?' · Audio':'';
+      const audioTag=t.audio?' · Spela':'';
       return `<div class="song-row" id="song-${esc(t.id)}" role="row"><div class="song-title-cell" role="cell">${artNode}<span class="song-title-text"><strong>${esc(t.title)}</strong><span>${esc([t.genre,t.releaseType,`Track ${t.trackNumber}`].filter(Boolean).join(' · '))}${audioTag}</span></span></div><span class="song-project-cell">${esc(t.artist||t.project)}</span><span class="song-release-cell">${esc(t.release)}</span><span class="song-year-cell">${esc(t.year)}</span><span class="song-time-cell">${esc(t.duration)}</span></div>`;
     }).join('');
-    count.textContent=`${a.length} ${a.length===1?'recording':'recordings'}`;
-    shown.textContent=a.length?`Showing ${Math.min(v.length,a.length)} of ${a.length}`:'';
+    count.textContent=`${a.length} ${a.length===1?'inspelning':'inspelningar'}`;
+    shown.textContent=a.length?`Visar ${Math.min(v.length,a.length)} av ${a.length}`:'';
     empty.hidden=a.length!==0;
     more.hidden=v.length>=a.length;
     requestAnimationFrame(()=>{if(location.hash.startsWith('#song-'))document.querySelector(location.hash)?.scrollIntoView({block:'center'});});
