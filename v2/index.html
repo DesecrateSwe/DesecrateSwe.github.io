@@ -1,0 +1,227 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#070604">
+<title>Desecrate V2 — Second Death</title>
+<meta name="description" content="Desecrate — Uppsala 1988–1990. Original demos, live archive and Second Death (2026).">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Inter:wght@400;500;600;700&family=Oswald:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+<link rel="icon" href="assets/images/favicon.ico" sizes="any">
+<link rel="apple-touch-icon" href="assets/images/apple-touch-icon.png">
+</head>
+<body>
+
+<div class="grain" aria-hidden="true"></div>
+
+<header class="topbar">
+  <a class="logo" href="#home"><img src="assets/images/desecrate-logo.png" alt="Desecrate"></a>
+  <button class="menu-btn" id="menuBtn" aria-label="Open menu" aria-expanded="false"><span></span><span></span><span></span></button>
+  <nav id="nav">
+    <a href="#home">Home</a>
+    <a href="#releases">Recordings</a>
+    <a href="#members">Members</a>
+    <a href="#story">Story</a>
+    <a href="#archive">Archive</a>
+  </nav>
+  <div class="top-meta">UPPSALA · 1988–1990 · RETURNED 2026</div>
+</header>
+
+<main id="home">
+
+  <section class="feature">
+    <div class="feature-copy">
+      <span class="eyebrow">THE DEBUT ALBUM · 2026</span>
+      <h1>SECOND<br>DEATH</h1>
+      <p>Thirteen songs from Desecrate's first era, rebuilt more than three decades after the band disappeared.</p>
+      <div class="feature-actions">
+        <button class="btn solid" data-play-collection="album">▶ PLAY ALBUM</button>
+        <a class="btn" href="#releases">EXPLORE RECORDINGS</a>
+      </div>
+      <div class="feature-statline">
+        <span><b>1988</b> FORMED</span>
+        <span><b>3</b> ORIGINAL DEMOS</span>
+        <span><b>2026</b> RETURNED</span>
+      </div>
+    </div>
+
+    <div class="feature-photo">
+      <img src="assets/images/promo-2026.png" alt="Desecrate 2026">
+      <div class="photo-fade"></div>
+      <span>PROMO IMAGE · SECOND DEATH · 2026</span>
+    </div>
+
+    <aside class="feature-player" id="featurePlayer">
+      <div class="player-label">NOW PLAYING</div>
+      <img id="heroCover" class="player-cover" src="assets/images/second-death-front.jpg" alt="">
+      <div class="player-source" id="heroSource">SECOND DEATH · 2026</div>
+      <h2 id="heroTitle">Second Death</h2>
+      <div class="player-controls">
+        <button id="heroPrev" aria-label="Previous">←</button>
+        <button id="heroPlay" class="play-circle" aria-label="Play">▶</button>
+        <button id="heroNext" aria-label="Next">→</button>
+      </div>
+      <div class="progress">
+        <span id="heroCurrent">0:00</span>
+        <input id="heroProgress" type="range" min="0" max="100" value="0">
+        <span id="heroTotal">0:00</span>
+      </div>
+      <div class="mini-list" id="heroTrackList"></div>
+    </aside>
+  </section>
+
+  <section class="release-strip" id="releases">
+    <div class="section-title">
+      <div><span>DISCOGRAPHY</span><h2>THE RECORDINGS</h2></div>
+      <p>From the Portastudio tapes to the lost <em>Second Death</em> songs and the 2026 return.</p>
+    </div>
+
+    <div class="release-grid">
+      <button class="release-card" data-collection="demo1988">
+        <img src="assets/images/demo-covers/we-only-make-jokes-cover.jpg" alt="">
+        <div><span>1988 · DEMO</span><strong>WE ONLY MAKE JOKES...<br>WE MADE YOU</strong><small>5 tracks</small></div>
+      </button>
+      <button class="release-card" data-collection="arranger">
+        <img src="assets/images/demo-covers/arranger-of-disorder-cover.jpg" alt="">
+        <div><span>MAY 1989 · DEMO</span><strong>ARRANGER OF DISORDER</strong><small>3 tracks</small></div>
+      </button>
+      <button class="release-card" data-collection="lonely">
+        <img src="assets/images/demo-covers/lonely-disgrace-cover.jpg" alt="">
+        <div><span>DEC 1989 · DEMO</span><strong>LONELY DISGRACE</strong><small>5 tracks</small></div>
+      </button>
+      <button class="release-card" data-collection="live">
+        <img src="assets/images/demo-covers/live-second-death-cover.jpg" alt="">
+        <div><span>1988–1989 · LIVE ARCHIVE</span><strong>SECOND DEATH · LIVE</strong><small>5 surviving tracks</small></div>
+      </button>
+      <button class="release-card release-current" data-collection="album">
+        <img src="assets/images/second-death-front.jpg" alt="">
+        <div><span>2026 · ALBUM</span><strong>SECOND DEATH</strong><small>13 tracks</small></div>
+      </button>
+    </div>
+
+    <div class="selected-recording">
+      <div class="selected-head">
+        <div>
+          <span id="selectedKicker">2026 · ALBUM</span>
+          <h3 id="selectedTitle">SECOND DEATH</h3>
+        </div>
+        <p id="selectedText">Thirteen songs from Desecrate's past, recorded again more than three decades later.</p>
+      </div>
+      <div id="fullTrackList" class="full-tracklist"></div>
+    </div>
+  </section>
+
+  <section class="members" id="members">
+    <div class="section-title">
+      <div><span>THE PEOPLE BEHIND THE RECORDINGS</span><h2>MEMBERS</h2></div>
+      <p>The musicians who passed through Desecrate during the original era.</p>
+    </div>
+
+    <div class="member-grid">
+      <article class="member-card intro-card">
+        <div class="intro-d">D</div>
+        <span>UPPSALA · SWEDEN</span>
+        <h3>DESECRATE</h3>
+        <p>Active through 1990. Three surviving demos, a lost session and changing live lineups before the songs returned in 2026.</p>
+        <div class="tags"><i>1988–1990</i><i>Returned 2026</i></div>
+      </article>
+
+      <article class="member-card">
+        <img src="assets/images/members/rickard-ceder-unified.jpg" alt="Rickard Ceder">
+        <div><span>FOUNDER · GUITAR</span><h3>RICKARD B. CEDER</h3><p>Founder and guitarist. Guitar and bass on the first demo; guitar on the 1989 recordings.</p></div>
+      </article>
+
+      <article class="member-card">
+        <img src="assets/images/members/john-swahn-unified.jpg" alt="John Swahn">
+        <div><span>VOCALS</span><h3>JOHN S. SWAHN</h3><p>Lead vocalist throughout the original demo period and the live lineups between them.</p></div>
+      </article>
+
+      <article class="member-card">
+        <img src="assets/images/members/jakob-kobben-bergstrom-unified.jpg" alt="Jakob Bergström">
+        <div><span>DRUMS · “KOBBEN”</span><h3>JAKOB BERGSTRÖM</h3><p>Drummer in the original trio and throughout Desecrate's original era.</p></div>
+      </article>
+
+      <article class="member-card">
+        <img src="assets/images/members/dave-janney-unified.jpg" alt="Dave Janney">
+        <div><span>GUITAR / BASS</span><h3>DAVE JANNEY</h3><p>Joined in 1989, first on bass and later on guitar. Dave Janney died in 2008.</p></div>
+      </article>
+
+      <article class="member-card">
+        <img src="assets/images/members/jens-jenka-aberg-unified.jpg" alt="Jens Åberg">
+        <div><span>BASS · “JENKA”</span><h3>JENS ÅBERG</h3><p>Joined on bass for <em>Lonely Disgrace</em>, the final documented studio demo of the original era.</p></div>
+      </article>
+
+      <article class="member-card">
+        <img src="assets/images/members/mans-magnusson-unified.jpg" alt="Måns Magnusson">
+        <div><span>GUITAR</span><h3>MÅNS MAGNUSSON</h3><p>Expanded the live lineup and played lead guitar on <em>Arranger of Disorder</em>.</p></div>
+      </article>
+
+      <article class="member-card">
+        <img src="assets/images/members/marten-korkman-unified.jpg" alt="Mårten Korkman">
+        <div><span>BASS · LIVE LINEUP</span><h3>MÅRTEN KORKMAN</h3><p>Bassist in the second lineup, used for live performances after the first demo.</p></div>
+      </article>
+    </div>
+  </section>
+
+  <section class="story" id="story">
+    <div class="story-image">
+      <img src="assets/images/archive/early-band-photo.png" alt="Early Desecrate band photo">
+      <span>FROM THE ARCHIVE</span>
+    </div>
+    <div class="story-copy">
+      <span class="eyebrow">THE STORY · 1987 → 2026</span>
+      <h2>FROM NYBY<br>TO SECOND DEATH.</h2>
+      <p>Desecrate grew out of Uppsala's late-eighties underground. Rickard Ceder wanted to make harder music and began working with Jakob “Kobben” Bergström on the first Portastudio recordings. John Swahn was brought in on vocals.</p>
+      <div class="timeline">
+        <article><b>1988</b><div><strong>FIRST DEMO & FIRST SHOW</strong><p><em>We Only Make Jokes...We Made You</em>. First concert at Storvreta Fritidsgård on 25 November.</p></div></article>
+        <article><b>1989</b><div><strong>TWO ENKÖPING DEMOS</strong><p><em>Arranger of Disorder</em> in May and <em>Lonely Disgrace</em> in December.</p></div></article>
+        <article><b>1990</b><div><strong>THE LAST SHOW</strong><p>Differences over direction led to the split. Final show at the old fire station in Knivsta.</p></div></article>
+        <article><b>2026</b><div><strong>THE SONGS RETURN</strong><p>The old material is rebuilt as the full-length album <em>Second Death</em>.</p></div></article>
+      </div>
+      <a class="btn" href="#archive">EXPLORE THE ARCHIVE ↓</a>
+    </div>
+  </section>
+
+  <section class="archive" id="archive">
+    <div class="section-title">
+      <div><span>ORIGINAL MATERIAL</span><h2>ARCHIVE</h2></div>
+      <p>Flyers, demo inserts, band photographs and contemporary fanzine material from the first era.</p>
+    </div>
+    <div class="archive-grid">
+      <button class="archive-item" data-full="assets/images/archive/desecrate-storvreta-live-flyer.jpg"><img src="assets/images/archive/desecrate-storvreta-live-flyer.jpg" alt=""><span>STORVRETA LIVE FLYER</span></button>
+      <button class="archive-item" data-full="assets/images/archive/fanzine-interview.png"><img src="assets/images/archive/fanzine-interview.png" alt=""><span>CONTEMPORARY INTERVIEW</span></button>
+      <button class="archive-item" data-full="assets/images/archive/fanzine-review.png"><img src="assets/images/archive/fanzine-review.png" alt=""><span>FANZINE REVIEW</span></button>
+      <button class="archive-item" data-full="assets/images/archive/cassette-insert.png"><img src="assets/images/archive/cassette-insert.png" alt=""><span>CASSETTE INSERT</span></button>
+    </div>
+  </section>
+
+</main>
+
+<footer>
+  <img src="assets/images/desecrate-logo.png" alt="Desecrate">
+  <div>© 2026 DESECRATE · UPPSALA, SWEDEN · EST. 1988</div>
+  <div>Website desecrated by Eric “Devilswahn” Swahn</div>
+</footer>
+
+<audio id="audio" preload="metadata"></audio>
+
+<div class="sticky-player" id="stickyPlayer">
+  <img id="stickyCover" src="assets/images/second-death-front.jpg" alt="">
+  <div class="sticky-copy"><b id="stickyTitle">Second Death</b><span id="stickySource">SECOND DEATH · 2026</span></div>
+  <button id="stickyPrev">←</button>
+  <button class="sticky-play" id="stickyPlay">▶</button>
+  <button id="stickyNext">→</button>
+  <div class="sticky-progress"><input id="stickyProgress" type="range" min="0" max="100" value="0"></div>
+</div>
+
+<div class="lightbox" id="lightbox" aria-hidden="true">
+  <button id="lightboxClose" aria-label="Close">×</button>
+  <img id="lightboxImage" alt="">
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
