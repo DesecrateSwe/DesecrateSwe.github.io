@@ -7,7 +7,7 @@ window.JOHN_SWAHN_MUSIC = {
       "genre": "Thrash metal",
       "location": "Uppsala",
       "role": "Sång · gitarr",
-      "summary": "Equinox var ett Uppsala-band med rötter i den sena 1980-talets thrash metal. Bandet spelade in demos Kidkkus! 1987 och Zzzzzzyzzzzzz 1988, med John Swahn på sång och gitarr och medverkan på flera instrument.",
+      "summary": "Equinox var ett Uppsala-band med rötter i den sena 1980-talets thrash metal. Bandet spelade in Kidkkus! 1987 och Zzzzzzyzzzzzz 1988. Därutöver finns en mycket begränsad promo med titeln The Promotion Friend, som enligt John gjordes i ett enda exemplar och skickades till Niklas Pettersson på fanzinet Flotzilla.",
       "members": [
         [
           "John S. Swahn",
@@ -37,8 +37,12 @@ window.JOHN_SWAHN_MUSIC = {
         ]
       ],
       "artwork": "assets/equinox/1988-zzzzzz-full-front.png",
-      "releaseCount": 2,
-      "trackCount": 24
+      "releaseCount": 3,
+      "trackCount": 25,
+      "history": [
+        "John Swahn och Jakob Bergström drev Equinox parallellt med den sena 80-talsscenen i Uppsala. Kidkkus! spelades in 1987 och följdes av Zzzzzzyzzzzzz 1988.",
+        "En tredje Equinox-inspelning hade titeln The Promotion Friend. Enligt John gjordes den i endast ett exemplar och skickades till Niklas Pettersson, som drev fanzinet Flotzilla. Den första kända låten på inspelningen heter Skate Bored. Exakt datum och den övriga låtlistan är ännu inte fastställda."
+      ]
     },
     {
       "name": "Desecrate",
@@ -445,9 +449,14 @@ window.JOHN_SWAHN_MUSIC = {
       "years": "1987",
       "genre": "Rock",
       "location": "",
-      "role": "",
-      "summary": "Twilights Rock You från 1987 består av två spår: Rock You och Edge of Lies.",
-      "members": [],
+      "role": "Keyboard",
+      "summary": "Twilights Rock You från 1987 består av två spår, Rock You och Edge of Lies. John Swahn medverkar på keyboard.",
+      "members": [
+        [
+          "John Swahn",
+          "keyboard"
+        ]
+      ],
       "links": [],
       "artwork": "",
       "releaseCount": 1,
@@ -497,8 +506,10 @@ window.JOHN_SWAHN_MUSIC = {
       "cover": "",
       "url": "releases/1987-twilight-rock-you.html",
       "trackCount": 2,
-      "description": "Rock You är en tvåspårsinspelning från 1987 med låtarna Rock You och Edge of Lies.",
-      "credits": [],
+      "description": "Rock You är en tvåspårsinspelning från 1987 med låtarna Rock You och Edge of Lies. John Swahn medverkar på keyboard.",
+      "credits": [
+        "John Swahn — keyboard"
+      ],
       "details": [],
       "manualTracks": [],
       "gallery": []
@@ -565,6 +576,32 @@ window.JOHN_SWAHN_MUSIC = {
         "assets/equinox/1988-zzzzzz-cassette-side-a.png",
         "assets/equinox/1988-zzzzzz-cassette-side-b.png"
       ]
+    },
+    {
+      "year": "År okänt",
+      "title": "The Promotion Friend",
+      "project": "Equinox",
+      "projectRaw": "Equinox",
+      "type": "Promo / demo",
+      "era": "1980s",
+      "id": "equinox-the-promotion-friend",
+      "slug": "the-promotion-friend",
+      "bandSlug": "equinox",
+      "cover": "",
+      "url": "releases/equinox-the-promotion-friend.html",
+      "trackCount": 1,
+      "description": "The Promotion Friend är en mycket begränsad Equinox-promo. Enligt John gjordes endast ett exemplar och det skickades till Niklas Pettersson på fanzinet Flotzilla.",
+      "credits": [],
+      "details": [
+        "Endast ett känt exemplar.",
+        "Skickades till Niklas Pettersson på fanzinet Flotzilla.",
+        "Exakt inspelnings- och releasedatum är ännu inte fastställt."
+      ],
+      "manualTracks": [
+        "Skate Bored"
+      ],
+      "gallery": [],
+      "releaseOrder": 3
     },
     {
       "year": "1989",
@@ -657,7 +694,8 @@ window.JOHN_SWAHN_MUSIC = {
         "Desecrate & Karl — produktion / mix"
       ],
       "details": [
-        "Inspelad på Musikhuset i Enköping den 3 och 6 december 1989."
+        "Inspelad på Musikhuset i Enköping den 3 och 6 december 1989.",
+        "Blietzkrieg Bop är Desecrates version av Ramones-låten Blitzkrieg Bop."
       ],
       "manualTracks": [],
       "gallery": [
@@ -753,7 +791,9 @@ window.JOHN_SWAHN_MUSIC = {
       "trackCount": 0,
       "description": "Wonders Of Devotion I & II från 1991 innehåller femton spår, med både studioinspelningar och liveversioner.",
       "credits": [],
-      "details": [],
+      "details": [
+        "Innehåller The Crunge (Led Zeppelin), även live, samt en liveversion av Smoke on the Water (Deep Purple)."
+      ],
       "manualTracks": [],
       "gallery": [
         "assets/big-november/1991-nyby-fritidsgard-front.png"
@@ -1110,7 +1150,8 @@ window.JOHN_SWAHN_MUSIC = {
         "CD · Album · Sverige · 2005.",
         "Utgiven på Swahn Song Production.",
         "17 spår.",
-        "Albumet kombinerar nytt material med nyinspelningar av äldre Treebeard-låtar."
+        "Albumet kombinerar nytt material med nyinspelningar av äldre Treebeard-låtar.",
+        "Innehåller covers av Right Said Fred, Jesus Christ Superstar och Colorblind James and the Death Valley Boys."
       ],
       "manualTracks": [],
       "gallery": [
@@ -1141,7 +1182,8 @@ window.JOHN_SWAHN_MUSIC = {
       "details": [
         "CD · Album · Sverige · 2006.",
         "Utgiven på Swahn Song Production.",
-        "13 spår."
+        "13 spår.",
+        "Innehåller covers/tolkningar av Queen, The Beatles, Kool & The Gang och KISS."
       ],
       "manualTracks": [],
       "gallery": [
@@ -1190,7 +1232,9 @@ window.JOHN_SWAHN_MUSIC = {
       "trackCount": 4,
       "description": "Principle of Evil Bonus Trax innehåller fyra bonusspår från 2008.",
       "credits": [],
-      "details": [],
+      "details": [
+        "Bonusutgåvan innehåller bland annat In League with Satan (Venom) och Czardas (Vittorio Monti)."
+      ],
       "manualTracks": [],
       "gallery": [
         "assets/aphophis/2008-principle-of-evil-front.gif"
@@ -1219,7 +1263,8 @@ window.JOHN_SWAHN_MUSIC = {
         "16 spår.",
         "Inspelad på The Treehouse och Studio Nafta.",
         "Mixad på Studio Nafta.",
-        "A Swahnsong Production 2008."
+        "A Swahnsong Production 2008.",
+        "Innehåller tolkningar av The Simpsons-temat, Rush, Talking Heads och Indiens nationalsång."
       ],
       "manualTracks": [],
       "gallery": [
@@ -1249,7 +1294,8 @@ window.JOHN_SWAHN_MUSIC = {
       "details": [
         "Inspelad på The Treehouse och Studio Nafta.",
         "Mixad på Studio Nafta.",
-        "A Swahnsong Production 2008."
+        "A Swahnsong Production 2008.",
+        "Innehåller covers/tolkningar av Pink Floyd, Pee Wee Ellis/Jaco Pastorius-versionen av The Chicken samt Look at Me, I’m Sandra Dee från Grease."
       ],
       "manualTracks": [],
       "gallery": [
@@ -1283,21 +1329,22 @@ window.JOHN_SWAHN_MUSIC = {
       "title": "Don't Judge A Album by Its Cover",
       "project": "Treebeard",
       "projectRaw": "Treebeard",
-      "type": "Recording",
+      "type": "Cover album",
       "era": "2000s",
       "id": "2009-treebeard-don-t-judge-a-album-by-its-cover",
       "slug": "don-t-judge-a-album-by-its-cover",
       "bandSlug": "treebeard",
-      "cover": "assets/treebeard/2004-anguish-on-parade.gif",
+      "cover": "",
       "url": "releases/2009-treebeard-don-t-judge-a-album-by-its-cover.html",
       "trackCount": 13,
-      "description": "Don’t Judge A Album by Its Cover innehåller tretton tolkningar av låtar och teman från bland andra Jesus Christ Superstar, Pink Floyd, Kiss, The Beatles, Queen, Talking Heads och Rush.",
+      "description": "Don’t Judge A Album by Its Cover är Treebeards coveralbum från 2009 med tretton tolkningar av material från bland andra Jesus Christ Superstar, Pink Floyd, KISS, The Beatles, Queen, Talking Heads och Rush.",
       "credits": [],
-      "details": [],
+      "details": [
+        "13 coverversioner.",
+        "The Chicken är skriven av Pee Wee Ellis. Treebeards version utgår från Jaco Pastorius-versionen av låten."
+      ],
       "manualTracks": [],
-      "gallery": [
-        "assets/treebeard/2004-anguish-on-parade.gif"
-      ]
+      "gallery": []
     },
     {
       "year": "2010",
@@ -1314,7 +1361,9 @@ window.JOHN_SWAHN_MUSIC = {
       "trackCount": 10,
       "description": "Sarcophagus från 2010 innehåller tio spår.",
       "credits": [],
-      "details": [],
+      "details": [
+        "In League with Satan är en Venom-cover."
+      ],
       "manualTracks": [],
       "gallery": [
         "assets/aphophis/2010-sarcophagus-front.jpg",
@@ -1336,7 +1385,9 @@ window.JOHN_SWAHN_MUSIC = {
       "trackCount": 14,
       "description": "Best of 2010 samlar fjorton Treebeard-spår från bandets tidigare utgivningar.",
       "credits": [],
-      "details": [],
+      "details": [
+        "Samlingen innehåller flera av Treebeards coverversioner, bland annat Talking Heads, Pink Floyd, Queen och Jesus Christ Superstar."
+      ],
       "manualTracks": [],
       "gallery": [
         "assets/treebeard/2004-anguish-on-parade.gif"
@@ -1399,7 +1450,9 @@ window.JOHN_SWAHN_MUSIC = {
       "trackCount": 10,
       "description": "The Spherical Waltz från 2016 innehåller tio spår.",
       "credits": [],
-      "details": [],
+      "details": [
+        "Albumet innehåller bland annat Moonage Daydream (David Bowie) och The Temples of Syrinx (Rush)."
+      ],
       "manualTracks": [],
       "gallery": [
         "assets/aphophis/2016-the-spherical-waltz-front.jpg",
@@ -1451,7 +1504,9 @@ window.JOHN_SWAHN_MUSIC = {
       "trackCount": 15,
       "description": "Exit Space Leftovers från 2024 innehåller femton spår, med både eget material och tolkningar.",
       "credits": [],
-      "details": [],
+      "details": [
+        "Innehåller flera covers, bland annat Bob Marley & The Wailers, Carole King, Pink Floyd, Vittorio Monti och The Beatles."
+      ],
       "manualTracks": [],
       "gallery": [
         "assets/aphophis/2024-exit-space-leftovers-front.jpg"
@@ -1514,7 +1569,7 @@ window.JOHN_SWAHN_MUSIC = {
       "title": "Dynasties",
       "project": "Aphophis",
       "projectRaw": "Aphophis",
-      "type": "Recording",
+      "type": "Cover album",
       "era": "2020s",
       "id": "2025-aphophis-dynasties",
       "slug": "dynasties",
@@ -1522,9 +1577,11 @@ window.JOHN_SWAHN_MUSIC = {
       "cover": "assets/aphophis/2025-dynasties-front.jpg",
       "url": "releases/2025-aphophis-dynasties.html",
       "trackCount": 16,
-      "description": "Dynasties från 2025 innehåller sexton spår.",
+      "description": "Dynasties är Aphophis KISS-coveralbum från 2025: sexton tolkningar hämtade från olika delar av KISS katalog.",
       "credits": [],
-      "details": [],
+      "details": [
+        "16 spår · samtliga KISS-covers."
+      ],
       "manualTracks": [],
       "gallery": [
         "assets/aphophis/2025-dynasties-front.jpg"
@@ -1573,7 +1630,8 @@ window.JOHN_SWAHN_MUSIC = {
       "details": [
         "Inspelad på Electric Crypt.",
         "Alla låtar skrivna av John Swahn, förutom Pipeline av Martin L. Gore.",
-        "A SwahnSong Production 2026."
+        "A SwahnSong Production 2026.",
+        "Pipeline är en Depeche Mode-cover, skriven av Martin L. Gore."
       ],
       "manualTracks": [],
       "gallery": [

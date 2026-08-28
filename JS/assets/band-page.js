@@ -44,7 +44,8 @@
   }
 
   const rs=(m.releases||[]).filter(r=>r.project===b.name).sort((a,b)=>{
-    const ya=Number(a.year)||0,yb=Number(b.year)||0;
+    const ya=/^\d{4}$/.test(String(a.year||''))?Number(a.year):9999;
+    const yb=/^\d{4}$/.test(String(b.year||''))?Number(b.year):9999;
     if(ya!==yb)return ya-yb;
     const oa=Number(a.releaseOrder)||999,ob=Number(b.releaseOrder)||999;
     if(oa!==ob)return oa-ob;

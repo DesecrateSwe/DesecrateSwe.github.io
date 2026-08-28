@@ -87,7 +87,7 @@
   function get(){
     const q=norm(input.value);
     let a=tracks.filter(t=>{
-      const h=norm([t.title,t.artist,t.project,t.release,t.year,t.genre,t.releaseType,...(t.credits||[])].join(' '));
+      const h=norm([t.title,t.artist,t.project,t.release,t.year,t.genre,t.releaseType,t.version,t.coverArtist,...(t.credits||[])].join(' '));
       return(!q||q.split(/\s+/).every(x=>h.includes(x)))&&(project.value==='all'||t.project===project.value)&&(era.value==='all'||decade(t.year)===era.value);
     });
 
@@ -121,7 +121,7 @@
       const releaseText=esc(t.release);
       const bandCell=b?`<a class="song-table-link" href="../bands/${esc(b.slug)}.html">${bandText}</a>`:bandText;
       const releaseCell=r?`<a class="song-table-link" href="../${esc(r.url)}">${releaseText}</a>`:releaseText;
-      return `<div class="song-row" id="song-${esc(t.id)}" role="row"><div class="song-title-cell" role="cell">${artNode}<span class="song-title-text"><strong>${esc(t.title)}</strong><span>${esc([t.genre,`Spår ${t.trackNumber}`].filter(Boolean).join(' · '))}${audioTag}</span></span></div><span class="song-project-cell">${bandCell}</span><span class="song-release-cell">${releaseCell}</span><span class="song-year-cell">${esc(t.year)}</span><span class="song-time-cell">${esc(t.duration)}</span></div>`;
+      return `<div class="song-row" id="song-${esc(t.id)}" role="row"><div class="song-title-cell" role="cell">${artNode}<span class="song-title-text"><strong>${esc(t.title)}</strong><span>${esc([t.genre,t.version,`Spår ${t.trackNumber}`].filter(Boolean).join(' · '))}${audioTag}</span></span></div><span class="song-project-cell">${bandCell}</span><span class="song-release-cell">${releaseCell}</span><span class="song-year-cell">${esc(t.year)}</span><span class="song-time-cell">${esc(t.duration)}</span></div>`;
     }).join('');
     count.textContent=`${a.length} ${a.length===1?'inspelning':'inspelningar'}`;
     shown.textContent=a.length?`Visar ${Math.min(v.length,a.length)} av ${a.length}`:'';
