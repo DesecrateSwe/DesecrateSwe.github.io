@@ -1,0 +1,22 @@
+.song-table-head .song-sort-button{
+  appearance:none;
+  border:0;
+  background:none;
+  color:#666;
+  padding:0;
+  margin:0;
+  text-align:left;
+  font-size:.65rem;
+  font-weight:inherit;
+  letter-spacing:.12em;
+  text-transform:uppercase;
+  cursor:pointer;
+}
+.song-table-head .song-sort-button:hover,
+.song-table-head .song-sort-button[data-active="true"]{color:#ddd}
+.song-sort-button[data-active="true"]::after{margin-left:6px;color:#d55;font-size:.72rem}
+.song-sort-button[data-active="true"][data-direction="asc"]::after{content:"↑"}
+.song-sort-button[data-active="true"][data-direction="desc"]::after{content:"↓"}
+.song-table-link{color:#b9b6b0;text-decoration:none;border-bottom:1px solid transparent;transition:.18s}
+.song-table-link:hover{color:#fff;border-bottom-color:#a71f1b}
+@media(max-width:900px){.song-table-head{display:none}}

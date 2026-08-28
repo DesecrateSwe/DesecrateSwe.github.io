@@ -204,7 +204,7 @@ window.JOHN_SWAHN_MUSIC = {
       "genre": "Rock / metal",
       "location": "",
       "role": "Sång",
-      "summary": "Almost Human växte fram 1998 under namnet Mitzi Dupree, startat av Hendri d'Ranged och John Swahn. Efter den första demon 1999 förändrades sättningen, bandet tog namnet Almost Human och fortsatte med The Playground, Green All Over och Eaten By The Machine.",
+      "summary": "Almost Human växte fram 1998 när Hendri d'Ranged och John Swahn började arbeta tillsammans. Mitzi Dupree och The Widowmakers hörde till de namn som diskuterades tidigt, men bandet landade i namnet Almost Human.",
       "members": [
         [
           "John Swahn",
@@ -249,9 +249,9 @@ window.JOHN_SWAHN_MUSIC = {
       "releaseCount": 5,
       "trackCount": 22,
       "history": [
-        "Bandet startade 1998 som Mitzi Dupree när Hendri d'Ranged och John “Devilman” Swahn började arbeta med låtar som Hendri hade kvar från The Unkinds. Senare under året anslöt Gustaf Ljung på bas, Peter Druck på gitarr och Johan Kilander på trummor.",
-        "Den första demon spelades in i januari 1999. Därefter lämnade Gustaf Ljung och Peter Druck för att arbeta vidare med Underworld Creepers. Johan Asp tog över basen och Martin Olsson anslöt på orgel och piano. I samband med den nya sättningen bytte bandet namn till Almost Human.",
-        "The Playground spelades in i augusti 1999 och Green All Over följde 2000. I november 2000 ersattes Johan Kilander av Matte Malmquist på trummor. Eaten By The Machine blev bandets fjärde demo och drog soundet i en tyngre och mer experimentell riktning."
+        "Bandet tog form 1998 när Hendri d'Ranged och John “Devilman” Swahn började arbeta med låtar som Hendri hade kvar från The Unkinds. Mitzi Dupree och The Widowmakers var bland de namn som diskuterades under den tidiga perioden innan Almost Human blev bandnamnet. Senare under året anslöt Gustaf Ljung på bas, Peter Druck på gitarr och Johan Kilander på trummor.",
+        "Den första demon spelades in på Egg shell studio i Enköping den 4–5 januari 1999. Titeln blev The Sweet Revenge Of Mitzi Dupree, medan omslaget bär artistnamnet Almost Human. Därefter lämnade Gustaf Ljung och Peter Druck, Johan Asp tog över basen och Martin Olsson anslöt på orgel och piano.",
+        "The Playground, bandets andra demo, spelades in den 7–8 augusti 1999. Green All Over följde 2000. I november 2000 ersattes Johan Kilander av Matte Malmquist på trummor och Eaten By The Machine blev bandets fjärde demo."
       ],
       "gallery": [
         {
@@ -814,7 +814,8 @@ window.JOHN_SWAHN_MUSIC = {
       "manualTracks": [],
       "gallery": [
         "assets/almost-human/1999-the-playground.gif"
-      ]
+      ],
+      "releaseOrder": 2
     },
     {
       "year": "1999",
@@ -829,7 +830,7 @@ window.JOHN_SWAHN_MUSIC = {
       "cover": "assets/almost-human/1999-the-sweet-revenge-of-mitzi-dupree.gif",
       "url": "releases/1999-almost-human-the-sweet-revenge-of-mitzi-dupree.html",
       "trackCount": 5,
-      "description": "Almost Humans första demo spelades in under namnet Mitzi Dupree på Egg shell studio i Enköping den 4–5 januari 1999.",
+      "description": "The Sweet Revenge Of Mitzi Dupree är Almost Humans första demo. Den spelades in på Egg shell studio i Enköping den 4–5 januari 1999. Titeln bevarar ett av de tidiga namnförslagen, Mitzi Dupree, medan omslaget är märkt Almost Human.",
       "credits": [
         "John Swahn — sång",
         "Hendri d'Ranged — gitarr",
@@ -838,12 +839,15 @@ window.JOHN_SWAHN_MUSIC = {
         "Johan Kilander — trummor"
       ],
       "details": [
-        "Inspelad och mixad på Egg shell studio, Enköping, 4–5 januari 1999."
+        "Demo 1.",
+        "Inspelad och mixad på Egg shell studio, Enköping, 4–5 januari 1999.",
+        "Mitzi Dupree förekom som ett tidigt namnförslag; den färdiga demon är märkt Almost Human."
       ],
       "manualTracks": [],
       "gallery": [
         "assets/almost-human/1999-the-sweet-revenge-of-mitzi-dupree.gif"
-      ]
+      ],
+      "releaseOrder": 1
     },
     {
       "year": "2000",
@@ -872,7 +876,8 @@ window.JOHN_SWAHN_MUSIC = {
       "manualTracks": [],
       "gallery": [
         "assets/almost-human/2000-green-all-over.gif"
-      ]
+      ],
+      "releaseOrder": 3
     },
     {
       "year": "2003",
@@ -884,16 +889,15 @@ window.JOHN_SWAHN_MUSIC = {
       "id": "2003-almost-human-left-overs",
       "slug": "left-overs",
       "bandSlug": "almost-human",
-      "cover": "assets/almost-human/2000-green-all-over.gif",
+      "cover": "",
       "url": "releases/2003-almost-human-left-overs.html",
       "trackCount": 5,
       "description": "Left Overs från 2003 innehåller fem spår, bland annat en alternativ version av Wasted One och en liveversion av The Wake-Up Call.",
       "credits": [],
       "details": [],
       "manualTracks": [],
-      "gallery": [
-        "assets/almost-human/2000-green-all-over.gif"
-      ]
+      "gallery": [],
+      "releaseOrder": 5
     },
     {
       "year": "2003",
@@ -922,7 +926,8 @@ window.JOHN_SWAHN_MUSIC = {
       "manualTracks": [],
       "gallery": [
         "assets/almost-human/2003-eaten-by-the-machine.gif"
-      ]
+      ],
+      "releaseOrder": 4
     },
     {
       "year": "2003",

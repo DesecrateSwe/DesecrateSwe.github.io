@@ -43,7 +43,13 @@
     history.innerHTML=b.history.map(x=>`<p>${esc(x)}</p>`).join('');
   }
 
-  const rs=(m.releases||[]).filter(r=>r.project===b.name);
+  const rs=(m.releases||[]).filter(r=>r.project===b.name).sort((a,b)=>{
+    const ya=Number(a.year)||0,yb=Number(b.year)||0;
+    if(ya!==yb)return ya-yb;
+    const oa=Number(a.releaseOrder)||999,ob=Number(b.releaseOrder)||999;
+    if(oa!==ob)return oa-ob;
+    return 0;
+  });
   document.getElementById('bandDiscography').innerHTML=rs.map(r=>
     `<a class="release-card" href="../${r.url}"><div class="release-card-media">${
       r.cover?`<img src="../${r.cover}" alt="${esc(r.title)}" loading="lazy">`
