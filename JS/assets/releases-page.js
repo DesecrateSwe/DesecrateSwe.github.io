@@ -4,6 +4,8 @@
  const list=document.getElementById('releaseList'), input=document.getElementById('releaseSearchInput'), project=document.getElementById('releaseProjectFilter'), era=document.getElementById('releaseEraFilter'), count=document.getElementById('releaseCount'); if(!list)return;
  const norm=v=>String(v||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[’‘`]/g,"'").replace(/[^a-z0-9'&]+/g,' ').trim();
  const esc=v=>String(v??'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#039;');
+ const audioUrl=src=>/^https?:\/\//i.test(String(src||''))?String(src):`../${src}`;
+ const audioSources=t=>(t.audioCandidates?.length?t.audioCandidates:[t.audio]).filter(Boolean).map(audioUrl);
  data.projects.map(p=>p.title).sort().forEach(p=>{const o=document.createElement('option');o.value=p;o.textContent=p;project.appendChild(o);});
  const params=new URLSearchParams(location.search);input.value=params.get('q')||''; if(params.get('project')) project.value=params.get('project');
  const purl=name=>{const p=data.projects.find(x=>x.title===name||(x.aliases||[]).includes(name));return p?`../${p.url}`:'#';};
@@ -22,7 +24,7 @@
        li.classList.add('has-audio');
        const btn=document.createElement('button');
        btn.type='button';btn.className='nfo-track-play track-play';btn.textContent='▶';btn.setAttribute('aria-label',`Play ${track.title}`);btn.setAttribute('aria-pressed','false');
-       btn.dataset.audioSrc=`../${track.audio}`;btn.dataset.audioTitle=track.title;btn.dataset.audioProject=track.artist||track.project;btn.dataset.audioRelease=track.release;
+       btn.dataset.audioSrc=audioUrl(track.audio);btn.dataset.audioSources=JSON.stringify(audioSources(track));btn.dataset.audioTitle=track.title;btn.dataset.audioProject=track.artist||track.project;btn.dataset.audioRelease=track.release;
        li.appendChild(btn);
      });
    });

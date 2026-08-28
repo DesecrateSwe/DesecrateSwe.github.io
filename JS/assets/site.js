@@ -83,9 +83,18 @@
   const audioMeta = audioDock.querySelector('#audioDockMeta');
   const audioClose = audioDock.querySelector('#audioDockClose');
   let activeAudioSrc = '';
+  let activeAudioSources = [];
+  let activeAudioIndex = 0;
+  const getButtonSources = btn => {
+    try {
+      const parsed = JSON.parse(btn.dataset.audioSources || '[]');
+      if (Array.isArray(parsed) && parsed.length) return parsed.filter(Boolean);
+    } catch (_) {}
+    return [btn.dataset.audioSrc || ''].filter(Boolean);
+  };
   const syncPlayButtons = playing => {
     document.querySelectorAll('.track-play').forEach(btn => {
-      const same = btn.dataset.audioSrc === activeAudioSrc;
+      const same = getButtonSources(btn).includes(activeAudioSrc);
       btn.classList.toggle('is-playing', Boolean(playing && same));
       const icon = btn.querySelector('.track-play-icon');
       if (icon) icon.textContent = same && playing ? '' : '▶';
@@ -94,14 +103,17 @@
   };
   const loadAudio = btn => {
     if (!audio) return;
-    const src = btn.dataset.audioSrc || '';
+    const sources = getButtonSources(btn);
+    const src = sources[0] || '';
     if (!src) return;
-    if (activeAudioSrc === src && !audio.paused) {
+    if (sources.includes(activeAudioSrc) && !audio.paused) {
       audio.pause();
       syncPlayButtons(false);
       return;
     }
-    if (activeAudioSrc !== src) {
+    if (!sources.includes(activeAudioSrc)) {
+      activeAudioSources = sources;
+      activeAudioIndex = 0;
       activeAudioSrc = src;
       audio.src = src;
       if (audioTitle) audioTitle.textContent = btn.dataset.audioTitle || 'Untitled recording';
@@ -119,6 +131,15 @@
   audio?.addEventListener('play', () => syncPlayButtons(true));
   audio?.addEventListener('pause', () => syncPlayButtons(false));
   audio?.addEventListener('ended', () => syncPlayButtons(false));
+  audio?.addEventListener('error', () => {
+    if (!activeAudioSources.length || activeAudioIndex >= activeAudioSources.length - 1) { syncPlayButtons(false); return; }
+    activeAudioIndex += 1;
+    activeAudioSrc = activeAudioSources[activeAudioIndex];
+    audio.src = activeAudioSrc;
+    const promise = audio.play();
+    if (promise && typeof promise.catch === 'function') promise.catch(() => {});
+    syncPlayButtons(true);
+  });
   audioClose?.addEventListener('click', () => {
     audio?.pause();
     audioDock.hidden = true;

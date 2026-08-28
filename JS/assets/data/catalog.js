@@ -17,13 +17,16 @@ window.JOHN_SWAHN_TRACKS = [
       "Drums: Jakob Bergström",
       "Produced and mixed by John Swahn"
     ],
-    "audio": "assets/audio/equinox/kidkkus-1987/01-kill-as-one.mp3",
+    "audio": "https://audio.desecrate.se/Equinox/1987%20-%20Kidkkus/01-Equinox-Kill_as_One-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "Original Kidkkus! audio supplied from the John Swahn archive.",
     "sourceCard": "nfo-equinox-kidkkus-1987",
     "sourceFile": "assets/nfo/equinox-kidkkus-1987.nfo",
-    "source": "Audio + NFO + artwork"
+    "source": "Audio + NFO + artwork",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Equinox/1987%20-%20Kidkkus/01-Equinox-Kill_as_One-sWhN.mp3"
+    ]
   },
   {
     "id": "equinox-kidkkus-1987-02-running-wild",
@@ -43,13 +46,16 @@ window.JOHN_SWAHN_TRACKS = [
       "Drums: Jakob Bergström",
       "Produced and mixed by John Swahn"
     ],
-    "audio": "assets/audio/equinox/kidkkus-1987/02-running-wild.mp3",
+    "audio": "https://audio.desecrate.se/Equinox/1987%20-%20Kidkkus/02-Equinox-Running_Wild-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "Original Kidkkus! audio supplied from the John Swahn archive.",
     "sourceCard": "nfo-equinox-kidkkus-1987",
     "sourceFile": "assets/nfo/equinox-kidkkus-1987.nfo",
-    "source": "Audio + NFO + artwork"
+    "source": "Audio + NFO + artwork",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Equinox/1987%20-%20Kidkkus/02-Equinox-Running_Wild-sWhN.mp3"
+    ]
   },
   {
     "id": "equinox-kidkkus-1987-03-evil-boots",
@@ -69,13 +75,16 @@ window.JOHN_SWAHN_TRACKS = [
       "Drums: John Swahn",
       "Produced and mixed by John Swahn"
     ],
-    "audio": "assets/audio/equinox/kidkkus-1987/03-evil-and-boots.mp3",
+    "audio": "https://audio.desecrate.se/Equinox/1987%20-%20Kidkkus/03-Equinox-Evil_and_Boots-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "Original Kidkkus! audio supplied from the John Swahn archive.",
     "sourceCard": "nfo-equinox-kidkkus-1987",
     "sourceFile": "assets/nfo/equinox-kidkkus-1987.nfo",
-    "source": "Audio + NFO + artwork"
+    "source": "Audio + NFO + artwork",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Equinox/1987%20-%20Kidkkus/03-Equinox-Evil_and_Boots-sWhN.mp3"
+    ]
   },
   {
     "id": "equinox-kidkkus-1987-04-angels-fuck",
@@ -95,13 +104,16 @@ window.JOHN_SWAHN_TRACKS = [
       "Drums: John Swahn",
       "Produced and mixed by John Swahn"
     ],
-    "audio": "assets/audio/equinox/kidkkus-1987/04-angels-fuck.mp3",
+    "audio": "https://audio.desecrate.se/Equinox/1987%20-%20Kidkkus/04-Equinox-Angels_Fuck-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "Original Kidkkus! audio supplied from the John Swahn archive.",
     "sourceCard": "nfo-equinox-kidkkus-1987",
     "sourceFile": "assets/nfo/equinox-kidkkus-1987.nfo",
-    "source": "Audio + NFO + artwork"
+    "source": "Audio + NFO + artwork",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Equinox/1987%20-%20Kidkkus/04-Equinox-Angels_Fuck-sWhN.mp3"
+    ]
   },
   {
     "id": "equinox-kidkkus-1987-05-equinox-misfit",
@@ -121,13 +133,16 @@ window.JOHN_SWAHN_TRACKS = [
       "Drums: John Swahn",
       "Produced and mixed by John Swahn"
     ],
-    "audio": "assets/audio/equinox/kidkkus-1987/05-equinox-misfit.mp3",
+    "audio": "https://audio.desecrate.se/Equinox/1987%20-%20Kidkkus/05-Equinox-Equinox_Misfit-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "Original Kidkkus! audio supplied from the John Swahn archive.",
     "sourceCard": "nfo-equinox-kidkkus-1987",
     "sourceFile": "assets/nfo/equinox-kidkkus-1987.nfo",
-    "source": "Audio + NFO + artwork"
+    "source": "Audio + NFO + artwork",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Equinox/1987%20-%20Kidkkus/05-Equinox-Equinox_Misfit-sWhN.mp3"
+    ]
   },
   {
     "id": "equinox-kidkkus-1987-06-holy-evil",
@@ -147,13 +162,16 @@ window.JOHN_SWAHN_TRACKS = [
       "Drums: Jakob Bergström",
       "Produced and mixed by John Swahn"
     ],
-    "audio": "assets/audio/equinox/kidkkus-1987/06-holy-evil.mp3",
+    "audio": "https://audio.desecrate.se/Equinox/1987%20-%20Kidkkus/06-Equinox-Holy_Evil-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "Original Kidkkus! audio supplied from the John Swahn archive.",
     "sourceCard": "nfo-equinox-kidkkus-1987",
     "sourceFile": "assets/nfo/equinox-kidkkus-1987.nfo",
-    "source": "Audio + NFO + artwork"
+    "source": "Audio + NFO + artwork",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Equinox/1987%20-%20Kidkkus/06-Equinox-Holy_Evil-sWhN.mp3"
+    ]
   },
   {
     "id": "equinox-kidkkus-1987-07-see-without-eyes",
@@ -173,13 +191,16 @@ window.JOHN_SWAHN_TRACKS = [
       "Drums: John Swahn",
       "Produced and mixed by John Swahn"
     ],
-    "audio": "assets/audio/equinox/kidkkus-1987/07-see-without-eyes.mp3",
+    "audio": "https://audio.desecrate.se/Equinox/1987%20-%20Kidkkus/07-Equinox-See_Without_Eyes-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "Original Kidkkus! audio supplied from the John Swahn archive.",
     "sourceCard": "nfo-equinox-kidkkus-1987",
     "sourceFile": "assets/nfo/equinox-kidkkus-1987.nfo",
-    "source": "Audio + NFO + artwork"
+    "source": "Audio + NFO + artwork",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Equinox/1987%20-%20Kidkkus/07-Equinox-See_Without_Eyes-sWhN.mp3"
+    ]
   },
   {
     "id": "equinox-kidkkus-1987-08-merry-christmas",
@@ -199,13 +220,16 @@ window.JOHN_SWAHN_TRACKS = [
       "Drums: John Swahn",
       "Produced and mixed by John Swahn"
     ],
-    "audio": "assets/audio/equinox/kidkkus-1987/08-merry-christmas.mp3",
+    "audio": "https://audio.desecrate.se/Equinox/1987%20-%20Kidkkus/08-Equinox-Merry_Christmas-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "Original Kidkkus! audio supplied from the John Swahn archive.",
     "sourceCard": "nfo-equinox-kidkkus-1987",
     "sourceFile": "assets/nfo/equinox-kidkkus-1987.nfo",
-    "source": "Audio + NFO + artwork"
+    "source": "Audio + NFO + artwork",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Equinox/1987%20-%20Kidkkus/08-Equinox-Merry_Christmas-sWhN.mp3"
+    ]
   },
   {
     "id": "equinox-kidkkus-1987-09-all-the-glasses",
@@ -225,13 +249,16 @@ window.JOHN_SWAHN_TRACKS = [
       "Drums: John Swahn",
       "Produced and mixed by John Swahn"
     ],
-    "audio": "assets/audio/equinox/kidkkus-1987/09-all-the-glasses.mp3",
+    "audio": "https://audio.desecrate.se/Equinox/1987%20-%20Kidkkus/09-Equinox-All_the_Glasses-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "Original Kidkkus! audio supplied from the John Swahn archive.",
     "sourceCard": "nfo-equinox-kidkkus-1987",
     "sourceFile": "assets/nfo/equinox-kidkkus-1987.nfo",
-    "source": "Audio + NFO + artwork"
+    "source": "Audio + NFO + artwork",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Equinox/1987%20-%20Kidkkus/09-Equinox-All_the_Glasses-sWhN.mp3"
+    ]
   },
   {
     "id": "equinox-kidkkus-1987-10-sightseeing-in-hell",
@@ -251,13 +278,16 @@ window.JOHN_SWAHN_TRACKS = [
       "Drums: Jakob Bergström",
       "Produced and mixed by John Swahn"
     ],
-    "audio": "assets/audio/equinox/kidkkus-1987/10-sightseeing-in-hell.mp3",
+    "audio": "https://audio.desecrate.se/Equinox/1987%20-%20Kidkkus/10-Equinox-Sightseeing_in_Hell-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "Original Kidkkus! audio supplied from the John Swahn archive.",
     "sourceCard": "nfo-equinox-kidkkus-1987",
     "sourceFile": "assets/nfo/equinox-kidkkus-1987.nfo",
-    "source": "Audio + NFO + artwork"
+    "source": "Audio + NFO + artwork",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Equinox/1987%20-%20Kidkkus/10-Equinox-Sightseeing_in_Hell-sWhN.mp3"
+    ]
   },
   {
     "id": "equinox-zzzzzz-1988-01-zzzzzzyzzzzzz",
@@ -277,13 +307,16 @@ window.JOHN_SWAHN_TRACKS = [
       "Drums: J.Y. Bergström",
       "Produced and mixed by John Eric Olof Swahn"
     ],
-    "audio": "assets/audio/equinox/zzzzzz-1988/01-zzzzzz-y-zzzzzz.mp3",
+    "audio": "https://audio.desecrate.se/Equinox/1988%20-%20Zzzzzzyzzzzzz/01.%20Zzzzzzyzzzzzz.mp3",
     "video": "",
     "lyrics": "",
     "notes": "Original 1988 Equinox demo audio supplied from the archive. Titles and sequence are documented on the original cassette inlay.",
     "sourceCard": "",
     "sourceFile": "",
-    "source": "Audio + original cassette artwork"
+    "source": "Audio + original cassette artwork",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Equinox/1988%20-%20Zzzzzzyzzzzzz/01.%20Zzzzzzyzzzzzz.mp3"
+    ]
   },
   {
     "id": "equinox-zzzzzz-1988-02-don-t-scream",
@@ -303,13 +336,16 @@ window.JOHN_SWAHN_TRACKS = [
       "Drums: J.Y. Bergström",
       "Produced and mixed by John Eric Olof Swahn"
     ],
-    "audio": "assets/audio/equinox/zzzzzz-1988/02-dont-scream.mp3",
+    "audio": "https://audio.desecrate.se/Equinox/1988%20-%20Zzzzzzyzzzzzz/02.%20Don't%20Scream.mp3",
     "video": "",
     "lyrics": "",
     "notes": "Original 1988 Equinox demo audio supplied from the archive. Titles and sequence are documented on the original cassette inlay.",
     "sourceCard": "",
     "sourceFile": "",
-    "source": "Audio + original cassette artwork"
+    "source": "Audio + original cassette artwork",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Equinox/1988%20-%20Zzzzzzyzzzzzz/02.%20Don't%20Scream.mp3"
+    ]
   },
   {
     "id": "equinox-zzzzzz-1988-03-killing-plutons",
@@ -329,13 +365,16 @@ window.JOHN_SWAHN_TRACKS = [
       "Drums: J.Y. Bergström",
       "Produced and mixed by John Eric Olof Swahn"
     ],
-    "audio": "assets/audio/equinox/zzzzzz-1988/03-killing-plutons.mp3",
+    "audio": "https://audio.desecrate.se/Equinox/1988%20-%20Zzzzzzyzzzzzz/03.%20Killing%20Plutons.mp3",
     "video": "",
     "lyrics": "",
     "notes": "Original 1988 Equinox demo audio supplied from the archive. Titles and sequence are documented on the original cassette inlay.",
     "sourceCard": "",
     "sourceFile": "",
-    "source": "Audio + original cassette artwork"
+    "source": "Audio + original cassette artwork",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Equinox/1988%20-%20Zzzzzzyzzzzzz/03.%20Killing%20Plutons.mp3"
+    ]
   },
   {
     "id": "equinox-zzzzzz-1988-04-cows-forbidden",
@@ -355,13 +394,16 @@ window.JOHN_SWAHN_TRACKS = [
       "Drums: J.Y. Bergström",
       "Produced and mixed by John Eric Olof Swahn"
     ],
-    "audio": "assets/audio/equinox/zzzzzz-1988/04-cows-forbidden.mp3",
+    "audio": "https://audio.desecrate.se/Equinox/1988%20-%20Zzzzzzyzzzzzz/04.%20%20Cows%20Forbidden.mp3",
     "video": "",
     "lyrics": "",
     "notes": "Original 1988 Equinox demo audio supplied from the archive. Titles and sequence are documented on the original cassette inlay.",
     "sourceCard": "",
     "sourceFile": "",
-    "source": "Audio + original cassette artwork"
+    "source": "Audio + original cassette artwork",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Equinox/1988%20-%20Zzzzzzyzzzzzz/04.%20%20Cows%20Forbidden.mp3"
+    ]
   },
   {
     "id": "equinox-zzzzzz-1988-05-equinox-raper",
@@ -381,13 +423,16 @@ window.JOHN_SWAHN_TRACKS = [
       "Drums: J.Y. Bergström",
       "Produced and mixed by John Eric Olof Swahn"
     ],
-    "audio": "assets/audio/equinox/zzzzzz-1988/05-equinox-raper.mp3",
+    "audio": "https://audio.desecrate.se/Equinox/1988%20-%20Zzzzzzyzzzzzz/05.%20Equinox%20Raper.mp3",
     "video": "",
     "lyrics": "",
     "notes": "Original 1988 Equinox demo audio supplied from the archive. Titles and sequence are documented on the original cassette inlay.",
     "sourceCard": "",
     "sourceFile": "",
-    "source": "Audio + original cassette artwork"
+    "source": "Audio + original cassette artwork",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Equinox/1988%20-%20Zzzzzzyzzzzzz/05.%20Equinox%20Raper.mp3"
+    ]
   },
   {
     "id": "equinox-zzzzzz-1988-06-headache",
@@ -407,13 +452,16 @@ window.JOHN_SWAHN_TRACKS = [
       "Drums: J.Y. Bergström",
       "Produced and mixed by John Eric Olof Swahn"
     ],
-    "audio": "assets/audio/equinox/zzzzzz-1988/06-headache.mp3",
+    "audio": "https://audio.desecrate.se/Equinox/1988%20-%20Zzzzzzyzzzzzz/06.%20Headache.mp3",
     "video": "",
     "lyrics": "",
     "notes": "Original 1988 Equinox demo audio supplied from the archive. Titles and sequence are documented on the original cassette inlay.",
     "sourceCard": "",
     "sourceFile": "",
-    "source": "Audio + original cassette artwork"
+    "source": "Audio + original cassette artwork",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Equinox/1988%20-%20Zzzzzzyzzzzzz/06.%20Headache.mp3"
+    ]
   },
   {
     "id": "equinox-zzzzzz-1988-07-death-of-the-smoker",
@@ -433,13 +481,16 @@ window.JOHN_SWAHN_TRACKS = [
       "Drums: J.Y. Bergström",
       "Produced and mixed by John Eric Olof Swahn"
     ],
-    "audio": "assets/audio/equinox/zzzzzz-1988/07-death-of-the-smoker.mp3",
+    "audio": "https://audio.desecrate.se/Equinox/1988%20-%20Zzzzzzyzzzzzz/07.%20Death%20Of%20The%20Smoker.mp3",
     "video": "",
     "lyrics": "",
     "notes": "Original 1988 Equinox demo audio supplied from the archive. Titles and sequence are documented on the original cassette inlay.",
     "sourceCard": "",
     "sourceFile": "",
-    "source": "Audio + original cassette artwork"
+    "source": "Audio + original cassette artwork",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Equinox/1988%20-%20Zzzzzzyzzzzzz/07.%20Death%20Of%20The%20Smoker.mp3"
+    ]
   },
   {
     "id": "equinox-zzzzzz-1988-08-satan-says",
@@ -459,13 +510,16 @@ window.JOHN_SWAHN_TRACKS = [
       "Drums: J.Y. Bergström",
       "Produced and mixed by John Eric Olof Swahn"
     ],
-    "audio": "assets/audio/equinox/zzzzzz-1988/08-satan-says.mp3",
+    "audio": "https://audio.desecrate.se/Equinox/1988%20-%20Zzzzzzyzzzzzz/08.%20Satan%20Says.mp3",
     "video": "",
     "lyrics": "",
     "notes": "Original 1988 Equinox demo audio supplied from the archive. Titles and sequence are documented on the original cassette inlay.",
     "sourceCard": "",
     "sourceFile": "",
-    "source": "Audio + original cassette artwork"
+    "source": "Audio + original cassette artwork",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Equinox/1988%20-%20Zzzzzzyzzzzzz/08.%20Satan%20Says.mp3"
+    ]
   },
   {
     "id": "equinox-zzzzzz-1988-09-algot-bierman",
@@ -485,13 +539,16 @@ window.JOHN_SWAHN_TRACKS = [
       "Drums: J.Y. Bergström",
       "Produced and mixed by John Eric Olof Swahn"
     ],
-    "audio": "assets/audio/equinox/zzzzzz-1988/09-algot-bierman.mp3",
+    "audio": "https://audio.desecrate.se/Equinox/1988%20-%20Zzzzzzyzzzzzz/09.%20Algot%20Bierman.mp3",
     "video": "",
     "lyrics": "",
     "notes": "Original 1988 Equinox demo audio supplied from the archive. Titles and sequence are documented on the original cassette inlay.",
     "sourceCard": "",
     "sourceFile": "",
-    "source": "Audio + original cassette artwork"
+    "source": "Audio + original cassette artwork",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Equinox/1988%20-%20Zzzzzzyzzzzzz/09.%20Algot%20Bierman.mp3"
+    ]
   },
   {
     "id": "equinox-zzzzzz-1988-10-who-dares-win",
@@ -511,13 +568,16 @@ window.JOHN_SWAHN_TRACKS = [
       "Drums: J.Y. Bergström",
       "Produced and mixed by John Eric Olof Swahn"
     ],
-    "audio": "assets/audio/equinox/zzzzzz-1988/10-who-dares-win.mp3",
+    "audio": "https://audio.desecrate.se/Equinox/1988%20-%20Zzzzzzyzzzzzz/10.%20Who%20Dares%20Win.mp3",
     "video": "",
     "lyrics": "",
     "notes": "Original 1988 Equinox demo audio supplied from the archive. Titles and sequence are documented on the original cassette inlay.",
     "sourceCard": "",
     "sourceFile": "",
-    "source": "Audio + original cassette artwork"
+    "source": "Audio + original cassette artwork",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Equinox/1988%20-%20Zzzzzzyzzzzzz/10.%20Who%20Dares%20Win.mp3"
+    ]
   },
   {
     "id": "equinox-zzzzzz-1988-11-living-fortune",
@@ -537,13 +597,16 @@ window.JOHN_SWAHN_TRACKS = [
       "Drums: J.Y. Bergström",
       "Produced and mixed by John Eric Olof Swahn"
     ],
-    "audio": "assets/audio/equinox/zzzzzz-1988/11-living-fortune.mp3",
+    "audio": "https://audio.desecrate.se/Equinox/1988%20-%20Zzzzzzyzzzzzz/11.%20Living%20Fortune.mp3",
     "video": "",
     "lyrics": "",
     "notes": "Original 1988 Equinox demo audio supplied from the archive. Titles and sequence are documented on the original cassette inlay.",
     "sourceCard": "",
     "sourceFile": "",
-    "source": "Audio + original cassette artwork"
+    "source": "Audio + original cassette artwork",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Equinox/1988%20-%20Zzzzzzyzzzzzz/11.%20Living%20Fortune.mp3"
+    ]
   },
   {
     "id": "equinox-zzzzzz-1988-12-punk-all-night",
@@ -563,13 +626,16 @@ window.JOHN_SWAHN_TRACKS = [
       "Drums: J.Y. Bergström",
       "Produced and mixed by John Eric Olof Swahn"
     ],
-    "audio": "assets/audio/equinox/zzzzzz-1988/12-punk-all-night.mp3",
+    "audio": "https://audio.desecrate.se/Equinox/1988%20-%20Zzzzzzyzzzzzz/12.%20Punk%20All%20Night.mp3",
     "video": "",
     "lyrics": "",
     "notes": "Original 1988 Equinox demo audio supplied from the archive. Titles and sequence are documented on the original cassette inlay.",
     "sourceCard": "",
     "sourceFile": "",
-    "source": "Audio + original cassette artwork"
+    "source": "Audio + original cassette artwork",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Equinox/1988%20-%20Zzzzzzyzzzzzz/12.%20Punk%20All%20Night.mp3"
+    ]
   },
   {
     "id": "equinox-zzzzzz-1988-13-standing-in-darkness",
@@ -589,13 +655,16 @@ window.JOHN_SWAHN_TRACKS = [
       "Drums: J.Y. Bergström",
       "Produced and mixed by John Eric Olof Swahn"
     ],
-    "audio": "assets/audio/equinox/zzzzzz-1988/13-standing-in-darkness.mp3",
+    "audio": "https://audio.desecrate.se/Equinox/1988%20-%20Zzzzzzyzzzzzz/13.%20Standing%20In%20Darkness.mp3",
     "video": "",
     "lyrics": "",
     "notes": "Original 1988 Equinox demo audio supplied from the archive. Titles and sequence are documented on the original cassette inlay.",
     "sourceCard": "",
     "sourceFile": "",
-    "source": "Audio + original cassette artwork"
+    "source": "Audio + original cassette artwork",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Equinox/1988%20-%20Zzzzzzyzzzzzz/13.%20Standing%20In%20Darkness.mp3"
+    ]
   },
   {
     "id": "equinox-zzzzzz-1988-14-death-voffis-in-snow",
@@ -615,13 +684,16 @@ window.JOHN_SWAHN_TRACKS = [
       "Drums: J.Y. Bergström",
       "Produced and mixed by John Eric Olof Swahn"
     ],
-    "audio": "assets/audio/equinox/zzzzzz-1988/14-death-voffis-in-snow.mp3",
+    "audio": "https://audio.desecrate.se/Equinox/1988%20-%20Zzzzzzyzzzzzz/14.%20Death%20Voffis%20In%20Snow.mp3",
     "video": "",
     "lyrics": "",
     "notes": "Original 1988 Equinox demo audio supplied from the archive. Titles and sequence are documented on the original cassette inlay.",
     "sourceCard": "",
     "sourceFile": "",
-    "source": "Audio + original cassette artwork"
+    "source": "Audio + original cassette artwork",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Equinox/1988%20-%20Zzzzzzyzzzzzz/14.%20Death%20Voffis%20In%20Snow.mp3"
+    ]
   },
   {
     "id": "twilight-rock-you-1987-01-rock-you",
@@ -636,13 +708,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "assets/audio/twilight/rock-you-1987/01-rock-you.mp3",
+    "audio": "https://audio.desecrate.se/Twilight/1987%20-%20Rock%20You/01%20-%20Rock%20You.mp3",
     "video": "",
     "lyrics": "",
     "notes": "Original 1987 Twilight audio supplied from the John Swahn archive.",
     "sourceCard": "",
     "sourceFile": "",
-    "source": "Audio"
+    "source": "Audio",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Twilight/1987%20-%20Rock%20You/01%20-%20Rock%20You.mp3"
+    ]
   },
   {
     "id": "twilight-rock-you-1987-02-edge-of-lies",
@@ -657,13 +732,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "assets/audio/twilight/rock-you-1987/02-edge-of-lies.mp3",
+    "audio": "https://audio.desecrate.se/Twilight/1987%20-%20Rock%20You/02%20-%20Edge%20of%20Lies.mp3",
     "video": "",
     "lyrics": "",
     "notes": "Original 1987 Twilight audio supplied from the John Swahn archive.",
     "sourceCard": "",
     "sourceFile": "",
-    "source": "Audio"
+    "source": "Audio",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Twilight/1987%20-%20Rock%20You/02%20-%20Edge%20of%20Lies.mp3"
+    ]
   },
   {
     "id": "desecrate-we-only-make-jokes-we-made-you-1988-01-devils-fate",
@@ -678,13 +756,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Demo / cassette",
     "version": "",
     "credits": [],
-    "audio": "assets/audio/desecrate/we-only-make-jokes-1988/01-devils-fate.mp3",
+    "audio": "https://audio.desecrate.se/Desecrate/1988%20-%20We%20Only%20Make%20Jokes...%20We%20Made%20You/01-Desecrate-Devils_Fate-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "Original 1988 Desecrate audio supplied from the John Swahn archive.",
     "sourceCard": "nfo-desecrate-we-only-make-jokes-we-made-you-1988",
     "sourceFile": "assets/nfo/desecrate-we-only-make-jokes-1988.nfo",
-    "source": "Audio + NFO + artwork"
+    "source": "Audio + NFO + artwork",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Desecrate/1988%20-%20We%20Only%20Make%20Jokes...%20We%20Made%20You/01-Desecrate-Devils_Fate-sWhN.mp3"
+    ]
   },
   {
     "id": "desecrate-we-only-make-jokes-we-made-you-1988-02-desecration",
@@ -699,13 +780,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Demo / cassette",
     "version": "",
     "credits": [],
-    "audio": "assets/audio/desecrate/we-only-make-jokes-1988/02-desecration.mp3",
+    "audio": "https://audio.desecrate.se/Desecrate/1988%20-%20We%20Only%20Make%20Jokes...%20We%20Made%20You/02-Desecrate-Desecration-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "Original 1988 Desecrate audio supplied from the John Swahn archive.",
     "sourceCard": "nfo-desecrate-we-only-make-jokes-we-made-you-1988",
     "sourceFile": "assets/nfo/desecrate-we-only-make-jokes-1988.nfo",
-    "source": "Audio + NFO + artwork"
+    "source": "Audio + NFO + artwork",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Desecrate/1988%20-%20We%20Only%20Make%20Jokes...%20We%20Made%20You/02-Desecrate-Desecration-sWhN.mp3"
+    ]
   },
   {
     "id": "desecrate-we-only-make-jokes-we-made-you-1988-03-injustice-of-society",
@@ -720,13 +804,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Demo / cassette",
     "version": "",
     "credits": [],
-    "audio": "assets/audio/desecrate/we-only-make-jokes-1988/03-injustice-of-society.mp3",
+    "audio": "https://audio.desecrate.se/Desecrate/1988%20-%20We%20Only%20Make%20Jokes...%20We%20Made%20You/03-Desecrate-Injustice_of_Society-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "Original 1988 Desecrate audio supplied from the John Swahn archive.",
     "sourceCard": "nfo-desecrate-we-only-make-jokes-we-made-you-1988",
     "sourceFile": "assets/nfo/desecrate-we-only-make-jokes-1988.nfo",
-    "source": "Audio + NFO + artwork"
+    "source": "Audio + NFO + artwork",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Desecrate/1988%20-%20We%20Only%20Make%20Jokes...%20We%20Made%20You/03-Desecrate-Injustice_of_Society-sWhN.mp3"
+    ]
   },
   {
     "id": "desecrate-we-only-make-jokes-we-made-you-1988-04-scooby-dooaaau-i",
@@ -741,13 +828,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Demo / cassette",
     "version": "",
     "credits": [],
-    "audio": "assets/audio/desecrate/we-only-make-jokes-1988/04-scooby-dooaaauoo-i.mp3",
+    "audio": "https://audio.desecrate.se/Desecrate/1988%20-%20We%20Only%20Make%20Jokes...%20We%20Made%20You/04-Desecrate-Scooby_Dooaaau%C3%B6%C3%B6_I-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "Original 1988 Desecrate audio supplied from the John Swahn archive.",
     "sourceCard": "nfo-desecrate-we-only-make-jokes-we-made-you-1988",
     "sourceFile": "assets/nfo/desecrate-we-only-make-jokes-1988.nfo",
-    "source": "Audio + NFO + artwork"
+    "source": "Audio + NFO + artwork",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Desecrate/1988%20-%20We%20Only%20Make%20Jokes...%20We%20Made%20You/04-Desecrate-Scooby_Dooaaau%C3%B6%C3%B6_I-sWhN.mp3"
+    ]
   },
   {
     "id": "desecrate-we-only-make-jokes-we-made-you-1988-05-bang-your-head-to-death",
@@ -762,13 +852,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Demo / cassette",
     "version": "",
     "credits": [],
-    "audio": "assets/audio/desecrate/we-only-make-jokes-1988/05-bang-your-head-to-death.mp3",
+    "audio": "https://audio.desecrate.se/Desecrate/1988%20-%20We%20Only%20Make%20Jokes...%20We%20Made%20You/05-Desecrate-Bang_Your_Head_to_Death-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "Original 1988 Desecrate audio supplied from the John Swahn archive.",
     "sourceCard": "nfo-desecrate-we-only-make-jokes-we-made-you-1988",
     "sourceFile": "assets/nfo/desecrate-we-only-make-jokes-1988.nfo",
-    "source": "Audio + NFO + artwork"
+    "source": "Audio + NFO + artwork",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Desecrate/1988%20-%20We%20Only%20Make%20Jokes...%20We%20Made%20You/05-Desecrate-Bang_Your_Head_to_Death-sWhN.mp3"
+    ]
   },
   {
     "id": "desecrate-arranger-of-disorder-1989-01-disorder",
@@ -793,13 +886,16 @@ window.JOHN_SWAHN_TRACKS = [
       "Produced by Kari",
       "Mixed by Kari & Desecrate"
     ],
-    "audio": "assets/audio/desecrate/arranger-of-disorder-1989/01-disorder.mp3",
+    "audio": "https://audio.desecrate.se/Desecrate/1989%20-%20Arranger%20of%20Disorder/01-Desecrate-Disorder-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "Original 1989 Desecrate demo audio supplied from the John Swahn archive. Recorded at Musikhuset, Enköping, 27–28 May 1989.",
     "sourceCard": "nfo-desecrate-arranger-of-disorder-1989",
     "sourceFile": "assets/nfo/desecrate-arranger-of-disorder-1989.nfo",
-    "source": "Audio + NFO + artwork"
+    "source": "Audio + NFO + artwork",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Desecrate/1989%20-%20Arranger%20of%20Disorder/01-Desecrate-Disorder-sWhN.mp3"
+    ]
   },
   {
     "id": "desecrate-arranger-of-disorder-1989-02-lightened-souls",
@@ -824,13 +920,16 @@ window.JOHN_SWAHN_TRACKS = [
       "Produced by Kari",
       "Mixed by Kari & Desecrate"
     ],
-    "audio": "assets/audio/desecrate/arranger-of-disorder-1989/02-lightened-souls.mp3",
+    "audio": "https://audio.desecrate.se/Desecrate/1989%20-%20Arranger%20of%20Disorder/02-Desecrate-Lightened_Souls-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "Original 1989 Desecrate demo audio supplied from the John Swahn archive. Recorded at Musikhuset, Enköping, 27–28 May 1989.",
     "sourceCard": "nfo-desecrate-arranger-of-disorder-1989",
     "sourceFile": "assets/nfo/desecrate-arranger-of-disorder-1989.nfo",
-    "source": "Audio + NFO + artwork"
+    "source": "Audio + NFO + artwork",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Desecrate/1989%20-%20Arranger%20of%20Disorder/02-Desecrate-Lightened_Souls-sWhN.mp3"
+    ]
   },
   {
     "id": "desecrate-arranger-of-disorder-1989-03-minds-of-justitia",
@@ -855,13 +954,16 @@ window.JOHN_SWAHN_TRACKS = [
       "Produced by Kari",
       "Mixed by Kari & Desecrate"
     ],
-    "audio": "assets/audio/desecrate/arranger-of-disorder-1989/03-minds-of-justitia.mp3",
+    "audio": "https://audio.desecrate.se/Desecrate/1989%20-%20Arranger%20of%20Disorder/03-Desecrate-Minds_of_Justitia-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "Original 1989 Desecrate demo audio supplied from the John Swahn archive. Recorded at Musikhuset, Enköping, 27–28 May 1989.",
     "sourceCard": "nfo-desecrate-arranger-of-disorder-1989",
     "sourceFile": "assets/nfo/desecrate-arranger-of-disorder-1989.nfo",
-    "source": "Audio + NFO + artwork"
+    "source": "Audio + NFO + artwork",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Desecrate/1989%20-%20Arranger%20of%20Disorder/03-Desecrate-Minds_of_Justitia-sWhN.mp3"
+    ]
   },
   {
     "id": "desecrate-live-1989-01-second-death",
@@ -876,13 +978,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Live recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Desecrate/1989%20-%20Live/01-Desecrate-Second_Death-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-desecrate-live-1989",
     "sourceFile": "assets/nfo/desecrate-live-1989.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Desecrate/1989%20-%20Live/01-Desecrate-Second_Death-sWhN.mp3"
+    ]
   },
   {
     "id": "desecrate-live-1989-02-angels-fuck",
@@ -897,13 +1002,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Live recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Desecrate/1989%20-%20Live/02-Desecrate-Angels_Fuck-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-desecrate-live-1989",
     "sourceFile": "assets/nfo/desecrate-live-1989.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Desecrate/1989%20-%20Live/02-Desecrate-Angels_Fuck-sWhN.mp3"
+    ]
   },
   {
     "id": "desecrate-live-1989-03-scooby-dooaaau-ii",
@@ -918,13 +1026,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Live recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Desecrate/1989%20-%20Live/03-Desecrate-Scooby_Dooaaau%C3%B7%C3%B7_II-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-desecrate-live-1989",
     "sourceFile": "assets/nfo/desecrate-live-1989.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Desecrate/1989%20-%20Live/03-Desecrate-Scooby_Dooaaau%C3%B7%C3%B7_II-sWhN.mp3"
+    ]
   },
   {
     "id": "desecrate-live-1989-04-possesser-of-life",
@@ -939,13 +1050,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Live recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Desecrate/1989%20-%20Live/04-Desecrate-Possesser_of_Life-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-desecrate-live-1989",
     "sourceFile": "assets/nfo/desecrate-live-1989.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Desecrate/1989%20-%20Live/04-Desecrate-Possesser_of_Life-sWhN.mp3"
+    ]
   },
   {
     "id": "desecrate-live-1989-05-scooby-dooaaau-iii",
@@ -960,13 +1074,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Live recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Desecrate/1989%20-%20Live/05-Desecrate-Scooby_Dooaaau%C3%B7%C3%B7_III-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-desecrate-live-1989",
     "sourceFile": "assets/nfo/desecrate-live-1989.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Desecrate/1989%20-%20Live/05-Desecrate-Scooby_Dooaaau%C3%B7%C3%B7_III-sWhN.mp3"
+    ]
   },
   {
     "id": "desecrate-lonely-disgrace-1989-01-world-pollution",
@@ -981,13 +1098,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Demo / cassette",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Desecrate/1989%20-%20Lonely%20Disgrace/01-Desecrate-World_Pollution-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-desecrate-lonely-disgrace-1989",
     "sourceFile": "assets/nfo/desecrate-lonely-disgrace-1989.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Desecrate/1989%20-%20Lonely%20Disgrace/01-Desecrate-World_Pollution-sWhN.mp3"
+    ]
   },
   {
     "id": "desecrate-lonely-disgrace-1989-02-undivided-etension",
@@ -1002,13 +1122,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Demo / cassette",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Desecrate/1989%20-%20Lonely%20Disgrace/02-Desecrate-Undivided_Etension-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-desecrate-lonely-disgrace-1989",
     "sourceFile": "assets/nfo/desecrate-lonely-disgrace-1989.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Desecrate/1989%20-%20Lonely%20Disgrace/02-Desecrate-Undivided_Etension-sWhN.mp3"
+    ]
   },
   {
     "id": "desecrate-lonely-disgrace-1989-03-blietzkrieg-bop",
@@ -1023,13 +1146,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Demo / cassette",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Desecrate/1989%20-%20Lonely%20Disgrace/03-Desecrate-Blietzkrieg_Bop-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-desecrate-lonely-disgrace-1989",
     "sourceFile": "assets/nfo/desecrate-lonely-disgrace-1989.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Desecrate/1989%20-%20Lonely%20Disgrace/03-Desecrate-Blietzkrieg_Bop-sWhN.mp3"
+    ]
   },
   {
     "id": "desecrate-lonely-disgrace-1989-04-scedule",
@@ -1044,13 +1170,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Demo / cassette",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Desecrate/1989%20-%20Lonely%20Disgrace/04-Desecrate-Scedule-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-desecrate-lonely-disgrace-1989",
     "sourceFile": "assets/nfo/desecrate-lonely-disgrace-1989.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Desecrate/1989%20-%20Lonely%20Disgrace/04-Desecrate-Scedule-sWhN.mp3"
+    ]
   },
   {
     "id": "desecrate-lonely-disgrace-1989-05-fuck-bush",
@@ -1065,13 +1194,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Demo / cassette",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Desecrate/1989%20-%20Lonely%20Disgrace/05-Desecrate-Fuck_Bush-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-desecrate-lonely-disgrace-1989",
     "sourceFile": "assets/nfo/desecrate-lonely-disgrace-1989.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Desecrate/1989%20-%20Lonely%20Disgrace/05-Desecrate-Fuck_Bush-sWhN.mp3"
+    ]
   },
   {
     "id": "develop-fret-1990-01-lifeious",
@@ -1086,13 +1218,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Develop/1990%20-%20Fret/01-Develop-Lifeious-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-develop-fret-1990",
     "sourceFile": "assets/nfo/develop-fret-1990.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Develop/1990%20-%20Fret/01-Develop-Lifeious-sWhN.mp3"
+    ]
   },
   {
     "id": "develop-fret-1990-02-undoubtedly-covenant",
@@ -1107,13 +1242,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Develop/1990%20-%20Fret/02-Develop-Undoubtedly_Covenant-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-develop-fret-1990",
     "sourceFile": "assets/nfo/develop-fret-1990.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Develop/1990%20-%20Fret/02-Develop-Undoubtedly_Covenant-sWhN.mp3"
+    ]
   },
   {
     "id": "develop-fret-1990-03-imprisonment",
@@ -1128,13 +1266,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Develop/1990%20-%20Fret/03-Develop-Imprisonment-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-develop-fret-1990",
     "sourceFile": "assets/nfo/develop-fret-1990.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Develop/1990%20-%20Fret/03-Develop-Imprisonment-sWhN.mp3"
+    ]
   },
   {
     "id": "develop-fret-1990-04-brute",
@@ -1149,13 +1290,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Develop/1990%20-%20Fret/04-Develop-Brute-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-develop-fret-1990",
     "sourceFile": "assets/nfo/develop-fret-1990.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Develop/1990%20-%20Fret/04-Develop-Brute-sWhN.mp3"
+    ]
   },
   {
     "id": "develop-fret-1990-05-presence-of-mind",
@@ -1170,13 +1314,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Develop/1990%20-%20Fret/05-Develop-Presence_of_Mind-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-develop-fret-1990",
     "sourceFile": "assets/nfo/develop-fret-1990.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Develop/1990%20-%20Fret/05-Develop-Presence_of_Mind-sWhN.mp3"
+    ]
   },
   {
     "id": "develop-fret-1990-06-tronomic-detachment",
@@ -1191,13 +1338,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Develop/1990%20-%20Fret/06-Develop-Tronomic_Detachment-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-develop-fret-1990",
     "sourceFile": "assets/nfo/develop-fret-1990.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Develop/1990%20-%20Fret/06-Develop-Tronomic_Detachment-sWhN.mp3"
+    ]
   },
   {
     "id": "develop-fret-1990-07-mortal-bump",
@@ -1212,13 +1362,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Develop/1990%20-%20Fret/07-Develop-Mortal_Bump-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-develop-fret-1990",
     "sourceFile": "assets/nfo/develop-fret-1990.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Develop/1990%20-%20Fret/07-Develop-Mortal_Bump-sWhN.mp3"
+    ]
   },
   {
     "id": "develop-fret-1990-08-tribunal-array",
@@ -1233,13 +1386,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Develop/1990%20-%20Fret/08-Develop-Tribunal_Array-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-develop-fret-1990",
     "sourceFile": "assets/nfo/develop-fret-1990.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Develop/1990%20-%20Fret/08-Develop-Tribunal_Array-sWhN.mp3"
+    ]
   },
   {
     "id": "develop-fret-1990-09-deed-of-the-time",
@@ -1254,13 +1410,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Develop/1990%20-%20Fret/09-Develop-Deed_of_the_Time-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-develop-fret-1990",
     "sourceFile": "assets/nfo/develop-fret-1990.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Develop/1990%20-%20Fret/09-Develop-Deed_of_the_Time-sWhN.mp3"
+    ]
   },
   {
     "id": "develop-fret-1990-10-inaduquate",
@@ -1275,13 +1434,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Develop/1990%20-%20Fret/10-Develop-Inaduquate-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-develop-fret-1990",
     "sourceFile": "assets/nfo/develop-fret-1990.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Develop/1990%20-%20Fret/10-Develop-Inaduquate-sWhN.mp3"
+    ]
   },
   {
     "id": "develop-fret-1990-11-deadly-agriculture",
@@ -1296,13 +1458,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Develop/1990%20-%20Fret/11-Develop-Deadly_Agriculture-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-develop-fret-1990",
     "sourceFile": "assets/nfo/develop-fret-1990.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Develop/1990%20-%20Fret/11-Develop-Deadly_Agriculture-sWhN.mp3"
+    ]
   },
   {
     "id": "john-swahn-s-big-november-mirrors-do-the-talkin-1991-01-mirrors-do-the-talkin",
@@ -1317,13 +1482,17 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Compilation track",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/John%20Swahns%20Big%20November/1991%20-%20Mirrors%20Do%20The%20Talkin/01-John_Swahns_Big_November-Mirrors_Do_the_Talkin-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-john-swahns-big-november-mirrors-do-the-talkin-1991",
     "sourceFile": "assets/nfo/big-november-mirrors-do-the-talkin-1991.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/John%20Swahns%20Big%20November/1991%20-%20Mirrors%20Do%20The%20Talkin/01-John_Swahns_Big_November-Mirrors_Do_the_Talkin-sWhN.mp3",
+      "https://audio.desecrate.se/John%20Swahns%20Big%20November/1991%20-%20Mirrors%20Do%20the%20Talkin/01-John_Swahns_Big_November-Mirrors_Do_the_Talkin-sWhN.mp3"
+    ]
   },
   {
     "id": "almost-human-the-playground-1999-01-just-like-holding-hands",
@@ -1338,13 +1507,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "EP",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Almost%20Human/1999%20-%20The%20Playground/01-Almost_Human-Just_Like_Holding_Hands-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-almost-human-the-playground-1999",
     "sourceFile": "assets/nfo/almost-human-the-playground-1999.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Almost%20Human/1999%20-%20The%20Playground/01-Almost_Human-Just_Like_Holding_Hands-sWhN.mp3"
+    ]
   },
   {
     "id": "almost-human-the-playground-1999-02-itchy-bitchy",
@@ -1359,13 +1531,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "EP",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Almost%20Human/1999%20-%20The%20Playground/02-Almost_Human-Itchy_Bitchy-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-almost-human-the-playground-1999",
     "sourceFile": "assets/nfo/almost-human-the-playground-1999.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Almost%20Human/1999%20-%20The%20Playground/02-Almost_Human-Itchy_Bitchy-sWhN.mp3"
+    ]
   },
   {
     "id": "almost-human-the-playground-1999-03-johnny-the-spliff",
@@ -1380,13 +1555,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "EP",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Almost%20Human/1999%20-%20The%20Playground/03-Almost_Human-Johnny_the_Spliff-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-almost-human-the-playground-1999",
     "sourceFile": "assets/nfo/almost-human-the-playground-1999.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Almost%20Human/1999%20-%20The%20Playground/03-Almost_Human-Johnny_the_Spliff-sWhN.mp3"
+    ]
   },
   {
     "id": "almost-human-the-playground-1999-04-spit",
@@ -1401,13 +1579,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "EP",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Almost%20Human/1999%20-%20The%20Playground/04-Almost_Human-Spit-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-almost-human-the-playground-1999",
     "sourceFile": "assets/nfo/almost-human-the-playground-1999.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Almost%20Human/1999%20-%20The%20Playground/04-Almost_Human-Spit-sWhN.mp3"
+    ]
   },
   {
     "id": "almost-human-the-sweet-revenge-of-mitzi-dupree-1999-01-i-can-see-through-you",
@@ -1422,13 +1603,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "EP",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Almost%20Human/1999%20-%20The%20Sweet%20Revenge%20of%20Mitzi%20Dupree/01-Almost_Human-I_Can_See_Through_You-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-almost-human-the-sweet-revenge-of-mitzi-dupree-1999",
     "sourceFile": "assets/nfo/almost-human-sweet-revenge-mitzi-dupree-1999.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Almost%20Human/1999%20-%20The%20Sweet%20Revenge%20of%20Mitzi%20Dupree/01-Almost_Human-I_Can_See_Through_You-sWhN.mp3"
+    ]
   },
   {
     "id": "almost-human-the-sweet-revenge-of-mitzi-dupree-1999-02-devils-playground",
@@ -1443,13 +1627,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "EP",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Almost%20Human/1999%20-%20The%20Sweet%20Revenge%20of%20Mitzi%20Dupree/02-Almost_Human-Devils_Playground-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-almost-human-the-sweet-revenge-of-mitzi-dupree-1999",
     "sourceFile": "assets/nfo/almost-human-sweet-revenge-mitzi-dupree-1999.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Almost%20Human/1999%20-%20The%20Sweet%20Revenge%20of%20Mitzi%20Dupree/02-Almost_Human-Devils_Playground-sWhN.mp3"
+    ]
   },
   {
     "id": "almost-human-the-sweet-revenge-of-mitzi-dupree-1999-03-cheater",
@@ -1464,13 +1651,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "EP",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Almost%20Human/1999%20-%20The%20Sweet%20Revenge%20of%20Mitzi%20Dupree/03-Almost_Human-Cheater-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-almost-human-the-sweet-revenge-of-mitzi-dupree-1999",
     "sourceFile": "assets/nfo/almost-human-sweet-revenge-mitzi-dupree-1999.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Almost%20Human/1999%20-%20The%20Sweet%20Revenge%20of%20Mitzi%20Dupree/03-Almost_Human-Cheater-sWhN.mp3"
+    ]
   },
   {
     "id": "almost-human-the-sweet-revenge-of-mitzi-dupree-1999-04-best-in-show",
@@ -1485,13 +1675,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "EP",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Almost%20Human/1999%20-%20The%20Sweet%20Revenge%20of%20Mitzi%20Dupree/04-Almost_Human-Best_in_Show-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-almost-human-the-sweet-revenge-of-mitzi-dupree-1999",
     "sourceFile": "assets/nfo/almost-human-sweet-revenge-mitzi-dupree-1999.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Almost%20Human/1999%20-%20The%20Sweet%20Revenge%20of%20Mitzi%20Dupree/04-Almost_Human-Best_in_Show-sWhN.mp3"
+    ]
   },
   {
     "id": "almost-human-the-sweet-revenge-of-mitzi-dupree-1999-05-suit-yourself",
@@ -1506,13 +1699,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "EP",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Almost%20Human/1999%20-%20The%20Sweet%20Revenge%20of%20Mitzi%20Dupree/05-Almost_Human-Suit_Yourself-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-almost-human-the-sweet-revenge-of-mitzi-dupree-1999",
     "sourceFile": "assets/nfo/almost-human-sweet-revenge-mitzi-dupree-1999.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Almost%20Human/1999%20-%20The%20Sweet%20Revenge%20of%20Mitzi%20Dupree/05-Almost_Human-Suit_Yourself-sWhN.mp3"
+    ]
   },
   {
     "id": "almost-human-green-all-over-2000-01-we-all-belong",
@@ -1527,13 +1723,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "EP",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Almost%20Human/2000%20-%20Green%20All%20Over/01-Almost_Human-We_All_Belong-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-almost-human-green-all-over-2000",
     "sourceFile": "assets/nfo/almost-human-green-all-over-2000.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Almost%20Human/2000%20-%20Green%20All%20Over/01-Almost_Human-We_All_Belong-sWhN.mp3"
+    ]
   },
   {
     "id": "almost-human-green-all-over-2000-02-cold-turkey",
@@ -1548,13 +1747,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "EP",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Almost%20Human/2000%20-%20Green%20All%20Over/02-Almost_Human-Cold_Turkey-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-almost-human-green-all-over-2000",
     "sourceFile": "assets/nfo/almost-human-green-all-over-2000.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Almost%20Human/2000%20-%20Green%20All%20Over/02-Almost_Human-Cold_Turkey-sWhN.mp3"
+    ]
   },
   {
     "id": "almost-human-green-all-over-2000-03-lack-of",
@@ -1569,13 +1771,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "EP",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Almost%20Human/2000%20-%20Green%20All%20Over/03-Almost_Human-Lack_of-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-almost-human-green-all-over-2000",
     "sourceFile": "assets/nfo/almost-human-green-all-over-2000.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Almost%20Human/2000%20-%20Green%20All%20Over/03-Almost_Human-Lack_of-sWhN.mp3"
+    ]
   },
   {
     "id": "almost-human-green-all-over-2000-04-unused",
@@ -1590,13 +1795,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "EP",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Almost%20Human/2000%20-%20Green%20All%20Over/04-Almost_Human-Unused-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-almost-human-green-all-over-2000",
     "sourceFile": "assets/nfo/almost-human-green-all-over-2000.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Almost%20Human/2000%20-%20Green%20All%20Over/04-Almost_Human-Unused-sWhN.mp3"
+    ]
   },
   {
     "id": "almost-human-eaten-by-the-machine-2003-01-the-wake-up-call",
@@ -1611,13 +1819,17 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "EP",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Almost%20Human/2003%20-%20Eaten%20by%20the%20Machine/01-Almost_Human-The_Wake-Up_Call-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-almost-human-eaten-by-the-machine-2003",
     "sourceFile": "assets/nfo/almost-human-eaten-by-the-machine-2003.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Almost%20Human/2003%20-%20Eaten%20by%20the%20Machine/01-Almost_Human-The_Wake-Up_Call-sWhN.mp3",
+      "https://audio.desecrate.se/Almost%20Human/2003%20-%20Eaten%20By%20The%20Machine/01-Almost_Human-The_Wake-Up_Call-sWhN.mp3"
+    ]
   },
   {
     "id": "almost-human-eaten-by-the-machine-2003-02-no-krime",
@@ -1632,13 +1844,17 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "EP",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Almost%20Human/2003%20-%20Eaten%20by%20the%20Machine/02-Almost_Human-No_Krime-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-almost-human-eaten-by-the-machine-2003",
     "sourceFile": "assets/nfo/almost-human-eaten-by-the-machine-2003.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Almost%20Human/2003%20-%20Eaten%20by%20the%20Machine/02-Almost_Human-No_Krime-sWhN.mp3",
+      "https://audio.desecrate.se/Almost%20Human/2003%20-%20Eaten%20By%20The%20Machine/02-Almost_Human-No_Krime-sWhN.mp3"
+    ]
   },
   {
     "id": "almost-human-eaten-by-the-machine-2003-03-wasted-one",
@@ -1653,13 +1869,17 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "EP",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Almost%20Human/2003%20-%20Eaten%20by%20the%20Machine/03-Almost_Human-Wasted_One-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-almost-human-eaten-by-the-machine-2003",
     "sourceFile": "assets/nfo/almost-human-eaten-by-the-machine-2003.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Almost%20Human/2003%20-%20Eaten%20by%20the%20Machine/03-Almost_Human-Wasted_One-sWhN.mp3",
+      "https://audio.desecrate.se/Almost%20Human/2003%20-%20Eaten%20By%20The%20Machine/03-Almost_Human-Wasted_One-sWhN.mp3"
+    ]
   },
   {
     "id": "almost-human-eaten-by-the-machine-2003-04-unemployed-hero",
@@ -1674,13 +1894,17 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "EP",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Almost%20Human/2003%20-%20Eaten%20by%20the%20Machine/04-Almost_Human-Unemployed_Hero-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-almost-human-eaten-by-the-machine-2003",
     "sourceFile": "assets/nfo/almost-human-eaten-by-the-machine-2003.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Almost%20Human/2003%20-%20Eaten%20by%20the%20Machine/04-Almost_Human-Unemployed_Hero-sWhN.mp3",
+      "https://audio.desecrate.se/Almost%20Human/2003%20-%20Eaten%20By%20The%20Machine/04-Almost_Human-Unemployed_Hero-sWhN.mp3"
+    ]
   },
   {
     "id": "the-unkinds-almost-human-2003-01-merry-go-around",
@@ -1695,13 +1919,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "CD promo",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Almost%20Human/01-The_Unkinds-Merry-Go-Around-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-the-unkinds-almost-human-2003",
     "sourceFile": "assets/nfo/the-unkinds-almost-human-2003.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Almost%20Human/01-The_Unkinds-Merry-Go-Around-sWhN.mp3"
+    ]
   },
   {
     "id": "the-unkinds-almost-human-2003-02-ffwd-a",
@@ -1716,13 +1943,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "CD promo",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Almost%20Human/02-The_Unkinds-FFWD_A#-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-the-unkinds-almost-human-2003",
     "sourceFile": "assets/nfo/the-unkinds-almost-human-2003.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Almost%20Human/02-The_Unkinds-FFWD_A#-sWhN.mp3"
+    ]
   },
   {
     "id": "the-unkinds-almost-human-2003-03-skit-ner-dig",
@@ -1737,13 +1967,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "CD promo",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Almost%20Human/03-The_Unkinds-Skit_Ner_Dig-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-the-unkinds-almost-human-2003",
     "sourceFile": "assets/nfo/the-unkinds-almost-human-2003.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Almost%20Human/03-The_Unkinds-Skit_Ner_Dig-sWhN.mp3"
+    ]
   },
   {
     "id": "the-unkinds-almost-human-2003-04-live-like-a-king",
@@ -1758,13 +1991,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "CD promo",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Almost%20Human/04-The_Unkinds-Live_Like_A_King-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-the-unkinds-almost-human-2003",
     "sourceFile": "assets/nfo/the-unkinds-almost-human-2003.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Almost%20Human/04-The_Unkinds-Live_Like_A_King-sWhN.mp3"
+    ]
   },
   {
     "id": "the-unkinds-almost-human-2003-05-unemployed-hero",
@@ -1779,13 +2015,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "CD promo",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Almost%20Human/05-The_Unkinds-Unemployed_Hero-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-the-unkinds-almost-human-2003",
     "sourceFile": "assets/nfo/the-unkinds-almost-human-2003.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Almost%20Human/05-The_Unkinds-Unemployed_Hero-sWhN.mp3"
+    ]
   },
   {
     "id": "the-unkinds-almost-human-2003-06-up-your-nose-live-jam",
@@ -1800,13 +2039,17 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "CD promo",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Almost%20Human/06-The_Unkinds-Up_Your_Nose_(Live_Jam)-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-the-unkinds-almost-human-2003",
     "sourceFile": "assets/nfo/the-unkinds-almost-human-2003.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Almost%20Human/06-The_Unkinds-Up_Your_Nose_(Live_Jam)-sWhN.mp3",
+      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Almost%20Human/06-The_Unkinds-Up_Your_Nose-sWhN.mp3"
+    ]
   },
   {
     "id": "the-unkinds-live-at-fellini-uppsala-02-20-2003-01-intro-jam",
@@ -1821,13 +2064,17 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Live recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live%20at%20Fellini%20Uppsala%2002-20/01-The_Unkinds-Intro_Jam-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-the-unkinds-live-at-fellini-uppsala-02-20-2003",
     "sourceFile": "assets/nfo/the-unkinds-live-fellini-2003.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live%20at%20Fellini%20Uppsala%2002-20/01-The_Unkinds-Intro_Jam-sWhN.mp3",
+      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live%20at%20Fellini/01-The_Unkinds-Intro_Jam-sWhN.mp3"
+    ]
   },
   {
     "id": "the-unkinds-live-at-fellini-uppsala-02-20-2003-02-timber",
@@ -1842,13 +2089,17 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Live recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live%20at%20Fellini%20Uppsala%2002-20/02-The_Unkinds-Timber-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-the-unkinds-live-at-fellini-uppsala-02-20-2003",
     "sourceFile": "assets/nfo/the-unkinds-live-fellini-2003.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live%20at%20Fellini%20Uppsala%2002-20/02-The_Unkinds-Timber-sWhN.mp3",
+      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live%20at%20Fellini/02-The_Unkinds-Timber-sWhN.mp3"
+    ]
   },
   {
     "id": "the-unkinds-live-at-fellini-uppsala-02-20-2003-03-unemployed-heroes",
@@ -1863,13 +2114,17 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Live recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live%20at%20Fellini%20Uppsala%2002-20/03-The_Unkinds-Unemployed_Heroes-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-the-unkinds-live-at-fellini-uppsala-02-20-2003",
     "sourceFile": "assets/nfo/the-unkinds-live-fellini-2003.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live%20at%20Fellini%20Uppsala%2002-20/03-The_Unkinds-Unemployed_Heroes-sWhN.mp3",
+      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live%20at%20Fellini/03-The_Unkinds-Unemployed_Heroes-sWhN.mp3"
+    ]
   },
   {
     "id": "the-unkinds-live-at-fellini-uppsala-02-20-2003-04-ffwd-a",
@@ -1884,13 +2139,17 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Live recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live%20at%20Fellini%20Uppsala%2002-20/04-The_Unkinds-Ffwd_A#-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-the-unkinds-live-at-fellini-uppsala-02-20-2003",
     "sourceFile": "assets/nfo/the-unkinds-live-fellini-2003.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live%20at%20Fellini%20Uppsala%2002-20/04-The_Unkinds-Ffwd_A#-sWhN.mp3",
+      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live%20at%20Fellini/04-The_Unkinds-Ffwd_A#-sWhN.mp3"
+    ]
   },
   {
     "id": "the-unkinds-live-at-fellini-uppsala-02-20-2003-05-merry-go-around",
@@ -1905,13 +2164,17 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Live recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live%20at%20Fellini%20Uppsala%2002-20/05-The_Unkinds-Merry-Go-Around-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-the-unkinds-live-at-fellini-uppsala-02-20-2003",
     "sourceFile": "assets/nfo/the-unkinds-live-fellini-2003.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live%20at%20Fellini%20Uppsala%2002-20/05-The_Unkinds-Merry-Go-Around-sWhN.mp3",
+      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live%20at%20Fellini/05-The_Unkinds-Merry-Go-Around-sWhN.mp3"
+    ]
   },
   {
     "id": "the-unkinds-live-at-fellini-uppsala-02-20-2003-06-skit-ner-dig-the-f-word-song",
@@ -1926,13 +2189,19 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Live recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live%20at%20Fellini%20Uppsala%2002-20/06-The_Unkinds-Skit_Ner_Dig_(the_F_Word_Song)-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-the-unkinds-live-at-fellini-uppsala-02-20-2003",
     "sourceFile": "assets/nfo/the-unkinds-live-fellini-2003.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live%20at%20Fellini%20Uppsala%2002-20/06-The_Unkinds-Skit_Ner_Dig_(the_F_Word_Song)-sWhN.mp3",
+      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live%20at%20Fellini%20Uppsala%2002-20/06-The_Unkinds-Skit_Ner_Dig-sWhN.mp3",
+      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live%20at%20Fellini/06-The_Unkinds-Skit_Ner_Dig_(the_F_Word_Song)-sWhN.mp3",
+      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live%20at%20Fellini/06-The_Unkinds-Skit_Ner_Dig-sWhN.mp3"
+    ]
   },
   {
     "id": "the-unkinds-live-at-fellini-uppsala-02-20-2003-07-lack-of",
@@ -1947,13 +2216,17 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Live recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live%20at%20Fellini%20Uppsala%2002-20/07-The_Unkinds-Lack_of-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-the-unkinds-live-at-fellini-uppsala-02-20-2003",
     "sourceFile": "assets/nfo/the-unkinds-live-fellini-2003.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live%20at%20Fellini%20Uppsala%2002-20/07-The_Unkinds-Lack_of-sWhN.mp3",
+      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live%20at%20Fellini/07-The_Unkinds-Lack_of-sWhN.mp3"
+    ]
   },
   {
     "id": "the-unkinds-live-at-fellini-uppsala-02-20-2003-08-live-like-a-king",
@@ -1968,13 +2241,17 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Live recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live%20at%20Fellini%20Uppsala%2002-20/08-The_Unkinds-Live_Like_A_King-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-the-unkinds-live-at-fellini-uppsala-02-20-2003",
     "sourceFile": "assets/nfo/the-unkinds-live-fellini-2003.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live%20at%20Fellini%20Uppsala%2002-20/08-The_Unkinds-Live_Like_A_King-sWhN.mp3",
+      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live%20at%20Fellini/08-The_Unkinds-Live_Like_A_King-sWhN.mp3"
+    ]
   },
   {
     "id": "the-unkinds-live-at-fellini-uppsala-02-20-2003-09-skindippin-in-the-swamps",
@@ -1989,13 +2266,17 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Live recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live%20at%20Fellini%20Uppsala%2002-20/09-The_Unkinds-Skindippin_in_the_Swamps-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-the-unkinds-live-at-fellini-uppsala-02-20-2003",
     "sourceFile": "assets/nfo/the-unkinds-live-fellini-2003.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live%20at%20Fellini%20Uppsala%2002-20/09-The_Unkinds-Skindippin_in_the_Swamps-sWhN.mp3",
+      "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live%20at%20Fellini/09-The_Unkinds-Skindippin_in_the_Swamps-sWhN.mp3"
+    ]
   },
   {
     "id": "treebeard-bulletin-board-2008-01-welcome-to-the-machine",
@@ -2010,13 +2291,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin%20Board/01-Treebeard-Welcome_to_the_Machine-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-treebeard-bulletin-board-2008",
     "sourceFile": "assets/nfo/treebeard-bulletin-board-2008.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin%20Board/01-Treebeard-Welcome_to_the_Machine-sWhN.mp3"
+    ]
   },
   {
     "id": "treebeard-bulletin-board-2008-02-spectrums",
@@ -2031,13 +2315,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin%20Board/02-Treebeard-Spectrums-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-treebeard-bulletin-board-2008",
     "sourceFile": "assets/nfo/treebeard-bulletin-board-2008.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin%20Board/02-Treebeard-Spectrums-sWhN.mp3"
+    ]
   },
   {
     "id": "treebeard-bulletin-board-2008-03-conflicting-interpretation",
@@ -2052,13 +2339,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin%20Board/03-Treebeard-Conflicting_Interpretation-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-treebeard-bulletin-board-2008",
     "sourceFile": "assets/nfo/treebeard-bulletin-board-2008.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin%20Board/03-Treebeard-Conflicting_Interpretation-sWhN.mp3"
+    ]
   },
   {
     "id": "treebeard-bulletin-board-2008-04-interjection-interlude-i",
@@ -2073,13 +2363,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin%20Board/04-Treebeard-Interjection_Interlude_I-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-treebeard-bulletin-board-2008",
     "sourceFile": "assets/nfo/treebeard-bulletin-board-2008.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin%20Board/04-Treebeard-Interjection_Interlude_I-sWhN.mp3"
+    ]
   },
   {
     "id": "treebeard-bulletin-board-2008-05-army-of-the-undead",
@@ -2094,13 +2387,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin%20Board/05-Treebeard-Army_of_the_Undead-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-treebeard-bulletin-board-2008",
     "sourceFile": "assets/nfo/treebeard-bulletin-board-2008.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin%20Board/05-Treebeard-Army_of_the_Undead-sWhN.mp3"
+    ]
   },
   {
     "id": "treebeard-bulletin-board-2008-06-chicken",
@@ -2115,13 +2411,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin%20Board/06-Treebeard-Chicken-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-treebeard-bulletin-board-2008",
     "sourceFile": "assets/nfo/treebeard-bulletin-board-2008.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin%20Board/06-Treebeard-Chicken-sWhN.mp3"
+    ]
   },
   {
     "id": "treebeard-bulletin-board-2008-07-namaste-chi",
@@ -2136,13 +2435,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin%20Board/07-Treebeard-Namaste_Chi-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-treebeard-bulletin-board-2008",
     "sourceFile": "assets/nfo/treebeard-bulletin-board-2008.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin%20Board/07-Treebeard-Namaste_Chi-sWhN.mp3"
+    ]
   },
   {
     "id": "treebeard-bulletin-board-2008-08-defleshed",
@@ -2157,13 +2459,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin%20Board/08-Treebeard-Defleshed-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-treebeard-bulletin-board-2008",
     "sourceFile": "assets/nfo/treebeard-bulletin-board-2008.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin%20Board/08-Treebeard-Defleshed-sWhN.mp3"
+    ]
   },
   {
     "id": "treebeard-bulletin-board-2008-09-interjection-interlude-ii",
@@ -2178,13 +2483,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin%20Board/09-Treebeard-Interjection_Interlude_II-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-treebeard-bulletin-board-2008",
     "sourceFile": "assets/nfo/treebeard-bulletin-board-2008.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin%20Board/09-Treebeard-Interjection_Interlude_II-sWhN.mp3"
+    ]
   },
   {
     "id": "treebeard-bulletin-board-2008-10-saranam-gacchami",
@@ -2199,13 +2507,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin%20Board/10-Treebeard-Saranam_Gacchami-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-treebeard-bulletin-board-2008",
     "sourceFile": "assets/nfo/treebeard-bulletin-board-2008.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin%20Board/10-Treebeard-Saranam_Gacchami-sWhN.mp3"
+    ]
   },
   {
     "id": "treebeard-bulletin-board-2008-11-indoctrinated",
@@ -2220,13 +2531,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin%20Board/11-Treebeard-Indoctrinated-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-treebeard-bulletin-board-2008",
     "sourceFile": "assets/nfo/treebeard-bulletin-board-2008.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin%20Board/11-Treebeard-Indoctrinated-sWhN.mp3"
+    ]
   },
   {
     "id": "treebeard-bulletin-board-2008-12-black-end",
@@ -2241,13 +2555,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin%20Board/12-Treebeard-Black_End-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-treebeard-bulletin-board-2008",
     "sourceFile": "assets/nfo/treebeard-bulletin-board-2008.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin%20Board/12-Treebeard-Black_End-sWhN.mp3"
+    ]
   },
   {
     "id": "treebeard-bulletin-board-2008-13-harbour-coffin-demo",
@@ -2262,13 +2579,17 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin%20Board/13-Treebeard-Harbour_Coffin_(Demo)-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-treebeard-bulletin-board-2008",
     "sourceFile": "assets/nfo/treebeard-bulletin-board-2008.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin%20Board/13-Treebeard-Harbour_Coffin_(Demo)-sWhN.mp3",
+      "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin%20Board/13-Treebeard-Harbour_Coffin-sWhN.mp3"
+    ]
   },
   {
     "id": "treebeard-bulletin-board-2008-14-look-at-me-i-m-sandra-dee-demo",
@@ -2283,13 +2604,19 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin%20Board/14-Treebeard-Look_at_Me,_Im_Sandra_Dee_(Demo)-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-treebeard-bulletin-board-2008",
     "sourceFile": "assets/nfo/treebeard-bulletin-board-2008.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin%20Board/14-Treebeard-Look_at_Me,_Im_Sandra_Dee_(Demo)-sWhN.mp3",
+      "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin%20Board/14-Treebeard-Look_at_Me_Im_Sandra_Dee_(Demo)-sWhN.mp3",
+      "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin%20Board/14-Treebeard-Look_at_Me,_Im_Sandra_Dee-sWhN.mp3",
+      "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin%20Board/14-Treebeard-Look_at_Me_Im_Sandra_Dee-sWhN.mp3"
+    ]
   },
   {
     "id": "treebeard-don-t-judge-a-album-by-it-s-cover-2009-01-39-lashes-jesus-christ-superstar-cover",
@@ -2304,13 +2631,19 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/01-Treebeard-39_Lashes_(Jesus_Christ_Superstar_Cover)-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-treebeard-dont-judge-a-album-by-its-cover-2009",
     "sourceFile": "assets/nfo/treebeard-dont-judge-album-cover-2009.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/01-Treebeard-39_Lashes_(Jesus_Christ_Superstar_Cover)-sWhN.mp3",
+      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/01-Treebeard-39_Lashes-sWhN.mp3",
+      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20By%20Its%20Cover/01-Treebeard-39_Lashes_(Jesus_Christ_Superstar_Cover)-sWhN.mp3",
+      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20By%20Its%20Cover/01-Treebeard-39_Lashes-sWhN.mp3"
+    ]
   },
   {
     "id": "treebeard-don-t-judge-a-album-by-it-s-cover-2009-02-welcome-to-the-machine-pink-floyd-cover",
@@ -2325,13 +2658,19 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/02-Treebeard-Welcome_to_the_Machine_(Pink_Floyd_Cover)-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-treebeard-dont-judge-a-album-by-its-cover-2009",
     "sourceFile": "assets/nfo/treebeard-dont-judge-album-cover-2009.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/02-Treebeard-Welcome_to_the_Machine_(Pink_Floyd_Cover)-sWhN.mp3",
+      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/02-Treebeard-Welcome_to_the_Machine-sWhN.mp3",
+      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20By%20Its%20Cover/02-Treebeard-Welcome_to_the_Machine_(Pink_Floyd_Cover)-sWhN.mp3",
+      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20By%20Its%20Cover/02-Treebeard-Welcome_to_the_Machine-sWhN.mp3"
+    ]
   },
   {
     "id": "treebeard-don-t-judge-a-album-by-it-s-cover-2009-03-strange-ways-kiss-cover",
@@ -2346,13 +2685,19 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/03-Treebeard-Strange_Ways_(Kiss_Cover)-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-treebeard-dont-judge-a-album-by-its-cover-2009",
     "sourceFile": "assets/nfo/treebeard-dont-judge-album-cover-2009.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/03-Treebeard-Strange_Ways_(Kiss_Cover)-sWhN.mp3",
+      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/03-Treebeard-Strange_Ways-sWhN.mp3",
+      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20By%20Its%20Cover/03-Treebeard-Strange_Ways_(Kiss_Cover)-sWhN.mp3",
+      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20By%20Its%20Cover/03-Treebeard-Strange_Ways-sWhN.mp3"
+    ]
   },
   {
     "id": "treebeard-don-t-judge-a-album-by-it-s-cover-2009-04-what-goes-on-the-beatles-cover",
@@ -2367,13 +2712,19 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/04-Treebeard-What_Goes_on_(The_Beatles_Cover)-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-treebeard-dont-judge-a-album-by-its-cover-2009",
     "sourceFile": "assets/nfo/treebeard-dont-judge-album-cover-2009.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/04-Treebeard-What_Goes_on_(The_Beatles_Cover)-sWhN.mp3",
+      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/04-Treebeard-What_Goes_on-sWhN.mp3",
+      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20By%20Its%20Cover/04-Treebeard-What_Goes_on_(The_Beatles_Cover)-sWhN.mp3",
+      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20By%20Its%20Cover/04-Treebeard-What_Goes_on-sWhN.mp3"
+    ]
   },
   {
     "id": "treebeard-don-t-judge-a-album-by-it-s-cover-2009-05-owed-to-h-simpson-theme",
@@ -2388,13 +2739,19 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/05-Treebeard-Owed_to_H_(Simpson_Theme)-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-treebeard-dont-judge-a-album-by-its-cover-2009",
     "sourceFile": "assets/nfo/treebeard-dont-judge-album-cover-2009.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/05-Treebeard-Owed_to_H_(Simpson_Theme)-sWhN.mp3",
+      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/05-Treebeard-Owed_to_H-sWhN.mp3",
+      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20By%20Its%20Cover/05-Treebeard-Owed_to_H_(Simpson_Theme)-sWhN.mp3",
+      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20By%20Its%20Cover/05-Treebeard-Owed_to_H-sWhN.mp3"
+    ]
   },
   {
     "id": "treebeard-don-t-judge-a-album-by-it-s-cover-2009-06-jungle-metal-kool-the-gang-cover",
@@ -2409,13 +2766,21 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/06-Treebeard-Jungle_Metal_(Kool_&_The_Gang_Cover)-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-treebeard-dont-judge-a-album-by-its-cover-2009",
     "sourceFile": "assets/nfo/treebeard-dont-judge-album-cover-2009.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/06-Treebeard-Jungle_Metal_(Kool_&_The_Gang_Cover)-sWhN.mp3",
+      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/06-Treebeard-Jungle_Metal_(Kool_and_The_Gang_Cover)-sWhN.mp3",
+      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/06-Treebeard-Jungle_Metal-sWhN.mp3",
+      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20By%20Its%20Cover/06-Treebeard-Jungle_Metal_(Kool_&_The_Gang_Cover)-sWhN.mp3",
+      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20By%20Its%20Cover/06-Treebeard-Jungle_Metal_(Kool_and_The_Gang_Cover)-sWhN.mp3",
+      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20By%20Its%20Cover/06-Treebeard-Jungle_Metal-sWhN.mp3"
+    ]
   },
   {
     "id": "treebeard-don-t-judge-a-album-by-it-s-cover-2009-07-mustapha-the-queen-cover",
@@ -2430,13 +2795,19 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/07-Treebeard-Mustapha_(The_Queen_Cover)-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-treebeard-dont-judge-a-album-by-its-cover-2009",
     "sourceFile": "assets/nfo/treebeard-dont-judge-album-cover-2009.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/07-Treebeard-Mustapha_(The_Queen_Cover)-sWhN.mp3",
+      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/07-Treebeard-Mustapha-sWhN.mp3",
+      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20By%20Its%20Cover/07-Treebeard-Mustapha_(The_Queen_Cover)-sWhN.mp3",
+      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20By%20Its%20Cover/07-Treebeard-Mustapha-sWhN.mp3"
+    ]
   },
   {
     "id": "treebeard-don-t-judge-a-album-by-it-s-cover-2009-08-once-in-lifetime-talking-heads-cover",
@@ -2451,13 +2822,19 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/08-Treebeard-Once_in_Lifetime_(Talking_Heads_Cover)-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-treebeard-dont-judge-a-album-by-its-cover-2009",
     "sourceFile": "assets/nfo/treebeard-dont-judge-album-cover-2009.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/08-Treebeard-Once_in_Lifetime_(Talking_Heads_Cover)-sWhN.mp3",
+      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/08-Treebeard-Once_in_Lifetime-sWhN.mp3",
+      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20By%20Its%20Cover/08-Treebeard-Once_in_Lifetime_(Talking_Heads_Cover)-sWhN.mp3",
+      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20By%20Its%20Cover/08-Treebeard-Once_in_Lifetime-sWhN.mp3"
+    ]
   },
   {
     "id": "treebeard-don-t-judge-a-album-by-it-s-cover-2009-09-the-temples-of-syrinx-rush-cover",
@@ -2472,13 +2849,19 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/09-Treebeard-The_Temples_of_Syrinx_(Rush_Cover)-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-treebeard-dont-judge-a-album-by-its-cover-2009",
     "sourceFile": "assets/nfo/treebeard-dont-judge-album-cover-2009.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/09-Treebeard-The_Temples_of_Syrinx_(Rush_Cover)-sWhN.mp3",
+      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/09-Treebeard-The_Temples_of_Syrinx-sWhN.mp3",
+      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20By%20Its%20Cover/09-Treebeard-The_Temples_of_Syrinx_(Rush_Cover)-sWhN.mp3",
+      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20By%20Its%20Cover/09-Treebeard-The_Temples_of_Syrinx-sWhN.mp3"
+    ]
   },
   {
     "id": "treebeard-don-t-judge-a-album-by-it-s-cover-2009-10-bharat-guest-house-india-national-anthem",
@@ -2493,13 +2876,19 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/10-Treebeard-Bharat_Guest_House_(India_National_Anthem)-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-treebeard-dont-judge-a-album-by-its-cover-2009",
     "sourceFile": "assets/nfo/treebeard-dont-judge-album-cover-2009.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/10-Treebeard-Bharat_Guest_House_(India_National_Anthem)-sWhN.mp3",
+      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/10-Treebeard-Bharat_Guest_House-sWhN.mp3",
+      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20By%20Its%20Cover/10-Treebeard-Bharat_Guest_House_(India_National_Anthem)-sWhN.mp3",
+      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20By%20Its%20Cover/10-Treebeard-Bharat_Guest_House-sWhN.mp3"
+    ]
   },
   {
     "id": "treebeard-don-t-judge-a-album-by-it-s-cover-2009-11-chicken-pee-wee-ellis-cover",
@@ -2514,13 +2903,19 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/11-Treebeard-Chicken_(Pee_Wee_Ellis_Cover)-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-treebeard-dont-judge-a-album-by-its-cover-2009",
     "sourceFile": "assets/nfo/treebeard-dont-judge-album-cover-2009.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/11-Treebeard-Chicken_(Pee_Wee_Ellis_Cover)-sWhN.mp3",
+      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/11-Treebeard-Chicken-sWhN.mp3",
+      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20By%20Its%20Cover/11-Treebeard-Chicken_(Pee_Wee_Ellis_Cover)-sWhN.mp3",
+      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20By%20Its%20Cover/11-Treebeard-Chicken-sWhN.mp3"
+    ]
   },
   {
     "id": "treebeard-don-t-judge-a-album-by-it-s-cover-2009-12-i-m-too-sexy-right-said-fred-cover",
@@ -2535,13 +2930,19 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/12-Treebeard-Im_Too_Sexy_(Right_Said_Fred_Cover)-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-treebeard-dont-judge-a-album-by-its-cover-2009",
     "sourceFile": "assets/nfo/treebeard-dont-judge-album-cover-2009.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/12-Treebeard-Im_Too_Sexy_(Right_Said_Fred_Cover)-sWhN.mp3",
+      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20by%20Its%20Cover/12-Treebeard-Im_Too_Sexy-sWhN.mp3",
+      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20By%20Its%20Cover/12-Treebeard-Im_Too_Sexy_(Right_Said_Fred_Cover)-sWhN.mp3",
+      "https://audio.desecrate.se/Treebeard/2009%20-%20Dont%20Judge%20A%20Album%20By%20Its%20Cover/12-Treebeard-Im_Too_Sexy-sWhN.mp3"
+    ]
   },
   {
     "id": "treebeard-best-of-2010-01-once-in-lifetime",
@@ -2556,13 +2957,17 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20of/01-Treebeard-Once_in_Lifetime-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-treebeard-best-of-2010",
     "sourceFile": "assets/nfo/treebeard-best-of-2010.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20of/01-Treebeard-Once_in_Lifetime-sWhN.mp3",
+      "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20Of/01-Treebeard-Once_in_Lifetime-sWhN.mp3"
+    ]
   },
   {
     "id": "treebeard-best-of-2010-02-welcome-to-the-machine",
@@ -2577,13 +2982,17 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20of/02-Treebeard-Welcome_to_the_Machine-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-treebeard-best-of-2010",
     "sourceFile": "assets/nfo/treebeard-best-of-2010.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20of/02-Treebeard-Welcome_to_the_Machine-sWhN.mp3",
+      "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20Of/02-Treebeard-Welcome_to_the_Machine-sWhN.mp3"
+    ]
   },
   {
     "id": "treebeard-best-of-2010-03-that-unknown-place",
@@ -2598,13 +3007,17 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20of/03-Treebeard-That_Unknown_Place-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-treebeard-best-of-2010",
     "sourceFile": "assets/nfo/treebeard-best-of-2010.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20of/03-Treebeard-That_Unknown_Place-sWhN.mp3",
+      "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20Of/03-Treebeard-That_Unknown_Place-sWhN.mp3"
+    ]
   },
   {
     "id": "treebeard-best-of-2010-04-snowspace",
@@ -2619,13 +3032,17 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20of/04-Treebeard-Snowspace-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-treebeard-best-of-2010",
     "sourceFile": "assets/nfo/treebeard-best-of-2010.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20of/04-Treebeard-Snowspace-sWhN.mp3",
+      "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20Of/04-Treebeard-Snowspace-sWhN.mp3"
+    ]
   },
   {
     "id": "treebeard-best-of-2010-05-mustapha",
@@ -2640,13 +3057,17 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20of/05-Treebeard-Mustapha-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-treebeard-best-of-2010",
     "sourceFile": "assets/nfo/treebeard-best-of-2010.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20of/05-Treebeard-Mustapha-sWhN.mp3",
+      "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20Of/05-Treebeard-Mustapha-sWhN.mp3"
+    ]
   },
   {
     "id": "treebeard-best-of-2010-06-catastrophic",
@@ -2661,13 +3082,17 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20of/06-Treebeard-Catastrophic-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-treebeard-best-of-2010",
     "sourceFile": "assets/nfo/treebeard-best-of-2010.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20of/06-Treebeard-Catastrophic-sWhN.mp3",
+      "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20Of/06-Treebeard-Catastrophic-sWhN.mp3"
+    ]
   },
   {
     "id": "treebeard-best-of-2010-07-saddle-of-your-sorrow",
@@ -2682,13 +3107,17 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20of/07-Treebeard-Saddle_of_Your_Sorrow-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-treebeard-best-of-2010",
     "sourceFile": "assets/nfo/treebeard-best-of-2010.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20of/07-Treebeard-Saddle_of_Your_Sorrow-sWhN.mp3",
+      "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20Of/07-Treebeard-Saddle_of_Your_Sorrow-sWhN.mp3"
+    ]
   },
   {
     "id": "treebeard-best-of-2010-08-headless",
@@ -2703,13 +3132,17 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20of/08-Treebeard-Headless-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-treebeard-best-of-2010",
     "sourceFile": "assets/nfo/treebeard-best-of-2010.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20of/08-Treebeard-Headless-sWhN.mp3",
+      "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20Of/08-Treebeard-Headless-sWhN.mp3"
+    ]
   },
   {
     "id": "treebeard-best-of-2010-09-midsummer-s-eve",
@@ -2724,13 +3157,17 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20of/09-Treebeard-Midsummers_Eve-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-treebeard-best-of-2010",
     "sourceFile": "assets/nfo/treebeard-best-of-2010.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20of/09-Treebeard-Midsummers_Eve-sWhN.mp3",
+      "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20Of/09-Treebeard-Midsummers_Eve-sWhN.mp3"
+    ]
   },
   {
     "id": "treebeard-best-of-2010-10-all-gone-now",
@@ -2745,13 +3182,17 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20of/10-Treebeard-All_Gone_Now-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-treebeard-best-of-2010",
     "sourceFile": "assets/nfo/treebeard-best-of-2010.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20of/10-Treebeard-All_Gone_Now-sWhN.mp3",
+      "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20Of/10-Treebeard-All_Gone_Now-sWhN.mp3"
+    ]
   },
   {
     "id": "treebeard-best-of-2010-11-fishbate",
@@ -2766,13 +3207,17 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20of/11-Treebeard-Fishbate-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-treebeard-best-of-2010",
     "sourceFile": "assets/nfo/treebeard-best-of-2010.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20of/11-Treebeard-Fishbate-sWhN.mp3",
+      "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20Of/11-Treebeard-Fishbate-sWhN.mp3"
+    ]
   },
   {
     "id": "treebeard-best-of-2010-12-as-the-new-day-dawns",
@@ -2787,13 +3232,17 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20of/12-Treebeard-As_the_New_Day_Dawns-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-treebeard-best-of-2010",
     "sourceFile": "assets/nfo/treebeard-best-of-2010.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20of/12-Treebeard-As_the_New_Day_Dawns-sWhN.mp3",
+      "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20Of/12-Treebeard-As_the_New_Day_Dawns-sWhN.mp3"
+    ]
   },
   {
     "id": "treebeard-best-of-2010-13-hidden-in-the-snow",
@@ -2808,13 +3257,17 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20of/13-Treebeard-Hidden_in_the_Snow-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-treebeard-best-of-2010",
     "sourceFile": "assets/nfo/treebeard-best-of-2010.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20of/13-Treebeard-Hidden_in_the_Snow-sWhN.mp3",
+      "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20Of/13-Treebeard-Hidden_in_the_Snow-sWhN.mp3"
+    ]
   },
   {
     "id": "treebeard-best-of-2010-14-39-lashes",
@@ -2829,13 +3282,17 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20of/14-Treebeard-39_Lashes-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-treebeard-best-of-2010",
     "sourceFile": "assets/nfo/treebeard-best-of-2010.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20of/14-Treebeard-39_Lashes-sWhN.mp3",
+      "https://audio.desecrate.se/Treebeard/2010%20-%20Best%20Of/14-Treebeard-39_Lashes-sWhN.mp3"
+    ]
   },
   {
     "id": "aphophis-principle-of-evil-2008-01-first-we-bow",
@@ -2850,13 +3307,17 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "EP",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20of%20Evil/01-Aphophis-First_We_Bow-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-aphophis-principle-of-evil-2008",
     "sourceFile": "assets/nfo/aphophis-principle-of-evil-2008.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20of%20Evil/01-Aphophis-First_We_Bow-sWhN.mp3",
+      "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20Of%20Evil/01-Aphophis-First_We_Bow-sWhN.mp3"
+    ]
   },
   {
     "id": "aphophis-principle-of-evil-2008-02-solar-barque",
@@ -2871,13 +3332,17 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "EP",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20of%20Evil/02-Aphophis-Solar_Barque-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-aphophis-principle-of-evil-2008",
     "sourceFile": "assets/nfo/aphophis-principle-of-evil-2008.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20of%20Evil/02-Aphophis-Solar_Barque-sWhN.mp3",
+      "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20Of%20Evil/02-Aphophis-Solar_Barque-sWhN.mp3"
+    ]
   },
   {
     "id": "aphophis-principle-of-evil-2008-03-from-prince-to-prentice",
@@ -2892,13 +3357,17 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "EP",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20of%20Evil/03-Aphophis-From_Prince_to_Prentice-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-aphophis-principle-of-evil-2008",
     "sourceFile": "assets/nfo/aphophis-principle-of-evil-2008.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20of%20Evil/03-Aphophis-From_Prince_to_Prentice-sWhN.mp3",
+      "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20Of%20Evil/03-Aphophis-From_Prince_to_Prentice-sWhN.mp3"
+    ]
   },
   {
     "id": "aphophis-principle-of-evil-2008-04-serpent-of-rebirth",
@@ -2913,13 +3382,17 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "EP",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20of%20Evil/04-Aphophis-Serpent_of_Rebirth-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-aphophis-principle-of-evil-2008",
     "sourceFile": "assets/nfo/aphophis-principle-of-evil-2008.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20of%20Evil/04-Aphophis-Serpent_of_Rebirth-sWhN.mp3",
+      "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20Of%20Evil/04-Aphophis-Serpent_of_Rebirth-sWhN.mp3"
+    ]
   },
   {
     "id": "aphophis-principle-of-evil-2008-05-then-we-bow-again",
@@ -2934,13 +3407,17 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "EP",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20of%20Evil/05-Aphophis-Then_We_Bow_Again-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-aphophis-principle-of-evil-2008",
     "sourceFile": "assets/nfo/aphophis-principle-of-evil-2008.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20of%20Evil/05-Aphophis-Then_We_Bow_Again-sWhN.mp3",
+      "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20Of%20Evil/05-Aphophis-Then_We_Bow_Again-sWhN.mp3"
+    ]
   },
   {
     "id": "aphophis-principle-of-evil-bonus-trax-2008-01-backwaters-bonus-track",
@@ -2955,13 +3432,19 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "EP / bonus",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20of%20Evil%20Bonus%20Trax/01-Aphophis-Backwaters_(Bonus_Track)-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-aphophis-principle-of-evil-bonus-trax-2008",
     "sourceFile": "assets/nfo/aphophis-principle-of-evil-bonus-2008.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20of%20Evil%20Bonus%20Trax/01-Aphophis-Backwaters_(Bonus_Track)-sWhN.mp3",
+      "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20of%20Evil%20Bonus%20Trax/01-Aphophis-Backwaters-sWhN.mp3",
+      "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20Of%20Evil%20Bonus%20Trax/01-Aphophis-Backwaters_(Bonus_Track)-sWhN.mp3",
+      "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20Of%20Evil%20Bonus%20Trax/01-Aphophis-Backwaters-sWhN.mp3"
+    ]
   },
   {
     "id": "aphophis-principle-of-evil-bonus-trax-2008-02-in-league-with-satan-bonus-track",
@@ -2976,13 +3459,19 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "EP / bonus",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20of%20Evil%20Bonus%20Trax/02-Aphophis-In_League_with_Satan_(Bonus_Track)-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-aphophis-principle-of-evil-bonus-trax-2008",
     "sourceFile": "assets/nfo/aphophis-principle-of-evil-bonus-2008.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20of%20Evil%20Bonus%20Trax/02-Aphophis-In_League_with_Satan_(Bonus_Track)-sWhN.mp3",
+      "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20of%20Evil%20Bonus%20Trax/02-Aphophis-In_League_with_Satan-sWhN.mp3",
+      "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20Of%20Evil%20Bonus%20Trax/02-Aphophis-In_League_with_Satan_(Bonus_Track)-sWhN.mp3",
+      "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20Of%20Evil%20Bonus%20Trax/02-Aphophis-In_League_with_Satan-sWhN.mp3"
+    ]
   },
   {
     "id": "aphophis-principle-of-evil-bonus-trax-2008-03-czardas-bonus-track",
@@ -2997,13 +3486,19 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "EP / bonus",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20of%20Evil%20Bonus%20Trax/03-Aphophis-Czardas_(Bonus_Track)-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-aphophis-principle-of-evil-bonus-trax-2008",
     "sourceFile": "assets/nfo/aphophis-principle-of-evil-bonus-2008.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20of%20Evil%20Bonus%20Trax/03-Aphophis-Czardas_(Bonus_Track)-sWhN.mp3",
+      "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20of%20Evil%20Bonus%20Trax/03-Aphophis-Czardas-sWhN.mp3",
+      "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20Of%20Evil%20Bonus%20Trax/03-Aphophis-Czardas_(Bonus_Track)-sWhN.mp3",
+      "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20Of%20Evil%20Bonus%20Trax/03-Aphophis-Czardas-sWhN.mp3"
+    ]
   },
   {
     "id": "aphophis-principle-of-evil-bonus-trax-2008-04-rain-song-bonus-track",
@@ -3018,13 +3513,19 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "EP / bonus",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20of%20Evil%20Bonus%20Trax/04-Aphophis-Rain_Song_(Bonus_Track)-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-aphophis-principle-of-evil-bonus-trax-2008",
     "sourceFile": "assets/nfo/aphophis-principle-of-evil-bonus-2008.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20of%20Evil%20Bonus%20Trax/04-Aphophis-Rain_Song_(Bonus_Track)-sWhN.mp3",
+      "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20of%20Evil%20Bonus%20Trax/04-Aphophis-Rain_Song-sWhN.mp3",
+      "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20Of%20Evil%20Bonus%20Trax/04-Aphophis-Rain_Song_(Bonus_Track)-sWhN.mp3",
+      "https://audio.desecrate.se/Aphophis/2008%20-%20Principle%20Of%20Evil%20Bonus%20Trax/04-Aphophis-Rain_Song-sWhN.mp3"
+    ]
   },
   {
     "id": "aphophis-hieroglyphs-2012-01-suffer-in-silence",
@@ -3039,13 +3540,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Aphophis/2012%20-%20Hieroglyphs/01-Aphophis-Suffer_in_Silence-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-aphophis-hieroglyphs-2012",
     "sourceFile": "assets/nfo/aphophis-hieroglyphs-2012.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2012%20-%20Hieroglyphs/01-Aphophis-Suffer_in_Silence-sWhN.mp3"
+    ]
   },
   {
     "id": "aphophis-hieroglyphs-2012-02-images-in-a-convent",
@@ -3060,13 +3564,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Aphophis/2012%20-%20Hieroglyphs/02-Aphophis-Images_in_A_Convent-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-aphophis-hieroglyphs-2012",
     "sourceFile": "assets/nfo/aphophis-hieroglyphs-2012.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2012%20-%20Hieroglyphs/02-Aphophis-Images_in_A_Convent-sWhN.mp3"
+    ]
   },
   {
     "id": "aphophis-hieroglyphs-2012-03-unchrist",
@@ -3081,13 +3588,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Aphophis/2012%20-%20Hieroglyphs/03-Aphophis-Unchrist-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-aphophis-hieroglyphs-2012",
     "sourceFile": "assets/nfo/aphophis-hieroglyphs-2012.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2012%20-%20Hieroglyphs/03-Aphophis-Unchrist-sWhN.mp3"
+    ]
   },
   {
     "id": "aphophis-hieroglyphs-2012-04-deconstruction",
@@ -3102,13 +3612,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Aphophis/2012%20-%20Hieroglyphs/04-Aphophis-Deconstruction-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-aphophis-hieroglyphs-2012",
     "sourceFile": "assets/nfo/aphophis-hieroglyphs-2012.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2012%20-%20Hieroglyphs/04-Aphophis-Deconstruction-sWhN.mp3"
+    ]
   },
   {
     "id": "aphophis-hieroglyphs-2012-05-song-to-bernadette",
@@ -3123,13 +3636,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Aphophis/2012%20-%20Hieroglyphs/05-Aphophis-Song_to_Bernadette-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-aphophis-hieroglyphs-2012",
     "sourceFile": "assets/nfo/aphophis-hieroglyphs-2012.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2012%20-%20Hieroglyphs/05-Aphophis-Song_to_Bernadette-sWhN.mp3"
+    ]
   },
   {
     "id": "aphophis-hieroglyphs-2012-06-mastemah",
@@ -3144,13 +3660,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Aphophis/2012%20-%20Hieroglyphs/06-Aphophis-Mastemah-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-aphophis-hieroglyphs-2012",
     "sourceFile": "assets/nfo/aphophis-hieroglyphs-2012.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2012%20-%20Hieroglyphs/06-Aphophis-Mastemah-sWhN.mp3"
+    ]
   },
   {
     "id": "aphophis-hieroglyphs-2012-07-tranquillet-shattered",
@@ -3165,13 +3684,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Aphophis/2012%20-%20Hieroglyphs/07-Aphophis-Tranquillet_Shattered-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-aphophis-hieroglyphs-2012",
     "sourceFile": "assets/nfo/aphophis-hieroglyphs-2012.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2012%20-%20Hieroglyphs/07-Aphophis-Tranquillet_Shattered-sWhN.mp3"
+    ]
   },
   {
     "id": "aphophis-hieroglyphs-2012-08-diemensions",
@@ -3186,13 +3708,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Aphophis/2012%20-%20Hieroglyphs/08-Aphophis-Diemensions-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-aphophis-hieroglyphs-2012",
     "sourceFile": "assets/nfo/aphophis-hieroglyphs-2012.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2012%20-%20Hieroglyphs/08-Aphophis-Diemensions-sWhN.mp3"
+    ]
   },
   {
     "id": "aphophis-hieroglyphs-2012-09-admire-hell",
@@ -3207,13 +3732,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Aphophis/2012%20-%20Hieroglyphs/09-Aphophis-Admire_Hell-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-aphophis-hieroglyphs-2012",
     "sourceFile": "assets/nfo/aphophis-hieroglyphs-2012.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2012%20-%20Hieroglyphs/09-Aphophis-Admire_Hell-sWhN.mp3"
+    ]
   },
   {
     "id": "aphophis-hieroglyphs-2012-10-pain",
@@ -3228,13 +3756,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Aphophis/2012%20-%20Hieroglyphs/10-Aphophis-Pain-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-aphophis-hieroglyphs-2012",
     "sourceFile": "assets/nfo/aphophis-hieroglyphs-2012.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2012%20-%20Hieroglyphs/10-Aphophis-Pain-sWhN.mp3"
+    ]
   },
   {
     "id": "aphophis-hieroglyphs-2012-11-under-a-dark-moon",
@@ -3249,13 +3780,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Aphophis/2012%20-%20Hieroglyphs/11-Aphophis-Under_A_Dark_Moon-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-aphophis-hieroglyphs-2012",
     "sourceFile": "assets/nfo/aphophis-hieroglyphs-2012.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2012%20-%20Hieroglyphs/11-Aphophis-Under_A_Dark_Moon-sWhN.mp3"
+    ]
   },
   {
     "id": "aphophis-hieroglyphs-2012-12-weaving-egyptian-linen",
@@ -3270,13 +3804,16 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Aphophis/2012%20-%20Hieroglyphs/12-Aphophis-Weaving_Egyptian_Linen-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-aphophis-hieroglyphs-2012",
     "sourceFile": "assets/nfo/aphophis-hieroglyphs-2012.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2012%20-%20Hieroglyphs/12-Aphophis-Weaving_Egyptian_Linen-sWhN.mp3"
+    ]
   },
   {
     "id": "aphophis-symphony-for-the-devil-2012-01-dies-irae",
@@ -3291,13 +3828,17 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony%20for%20the%20Devil/01-Aphophis-Dies_Irae-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-aphophis-symphony-for-the-devil-2012",
     "sourceFile": "assets/nfo/aphophis-symphony-for-the-devil-2012.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony%20for%20the%20Devil/01-Aphophis-Dies_Irae-sWhN.mp3",
+      "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony%20For%20The%20Devil/01-Aphophis-Dies_Irae-sWhN.mp3"
+    ]
   },
   {
     "id": "aphophis-symphony-for-the-devil-2012-02-world-encircler",
@@ -3312,13 +3853,17 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony%20for%20the%20Devil/02-Aphophis-World_Encircler-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-aphophis-symphony-for-the-devil-2012",
     "sourceFile": "assets/nfo/aphophis-symphony-for-the-devil-2012.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony%20for%20the%20Devil/02-Aphophis-World_Encircler-sWhN.mp3",
+      "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony%20For%20The%20Devil/02-Aphophis-World_Encircler-sWhN.mp3"
+    ]
   },
   {
     "id": "aphophis-symphony-for-the-devil-2012-03-mdcxxiii",
@@ -3333,13 +3878,17 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony%20for%20the%20Devil/03-Aphophis-Mdcxxiii-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-aphophis-symphony-for-the-devil-2012",
     "sourceFile": "assets/nfo/aphophis-symphony-for-the-devil-2012.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony%20for%20the%20Devil/03-Aphophis-Mdcxxiii-sWhN.mp3",
+      "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony%20For%20The%20Devil/03-Aphophis-Mdcxxiii-sWhN.mp3"
+    ]
   },
   {
     "id": "aphophis-symphony-for-the-devil-2012-04-he-who-was-spat-out",
@@ -3354,13 +3903,17 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony%20for%20the%20Devil/04-Aphophis-He_Who_Was_Spat_Out-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-aphophis-symphony-for-the-devil-2012",
     "sourceFile": "assets/nfo/aphophis-symphony-for-the-devil-2012.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony%20for%20the%20Devil/04-Aphophis-He_Who_Was_Spat_Out-sWhN.mp3",
+      "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony%20For%20The%20Devil/04-Aphophis-He_Who_Was_Spat_Out-sWhN.mp3"
+    ]
   },
   {
     "id": "aphophis-symphony-for-the-devil-2012-05-dies-illa",
@@ -3375,13 +3928,17 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony%20for%20the%20Devil/05-Aphophis-Dies_Illa-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-aphophis-symphony-for-the-devil-2012",
     "sourceFile": "assets/nfo/aphophis-symphony-for-the-devil-2012.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony%20for%20the%20Devil/05-Aphophis-Dies_Illa-sWhN.mp3",
+      "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony%20For%20The%20Devil/05-Aphophis-Dies_Illa-sWhN.mp3"
+    ]
   },
   {
     "id": "aphophis-symphony-for-the-devil-2012-06-natural-landscape",
@@ -3396,13 +3953,17 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony%20for%20the%20Devil/06-Aphophis-Natural_Landscape-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-aphophis-symphony-for-the-devil-2012",
     "sourceFile": "assets/nfo/aphophis-symphony-for-the-devil-2012.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony%20for%20the%20Devil/06-Aphophis-Natural_Landscape-sWhN.mp3",
+      "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony%20For%20The%20Devil/06-Aphophis-Natural_Landscape-sWhN.mp3"
+    ]
   },
   {
     "id": "aphophis-symphony-for-the-devil-2012-07-zako-take-one",
@@ -3417,13 +3978,17 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony%20for%20the%20Devil/07-Aphophis-Zako_Take_One-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-aphophis-symphony-for-the-devil-2012",
     "sourceFile": "assets/nfo/aphophis-symphony-for-the-devil-2012.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony%20for%20the%20Devil/07-Aphophis-Zako_Take_One-sWhN.mp3",
+      "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony%20For%20The%20Devil/07-Aphophis-Zako_Take_One-sWhN.mp3"
+    ]
   },
   {
     "id": "aphophis-symphony-for-the-devil-2012-08-hypostyle-hall",
@@ -3438,13 +4003,17 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony%20for%20the%20Devil/08-Aphophis-Hypostyle_Hall-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-aphophis-symphony-for-the-devil-2012",
     "sourceFile": "assets/nfo/aphophis-symphony-for-the-devil-2012.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony%20for%20the%20Devil/08-Aphophis-Hypostyle_Hall-sWhN.mp3",
+      "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony%20For%20The%20Devil/08-Aphophis-Hypostyle_Hall-sWhN.mp3"
+    ]
   },
   {
     "id": "aphophis-symphony-for-the-devil-2012-09-dona-eis-requim",
@@ -3459,13 +4028,17 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony%20for%20the%20Devil/09-Aphophis-Dona_Eis_Requim-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-aphophis-symphony-for-the-devil-2012",
     "sourceFile": "assets/nfo/aphophis-symphony-for-the-devil-2012.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony%20for%20the%20Devil/09-Aphophis-Dona_Eis_Requim-sWhN.mp3",
+      "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony%20For%20The%20Devil/09-Aphophis-Dona_Eis_Requim-sWhN.mp3"
+    ]
   },
   {
     "id": "aphophis-symphony-for-the-devil-2012-10-endpaper",
@@ -3480,13 +4053,17 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Archive recording",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony%20for%20the%20Devil/10-Aphophis-Endpaper-sWhN.mp3",
     "video": "",
     "lyrics": "",
     "notes": "",
     "sourceCard": "nfo-aphophis-symphony-for-the-devil-2012",
     "sourceFile": "assets/nfo/aphophis-symphony-for-the-devil-2012.nfo",
-    "source": "NFO"
+    "source": "NFO",
+    "audioCandidates": [
+      "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony%20for%20the%20Devil/10-Aphophis-Endpaper-sWhN.mp3",
+      "https://audio.desecrate.se/Aphophis/2012%20-%20Symphony%20For%20The%20Devil/10-Aphophis-Endpaper-sWhN.mp3"
+    ]
   }
 ];
 window.JOHN_SWAHN_PROJECT_ART = {

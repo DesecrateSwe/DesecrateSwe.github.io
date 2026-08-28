@@ -5,6 +5,8 @@
   if(!list)return;
   const norm=v=>String(v||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().trim();
   const esc=v=>String(v??'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#039;');
+  const audioUrl=src=>/^https?:\/\//i.test(String(src||''))?String(src):`../${src}`;
+  const audioSources=t=>(t.audioCandidates?.length?t.audioCandidates:[t.audio]).filter(Boolean).map(audioUrl);
   [...new Set(tracks.map(t=>t.project).filter(Boolean))].sort().forEach(p=>{const o=document.createElement('option');o.value=p;o.textContent=p;project.appendChild(o);});
   let limit=60;
   const decade=y=>{const n=parseInt(y,10);return Number.isFinite(n)?`${Math.floor(n/10)*10}s`:'';};
@@ -16,7 +18,7 @@
     list.innerHTML=v.map(t=>{
       const image=art[t.project]?`<img src="../${esc(art[t.project])}" alt="" loading="lazy">`:esc((t.project||'JS').slice(0,2).toUpperCase());
       const artNode=t.audio
-        ? `<button class="song-project-art track-play" type="button" aria-label="Play ${esc(t.title)}" aria-pressed="false" data-audio-src="../${esc(t.audio)}" data-audio-title="${esc(t.title)}" data-audio-project="${esc(t.artist||t.project)}" data-audio-release="${esc(t.release)}">${image}<span class="track-play-icon" aria-hidden="true">▶</span></button>`
+        ? `<button class="song-project-art track-play" type="button" aria-label="Play ${esc(t.title)}" aria-pressed="false" data-audio-src="${esc(audioUrl(t.audio))}" data-audio-sources="${esc(JSON.stringify(audioSources(t)))}" data-audio-title="${esc(t.title)}" data-audio-project="${esc(t.artist||t.project)}" data-audio-release="${esc(t.release)}">${image}<span class="track-play-icon" aria-hidden="true">▶</span></button>`
         : `<span class="song-project-art">${image}</span>`;
       const audioTag=t.audio?' · Audio':'';
       return `<div class="song-row" id="song-${esc(t.id)}" role="row"><div class="song-title-cell" role="cell">${artNode}<span class="song-title-text"><strong>${esc(t.title)}</strong><span>${esc([t.genre,t.releaseType,`Track ${t.trackNumber}`].filter(Boolean).join(' · '))}${audioTag}</span></span></div><span class="song-project-cell">${esc(t.artist||t.project)}</span><span class="song-release-cell">${esc(t.release)}</span><span class="song-year-cell">${esc(t.year)}</span><span class="song-time-cell">${esc(t.duration)}</span></div>`;
