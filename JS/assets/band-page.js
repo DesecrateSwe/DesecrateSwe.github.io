@@ -45,13 +45,20 @@
 
   const rs=(m.releases||[]).filter(r=>r.project===b.name);
   document.getElementById('bandDiscography').innerHTML=rs.map(r=>
-    `<a class="release-card" href="../${r.url}">${
+    `<a class="release-card" href="../${r.url}"><div class="release-card-media">${
       r.cover?`<img src="../${r.cover}" alt="${esc(r.title)}" loading="lazy">`
       :'<div class="release-blank">JS</div>'
-    }<div><span>${esc(r.year)} · ${esc(r.type)}</span><h3>${esc(r.title)}</h3><p>${
+    }</div><div class="release-card-meta"><span>${esc(r.year)} · ${esc(r.type)}</span><h3>${esc(r.title)}</h3><p>${
       r.trackCount?`${r.trackCount} spår`:'Visa skivan'
     }</p></div></a>`
   ).join('');
+
+  const appearanceSection=document.getElementById('bandAppearancesSection');
+  const appearances=document.getElementById('bandAppearances');
+  if(appearanceSection&&appearances&&b.appearances?.length){
+    appearanceSection.hidden=false;
+    appearances.innerHTML=b.appearances.map(a=>`<article class="credit-block"><span class="section-label">${esc(a.year||'Medverkan')}</span><h3>${esc(a.title||'')}</h3>${a.track?`<p><strong>${esc(a.track)}</strong></p>`:''}${a.role?`<p>${esc(a.role)}</p>`:''}${(a.details||[]).map(x=>`<p class="muted">${esc(x)}</p>`).join('')}</article>`).join('');
+  }
 
   const mediaSection=document.getElementById('bandMediaSection');
   const gallery=document.getElementById('bandGallery');

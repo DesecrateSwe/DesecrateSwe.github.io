@@ -9028,78 +9028,6 @@ window.JOHN_SWAHN_TRACKS = [
     "audioCandidates": [
       "https://audio.desecrate.se/Aphophis/2026%20-%20Chronophobia/2026%20-%20Aph%C3%B4phis%20-%20Chronophobia/10%20-%20Screaming%20In%20Ultraviolet.mp3"
     ]
-  },
-  {
-    "id": "aztrozmurfen-superhero-01-superhero-it-s-in-the-game-version",
-    "title": "Superhero",
-    "artist": "Aztrozmurfen",
-    "project": "Aztrozmurfen",
-    "release": "Superhero",
-    "year": "",
-    "genre": "",
-    "duration": "",
-    "trackNumber": "01",
-    "releaseType": "Recording",
-    "version": "It's in the game Version",
-    "credits": [],
-    "audio": "https://audio.desecrate.se/Aztrozmurfen%20-%20Superhero/Aztrozmurfen%20-%20Superhero%20%28It%27s%20in%20the%20game%20Version%29.mp3",
-    "video": "",
-    "lyrics": "",
-    "notes": "",
-    "sourceCard": "",
-    "sourceFile": "",
-    "source": "R2 audio archive",
-    "audioCandidates": [
-      "https://audio.desecrate.se/Aztrozmurfen%20-%20Superhero/Aztrozmurfen%20-%20Superhero%20%28It%27s%20in%20the%20game%20Version%29.mp3"
-    ]
-  },
-  {
-    "id": "aztrozmurfen-superhero-02-superhero-hockey-version",
-    "title": "Superhero",
-    "artist": "Aztrozmurfen",
-    "project": "Aztrozmurfen",
-    "release": "Superhero",
-    "year": "",
-    "genre": "",
-    "duration": "",
-    "trackNumber": "02",
-    "releaseType": "Recording",
-    "version": "Hockey Version",
-    "credits": [],
-    "audio": "https://audio.desecrate.se/Aztrozmurfen%20-%20Superhero/Aztrozmurfen%20-%20Superhero%28Hockey%20Version%29.mp3",
-    "video": "",
-    "lyrics": "",
-    "notes": "",
-    "sourceCard": "",
-    "sourceFile": "",
-    "source": "R2 audio archive",
-    "audioCandidates": [
-      "https://audio.desecrate.se/Aztrozmurfen%20-%20Superhero/Aztrozmurfen%20-%20Superhero%28Hockey%20Version%29.mp3"
-    ]
-  },
-  {
-    "id": "aztrozmurfen-superhero-03-superhero-original-version",
-    "title": "Superhero",
-    "artist": "Aztrozmurfen",
-    "project": "Aztrozmurfen",
-    "release": "Superhero",
-    "year": "",
-    "genre": "",
-    "duration": "",
-    "trackNumber": "03",
-    "releaseType": "Recording",
-    "version": "Original version",
-    "credits": [],
-    "audio": "https://audio.desecrate.se/Aztrozmurfen%20-%20Superhero/Aztrozmurfen%20-%20Superhero.mp3",
-    "video": "",
-    "lyrics": "",
-    "notes": "",
-    "sourceCard": "",
-    "sourceFile": "",
-    "source": "R2 audio archive",
-    "audioCandidates": [
-      "https://audio.desecrate.se/Aztrozmurfen%20-%20Superhero/Aztrozmurfen%20-%20Superhero.mp3"
-    ]
   }
 ];
 window.JOHN_SWAHN_PROJECT_ART = {
@@ -9110,6 +9038,5 @@ window.JOHN_SWAHN_PROJECT_ART = {
   "Almost Human": "assets/almost-human/2000-green-all-over.gif",
   "The Unkinds": "assets/the-unkinds/2003-almost-human-front.jpg",
   "Treebeard": "assets/treebeard/2003-the-eldest-cover.jpg",
-  "Aphophis": "assets/aphophis/2026-chronophobia-front.jpg",
-  "Aztrozmurfen": ""
+  "Aphophis": "assets/aphophis/2026-chronophobia-front.jpg"
 };

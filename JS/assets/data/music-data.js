@@ -43,11 +43,11 @@ window.JOHN_SWAHN_MUSIC = {
     {
       "name": "Desecrate",
       "slug": "desecrate",
-      "years": "1988–1990 · 2026",
+      "years": "1988–1990 · återkomst 2026",
       "genre": "Thrash metal",
       "location": "Uppsala",
       "role": "Sång",
-      "summary": "Desecrate bildades i Uppsala 1988 och spelade thrash metal med John Swahn på sång. Den första perioden gav tre demos och liveinspelningar innan bandet lades på is. 2026 återkom Desecrate med fullängdsalbumet Second Death, byggt kring material med rötter i de tidiga åren.",
+      "summary": "Desecrate bildades i Uppsala 1988 ur samma sena 80-talsscen där John Swahn, Rickard Ceder och Jakob “Kobben” Bergström redan spelat tillsammans. Bandet hann göra tre demos, spela runt Uppsala och utveckla en rå thrash metal som blev mer teknisk under 1989. Efter splittringen 1990 återvände materialet 2026 på debutalbumet Second Death.",
       "members": [
         [
           "John S. Swahn",
@@ -55,23 +55,27 @@ window.JOHN_SWAHN_MUSIC = {
         ],
         [
           "Rickard B. Ceder",
-          "gitarr"
+          "grundare · gitarr · bas på första demon"
         ],
         [
-          "Jakob Bergström",
+          "Jakob “Kobben” Bergström",
           "trummor"
         ],
         [
-          "Dave Janney",
-          "gitarr / bas på Arranger of Disorder"
-        ],
-        [
-          "Jens Åberg",
-          "bas"
+          "Mårten Korkman",
+          "bas · tidig livesättning"
         ],
         [
           "Måns Magnusson",
-          "tidigare gitarr"
+          "gitarr · leadgitarr på Arranger of Disorder"
+        ],
+        [
+          "Dave Janney",
+          "bas på Arranger of Disorder · gitarr på Lonely Disgrace"
+        ],
+        [
+          "Jens “Jenka” Åberg",
+          "bas på Lonely Disgrace"
         ]
       ],
       "links": [
@@ -90,7 +94,33 @@ window.JOHN_SWAHN_MUSIC = {
       ],
       "artwork": "assets/desecrate/1988-band-photo-collage.png",
       "releaseCount": 5,
-      "trackCount": 18
+      "trackCount": 31,
+      "history": [
+        "Desecrate tog form 1988 när Rickard Ceder ville göra hårdare musik och började arbeta med Jakob “Kobben” Bergström. De första låtarna sattes ihop på en Portastudio på Nyby Fritidsgård. När de behövde en sångare frågade de John Swahn, som redan hade spelat med Ceder och Bergström i Twilight och med Bergström i Equinox.",
+        "Den första sättningen var en trio med Rickard Ceder på gitarr och bas, Jakob Bergström på trummor och John Swahn på sång. Inför konserter utökades bandet med Måns Magnusson på gitarr och Mårten Korkman på bas. Den första Desecrate-spelningen ägde rum på Storvreta Fritidsgård den 25 november 1988.",
+        "Efter den första demon påbörjades en ny studioupptagning med Second Death och Possessor of Life. Inspelningen raderades av misstag under slutmixen, men låtarna överlevde genom liveupptagningar. Under samma period spelade Desecrate bland annat som support till Strebers på Ungdomens Hus i Uppsala.",
+        "När Mårten Korkman lämnade kom Dave Janney från R.I.P. in på bas. Arranger of Disorder spelades in på Musikhuset i Enköping den 27–28 maj 1989. Vid den tiden hade bandet enligt en samtida intervju spelat omkring tio konserter i Uppsalatrakten och sålt ungefär 70 exemplar av demon. Det nya materialet beskrevs som mer tekniskt med vissa crossover-inslag.",
+        "Till Lonely Disgrace flyttade Dave Janney över till gitarr och Jens “Jenka” Åberg tog över basen. Demon spelades in på Musikhuset i Enköping den 3 och 6 december 1989. Därefter följde bland annat spelningar med Fallen Angel från Örebro. Skillnader i ambitionsnivå och musikalisk riktning ledde till att bandet splittrades 1990; den sista spelningen under den första perioden gjordes på gamla brandstationen i Knivsta.",
+        "2024 spelade John in en ny version av Disorder med Aphophis till Exit Space Left. Det blev startpunkten för att återvända till Desecrates äldre låtar. Det ursprungliga materialet bearbetades och restaurerades, och 2026 gavs de nya versionerna ut som Desecrates första fullängdsalbum Second Death."
+      ],
+      "gallery": [
+        {
+          "src": "assets/desecrate/1988-band-photo-collage.png",
+          "caption": "Desecrate · sena 1980-talet"
+        },
+        {
+          "src": "assets/desecrate/storvreta-show-flyer.png",
+          "caption": "Storvreta Fritidsgård · 25 november 1988"
+        },
+        {
+          "src": "assets/desecrate/press-fanzine-interview.png",
+          "caption": "Desecrate · intervju från den tidiga perioden"
+        },
+        {
+          "src": "assets/desecrate/1988-we-only-make-jokes-review.png",
+          "caption": "Desecrate · samtida recension"
+        }
+      ]
     },
     {
       "name": "Xtortex",
@@ -250,19 +280,19 @@ window.JOHN_SWAHN_MUSIC = {
     {
       "name": "The Unkinds",
       "slug": "the-unkinds",
-      "years": "2003",
-      "genre": "Punk rock",
-      "location": "Uppsala",
-      "role": "Sång",
-      "summary": "The Unkinds spelade punkrock i Uppsala. 2003 kom studioutgåvan Almost Human och samma år spelades bandet in live på Fellini i Uppsala.",
+      "years": "Bildat 1995 · John 2003–2005",
+      "genre": "Punk rock / rock",
+      "location": "Uppsala, Sweden",
+      "role": "Sång · körsång",
+      "summary": "The Unkinds är ett punkrockband från Uppsala, bildat 1995. John Swahn medverkade som sångare på promo-CD:n Almost Human 2003 och sjöng senare kör på “Timber”, som gavs ut på samlingen Punkjävlar... En Hyllning Till Eddie Meduza 2005.",
       "members": [
         [
           "John Swahn",
-          "sång"
+          "lead vocals"
         ],
         [
-          "Henrik Sundin",
-          "gitarr"
+          "Henri d'Ranged",
+          "gitarr · lead vocals på Skit Ner Dig"
         ],
         [
           "Anders Björk",
@@ -285,7 +315,25 @@ window.JOHN_SWAHN_MUSIC = {
       ],
       "artwork": "assets/the-unkinds/2003-almost-human-front.jpg",
       "releaseCount": 2,
-      "trackCount": 15
+      "trackCount": 15,
+      "history": [
+        "The Unkinds bildades i Uppsala 1995 och spelade punkrock. Innan John Swahn medverkade hade bandet bland annat gett ut albumen Violence Is A Girl's Best Friend 1998 och Malizia Erotica 2000.",
+        "2003 gav The Unkinds ut promo-CD:n Almost Human. John Swahn sjunger lead vocals på skivan. Henri d'Ranged och Anders Björk spelar gitarr, Johan Asp bas och Andreas Engman trummor. På Skit Ner Dig sjunger Henri d'Ranged lead vocals.",
+        "2005 medverkade The Unkinds på samlingen Punkjävlar... En Hyllning Till Eddie Meduza med låten Timber. John Swahn sjunger kör på inspelningen."
+      ],
+      "appearances": [
+        {
+          "year": "2005",
+          "title": "Punkjävlar... En Hyllning Till Eddie Meduza",
+          "track": "Timber",
+          "role": "John Swahn — körsång",
+          "details": [
+            "The Unkinds — Timber · 2:46",
+            "CD · album · compilation · Sweden · 20 april 2005",
+            "Ägg Tapes & Records / Grammofonbolaget"
+          ]
+        }
+      ]
     },
     {
       "name": "Treebeard",
@@ -468,15 +516,22 @@ window.JOHN_SWAHN_MUSIC = {
       "cover": "assets/desecrate/1988-we-only-make-jokes-cover.png",
       "url": "releases/1988-desecrate-we-only-make-jokes-we-made-you.html",
       "trackCount": 5,
-      "description": "Desecrates första demo från 1988 består av fem låtar och fångar bandets tidiga, råa Uppsala-thrash med John Swahn på sång.",
+      "description": "Desecrates första demo spelades in 1988 på en Portastudio på Nyby Fritidsgård. Den femspåriga kassetten gjordes av den ursprungliga trion: John Swahn på sång, Rickard Ceder på gitarr och bas samt Jakob “Kobben” Bergström på trummor.",
       "credits": [
-        "John S. Swahn — sång"
+        "John S. Swahn — sång",
+        "Rickard B. Ceder — gitarr, bas",
+        "Jakob “Kobben” Bergström — trummor",
+        "Desecrate — produktion"
       ],
-      "details": [],
+      "details": [
+        "Inspelad på Portastudio på Nyby Fritidsgård 1988.",
+        "Den egenproducerade demon blev startpunkten för Desecrate."
+      ],
       "manualTracks": [],
       "gallery": [
         "assets/desecrate/1988-we-only-make-jokes-cover.png",
-        "assets/desecrate/1988-we-only-make-jokes-cassette.png"
+        "assets/desecrate/1988-we-only-make-jokes-cassette.png",
+        "assets/desecrate/1988-we-only-make-jokes-review.png"
       ]
     },
     {
@@ -524,20 +579,22 @@ window.JOHN_SWAHN_MUSIC = {
       "cover": "assets/desecrate/1989-arranger-of-disorder-inlay.png",
       "url": "releases/1989-desecrate-arranger-of-disorder.html",
       "trackCount": 3,
-      "description": "Arranger of Disorder spelades in på Musikhuset i Enköping den 27–28 maj 1989. Demon innehåller tre låtar med John Swahn på sång, Rickard Ceder och Måns Magnusson på gitarr, Dave Janney på bas och Jakob Bergström på trummor.",
+      "description": "Arranger of Disorder spelades in på Musikhuset i Enköping den 27–28 maj 1989. Dave Janney hade ersatt Mårten Korkman på bas och Måns Magnusson medverkade på leadgitarr. Demon innehåller Disorder, Lightened Souls och Minds of Justicia.",
       "credits": [
         "John S. Swahn — sång",
         "Rickard B. Ceder — gitarr",
-        "Måns Magnusson — gitarr",
+        "Måns Magnusson — leadgitarr",
         "Dave Janney — bas",
-        "Jakob Bergström — trummor",
+        "Jakob “Kobben” Bergström — trummor",
         "Kari — produktion",
         "Kari & Desecrate — mix"
       ],
       "details": [
+        "Inspelad på Musikhuset i Enköping 27–28 maj 1989.",
         "Disorder: musik Rickard Ceder, text John Swahn.",
         "Lightened Souls: musik Ceder/Swahn, text John Swahn.",
-        "Minds of Justicia: musik Rickard Ceder, text John Swahn."
+        "Minds of Justicia: musik Rickard Ceder, text John Swahn.",
+        "Vid tiden för demon hade Desecrate spelat omkring tio konserter i Uppsalatrakten och sålt ungefär 70 exemplar enligt en samtida intervju."
       ],
       "manualTracks": [],
       "gallery": [
@@ -558,14 +615,23 @@ window.JOHN_SWAHN_MUSIC = {
       "cover": "assets/desecrate/1988-band-photo-collage.png",
       "url": "releases/1989-desecrate-live.html",
       "trackCount": 5,
-      "description": "Liveinspelning från 1989 med fem spår. Flera av låtarna hör ihop med materialet kring den ofullbordade Second Death-inspelningen.",
+      "description": "Fem bevarade liveinspelningar från Desecrates första period. Second Death, Angels Fuck och Scooby Dooaaauöö II spelades in vid bandets första konsert på Storvreta Fritidsgård den 25 november 1988. Possessor of Life och Scooby Dooaaauöö III kommer från Nybygården.",
       "credits": [
-        "John S. Swahn — sång"
+        "John S. Swahn — sång",
+        "Rickard B. Ceder — gitarr",
+        "Jakob “Kobben” Bergström — trummor",
+        "Måns Magnusson — gitarr",
+        "Mårten Korkman — bas i den tidiga livesättningen"
       ],
-      "details": [],
+      "details": [
+        "Second Death, Angels Fuck och Scooby Dooaaauöö II: Storvreta Fritidsgård, 25 november 1988.",
+        "Possessor of Life och Scooby Dooaaauöö III: Nybygården, datum okänt.",
+        "Studioupptagningen av Second Death och Possessor of Life raderades av misstag under slutmixen; låtarna finns därför bevarade från den perioden genom liveinspelningarna."
+      ],
       "manualTracks": [],
       "gallery": [
-        "assets/desecrate/1988-band-photo-collage.png"
+        "assets/desecrate/1988-band-photo-collage.png",
+        "assets/desecrate/storvreta-show-flyer.png"
       ]
     },
     {
@@ -581,17 +647,17 @@ window.JOHN_SWAHN_MUSIC = {
       "cover": "assets/desecrate/1989-lonely-disgrace-cover.png",
       "url": "releases/1989-desecrate-lonely-disgrace.html",
       "trackCount": 5,
-      "description": "Lonely Disgrace spelades in i Enköping i december 1989. De fem spåren framförs av John Swahn på sång, Rickard Ceder och Dave Janney på gitarr, Jens Åberg på bas och Jakob Bergström på trummor.",
+      "description": "Lonely Disgrace spelades in på Musikhuset i Enköping den 3 och 6 december 1989. Dave Janney hade då gått över från bas till gitarr och Jens “Jenka” Åberg kom in på bas. Det blev den tredje och sista studiodemon från Desecrates ursprungliga period.",
       "credits": [
         "John S. Swahn — sång",
         "Rickard B. Ceder — gitarr",
         "Dave Janney — gitarr",
-        "Jens Åberg — bas",
-        "Jakob Bergström — trummor"
+        "Jens “Jenka” Åberg — bas",
+        "Jakob “Kobben” Bergström — trummor",
+        "Desecrate & Karl — produktion / mix"
       ],
       "details": [
-        "Inspelad i Enköping 3 och 6 december 1989.",
-        "Producerad och mixad av Desecrate och Karl."
+        "Inspelad på Musikhuset i Enköping den 3 och 6 december 1989."
       ],
       "manualTracks": [],
       "gallery": [
@@ -871,16 +937,17 @@ window.JOHN_SWAHN_MUSIC = {
       "cover": "assets/the-unkinds/2003-almost-human-front.jpg",
       "url": "releases/2003-the-unkinds-almost-human.html",
       "trackCount": 6,
-      "description": "Almost Human är en sexspårig studioutgåva från 2003, inspelad och mixad på Ear Studio av Carl Wikman.",
+      "description": "Almost Human är The Unkinds sexspåriga promo-CD från 2003. John Swahn sjunger lead vocals på inspelningen.",
       "credits": [
-        "John Swahn — sång",
-        "Henrik Sundin — gitarr",
+        "John Swahn — lead vocals",
+        "Henri d'Ranged — gitarr; lead vocals på Skit Ner Dig",
         "Anders Björk — gitarr",
         "Johan Asp — bas",
         "Andreas Engman — trummor",
         "Carl Wikman — inspelning och mix"
       ],
       "details": [
+        "CD · Promo · Sweden · 2003 · Not On Label.",
         "All musik av Henrik Sundin, förutom Unemployed Hero av John Swahn och Up Your Nose av The Unkinds."
       ],
       "manualTracks": [],
@@ -1134,7 +1201,7 @@ window.JOHN_SWAHN_MUSIC = {
       "id": "2008-treebeard-admiration",
       "slug": "admiration",
       "bandSlug": "treebeard",
-      "cover": "assets/treebeard/2008-admiration-front.gif",
+      "cover": "assets/treebeard/2008-admiration-front.jpg",
       "url": "releases/2008-treebeard-admiration.html",
       "trackCount": 16,
       "description": "Admiration är Treebeards sextonspåriga album från 2008. John Swahn står för sång, gitarr, keyboards och programmering.",
@@ -1151,7 +1218,7 @@ window.JOHN_SWAHN_MUSIC = {
       ],
       "manualTracks": [],
       "gallery": [
-        "assets/treebeard/2008-admiration-front.gif",
+        "assets/treebeard/2008-admiration-front.jpg",
         "assets/treebeard/2008-admiration-back.gif",
         "assets/treebeard/2008-admiration-inside.gif"
       ],
@@ -1426,7 +1493,7 @@ window.JOHN_SWAHN_MUSIC = {
       "id": "2024-treebeard-vii",
       "slug": "vii",
       "bandSlug": "treebeard",
-      "cover": "assets/treebeard/additional-cover-creature.jpg",
+      "cover": "assets/treebeard/2024-vii-front.jpg",
       "url": "releases/2024-treebeard-vii.html",
       "trackCount": 15,
       "description": "VII är ett femtonspårigt Treebeard-album från 2024.",
@@ -1434,7 +1501,7 @@ window.JOHN_SWAHN_MUSIC = {
       "details": [],
       "manualTracks": [],
       "gallery": [
-        "assets/treebeard/additional-cover-creature.jpg"
+        "assets/treebeard/2024-vii-front.jpg"
       ]
     },
     {
@@ -1523,36 +1590,32 @@ window.JOHN_SWAHN_MUSIC = {
       "bandSlug": "desecrate",
       "cover": "assets/desecrate/2026-second-death-cover.png",
       "url": "releases/2026-desecrate-second-death.html",
-      "trackCount": 0,
-      "description": "Second Death är Desecrates fullängdsalbum från 2026. Albumet bygger vidare på material med rötter i bandets första period och knyter an till den inspelning som påbörjades kring 1989 men vars master gick förlorad i slutmixen.",
+      "trackCount": 13,
+      "description": "Second Death är Desecrates debutalbum från 2026: tretton låtar från bandets första period inspelade på nytt mer än tre decennier senare. Albumet knyter samman demos, livefavoriter och material från den förlorade Second Death-sessionen.",
       "credits": [],
-      "details": [],
-      "manualTracks": [],
+      "details": [
+        "Idén tog fart efter att John Swahn gjort en ny version av Disorder med Aphophis till Exit Space Left 2024.",
+        "De äldre inspelningarna separerades i individuella instrument och restaurerades med AI-assisterad ljudbearbetning innan materialet fick en ny produktion.",
+        "Second Death är Desecrates första fullängdsalbum."
+      ],
+      "manualTracks": [
+        "Second Death",
+        "World Pollution",
+        "Disorder",
+        "Scooby Dooaaauöö",
+        "Undivided Attention",
+        "Injustice of Society",
+        "Lightened Souls",
+        "Possessor Of Life",
+        "Schedule",
+        "F**k Trump",
+        "Desecration",
+        "Minds Of Iustitia",
+        "Bang Your Head"
+      ],
       "gallery": [
         "assets/desecrate/2026-second-death-cover.png"
       ]
-    },
-    {
-      "year": "",
-      "title": "Superhero",
-      "project": "Aztrozmurfen",
-      "projectRaw": "Aztrozmurfen - Superhero",
-      "type": "Recording",
-      "era": "",
-      "source": "R2 audio archive",
-      "discogs": "",
-      "archiveId": "",
-      "id": "undated-aztrozmurfen-superhero",
-      "slug": "superhero",
-      "bandSlug": "aztrozmurfen",
-      "cover": "",
-      "url": "releases/undated-aztrozmurfen-superhero.html",
-      "trackCount": 3,
-      "description": "Superhero finns i tre versioner: originalversionen, Hockey Version och It’s in the Game Version.",
-      "credits": [],
-      "details": [],
-      "manualTracks": [],
-      "gallery": []
     }
   ],
   "otherRecordings": [
