@@ -1,10 +1,3 @@
-/* John Swahn searchable song catalogue.
-
-   This is the site's song data layer. Future tracks can be added here without
-   changing the page layout. Optional fields are already prepared for version,
-   credits, audio, video, lyrics and notes. `artist` currently uses the band /
-   project name and can later differ from `project` when needed.
-*/
 window.JOHN_SWAHN_TRACKS = [
   {
     "id": "equinox-kidkkus-1987-01-kill-as-one",
@@ -18,14 +11,19 @@ window.JOHN_SWAHN_TRACKS = [
     "trackNumber": "01",
     "releaseType": "Demo / cassette",
     "version": "",
-    "credits": [],
-    "audio": "",
+    "credits": [
+      "Written by John Swahn",
+      "Vocals, guitars & bass: John Swahn",
+      "Drums: Jakob Bergström",
+      "Produced and mixed by John Swahn"
+    ],
+    "audio": "assets/audio/equinox/kidkkus-1987/01-kill-as-one.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "",
+    "notes": "Original Kidkkus! audio supplied from the John Swahn archive.",
     "sourceCard": "nfo-equinox-kidkkus-1987",
     "sourceFile": "assets/nfo/equinox-kidkkus-1987.nfo",
-    "source": "NFO"
+    "source": "Audio + NFO + artwork"
   },
   {
     "id": "equinox-kidkkus-1987-02-running-wild",
@@ -39,14 +37,19 @@ window.JOHN_SWAHN_TRACKS = [
     "trackNumber": "02",
     "releaseType": "Demo / cassette",
     "version": "",
-    "credits": [],
-    "audio": "",
+    "credits": [
+      "Written by John Swahn",
+      "Vocals, guitars & bass: John Swahn",
+      "Drums: Jakob Bergström",
+      "Produced and mixed by John Swahn"
+    ],
+    "audio": "assets/audio/equinox/kidkkus-1987/02-running-wild.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "",
+    "notes": "Original Kidkkus! audio supplied from the John Swahn archive.",
     "sourceCard": "nfo-equinox-kidkkus-1987",
     "sourceFile": "assets/nfo/equinox-kidkkus-1987.nfo",
-    "source": "NFO"
+    "source": "Audio + NFO + artwork"
   },
   {
     "id": "equinox-kidkkus-1987-03-evil-boots",
@@ -60,14 +63,19 @@ window.JOHN_SWAHN_TRACKS = [
     "trackNumber": "03",
     "releaseType": "Demo / cassette",
     "version": "",
-    "credits": [],
-    "audio": "",
+    "credits": [
+      "Written by John Swahn",
+      "Vocals, guitars & bass: John Swahn",
+      "Drums: John Swahn",
+      "Produced and mixed by John Swahn"
+    ],
+    "audio": "assets/audio/equinox/kidkkus-1987/03-evil-and-boots.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "",
+    "notes": "Original Kidkkus! audio supplied from the John Swahn archive.",
     "sourceCard": "nfo-equinox-kidkkus-1987",
     "sourceFile": "assets/nfo/equinox-kidkkus-1987.nfo",
-    "source": "NFO"
+    "source": "Audio + NFO + artwork"
   },
   {
     "id": "equinox-kidkkus-1987-04-angels-fuck",
@@ -81,14 +89,19 @@ window.JOHN_SWAHN_TRACKS = [
     "trackNumber": "04",
     "releaseType": "Demo / cassette",
     "version": "",
-    "credits": [],
-    "audio": "",
+    "credits": [
+      "Written by John Swahn",
+      "Vocals, guitars & bass: John Swahn",
+      "Drums: John Swahn",
+      "Produced and mixed by John Swahn"
+    ],
+    "audio": "assets/audio/equinox/kidkkus-1987/04-angels-fuck.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "",
+    "notes": "Original Kidkkus! audio supplied from the John Swahn archive.",
     "sourceCard": "nfo-equinox-kidkkus-1987",
     "sourceFile": "assets/nfo/equinox-kidkkus-1987.nfo",
-    "source": "NFO"
+    "source": "Audio + NFO + artwork"
   },
   {
     "id": "equinox-kidkkus-1987-05-equinox-misfit",
@@ -102,14 +115,19 @@ window.JOHN_SWAHN_TRACKS = [
     "trackNumber": "05",
     "releaseType": "Demo / cassette",
     "version": "",
-    "credits": [],
-    "audio": "",
+    "credits": [
+      "Written by John Swahn",
+      "Vocals, guitars & bass: John Swahn",
+      "Drums: John Swahn",
+      "Produced and mixed by John Swahn"
+    ],
+    "audio": "assets/audio/equinox/kidkkus-1987/05-equinox-misfit.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "",
+    "notes": "Original Kidkkus! audio supplied from the John Swahn archive.",
     "sourceCard": "nfo-equinox-kidkkus-1987",
     "sourceFile": "assets/nfo/equinox-kidkkus-1987.nfo",
-    "source": "NFO"
+    "source": "Audio + NFO + artwork"
   },
   {
     "id": "equinox-kidkkus-1987-06-holy-evil",
@@ -123,14 +141,19 @@ window.JOHN_SWAHN_TRACKS = [
     "trackNumber": "06",
     "releaseType": "Demo / cassette",
     "version": "",
-    "credits": [],
-    "audio": "",
+    "credits": [
+      "Written by John Swahn",
+      "Vocals, guitars & bass: John Swahn",
+      "Drums: Jakob Bergström",
+      "Produced and mixed by John Swahn"
+    ],
+    "audio": "assets/audio/equinox/kidkkus-1987/06-holy-evil.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "",
+    "notes": "Original Kidkkus! audio supplied from the John Swahn archive.",
     "sourceCard": "nfo-equinox-kidkkus-1987",
     "sourceFile": "assets/nfo/equinox-kidkkus-1987.nfo",
-    "source": "NFO"
+    "source": "Audio + NFO + artwork"
   },
   {
     "id": "equinox-kidkkus-1987-07-see-without-eyes",
@@ -144,14 +167,19 @@ window.JOHN_SWAHN_TRACKS = [
     "trackNumber": "07",
     "releaseType": "Demo / cassette",
     "version": "",
-    "credits": [],
-    "audio": "",
+    "credits": [
+      "Written by John Swahn",
+      "Vocals, guitars & bass: John Swahn",
+      "Drums: John Swahn",
+      "Produced and mixed by John Swahn"
+    ],
+    "audio": "assets/audio/equinox/kidkkus-1987/07-see-without-eyes.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "",
+    "notes": "Original Kidkkus! audio supplied from the John Swahn archive.",
     "sourceCard": "nfo-equinox-kidkkus-1987",
     "sourceFile": "assets/nfo/equinox-kidkkus-1987.nfo",
-    "source": "NFO"
+    "source": "Audio + NFO + artwork"
   },
   {
     "id": "equinox-kidkkus-1987-08-merry-christmas",
@@ -165,14 +193,19 @@ window.JOHN_SWAHN_TRACKS = [
     "trackNumber": "08",
     "releaseType": "Demo / cassette",
     "version": "",
-    "credits": [],
-    "audio": "",
+    "credits": [
+      "Written by John Swahn",
+      "Vocals, guitars & bass: John Swahn",
+      "Drums: John Swahn",
+      "Produced and mixed by John Swahn"
+    ],
+    "audio": "assets/audio/equinox/kidkkus-1987/08-merry-christmas.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "",
+    "notes": "Original Kidkkus! audio supplied from the John Swahn archive.",
     "sourceCard": "nfo-equinox-kidkkus-1987",
     "sourceFile": "assets/nfo/equinox-kidkkus-1987.nfo",
-    "source": "NFO"
+    "source": "Audio + NFO + artwork"
   },
   {
     "id": "equinox-kidkkus-1987-09-all-the-glasses",
@@ -186,14 +219,19 @@ window.JOHN_SWAHN_TRACKS = [
     "trackNumber": "09",
     "releaseType": "Demo / cassette",
     "version": "",
-    "credits": [],
-    "audio": "",
+    "credits": [
+      "Written by John Swahn",
+      "Vocals, guitars & bass: John Swahn",
+      "Drums: John Swahn",
+      "Produced and mixed by John Swahn"
+    ],
+    "audio": "assets/audio/equinox/kidkkus-1987/09-all-the-glasses.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "",
+    "notes": "Original Kidkkus! audio supplied from the John Swahn archive.",
     "sourceCard": "nfo-equinox-kidkkus-1987",
     "sourceFile": "assets/nfo/equinox-kidkkus-1987.nfo",
-    "source": "NFO"
+    "source": "Audio + NFO + artwork"
   },
   {
     "id": "equinox-kidkkus-1987-10-sightseeing-in-hell",
@@ -207,14 +245,425 @@ window.JOHN_SWAHN_TRACKS = [
     "trackNumber": "10",
     "releaseType": "Demo / cassette",
     "version": "",
-    "credits": [],
-    "audio": "",
+    "credits": [
+      "Written by Jakob Bergström",
+      "Vocals, guitars & bass: John Swahn",
+      "Drums: Jakob Bergström",
+      "Produced and mixed by John Swahn"
+    ],
+    "audio": "assets/audio/equinox/kidkkus-1987/10-sightseeing-in-hell.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "",
+    "notes": "Original Kidkkus! audio supplied from the John Swahn archive.",
     "sourceCard": "nfo-equinox-kidkkus-1987",
     "sourceFile": "assets/nfo/equinox-kidkkus-1987.nfo",
-    "source": "NFO"
+    "source": "Audio + NFO + artwork"
+  },
+  {
+    "id": "equinox-zzzzzz-1988-01-zzzzzzyzzzzzz",
+    "title": "Zzzzzzyzzzzzz",
+    "artist": "Equinox",
+    "project": "Equinox",
+    "release": "Zzzzzzyzzzzzz",
+    "year": "1988",
+    "genre": "Thrash metal",
+    "duration": "01:41",
+    "trackNumber": "01",
+    "releaseType": "Demo / cassette",
+    "version": "",
+    "credits": [
+      "Written by J.S. Wahn & J.Y. Bergström",
+      "Vocals & guitar: J.S. Wahn (John Swahn)",
+      "Drums: J.Y. Bergström",
+      "Produced and mixed by John Eric Olof Swahn"
+    ],
+    "audio": "assets/audio/equinox/zzzzzz-1988/01-zzzzzz-y-zzzzzz.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "Original 1988 Equinox demo audio supplied from the archive. Titles and sequence are documented on the original cassette inlay.",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "Audio + original cassette artwork"
+  },
+  {
+    "id": "equinox-zzzzzz-1988-02-don-t-scream",
+    "title": "Don't Scream",
+    "artist": "Equinox",
+    "project": "Equinox",
+    "release": "Zzzzzzyzzzzzz",
+    "year": "1988",
+    "genre": "Thrash metal",
+    "duration": "00:39",
+    "trackNumber": "02",
+    "releaseType": "Demo / cassette",
+    "version": "",
+    "credits": [
+      "Written by J.S. Wahn & J.Y. Bergström",
+      "Vocals & guitar: J.S. Wahn (John Swahn)",
+      "Drums: J.Y. Bergström",
+      "Produced and mixed by John Eric Olof Swahn"
+    ],
+    "audio": "assets/audio/equinox/zzzzzz-1988/02-dont-scream.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "Original 1988 Equinox demo audio supplied from the archive. Titles and sequence are documented on the original cassette inlay.",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "Audio + original cassette artwork"
+  },
+  {
+    "id": "equinox-zzzzzz-1988-03-killing-plutons",
+    "title": "Killing Plutons",
+    "artist": "Equinox",
+    "project": "Equinox",
+    "release": "Zzzzzzyzzzzzz",
+    "year": "1988",
+    "genre": "Thrash metal",
+    "duration": "00:45",
+    "trackNumber": "03",
+    "releaseType": "Demo / cassette",
+    "version": "",
+    "credits": [
+      "Written by J.S. Wahn & J.Y. Bergström",
+      "Vocals & guitar: J.S. Wahn (John Swahn)",
+      "Drums: J.Y. Bergström",
+      "Produced and mixed by John Eric Olof Swahn"
+    ],
+    "audio": "assets/audio/equinox/zzzzzz-1988/03-killing-plutons.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "Original 1988 Equinox demo audio supplied from the archive. Titles and sequence are documented on the original cassette inlay.",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "Audio + original cassette artwork"
+  },
+  {
+    "id": "equinox-zzzzzz-1988-04-cows-forbidden",
+    "title": "Cows Forbidden",
+    "artist": "Equinox",
+    "project": "Equinox",
+    "release": "Zzzzzzyzzzzzz",
+    "year": "1988",
+    "genre": "Thrash metal",
+    "duration": "00:20",
+    "trackNumber": "04",
+    "releaseType": "Demo / cassette",
+    "version": "",
+    "credits": [
+      "Written by J.S. Wahn & J.Y. Bergström",
+      "Vocals & guitar: J.S. Wahn (John Swahn)",
+      "Drums: J.Y. Bergström",
+      "Produced and mixed by John Eric Olof Swahn"
+    ],
+    "audio": "assets/audio/equinox/zzzzzz-1988/04-cows-forbidden.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "Original 1988 Equinox demo audio supplied from the archive. Titles and sequence are documented on the original cassette inlay.",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "Audio + original cassette artwork"
+  },
+  {
+    "id": "equinox-zzzzzz-1988-05-equinox-raper",
+    "title": "Equinox Raper",
+    "artist": "Equinox",
+    "project": "Equinox",
+    "release": "Zzzzzzyzzzzzz",
+    "year": "1988",
+    "genre": "Thrash metal",
+    "duration": "01:25",
+    "trackNumber": "05",
+    "releaseType": "Demo / cassette",
+    "version": "",
+    "credits": [
+      "Written by J.S. Wahn & J.Y. Bergström",
+      "Vocals & guitar: J.S. Wahn (John Swahn)",
+      "Drums: J.Y. Bergström",
+      "Produced and mixed by John Eric Olof Swahn"
+    ],
+    "audio": "assets/audio/equinox/zzzzzz-1988/05-equinox-raper.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "Original 1988 Equinox demo audio supplied from the archive. Titles and sequence are documented on the original cassette inlay.",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "Audio + original cassette artwork"
+  },
+  {
+    "id": "equinox-zzzzzz-1988-06-headache",
+    "title": "Headache",
+    "artist": "Equinox",
+    "project": "Equinox",
+    "release": "Zzzzzzyzzzzzz",
+    "year": "1988",
+    "genre": "Thrash metal",
+    "duration": "00:26",
+    "trackNumber": "06",
+    "releaseType": "Demo / cassette",
+    "version": "",
+    "credits": [
+      "Written by J.S. Wahn & J.Y. Bergström",
+      "Vocals & guitar: J.S. Wahn (John Swahn)",
+      "Drums: J.Y. Bergström",
+      "Produced and mixed by John Eric Olof Swahn"
+    ],
+    "audio": "assets/audio/equinox/zzzzzz-1988/06-headache.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "Original 1988 Equinox demo audio supplied from the archive. Titles and sequence are documented on the original cassette inlay.",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "Audio + original cassette artwork"
+  },
+  {
+    "id": "equinox-zzzzzz-1988-07-death-of-the-smoker",
+    "title": "Death Of The Smoker",
+    "artist": "Equinox",
+    "project": "Equinox",
+    "release": "Zzzzzzyzzzzzz",
+    "year": "1988",
+    "genre": "Thrash metal",
+    "duration": "01:52",
+    "trackNumber": "07",
+    "releaseType": "Demo / cassette",
+    "version": "",
+    "credits": [
+      "Written by J.S. Wahn & J.Y. Bergström",
+      "Vocals & guitar: J.S. Wahn (John Swahn)",
+      "Drums: J.Y. Bergström",
+      "Produced and mixed by John Eric Olof Swahn"
+    ],
+    "audio": "assets/audio/equinox/zzzzzz-1988/07-death-of-the-smoker.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "Original 1988 Equinox demo audio supplied from the archive. Titles and sequence are documented on the original cassette inlay.",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "Audio + original cassette artwork"
+  },
+  {
+    "id": "equinox-zzzzzz-1988-08-satan-says",
+    "title": "Satan Says",
+    "artist": "Equinox",
+    "project": "Equinox",
+    "release": "Zzzzzzyzzzzzz",
+    "year": "1988",
+    "genre": "Thrash metal",
+    "duration": "01:39",
+    "trackNumber": "08",
+    "releaseType": "Demo / cassette",
+    "version": "",
+    "credits": [
+      "Written by J.S. Wahn & J.Y. Bergström",
+      "Vocals & guitar: J.S. Wahn (John Swahn)",
+      "Drums: J.Y. Bergström",
+      "Produced and mixed by John Eric Olof Swahn"
+    ],
+    "audio": "assets/audio/equinox/zzzzzz-1988/08-satan-says.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "Original 1988 Equinox demo audio supplied from the archive. Titles and sequence are documented on the original cassette inlay.",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "Audio + original cassette artwork"
+  },
+  {
+    "id": "equinox-zzzzzz-1988-09-algot-bierman",
+    "title": "Algot Bierman",
+    "artist": "Equinox",
+    "project": "Equinox",
+    "release": "Zzzzzzyzzzzzz",
+    "year": "1988",
+    "genre": "Thrash metal",
+    "duration": "00:36",
+    "trackNumber": "09",
+    "releaseType": "Demo / cassette",
+    "version": "",
+    "credits": [
+      "Written by J.S. Wahn & J.Y. Bergström",
+      "Vocals & guitar: J.S. Wahn (John Swahn)",
+      "Drums: J.Y. Bergström",
+      "Produced and mixed by John Eric Olof Swahn"
+    ],
+    "audio": "assets/audio/equinox/zzzzzz-1988/09-algot-bierman.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "Original 1988 Equinox demo audio supplied from the archive. Titles and sequence are documented on the original cassette inlay.",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "Audio + original cassette artwork"
+  },
+  {
+    "id": "equinox-zzzzzz-1988-10-who-dares-win",
+    "title": "Who Dares Win?",
+    "artist": "Equinox",
+    "project": "Equinox",
+    "release": "Zzzzzzyzzzzzz",
+    "year": "1988",
+    "genre": "Thrash metal",
+    "duration": "00:55",
+    "trackNumber": "10",
+    "releaseType": "Demo / cassette",
+    "version": "",
+    "credits": [
+      "Written by J.S. Wahn & J.Y. Bergström",
+      "Vocals & guitar: J.S. Wahn (John Swahn)",
+      "Drums: J.Y. Bergström",
+      "Produced and mixed by John Eric Olof Swahn"
+    ],
+    "audio": "assets/audio/equinox/zzzzzz-1988/10-who-dares-win.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "Original 1988 Equinox demo audio supplied from the archive. Titles and sequence are documented on the original cassette inlay.",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "Audio + original cassette artwork"
+  },
+  {
+    "id": "equinox-zzzzzz-1988-11-living-fortune",
+    "title": "Living Fortune",
+    "artist": "Equinox",
+    "project": "Equinox",
+    "release": "Zzzzzzyzzzzzz",
+    "year": "1988",
+    "genre": "Thrash metal",
+    "duration": "01:16",
+    "trackNumber": "11",
+    "releaseType": "Demo / cassette",
+    "version": "",
+    "credits": [
+      "Written by J.S. Wahn & J.Y. Bergström",
+      "Vocals & guitar: J.S. Wahn (John Swahn)",
+      "Drums: J.Y. Bergström",
+      "Produced and mixed by John Eric Olof Swahn"
+    ],
+    "audio": "assets/audio/equinox/zzzzzz-1988/11-living-fortune.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "Original 1988 Equinox demo audio supplied from the archive. Titles and sequence are documented on the original cassette inlay.",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "Audio + original cassette artwork"
+  },
+  {
+    "id": "equinox-zzzzzz-1988-12-punk-all-night",
+    "title": "Punk All Night",
+    "artist": "Equinox",
+    "project": "Equinox",
+    "release": "Zzzzzzyzzzzzz",
+    "year": "1988",
+    "genre": "Thrash metal",
+    "duration": "00:42",
+    "trackNumber": "12",
+    "releaseType": "Demo / cassette",
+    "version": "",
+    "credits": [
+      "Written by J.S. Wahn & J.Y. Bergström",
+      "Vocals & guitar: J.S. Wahn (John Swahn)",
+      "Drums: J.Y. Bergström",
+      "Produced and mixed by John Eric Olof Swahn"
+    ],
+    "audio": "assets/audio/equinox/zzzzzz-1988/12-punk-all-night.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "Original 1988 Equinox demo audio supplied from the archive. Titles and sequence are documented on the original cassette inlay.",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "Audio + original cassette artwork"
+  },
+  {
+    "id": "equinox-zzzzzz-1988-13-standing-in-darkness",
+    "title": "Standing In Darkness",
+    "artist": "Equinox",
+    "project": "Equinox",
+    "release": "Zzzzzzyzzzzzz",
+    "year": "1988",
+    "genre": "Thrash metal",
+    "duration": "00:54",
+    "trackNumber": "13",
+    "releaseType": "Demo / cassette",
+    "version": "",
+    "credits": [
+      "Written by J.S. Wahn & J.Y. Bergström",
+      "Vocals & guitar: J.S. Wahn (John Swahn)",
+      "Drums: J.Y. Bergström",
+      "Produced and mixed by John Eric Olof Swahn"
+    ],
+    "audio": "assets/audio/equinox/zzzzzz-1988/13-standing-in-darkness.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "Original 1988 Equinox demo audio supplied from the archive. Titles and sequence are documented on the original cassette inlay.",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "Audio + original cassette artwork"
+  },
+  {
+    "id": "equinox-zzzzzz-1988-14-death-voffis-in-snow",
+    "title": "Death Voffis In Snow",
+    "artist": "Equinox",
+    "project": "Equinox",
+    "release": "Zzzzzzyzzzzzz",
+    "year": "1988",
+    "genre": "Thrash metal",
+    "duration": "00:44",
+    "trackNumber": "14",
+    "releaseType": "Demo / cassette",
+    "version": "",
+    "credits": [
+      "Written by J.S. Wahn & J.Y. Bergström",
+      "Vocals & guitar: J.S. Wahn (John Swahn)",
+      "Drums: J.Y. Bergström",
+      "Produced and mixed by John Eric Olof Swahn"
+    ],
+    "audio": "assets/audio/equinox/zzzzzz-1988/14-death-voffis-in-snow.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "Original 1988 Equinox demo audio supplied from the archive. Titles and sequence are documented on the original cassette inlay.",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "Audio + original cassette artwork"
+  },
+  {
+    "id": "twilight-rock-you-1987-01-rock-you",
+    "title": "Rock You",
+    "artist": "Twilight",
+    "project": "Twilight",
+    "release": "Rock You",
+    "year": "1987",
+    "genre": "",
+    "duration": "04:06",
+    "trackNumber": "01",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "assets/audio/twilight/rock-you-1987/01-rock-you.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "Original 1987 Twilight audio supplied from the John Swahn archive.",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "Audio"
+  },
+  {
+    "id": "twilight-rock-you-1987-02-edge-of-lies",
+    "title": "Edge of Lies",
+    "artist": "Twilight",
+    "project": "Twilight",
+    "release": "Rock You",
+    "year": "1987",
+    "genre": "",
+    "duration": "04:14",
+    "trackNumber": "02",
+    "releaseType": "Archive recording",
+    "version": "",
+    "credits": [],
+    "audio": "assets/audio/twilight/rock-you-1987/02-edge-of-lies.mp3",
+    "video": "",
+    "lyrics": "",
+    "notes": "Original 1987 Twilight audio supplied from the John Swahn archive.",
+    "sourceCard": "",
+    "sourceFile": "",
+    "source": "Audio"
   },
   {
     "id": "desecrate-we-only-make-jokes-we-made-you-1988-01-devils-fate",
@@ -229,13 +678,13 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Demo / cassette",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "assets/audio/desecrate/we-only-make-jokes-1988/01-devils-fate.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "",
+    "notes": "Original 1988 Desecrate audio supplied from the John Swahn archive.",
     "sourceCard": "nfo-desecrate-we-only-make-jokes-we-made-you-1988",
     "sourceFile": "assets/nfo/desecrate-we-only-make-jokes-1988.nfo",
-    "source": "NFO"
+    "source": "Audio + NFO + artwork"
   },
   {
     "id": "desecrate-we-only-make-jokes-we-made-you-1988-02-desecration",
@@ -250,13 +699,13 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Demo / cassette",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "assets/audio/desecrate/we-only-make-jokes-1988/02-desecration.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "",
+    "notes": "Original 1988 Desecrate audio supplied from the John Swahn archive.",
     "sourceCard": "nfo-desecrate-we-only-make-jokes-we-made-you-1988",
     "sourceFile": "assets/nfo/desecrate-we-only-make-jokes-1988.nfo",
-    "source": "NFO"
+    "source": "Audio + NFO + artwork"
   },
   {
     "id": "desecrate-we-only-make-jokes-we-made-you-1988-03-injustice-of-society",
@@ -271,17 +720,17 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Demo / cassette",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "assets/audio/desecrate/we-only-make-jokes-1988/03-injustice-of-society.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "",
+    "notes": "Original 1988 Desecrate audio supplied from the John Swahn archive.",
     "sourceCard": "nfo-desecrate-we-only-make-jokes-we-made-you-1988",
     "sourceFile": "assets/nfo/desecrate-we-only-make-jokes-1988.nfo",
-    "source": "NFO"
+    "source": "Audio + NFO + artwork"
   },
   {
     "id": "desecrate-we-only-make-jokes-we-made-you-1988-04-scooby-dooaaau-i",
-    "title": "Scooby Dooaaau÷÷ I",
+    "title": "Scooby Dooaaauöö I",
     "artist": "Desecrate",
     "project": "Desecrate",
     "release": "We Only Make Jokes... We Made You!",
@@ -292,13 +741,13 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Demo / cassette",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "assets/audio/desecrate/we-only-make-jokes-1988/04-scooby-dooaaauoo-i.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "",
+    "notes": "Original 1988 Desecrate audio supplied from the John Swahn archive.",
     "sourceCard": "nfo-desecrate-we-only-make-jokes-we-made-you-1988",
     "sourceFile": "assets/nfo/desecrate-we-only-make-jokes-1988.nfo",
-    "source": "NFO"
+    "source": "Audio + NFO + artwork"
   },
   {
     "id": "desecrate-we-only-make-jokes-we-made-you-1988-05-bang-your-head-to-death",
@@ -313,13 +762,13 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Demo / cassette",
     "version": "",
     "credits": [],
-    "audio": "",
+    "audio": "assets/audio/desecrate/we-only-make-jokes-1988/05-bang-your-head-to-death.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "",
+    "notes": "Original 1988 Desecrate audio supplied from the John Swahn archive.",
     "sourceCard": "nfo-desecrate-we-only-make-jokes-we-made-you-1988",
     "sourceFile": "assets/nfo/desecrate-we-only-make-jokes-1988.nfo",
-    "source": "NFO"
+    "source": "Audio + NFO + artwork"
   },
   {
     "id": "desecrate-arranger-of-disorder-1989-01-disorder",
@@ -333,14 +782,24 @@ window.JOHN_SWAHN_TRACKS = [
     "trackNumber": "01",
     "releaseType": "Demo / cassette",
     "version": "",
-    "credits": [],
-    "audio": "",
+    "credits": [
+      "Music: Rickard B. Ceder",
+      "Lyrics: John Swahn",
+      "Vocals: John S. Swahn",
+      "Guitar: Måns Magnusson",
+      "Guitar: Rickard B. Ceder",
+      "Bass: Dave Janney",
+      "Drums: Jakob Bergström",
+      "Produced by Kari",
+      "Mixed by Kari & Desecrate"
+    ],
+    "audio": "assets/audio/desecrate/arranger-of-disorder-1989/01-disorder.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "",
+    "notes": "Original 1989 Desecrate demo audio supplied from the John Swahn archive. Recorded at Musikhuset, Enköping, 27–28 May 1989.",
     "sourceCard": "nfo-desecrate-arranger-of-disorder-1989",
     "sourceFile": "assets/nfo/desecrate-arranger-of-disorder-1989.nfo",
-    "source": "NFO"
+    "source": "Audio + NFO + artwork"
   },
   {
     "id": "desecrate-arranger-of-disorder-1989-02-lightened-souls",
@@ -354,14 +813,24 @@ window.JOHN_SWAHN_TRACKS = [
     "trackNumber": "02",
     "releaseType": "Demo / cassette",
     "version": "",
-    "credits": [],
-    "audio": "",
+    "credits": [
+      "Music: Rickard B. Ceder & John Swahn",
+      "Lyrics: John Swahn",
+      "Vocals: John S. Swahn",
+      "Guitar: Måns Magnusson",
+      "Guitar: Rickard B. Ceder",
+      "Bass: Dave Janney",
+      "Drums: Jakob Bergström",
+      "Produced by Kari",
+      "Mixed by Kari & Desecrate"
+    ],
+    "audio": "assets/audio/desecrate/arranger-of-disorder-1989/02-lightened-souls.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "",
+    "notes": "Original 1989 Desecrate demo audio supplied from the John Swahn archive. Recorded at Musikhuset, Enköping, 27–28 May 1989.",
     "sourceCard": "nfo-desecrate-arranger-of-disorder-1989",
     "sourceFile": "assets/nfo/desecrate-arranger-of-disorder-1989.nfo",
-    "source": "NFO"
+    "source": "Audio + NFO + artwork"
   },
   {
     "id": "desecrate-arranger-of-disorder-1989-03-minds-of-justitia",
@@ -375,14 +844,24 @@ window.JOHN_SWAHN_TRACKS = [
     "trackNumber": "03",
     "releaseType": "Demo / cassette",
     "version": "",
-    "credits": [],
-    "audio": "",
+    "credits": [
+      "Music: Rickard B. Ceder",
+      "Lyrics: John Swahn",
+      "Vocals: John S. Swahn",
+      "Guitar: Måns Magnusson",
+      "Guitar: Rickard B. Ceder",
+      "Bass: Dave Janney",
+      "Drums: Jakob Bergström",
+      "Produced by Kari",
+      "Mixed by Kari & Desecrate"
+    ],
+    "audio": "assets/audio/desecrate/arranger-of-disorder-1989/03-minds-of-justitia.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "",
+    "notes": "Original 1989 Desecrate demo audio supplied from the John Swahn archive. Recorded at Musikhuset, Enköping, 27–28 May 1989.",
     "sourceCard": "nfo-desecrate-arranger-of-disorder-1989",
     "sourceFile": "assets/nfo/desecrate-arranger-of-disorder-1989.nfo",
-    "source": "NFO"
+    "source": "Audio + NFO + artwork"
   },
   {
     "id": "desecrate-live-1989-01-second-death",
@@ -3010,9 +3489,8 @@ window.JOHN_SWAHN_TRACKS = [
     "source": "NFO"
   }
 ];
-
 window.JOHN_SWAHN_PROJECT_ART = {
-  "Equinox": "assets/equinox/1988-zzzzzz-front-cover.png",
+  "Equinox": "assets/equinox/1987-kidkkus-front.gif",
   "Desecrate": "assets/desecrate/1988-we-only-make-jokes-cover.png",
   "Develop": "",
   "John Swahn's Big November": "assets/big-november/1991-nyby-fritidsgard-front.png",

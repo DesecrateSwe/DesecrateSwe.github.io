@@ -67,5 +67,63 @@
     document.addEventListener('click',e=>{if(!block.contains(e.target))results.hidden=true;});
   });
   document.addEventListener('keydown',e=>{const t=e.target;const typing=t instanceof HTMLInputElement||t instanceof HTMLTextAreaElement||t instanceof HTMLSelectElement||t?.isContentEditable;if(e.key==='/'&&!typing){const input=document.querySelector('[data-global-search-input]');if(input){e.preventDefault();input.focus();input.select();}}});
+
+  // Shared audio dock used by song, project and release pages.
+  let audioDock = document.getElementById('audioDock');
+  if (!audioDock) {
+    audioDock = document.createElement('div');
+    audioDock.id = 'audioDock';
+    audioDock.className = 'audio-dock';
+    audioDock.hidden = true;
+    audioDock.innerHTML = `<div class="audio-dock-meta"><small>Now playing</small><strong id="audioDockTitle"></strong><span id="audioDockMeta"></span></div><audio id="siteAudioPlayer" controls preload="metadata"></audio><button class="audio-dock-close" id="audioDockClose" type="button" aria-label="Close audio player">×</button>`;
+    document.body.appendChild(audioDock);
+  }
+  const audio = audioDock.querySelector('#siteAudioPlayer');
+  const audioTitle = audioDock.querySelector('#audioDockTitle');
+  const audioMeta = audioDock.querySelector('#audioDockMeta');
+  const audioClose = audioDock.querySelector('#audioDockClose');
+  let activeAudioSrc = '';
+  const syncPlayButtons = playing => {
+    document.querySelectorAll('.track-play').forEach(btn => {
+      const same = btn.dataset.audioSrc === activeAudioSrc;
+      btn.classList.toggle('is-playing', Boolean(playing && same));
+      const icon = btn.querySelector('.track-play-icon');
+      if (icon) icon.textContent = same && playing ? '' : '▶';
+      if (same) btn.setAttribute('aria-pressed', String(Boolean(playing)));
+    });
+  };
+  const loadAudio = btn => {
+    if (!audio) return;
+    const src = btn.dataset.audioSrc || '';
+    if (!src) return;
+    if (activeAudioSrc === src && !audio.paused) {
+      audio.pause();
+      syncPlayButtons(false);
+      return;
+    }
+    if (activeAudioSrc !== src) {
+      activeAudioSrc = src;
+      audio.src = src;
+      if (audioTitle) audioTitle.textContent = btn.dataset.audioTitle || 'Untitled recording';
+      if (audioMeta) audioMeta.textContent = [btn.dataset.audioProject, btn.dataset.audioRelease].filter(Boolean).join(' · ');
+    }
+    audioDock.hidden = false;
+    const promise = audio.play();
+    if (promise && typeof promise.catch === 'function') promise.catch(() => {});
+    syncPlayButtons(true);
+  };
+  document.addEventListener('click', e => {
+    const btn = e.target.closest?.('.track-play');
+    if (btn) { e.preventDefault(); loadAudio(btn); }
+  });
+  audio?.addEventListener('play', () => syncPlayButtons(true));
+  audio?.addEventListener('pause', () => syncPlayButtons(false));
+  audio?.addEventListener('ended', () => syncPlayButtons(false));
+  audioClose?.addEventListener('click', () => {
+    audio?.pause();
+    audioDock.hidden = true;
+    syncPlayButtons(false);
+  });
+
   const year=document.getElementById('year'); if(year)year.textContent=new Date().getFullYear();
 })();

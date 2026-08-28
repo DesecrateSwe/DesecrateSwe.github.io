@@ -6,11 +6,12 @@ window.JOHN_SWAHN_SITE_DATA = {
       "kicker": "Thrash metal · Uppsala",
       "meta": [
         "1987–1988 documented",
-        "Vocals · guitars",
+        "Vocals · guitars · bass",
+        "Kidkkus! + Zzzzzzyzzzzzz · 24 playable tracks",
         "Original cassette archive"
       ],
-      "description": "The earliest project currently represented in the archive. On the 1987 demo Kidkkus , John is credited with vocals, guitars, bass and drums. The surviving 1988 Zzzzzzyzzzzzz inlay credits John on vocals/guitar and states that the demo was produced and mixed by John Eric Olof Swahn.",
-      "artwork": "assets/equinox/1987-kidkkus-cover.png",
+      "description": "The earliest project currently represented in the archive. Both surviving Equinox demos are now preserved with playable audio: Kidkkus! (1987) with ten tracks and Zzzzzzyzzzzzz (1988) with fourteen tracks. The original 1988 cassette artwork credits J.S. Wahn on vocals & guitar and states that the demo was produced and mixed by John Eric Olof Swahn.",
+      "artwork": "assets/equinox/1987-kidkkus-front.gif",
       "url": "projects/equinox.html",
       "archiveId": "equinox-archive",
       "external": [
@@ -21,27 +22,32 @@ window.JOHN_SWAHN_SITE_DATA = {
         {
           "label": "Metal Archives",
           "url": "https://www.metal-archives.com/bands/Equinox/3540305814"
+        },
+        {
+          "label": "Heavy Metal Rarities",
+          "url": "https://heavymetalrarities.com/forum/"
         }
       ],
       "aliases": [],
       "releaseCount": 2,
-      "songCount": 10
+      "songCount": 24
     },
     {
       "title": "Twilight",
       "slug": "twilight",
       "kicker": "Early archive",
       "meta": [
-        "1987 documented"
+        "1987 documented",
+        "Rock You · 2 playable tracks"
       ],
-      "description": "Represented in the current archive by the 1987 recording Rock You . Further project history can be added when supplied.",
+      "description": "The current Twilight archive is represented by the 1987 release Rock You, with the supplied original audio for Rock You and Edge of Lies now indexed and playable.",
       "artwork": "",
       "url": "projects/twilight.html",
       "archiveId": "",
       "external": [],
       "aliases": [],
       "releaseCount": 1,
-      "songCount": 0
+      "songCount": 2
     },
     {
       "title": "Desecrate",
@@ -50,10 +56,11 @@ window.JOHN_SWAHN_SITE_DATA = {
       "meta": [
         "1988–1990",
         "Vocals",
+        "We Only Make Jokes… · 5 playable tracks",
         "Return: 2026",
         "Original demo & press archive"
       ],
-      "description": "Desecrate recorded three preserved demos during its original period, played shows around Uppsala and returned to the material in 2026 with the full-length album Second Death . The surviving archive now includes original artwork, cassette material, press pages, a show flyer and photographs from the band's early years.",
+      "description": "Desecrate recorded three preserved demos during its original period, played shows around Uppsala and returned to the material in 2026 with the full-length album Second Death. The 1988 debut demo We Only Make Jokes... We Made You! is now preserved with all five supplied tracks playable, alongside the surviving artwork, cassette material, press pages, show flyer and photographs from the band's early years.",
       "artwork": "assets/desecrate/1988-band-photo-collage.png",
       "url": "projects/desecrate.html",
       "archiveId": "desecrate-archive",
@@ -248,7 +255,7 @@ window.JOHN_SWAHN_SITE_DATA = {
   "releases": [
     {
       "year": "1987",
-      "title": "Kidkkus",
+      "title": "Kidkkus!",
       "project": "Equinox",
       "projectRaw": "Equinox",
       "type": "Demo / cassette",
