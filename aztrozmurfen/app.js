@@ -95,11 +95,16 @@ const previousButton = document.getElementById('previousButton');
 const nextButton = document.getElementById('nextButton');
 const shuffleButton = document.getElementById('shuffleButton');
 const repeatButton = document.getElementById('repeatButton');
+const favoriteButton = document.getElementById('favoriteButton');
+const muteButton = document.getElementById('muteButton');
+const volumeRange = document.getElementById('volumeRange');
 
 let currentAlbumKey = null;
 let currentTrackIndex = -1;
 let shuffle = false;
 let repeat = false;
+let favorite = false;
+let previousVolume = 0.78;
 
 function audioPath(album, filename) {
   return encodeURI(`assets/audio/${album.folder}/${filename}`);
@@ -189,6 +194,7 @@ function loadTrack(albumKey, trackIndex, autoplay = true) {
   if (playerElapsed) playerElapsed.textContent = '0:00';
   if (playerDuration) playerDuration.textContent = '0:00';
   if (progressFill) progressFill.style.width = '0%';
+  if (progressTrack) progressTrack.style.setProperty('--progress-thumb', '0%');
 
   updateMediaSession(album, title);
   markActiveTrack();
@@ -301,6 +307,41 @@ repeatButton?.addEventListener('click', () => {
   repeatButton.setAttribute('aria-pressed', String(repeat));
 });
 
+favoriteButton?.addEventListener('click', () => {
+  favorite = !favorite;
+  favoriteButton.classList.toggle('is-active', favorite);
+  favoriteButton.setAttribute('aria-pressed', String(favorite));
+  favoriteButton.textContent = favorite ? '♥' : '♡';
+});
+
+if (audio && volumeRange) {
+  audio.volume = Number(volumeRange.value);
+  previousVolume = audio.volume || previousVolume;
+
+  volumeRange.addEventListener('input', () => {
+    const value = Number(volumeRange.value);
+    audio.volume = value;
+    audio.muted = value === 0;
+    if (value > 0) previousVolume = value;
+    if (muteButton) muteButton.textContent = value === 0 ? '🔇' : '🔊';
+  });
+}
+
+muteButton?.addEventListener('click', () => {
+  if (!audio || !volumeRange) return;
+  if (audio.muted || audio.volume === 0) {
+    audio.muted = false;
+    audio.volume = previousVolume || 0.78;
+    volumeRange.value = String(audio.volume);
+    muteButton.textContent = '🔊';
+  } else {
+    previousVolume = audio.volume;
+    audio.muted = true;
+    volumeRange.value = '0';
+    muteButton.textContent = '🔇';
+  }
+});
+
 audio?.addEventListener('play', updatePlayerState);
 audio?.addEventListener('pause', updatePlayerState);
 audio?.addEventListener('loadedmetadata', () => {
@@ -309,6 +350,7 @@ audio?.addEventListener('loadedmetadata', () => {
 audio?.addEventListener('timeupdate', () => {
   const ratio = audio.duration ? (audio.currentTime / audio.duration) * 100 : 0;
   if (progressFill) progressFill.style.width = `${ratio}%`;
+  if (progressTrack) progressTrack.style.setProperty('--progress-thumb', `${ratio}%`);
   if (playerElapsed) playerElapsed.textContent = formatTime(audio.currentTime);
   if (playerDuration) playerDuration.textContent = formatTime(audio.duration);
 });
