@@ -2216,18 +2216,21 @@ window.JOHN_SWAHN_TRACKS = [
     "duration": "03:43",
     "trackNumber": "02",
     "releaseType": "EP",
-    "version": "",
-    "credits": [],
+    "version": "Cover · John Lennon",
+    "credits": [
+      "Original / cover source: John Lennon"
+    ],
     "audio": "https://audio.desecrate.se/Almost%20Human/2000%20-%20Green_All_Over/02-Almost_Human-Cold_Turkey-sWhN.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "",
+    "notes": "Coverversion. Original / förlaga: John Lennon.",
     "sourceCard": "nfo-almost-human-green-all-over-2000",
     "sourceFile": "assets/nfo/almost-human-green-all-over-2000.nfo",
     "source": "NFO",
     "audioCandidates": [
       "https://audio.desecrate.se/Almost%20Human/2000%20-%20Green_All_Over/02-Almost_Human-Cold_Turkey-sWhN.mp3"
-    ]
+    ],
+    "coverArtist": "John Lennon"
   },
   {
     "id": "almost-human-green-all-over-2000-03-lack-of",
@@ -5803,7 +5806,7 @@ window.JOHN_SWAHN_TRACKS = [
   },
   {
     "id": "aphophis-sarcophagus-2010-03-pounding-metal",
-    "title": "pounding metal",
+    "title": "Pounding Metal",
     "artist": "Aphophis",
     "project": "Aphophis",
     "release": "Sarcophagus",
@@ -5812,18 +5815,21 @@ window.JOHN_SWAHN_TRACKS = [
     "duration": "",
     "trackNumber": "03",
     "releaseType": "Recording",
-    "version": "",
-    "credits": [],
+    "version": "Cover · Exciter",
+    "credits": [
+      "Original / cover source: Exciter"
+    ],
     "audio": "https://audio.desecrate.se/Aphophis/2010%20-%20Sarcophagus/03-aph%C3%B4phis-pounding_metal.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "",
+    "notes": "Coverversion. Original / förlaga: Exciter.",
     "sourceCard": "",
     "sourceFile": "",
     "source": "R2 audio archive",
     "audioCandidates": [
       "https://audio.desecrate.se/Aphophis/2010%20-%20Sarcophagus/03-aph%C3%B4phis-pounding_metal.mp3"
-    ]
+    ],
+    "coverArtist": "Exciter"
   },
   {
     "id": "aphophis-sarcophagus-2010-04-countdown-to-existence",
@@ -8263,7 +8269,7 @@ window.JOHN_SWAHN_TRACKS = [
   },
   {
     "id": "treebeard-vii-2024-10-im-so-glad",
-    "title": "im so glad",
+    "title": "I'm So Glad",
     "artist": "Treebeard",
     "project": "Treebeard",
     "release": "VII",
@@ -8272,12 +8278,14 @@ window.JOHN_SWAHN_TRACKS = [
     "duration": "",
     "trackNumber": "10",
     "releaseType": "Recording",
-    "version": "",
-    "credits": [],
+    "version": "Inspirerad av · Skip James",
+    "credits": [
+      "Inspirerad av Skip James"
+    ],
     "audio": "https://audio.desecrate.se/Treebeard/2024%20-%20VII/10%20im%20so%20glad.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "",
+    "notes": "Egen låt, inspirerad av Skip James.",
     "sourceCard": "",
     "sourceFile": "",
     "source": "R2 audio archive",
