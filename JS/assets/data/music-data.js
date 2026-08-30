@@ -1,6 +1,113 @@
 window.JOHN_SWAHN_MUSIC = {
   "bands": [
     {
+      "name": "L.O.V.E.",
+      "slug": "love",
+      "years": "1986",
+      "genre": "Rock",
+      "location": "Uppsala",
+      "role": "Medlem",
+      "summary": "L.O.V.E. var John Swahns första seriösa band. John gjorde sin första konsert som tolvåring på Nybyskolan i mars 1986 tillsammans med Jakob “Kobben” Bergström, Mårten “Kokken” Korkman och Magnus Berger.",
+      "members": [
+        [
+          "John Swahn",
+          "medlem"
+        ],
+        [
+          "Jakob “Kobben” Bergström",
+          "medlem"
+        ],
+        [
+          "Mårten “Kokken” Korkman",
+          "medlem"
+        ],
+        [
+          "Magnus Berger",
+          "medlem"
+        ]
+      ],
+      "links": [],
+      "artwork": "",
+      "mark": "L.O.V.E.",
+      "releaseCount": 1,
+      "trackCount": 0,
+      "history": [
+        "L.O.V.E. var Johns första seriösa band. Den första konserten ägde rum på Nybyskolan i mars 1986, när John var tolv år gammal.",
+        "Bandet spelade in demon Fly Over The Beach. En video gjordes också till Fly Over The Beach.",
+        "L.O.V.E. bytte senare namn till Fury."
+      ]
+    },
+    {
+      "name": "Fury",
+      "slug": "fury",
+      "years": "ca 1986",
+      "genre": "Rock",
+      "location": "Uppsala",
+      "role": "Keyboard",
+      "summary": "Fury var fortsättningen på L.O.V.E. efter ett namnbyte. På demon Change Our Minds spelar John Swahn enbart keyboard.",
+      "members": [
+        [
+          "John Swahn",
+          "keyboard"
+        ]
+      ],
+      "links": [],
+      "artwork": "",
+      "mark": "FURY",
+      "releaseCount": 1,
+      "trackCount": 0,
+      "history": [
+        "Efter tiden som L.O.V.E. bytte bandet namn till Fury. Under Fury-perioden spelades demon Change Our Minds in.",
+        "På Change Our Minds medverkar John endast på keyboard."
+      ]
+    },
+    {
+      "name": "Don Quixote",
+      "slug": "don-quixote",
+      "years": "före 1987",
+      "genre": "Rock",
+      "location": "Uppsala",
+      "role": "Medlem",
+      "summary": "Don Quixote var ett av Johns tidiga band efter Fury och före Twilight.",
+      "members": [
+        [
+          "John Swahn",
+          "medlem"
+        ]
+      ],
+      "links": [],
+      "artwork": "",
+      "mark": "DQ",
+      "releaseCount": 0,
+      "trackCount": 0,
+      "history": [
+        "Efter Fury spelade John i Don Quixote. Bandet föregick Twilight, som John senare startade tillsammans med Jakob “Kobben” Bergström."
+      ]
+    },
+    {
+      "name": "Twilight",
+      "slug": "twilight",
+      "years": "1987",
+      "genre": "Rock",
+      "location": "",
+      "role": "Sång · keyboard",
+      "summary": "Twilight följde efter Don Quixote under Johns tidiga Uppsala-period. På Rock You från 1987 medverkar John Swahn på sång och keyboard.",
+      "members": [
+        [
+          "John Swahn",
+          "sång, keyboard"
+        ]
+      ],
+      "links": [],
+      "artwork": "",
+      "releaseCount": 1,
+      "trackCount": 2,
+      "history": [
+        "Twilight kom efter Johns tid i Don Quixote och blev nästa steg i den tidiga bandhistoriken före Desecrate.",
+        "På inspelningen Rock You från 1987 står John för sång och keyboard."
+      ]
+    },
+    {
       "name": "Equinox",
       "slug": "equinox",
       "years": "1987–1988",
@@ -66,7 +173,7 @@ window.JOHN_SWAHN_MUSIC = {
           "trummor"
         ],
         [
-          "Mårten Korkman",
+          "Mårten “Kokken” Korkman",
           "bas · tidig livesättning"
         ],
         [
@@ -101,9 +208,9 @@ window.JOHN_SWAHN_MUSIC = {
       "trackCount": 31,
       "history": [
         "Desecrate tog form 1988 när Rickard Ceder ville göra hårdare musik och började arbeta med Jakob “Kobben” Bergström. De första låtarna sattes ihop på en Portastudio på Nyby Fritidsgård. När de behövde en sångare frågade de John Swahn, som redan hade spelat med Ceder och Bergström i Twilight och med Bergström i Equinox.",
-        "Den första sättningen var en trio med Rickard Ceder på gitarr och bas, Jakob Bergström på trummor och John Swahn på sång. Inför konserter utökades bandet med Måns Magnusson på gitarr och Mårten Korkman på bas. Den första Desecrate-spelningen ägde rum på Storvreta Fritidsgård den 25 november 1988.",
+        "Den första sättningen var en trio med Rickard Ceder på gitarr och bas, Jakob Bergström på trummor och John Swahn på sång. Inför konserter utökades bandet med Måns Magnusson på gitarr och Mårten “Kokken” Korkman på bas. Den första Desecrate-spelningen ägde rum på Storvreta Fritidsgård den 25 november 1988.",
         "Efter den första demon påbörjades en ny studioupptagning med Second Death och Possessor of Life. Inspelningen raderades av misstag under slutmixen, men låtarna överlevde genom liveupptagningar. Under samma period spelade Desecrate bland annat som support till Strebers på Ungdomens Hus i Uppsala.",
-        "När Mårten Korkman lämnade kom Dave Janney från R.I.P. in på bas. Arranger of Disorder spelades in på Musikhuset i Enköping den 27–28 maj 1989. Vid den tiden hade bandet enligt en samtida intervju spelat omkring tio konserter i Uppsalatrakten och sålt ungefär 70 exemplar av demon. Det nya materialet beskrevs som mer tekniskt med vissa crossover-inslag.",
+        "När Mårten “Kokken” Korkman lämnade kom Dave Janney från R.I.P. in på bas. Arranger of Disorder spelades in på Musikhuset i Enköping den 27–28 maj 1989. Vid den tiden hade bandet enligt en samtida intervju spelat omkring tio konserter i Uppsalatrakten och sålt ungefär 70 exemplar av demon. Det nya materialet beskrevs som mer tekniskt med vissa crossover-inslag.",
         "Till Lonely Disgrace flyttade Dave Janney över till gitarr och Jens “Jenka” Åberg tog över basen. Demon spelades in på Musikhuset i Enköping den 3 och 6 december 1989. Därefter följde bland annat spelningar med Fallen Angel från Örebro. Skillnader i ambitionsnivå och musikalisk riktning ledde till att bandet splittrades 1990; den sista spelningen under den första perioden gjordes på gamla brandstationen i Knivsta.",
         "2024 spelade John in en ny version av Disorder med Aphophis till Exit Space Left. Det blev startpunkten för att återvända till Desecrates äldre låtar. Det ursprungliga materialet bearbetades och restaurerades, och 2026 gavs de nya versionerna ut som Desecrates första fullängdsalbum Second Death."
       ],
@@ -124,6 +231,50 @@ window.JOHN_SWAHN_MUSIC = {
           "src": "assets/desecrate/1988-we-only-make-jokes-review.png",
           "caption": "Desecrate · samtida recension"
         }
+      ]
+    },
+    {
+      "name": "Develop",
+      "slug": "develop",
+      "years": "1990",
+      "genre": "Metal",
+      "location": "",
+      "role": "",
+      "summary": "Develops Fret från 1990 består av elva spår från den tidiga delen av Johns musikaliska karriär.",
+      "members": [],
+      "links": [],
+      "artwork": "",
+      "releaseCount": 1,
+      "trackCount": 11
+    },
+    {
+      "name": "Edison",
+      "slug": "edison",
+      "years": "1990",
+      "genre": "Rock",
+      "location": "",
+      "role": "Medlem",
+      "summary": "Edison bestod av John Swahn, Jakob “Kobben” Bergström och Mårten “Kokken” Korkman och spelade in God Blessed Rock'n'roll 1990.",
+      "members": [
+        [
+          "John Swahn",
+          "medlem"
+        ],
+        [
+          "Jakob “Kobben” Bergström",
+          "medlem"
+        ],
+        [
+          "Mårten “Kokken” Korkman",
+          "medlem"
+        ]
+      ],
+      "links": [],
+      "artwork": "",
+      "releaseCount": 1,
+      "trackCount": 4,
+      "history": [
+        "Edison var en trio med John Swahn, Jakob “Kobben” Bergström och Mårten “Kokken” Korkman. 1990 spelade de in materialet som ligger under titeln God Blessed Rock'n'roll."
       ]
     },
     {
@@ -177,29 +328,33 @@ window.JOHN_SWAHN_MUSIC = {
       "genre": "Rock",
       "location": "Uppsala",
       "role": "Sång · låtskrivare",
-      "summary": "John Swahn’s Big November var aktivt 1991. På Mirrors Do The Talkin’ står John för sång, text och musik tillsammans med Malte Lilja, Jan Öhrlund och Gunnar Sjölinder.",
+      "summary": "John Swahn’s Big November var aktivt 1991 med John Swahn på sång, Magnus Wijk på gitarr, Mårten “Kokken” Korkman på bas och Fredrik Persson på trummor.",
       "members": [
         [
           "John Swahn",
-          "sång, text & musik"
+          "sång"
         ],
         [
-          "Malte Lilja",
+          "Magnus Wijk",
           "gitarr"
         ],
         [
-          "Jan Öhrlund",
+          "Mårten “Kokken” Korkman",
           "bas"
         ],
         [
-          "Gunnar Sjölinder",
+          "Fredrik Persson",
           "trummor"
         ]
       ],
       "links": [],
       "artwork": "assets/big-november/1991-nyby-fritidsgard-front.png",
       "releaseCount": 2,
-      "trackCount": 0
+      "trackCount": 16,
+      "history": [
+        "Den ordinarie sättningen i John Swahn’s Big November var John Swahn på sång, Magnus Wijk på gitarr, Mårten “Kokken” Korkman på bas och Fredrik Persson på trummor.",
+        "Mårten “Kokken” Korkman spelar även bas på Mirrors Do The Talkin'."
+      ]
     },
     {
       "name": "Almost Human",
@@ -208,7 +363,7 @@ window.JOHN_SWAHN_MUSIC = {
       "genre": "Rock / metal",
       "location": "",
       "role": "Sång",
-      "summary": "Almost Human växte fram 1998 när Hendri d'Ranged och John Swahn började arbeta tillsammans. Mitzi Dupree och The Widowmakers hörde till de namn som diskuterades tidigt, men bandet landade i namnet Almost Human.",
+      "summary": "Almost Human växte fram 1998 när Hendri d'Ranged och John Swahn började arbeta tillsammans. Mitzi Dupree, The Widowmakers och Sweet Revenge hörde till de namn som diskuterades innan bandet landade i Almost Human.",
       "members": [
         [
           "John Swahn",
@@ -253,8 +408,8 @@ window.JOHN_SWAHN_MUSIC = {
       "releaseCount": 5,
       "trackCount": 22,
       "history": [
-        "Bandet tog form 1998 när Hendri d'Ranged och John “Devilman” Swahn började arbeta med låtar som Hendri hade kvar från The Unkinds. Mitzi Dupree och The Widowmakers var bland de namn som diskuterades under den tidiga perioden innan Almost Human blev bandnamnet. Senare under året anslöt Gustaf Ljung på bas, Peter Druck på gitarr och Johan Kilander på trummor.",
-        "Den första demon spelades in på Egg shell studio i Enköping den 4–5 januari 1999. Titeln blev The Sweet Revenge Of Mitzi Dupree, medan omslaget bär artistnamnet Almost Human. Därefter lämnade Gustaf Ljung och Peter Druck, Johan Asp tog över basen och Martin Olsson anslöt på orgel och piano.",
+        "Bandet tog form 1998 när Hendri d'Ranged och John “Devilman” Swahn började arbeta med låtar som Hendri hade kvar från The Unkinds. Mitzi Dupree, The Widowmakers och Sweet Revenge var namn som diskuterades under den tidiga perioden innan Almost Human blev bandnamnet. Mitzi Dupree hämtades från Deep Purple-låten med samma namn.",
+        "Den första demon spelades in på Egg shell studio i Enköping den 4–5 januari 1999. Titeln The Sweet Revenge Of Mitzi Dupree kombinerar två av de tidiga namnförslagen: Sweet Revenge och Mitzi Dupree. Omslaget bär artistnamnet Almost Human. Därefter lämnade Gustaf Ljung och Peter Druck, Johan Asp tog över basen och Martin Olsson anslöt på orgel och piano.",
         "The Playground, bandets andra demo, spelades in den 7–8 augusti 1999. Green All Over följde 2000. I november 2000 ersattes Johan Kilander av Matte Malmquist på trummor och Eaten By The Machine blev bandets fjärde demo."
       ],
       "gallery": [
@@ -399,68 +554,27 @@ window.JOHN_SWAHN_MUSIC = {
         ],
         [
           "Janne Eriksson",
-          "gitarr på Chronophobia"
+          "gitarr · flertalet utgåvor"
         ],
         [
           "Povel Hogdal",
-          "medverkar på Through The Hourglass"
+          "medverkar på utvalda utgåvor"
         ],
         [
           "Martin Olsson",
-          "medverkar på Through The Hourglass"
+          "medverkar genom diskografin"
         ]
       ],
       "links": [],
       "artwork": "assets/aphophis/2026-chronophobia-front.jpg",
       "releaseCount": 13,
-      "trackCount": 127
-    },
-    {
-      "name": "Develop",
-      "slug": "develop",
-      "years": "1990",
-      "genre": "Metal",
-      "location": "",
-      "role": "",
-      "summary": "Develops Fret från 1990 består av elva spår från den tidiga delen av Johns musikaliska karriär.",
-      "members": [],
-      "links": [],
-      "artwork": "",
-      "releaseCount": 1,
-      "trackCount": 11
-    },
-    {
-      "name": "Edison",
-      "slug": "edison",
-      "years": "1990",
-      "genre": "Rock",
-      "location": "",
-      "role": "",
-      "summary": "Edison spelade in fyra spår 1990 under titeln God Blessed Rock'n'roll.",
-      "members": [],
-      "links": [],
-      "artwork": "",
-      "releaseCount": 1,
-      "trackCount": 4
-    },
-    {
-      "name": "Twilight",
-      "slug": "twilight",
-      "years": "1987",
-      "genre": "Rock",
-      "location": "",
-      "role": "Keyboard",
-      "summary": "Twilights Rock You från 1987 består av två spår, Rock You och Edge of Lies. John Swahn medverkar på keyboard.",
-      "members": [
-        [
-          "John Swahn",
-          "keyboard"
-        ]
-      ],
-      "links": [],
-      "artwork": "",
-      "releaseCount": 1,
-      "trackCount": 2
+      "trackCount": 127,
+      "history": [
+        "Aphophis startade 2008 och blev Johns mest omfattande senare studioband, med John på sång, gitarr och programmering.",
+        "Janne Eriksson medverkar på Aphophis-utgåvorna med undantag för Dynasties och The Aphophis Universe, Phase One och Phase Two.",
+        "Povel Hogdal medverkar på utgåvorna fram till och med The Spherical Waltz, med undantag för Hieroglyphs och Symphony for the Devil. Han medverkar dessutom på Through The Hourglass.",
+        "Martin Olsson anges som medverkande genom Aphophis-diskografin."
+      ]
     }
   ],
   "releases": [
@@ -506,9 +620,9 @@ window.JOHN_SWAHN_MUSIC = {
       "cover": "",
       "url": "releases/1987-twilight-rock-you.html",
       "trackCount": 2,
-      "description": "Rock You är en tvåspårsinspelning från 1987 med låtarna Rock You och Edge of Lies. John Swahn medverkar på keyboard.",
+      "description": "Rock You är en tvåspårig Twilight-inspelning från 1987. John Swahn medverkar på sång och keyboard.",
       "credits": [
-        "John Swahn — keyboard"
+        "John Swahn — sång, keyboard"
       ],
       "details": [],
       "manualTracks": [],
@@ -640,7 +754,7 @@ window.JOHN_SWAHN_MUSIC = {
       ]
     },
     {
-      "year": "1989",
+      "year": "1988",
       "title": "Live",
       "project": "Desecrate",
       "projectRaw": "Desecrate",
@@ -652,18 +766,17 @@ window.JOHN_SWAHN_MUSIC = {
       "cover": "assets/desecrate/1988-band-photo-collage.png",
       "url": "releases/1989-desecrate-live.html",
       "trackCount": 5,
-      "description": "Fem bevarade liveinspelningar från Desecrates första period. Second Death, Angels Fuck och Scooby Dooaaauöö II spelades in vid bandets första konsert på Storvreta Fritidsgård den 25 november 1988. Possessor of Life och Scooby Dooaaauöö III kommer från Nybygården.",
+      "description": "Live samlar fem bevarade Desecrate-inspelningar från 1988. Tre spår kommer från bandets första konsert på Storvreta Fritidsgård den 25 november och två från Nybygården.",
       "credits": [
         "John S. Swahn — sång",
         "Rickard B. Ceder — gitarr",
         "Jakob “Kobben” Bergström — trummor",
         "Måns Magnusson — gitarr",
-        "Mårten Korkman — bas i den tidiga livesättningen"
+        "Mårten “Kokken” Korkman — bas i den tidiga livesättningen"
       ],
       "details": [
-        "Second Death, Angels Fuck och Scooby Dooaaauöö II: Storvreta Fritidsgård, 25 november 1988.",
-        "Possessor of Life och Scooby Dooaaauöö III: Nybygården, datum okänt.",
-        "Studioupptagningen av Second Death och Possessor of Life raderades av misstag under slutmixen; låtarna finns därför bevarade från den perioden genom liveinspelningarna."
+        "Second Death, Angels Fuck och Scooby Dooaaauöö II — Storvreta Fritidsgård, 25 november 1988.",
+        "Possessor of Life och Scooby Dooaaauöö III — Nybygården, datum okänt."
       ],
       "manualTracks": [],
       "gallery": [
@@ -735,7 +848,11 @@ window.JOHN_SWAHN_MUSIC = {
       "url": "releases/1990-edison-god-blessed-rock-n-roll.html",
       "trackCount": 4,
       "description": "God Blessed Rock'n'roll är en fyraspårsinspelning från 1990.",
-      "credits": [],
+      "credits": [
+        "John Swahn — medlem",
+        "Jakob “Kobben” Bergström — medlem",
+        "Mårten “Kokken” Korkman — medlem"
+      ],
       "details": [],
       "manualTracks": [],
       "gallery": []
@@ -788,9 +905,14 @@ window.JOHN_SWAHN_MUSIC = {
       "bandSlug": "big-november",
       "cover": "assets/big-november/1991-nyby-fritidsgard-front.png",
       "url": "releases/1991-big-november-wonders-of-devotion-i-ii.html",
-      "trackCount": 0,
+      "trackCount": 15,
       "description": "Wonders Of Devotion I & II från 1991 innehåller femton spår, med både studioinspelningar och liveversioner.",
-      "credits": [],
+      "credits": [
+        "John Swahn — sång",
+        "Magnus Wijk — gitarr",
+        "Mårten “Kokken” Korkman — bas",
+        "Fredrik Persson — trummor"
+      ],
       "details": [
         "Innehåller The Crunge (Led Zeppelin), även live, samt en liveversion av Smoke on the Water (Deep Purple)."
       ],
@@ -811,14 +933,13 @@ window.JOHN_SWAHN_MUSIC = {
       "bandSlug": "big-november",
       "cover": "assets/big-november/1991-nyby-fritidsgard-front.png",
       "url": "releases/1991-big-november-mirrors-do-the-talkin.html",
-      "trackCount": 0,
-      "description": "Mirrors Do The Talkin’ med John Swahn’s Big November finns på Nyby Fritidsgård-samlingen från 1991. John står för sång, text och musik.",
+      "trackCount": 1,
+      "description": "Mirrors Do The Talkin’ med John Swahn’s Big November finns på Nyby Fritidsgård-samlingen från 1991. John sjunger och Mårten “Kokken” Korkman spelar bas tillsammans med Magnus Wijk på gitarr och Fredrik Persson på trummor.",
       "credits": [
-        "John Swahn — sång, text & musik",
-        "Malte Lilja — gitarr",
-        "Jan Öhrlund — bas",
-        "Gunnar Sjölinder — trummor",
-        "Arrangemang — Big November"
+        "John Swahn — sång",
+        "Magnus Wijk — gitarr",
+        "Mårten “Kokken” Korkman — bas",
+        "Fredrik Persson — trummor"
       ],
       "details": [],
       "manualTracks": [],
@@ -870,7 +991,7 @@ window.JOHN_SWAHN_MUSIC = {
       "cover": "assets/almost-human/1999-the-sweet-revenge-of-mitzi-dupree.gif",
       "url": "releases/1999-almost-human-the-sweet-revenge-of-mitzi-dupree.html",
       "trackCount": 5,
-      "description": "The Sweet Revenge Of Mitzi Dupree är Almost Humans första demo. Den spelades in på Egg shell studio i Enköping den 4–5 januari 1999. Titeln bevarar ett av de tidiga namnförslagen, Mitzi Dupree, medan omslaget är märkt Almost Human.",
+      "description": "The Sweet Revenge Of Mitzi Dupree är Almost Humans första demo, inspelad på Egg shell studio i Enköping den 4–5 januari 1999. Titeln kombinerar två tidiga namnförslag — Sweet Revenge och Mitzi Dupree — medan omslaget är märkt Almost Human.",
       "credits": [
         "John Swahn — sång",
         "Hendri d'Ranged — gitarr",
@@ -881,7 +1002,8 @@ window.JOHN_SWAHN_MUSIC = {
       "details": [
         "Demo 1.",
         "Inspelad och mixad på Egg shell studio, Enköping, 4–5 januari 1999.",
-        "Mitzi Dupree förekom som ett tidigt namnförslag; den färdiga demon är märkt Almost Human."
+        "Mitzi Dupree hämtades från Deep Purple-låten med samma namn.",
+        "Sweet Revenge var ett annat tidigt namnförslag; de två namnen kombinerades i demotiteln."
       ],
       "manualTracks": [],
       "gallery": [
@@ -1206,6 +1328,10 @@ window.JOHN_SWAHN_MUSIC = {
       "trackCount": 5,
       "description": "Principle of Evil är Aphophis femspåriga EP från 2008, producerad av John Swahn.",
       "credits": [
+        "John Swahn — sång, gitarr, programmering",
+        "Janne Eriksson — gitarr",
+        "Povel Hogdal — medverkar",
+        "Martin Olsson — medverkar",
         "Producerad av John Swahn"
       ],
       "details": [
@@ -1231,7 +1357,12 @@ window.JOHN_SWAHN_MUSIC = {
       "url": "releases/2008-aphophis-principle-of-evil-bonus-trax.html",
       "trackCount": 4,
       "description": "Principle of Evil Bonus Trax innehåller fyra bonusspår från 2008.",
-      "credits": [],
+      "credits": [
+        "John Swahn — sång, gitarr, programmering",
+        "Janne Eriksson — gitarr",
+        "Povel Hogdal — medverkar",
+        "Martin Olsson — medverkar"
+      ],
       "details": [
         "Bonusutgåvan innehåller bland annat In League with Satan (Venom) och Czardas (Vittorio Monti)."
       ],
@@ -1317,7 +1448,12 @@ window.JOHN_SWAHN_MUSIC = {
       "url": "releases/2009-aphophis-the-books-of-overthrowing-apep.html",
       "trackCount": 6,
       "description": "The Books Of Overthrowing Apep från 2009 innehåller sex spår.",
-      "credits": [],
+      "credits": [
+        "John Swahn — sång, gitarr, programmering",
+        "Janne Eriksson — gitarr",
+        "Povel Hogdal — medverkar",
+        "Martin Olsson — medverkar"
+      ],
       "details": [],
       "manualTracks": [],
       "gallery": [
@@ -1360,7 +1496,12 @@ window.JOHN_SWAHN_MUSIC = {
       "url": "releases/2010-aphophis-sarcophagus.html",
       "trackCount": 10,
       "description": "Sarcophagus från 2010 innehåller tio spår.",
-      "credits": [],
+      "credits": [
+        "John Swahn — sång, gitarr, programmering",
+        "Janne Eriksson — gitarr",
+        "Povel Hogdal — medverkar",
+        "Martin Olsson — medverkar"
+      ],
       "details": [
         "In League with Satan är en Venom-cover."
       ],
@@ -1407,7 +1548,11 @@ window.JOHN_SWAHN_MUSIC = {
       "url": "releases/2012-aphophis-hieroglyphs.html",
       "trackCount": 12,
       "description": "Hieroglyphs från 2012 innehåller tolv spår.",
-      "credits": [],
+      "credits": [
+        "John Swahn — sång, gitarr, programmering",
+        "Janne Eriksson — gitarr",
+        "Martin Olsson — medverkar"
+      ],
       "details": [],
       "manualTracks": [],
       "gallery": [
@@ -1428,7 +1573,11 @@ window.JOHN_SWAHN_MUSIC = {
       "url": "releases/2012-aphophis-symphony-for-the-devil.html",
       "trackCount": 10,
       "description": "Symphony for the Devil från 2012 innehåller tio spår.",
-      "credits": [],
+      "credits": [
+        "John Swahn — sång, gitarr, programmering",
+        "Janne Eriksson — gitarr",
+        "Martin Olsson — medverkar"
+      ],
       "details": [],
       "manualTracks": [],
       "gallery": [
@@ -1449,7 +1598,12 @@ window.JOHN_SWAHN_MUSIC = {
       "url": "releases/2016-aphophis-the-spherical-waltz.html",
       "trackCount": 10,
       "description": "The Spherical Waltz från 2016 innehåller tio spår.",
-      "credits": [],
+      "credits": [
+        "John Swahn — sång, gitarr, programmering",
+        "Janne Eriksson — gitarr",
+        "Povel Hogdal — medverkar",
+        "Martin Olsson — medverkar"
+      ],
       "details": [
         "Albumet innehåller bland annat Moonage Daydream (David Bowie) och The Temples of Syrinx (Rush)."
       ],
@@ -1474,6 +1628,9 @@ window.JOHN_SWAHN_MUSIC = {
       "trackCount": 12,
       "description": "Exit Space Left är ett tolvlåtarsalbum från 2024, producerat av John Swahn och inspelat och mixat på Electric Crypt.",
       "credits": [
+        "John Swahn — sång, gitarr, programmering",
+        "Janne Eriksson — gitarr",
+        "Martin Olsson — medverkar",
         "John Swahn — produktion"
       ],
       "details": [
@@ -1503,7 +1660,11 @@ window.JOHN_SWAHN_MUSIC = {
       "url": "releases/2024-aphophis-exit-space-leftovers.html",
       "trackCount": 15,
       "description": "Exit Space Leftovers från 2024 innehåller femton spår, med både eget material och tolkningar.",
-      "credits": [],
+      "credits": [
+        "John Swahn — sång, gitarr, programmering",
+        "Janne Eriksson — gitarr",
+        "Martin Olsson — medverkar"
+      ],
       "details": [
         "Innehåller flera covers, bland annat Bob Marley & The Wailers, Carole King, Pink Floyd, Vittorio Monti och The Beatles."
       ],
@@ -1527,10 +1688,10 @@ window.JOHN_SWAHN_MUSIC = {
       "trackCount": 11,
       "description": "Through The Hourglass innehåller elva spår från 2024 och återvänder till musik från flera delar av Aphophis katalog. Inspelad och mixad på Studio Nafta och Electric Crypt.",
       "credits": [
-        "John Swahn",
-        "Janne Eriksson",
-        "Povel Hogdal",
-        "Martin Olsson",
+        "John Swahn — sång, gitarr, programmering",
+        "Janne Eriksson — gitarr",
+        "Povel Hogdal — medverkar",
+        "Martin Olsson — medverkar",
         "Producerad av John Swahn"
       ],
       "details": [
@@ -1578,7 +1739,10 @@ window.JOHN_SWAHN_MUSIC = {
       "url": "releases/2025-aphophis-dynasties.html",
       "trackCount": 16,
       "description": "Dynasties är Aphophis KISS-coveralbum från 2025: sexton tolkningar hämtade från olika delar av KISS katalog.",
-      "credits": [],
+      "credits": [
+        "John Swahn — sång, gitarr, programmering",
+        "Martin Olsson — medverkar"
+      ],
       "details": [
         "16 spår · samtliga KISS-covers."
       ],
@@ -1601,7 +1765,10 @@ window.JOHN_SWAHN_MUSIC = {
       "url": "releases/2025-aphophis-the-aphophis-universe-phase-one.html",
       "trackCount": 6,
       "description": "The Aphophis Universe, Phase One från 2025 innehåller sex spår.",
-      "credits": [],
+      "credits": [
+        "John Swahn — sång, gitarr, programmering",
+        "Martin Olsson — medverkar"
+      ],
       "details": [],
       "manualTracks": [],
       "gallery": [
@@ -1625,6 +1792,7 @@ window.JOHN_SWAHN_MUSIC = {
       "credits": [
         "John Swahn — sång, gitarr, programmering",
         "Janne Eriksson — gitarr",
+        "Martin Olsson — medverkar",
         "John Swahn — produktion och mix"
       ],
       "details": [
@@ -1679,6 +1847,59 @@ window.JOHN_SWAHN_MUSIC = {
       "gallery": [
         "assets/desecrate/2026-second-death-cover.png"
       ]
+    },
+    {
+      "year": "ca 1986",
+      "title": "Fly Over The Beach",
+      "project": "L.O.V.E.",
+      "projectRaw": "L.O.V.E.",
+      "type": "Demo",
+      "era": "1980s",
+      "id": "1986-love-fly-over-the-beach",
+      "slug": "fly-over-the-beach",
+      "bandSlug": "love",
+      "cover": "",
+      "url": "releases/1986-love-fly-over-the-beach.html",
+      "trackCount": 0,
+      "description": "Fly Over The Beach är en av de två tidigaste kända demoinspelningarna i John Swahns bandhistoria, inspelad med L.O.V.E. under 1986-perioden.",
+      "credits": [
+        "John Swahn — medlem",
+        "Jakob “Kobben” Bergström — medlem",
+        "Mårten “Kokken” Korkman — medlem",
+        "Magnus Berger — medlem"
+      ],
+      "details": [
+        "L.O.V.E. gjorde sin första konsert på Nybyskolan i mars 1986.",
+        "En video gjordes till Fly Over The Beach.",
+        "Exakt inspelningsdatum och komplett låtlista är inte fastställda."
+      ],
+      "manualTracks": [],
+      "gallery": [],
+      "releaseOrder": 1
+    },
+    {
+      "year": "ca 1986",
+      "title": "Change Our Minds",
+      "project": "Fury",
+      "projectRaw": "Fury",
+      "type": "Demo",
+      "era": "1980s",
+      "id": "1986-fury-change-our-minds",
+      "slug": "change-our-minds",
+      "bandSlug": "fury",
+      "cover": "",
+      "url": "releases/1986-fury-change-our-minds.html",
+      "trackCount": 0,
+      "description": "Change Our Minds spelades in efter att L.O.V.E. hade bytt namn till Fury. John Swahn spelar enbart keyboard på demon.",
+      "credits": [
+        "John Swahn — keyboard"
+      ],
+      "details": [
+        "Exakt inspelningsdatum och komplett låtlista är inte fastställda."
+      ],
+      "manualTracks": [],
+      "gallery": [],
+      "releaseOrder": 1
     }
   ],
   "otherRecordings": [

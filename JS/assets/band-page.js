@@ -17,7 +17,7 @@
     .map(x=>`<span>${esc(x)}</span>`).join('');
 
   const c=document.getElementById('bandHeroCover');
-  if(b.artwork)c.innerHTML=`<img src="../${b.artwork}" alt="${esc(b.name)}">`;
+  if(b.artwork)c.innerHTML=`<img src="../${b.artwork}" alt="${esc(b.name)}">`;else c.innerHTML=`<div class="band-card-blank">${esc(b.mark||b.name)}</div>`;
 
   const h=document.querySelector('.band-hero-bg');
   const heroBackground=b.heroBackground||b.artwork;

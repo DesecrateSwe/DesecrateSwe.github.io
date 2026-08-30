@@ -302,12 +302,12 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Recording",
     "version": "",
     "credits": [
-      "John Swahn — keyboard"
+      "John Swahn — sång, keyboard"
     ],
     "audio": "https://audio.desecrate.se/Twilight/1987%20-%20Rock%20You/01%20-%20Rock%20You.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Original 1987 Twilight audio supplied from the John Swahn archive.",
+    "notes": "Twilight-inspelning från 1987 med John Swahn på sång och keyboard.",
     "sourceCard": "",
     "sourceFile": "",
     "source": "Audio",
@@ -328,12 +328,12 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Recording",
     "version": "",
     "credits": [
-      "John Swahn — keyboard"
+      "John Swahn — sång, keyboard"
     ],
     "audio": "https://audio.desecrate.se/Twilight/1987%20-%20Rock%20You/02%20-%20Edge%20of%20Lies.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Original 1987 Twilight audio supplied from the John Swahn archive.",
+    "notes": "Twilight-inspelning från 1987 med John Swahn på sång och keyboard.",
     "sourceCard": "",
     "sourceFile": "",
     "source": "Audio",
@@ -975,7 +975,7 @@ window.JOHN_SWAHN_TRACKS = [
     "artist": "Desecrate",
     "project": "Desecrate",
     "release": "Live",
-    "year": "1989",
+    "year": "1988",
     "genre": "Thrash Metal",
     "duration": "04:08",
     "trackNumber": "01",
@@ -999,7 +999,7 @@ window.JOHN_SWAHN_TRACKS = [
     "artist": "Desecrate",
     "project": "Desecrate",
     "release": "Live",
-    "year": "1989",
+    "year": "1988",
     "genre": "Thrash Metal",
     "duration": "00:21",
     "trackNumber": "02",
@@ -1023,7 +1023,7 @@ window.JOHN_SWAHN_TRACKS = [
     "artist": "Desecrate",
     "project": "Desecrate",
     "release": "Live",
-    "year": "1989",
+    "year": "1988",
     "genre": "Thrash Metal",
     "duration": "00:21",
     "trackNumber": "03",
@@ -1047,7 +1047,7 @@ window.JOHN_SWAHN_TRACKS = [
     "artist": "Desecrate",
     "project": "Desecrate",
     "release": "Live",
-    "year": "1989",
+    "year": "1988",
     "genre": "Thrash Metal",
     "duration": "03:35",
     "trackNumber": "04",
@@ -1071,7 +1071,7 @@ window.JOHN_SWAHN_TRACKS = [
     "artist": "Desecrate",
     "project": "Desecrate",
     "release": "Live",
-    "year": "1989",
+    "year": "1988",
     "genre": "Thrash Metal",
     "duration": "00:35",
     "trackNumber": "05",
@@ -1584,7 +1584,12 @@ window.JOHN_SWAHN_TRACKS = [
     "trackNumber": "01",
     "releaseType": "Compilation track",
     "version": "",
-    "credits": [],
+    "credits": [
+      "John Swahn — sång",
+      "Magnus Wijk — gitarr",
+      "Mårten “Kokken” Korkman — bas",
+      "Fredrik Persson — trummor"
+    ],
     "audio": "https://audio.desecrate.se/John%20Swahns%20Big%20November/1991%20-%20Mirrors_Do_the_Talkin/01-John_Swahns_Big_November_-Mirrors_Do_the_Talkin-sWhN.mp3",
     "video": "",
     "lyrics": "",
@@ -1608,7 +1613,12 @@ window.JOHN_SWAHN_TRACKS = [
     "trackNumber": "01",
     "releaseType": "Recording",
     "version": "",
-    "credits": [],
+    "credits": [
+      "John Swahn — sång",
+      "Magnus Wijk — gitarr",
+      "Mårten “Kokken” Korkman — bas",
+      "Fredrik Persson — trummor"
+    ],
     "audio": "https://audio.desecrate.se/John%20Swahns%20Big%20November/1991%20-%20Wonders%20Of%20Devotion%20I%20%26%20II/01%20-%20The%20Presentation.mp3",
     "video": "",
     "lyrics": "",
@@ -1632,7 +1642,12 @@ window.JOHN_SWAHN_TRACKS = [
     "trackNumber": "02",
     "releaseType": "Recording",
     "version": "",
-    "credits": [],
+    "credits": [
+      "John Swahn — sång",
+      "Magnus Wijk — gitarr",
+      "Mårten “Kokken” Korkman — bas",
+      "Fredrik Persson — trummor"
+    ],
     "audio": "https://audio.desecrate.se/John%20Swahns%20Big%20November/1991%20-%20Wonders%20Of%20Devotion%20I%20%26%20II/02%20-%20Lady%20Fortuna.mp3",
     "video": "",
     "lyrics": "",
@@ -1656,7 +1671,12 @@ window.JOHN_SWAHN_TRACKS = [
     "trackNumber": "03",
     "releaseType": "Recording",
     "version": "",
-    "credits": [],
+    "credits": [
+      "John Swahn — sång",
+      "Magnus Wijk — gitarr",
+      "Mårten “Kokken” Korkman — bas",
+      "Fredrik Persson — trummor"
+    ],
     "audio": "https://audio.desecrate.se/John%20Swahns%20Big%20November/1991%20-%20Wonders%20Of%20Devotion%20I%20%26%20II/03%20-%20Mirrors%20%28Do%20The%20Talkin%27%29.mp3",
     "video": "",
     "lyrics": "",
@@ -1680,7 +1700,12 @@ window.JOHN_SWAHN_TRACKS = [
     "trackNumber": "04",
     "releaseType": "Recording",
     "version": "",
-    "credits": [],
+    "credits": [
+      "John Swahn — sång",
+      "Magnus Wijk — gitarr",
+      "Mårten “Kokken” Korkman — bas",
+      "Fredrik Persson — trummor"
+    ],
     "audio": "https://audio.desecrate.se/John%20Swahns%20Big%20November/1991%20-%20Wonders%20Of%20Devotion%20I%20%26%20II/04%20-%20Neapel%20Rain.mp3",
     "video": "",
     "lyrics": "",
@@ -1705,6 +1730,10 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Recording",
     "version": "Cover · Led Zeppelin",
     "credits": [
+      "John Swahn — sång",
+      "Magnus Wijk — gitarr",
+      "Mårten “Kokken” Korkman — bas",
+      "Fredrik Persson — trummor",
       "Original / cover source: Led Zeppelin"
     ],
     "audio": "https://audio.desecrate.se/John%20Swahns%20Big%20November/1991%20-%20Wonders%20Of%20Devotion%20I%20%26%20II/05%20-%20The%20Crunge.mp3",
@@ -1731,7 +1760,12 @@ window.JOHN_SWAHN_TRACKS = [
     "trackNumber": "06",
     "releaseType": "Recording",
     "version": "",
-    "credits": [],
+    "credits": [
+      "John Swahn — sång",
+      "Magnus Wijk — gitarr",
+      "Mårten “Kokken” Korkman — bas",
+      "Fredrik Persson — trummor"
+    ],
     "audio": "https://audio.desecrate.se/John%20Swahns%20Big%20November/1991%20-%20Wonders%20Of%20Devotion%20I%20%26%20II/06%20-%20Sign%20On%20The%20Wall.mp3",
     "video": "",
     "lyrics": "",
@@ -1755,7 +1789,12 @@ window.JOHN_SWAHN_TRACKS = [
     "trackNumber": "07",
     "releaseType": "Recording",
     "version": "",
-    "credits": [],
+    "credits": [
+      "John Swahn — sång",
+      "Magnus Wijk — gitarr",
+      "Mårten “Kokken” Korkman — bas",
+      "Fredrik Persson — trummor"
+    ],
     "audio": "https://audio.desecrate.se/John%20Swahns%20Big%20November/1991%20-%20Wonders%20Of%20Devotion%20I%20%26%20II/07%20-%20Good%20Girls%2C%20Bad%20Girls.mp3",
     "video": "",
     "lyrics": "",
@@ -1779,7 +1818,12 @@ window.JOHN_SWAHN_TRACKS = [
     "trackNumber": "08",
     "releaseType": "Recording",
     "version": "",
-    "credits": [],
+    "credits": [
+      "John Swahn — sång",
+      "Magnus Wijk — gitarr",
+      "Mårten “Kokken” Korkman — bas",
+      "Fredrik Persson — trummor"
+    ],
     "audio": "https://audio.desecrate.se/John%20Swahns%20Big%20November/1991%20-%20Wonders%20Of%20Devotion%20I%20%26%20II/08%20-%20Sharpshooter.mp3",
     "video": "",
     "lyrics": "",
@@ -1803,7 +1847,12 @@ window.JOHN_SWAHN_TRACKS = [
     "trackNumber": "09",
     "releaseType": "Recording",
     "version": "",
-    "credits": [],
+    "credits": [
+      "John Swahn — sång",
+      "Magnus Wijk — gitarr",
+      "Mårten “Kokken” Korkman — bas",
+      "Fredrik Persson — trummor"
+    ],
     "audio": "https://audio.desecrate.se/John%20Swahns%20Big%20November/1991%20-%20Wonders%20Of%20Devotion%20I%20%26%20II/09%20-%20Birds%20On%20The%20Bridge.mp3",
     "video": "",
     "lyrics": "",
@@ -1827,7 +1876,12 @@ window.JOHN_SWAHN_TRACKS = [
     "trackNumber": "10",
     "releaseType": "Recording",
     "version": "",
-    "credits": [],
+    "credits": [
+      "John Swahn — sång",
+      "Magnus Wijk — gitarr",
+      "Mårten “Kokken” Korkman — bas",
+      "Fredrik Persson — trummor"
+    ],
     "audio": "https://audio.desecrate.se/John%20Swahns%20Big%20November/1991%20-%20Wonders%20Of%20Devotion%20I%20%26%20II/10%20-%20Lady%20Fortuna%20%5Blive%5D.mp3",
     "video": "",
     "lyrics": "",
@@ -1851,7 +1905,12 @@ window.JOHN_SWAHN_TRACKS = [
     "trackNumber": "11",
     "releaseType": "Recording",
     "version": "",
-    "credits": [],
+    "credits": [
+      "John Swahn — sång",
+      "Magnus Wijk — gitarr",
+      "Mårten “Kokken” Korkman — bas",
+      "Fredrik Persson — trummor"
+    ],
     "audio": "https://audio.desecrate.se/John%20Swahns%20Big%20November/1991%20-%20Wonders%20Of%20Devotion%20I%20%26%20II/11%20-%20Mirrors%20%20%5Blive%5D.mp3",
     "video": "",
     "lyrics": "",
@@ -1876,6 +1935,10 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Recording",
     "version": "Cover · Deep Purple",
     "credits": [
+      "John Swahn — sång",
+      "Magnus Wijk — gitarr",
+      "Mårten “Kokken” Korkman — bas",
+      "Fredrik Persson — trummor",
       "Original / cover source: Deep Purple"
     ],
     "audio": "https://audio.desecrate.se/John%20Swahns%20Big%20November/1991%20-%20Wonders%20Of%20Devotion%20I%20%26%20II/12%20-%20Smoke%20On%20The%20Water%20%20%5Blive%5D.mp3",
@@ -1902,7 +1965,12 @@ window.JOHN_SWAHN_TRACKS = [
     "trackNumber": "13",
     "releaseType": "Recording",
     "version": "",
-    "credits": [],
+    "credits": [
+      "John Swahn — sång",
+      "Magnus Wijk — gitarr",
+      "Mårten “Kokken” Korkman — bas",
+      "Fredrik Persson — trummor"
+    ],
     "audio": "https://audio.desecrate.se/John%20Swahns%20Big%20November/1991%20-%20Wonders%20Of%20Devotion%20I%20%26%20II/13%20-%20Neapel%20Rain%20%5Blive%5D.mp3",
     "video": "",
     "lyrics": "",
@@ -1926,7 +1994,12 @@ window.JOHN_SWAHN_TRACKS = [
     "trackNumber": "14",
     "releaseType": "Recording",
     "version": "",
-    "credits": [],
+    "credits": [
+      "John Swahn — sång",
+      "Magnus Wijk — gitarr",
+      "Mårten “Kokken” Korkman — bas",
+      "Fredrik Persson — trummor"
+    ],
     "audio": "https://audio.desecrate.se/John%20Swahns%20Big%20November/1991%20-%20Wonders%20Of%20Devotion%20I%20%26%20II/14%20-%20Sign%20On%20The%20Wall%20%20%5Blive%5D.mp3",
     "video": "",
     "lyrics": "",
@@ -1951,6 +2024,10 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Recording",
     "version": "Cover · Led Zeppelin",
     "credits": [
+      "John Swahn — sång",
+      "Magnus Wijk — gitarr",
+      "Mårten “Kokken” Korkman — bas",
+      "Fredrik Persson — trummor",
       "Original / cover source: Led Zeppelin"
     ],
     "audio": "https://audio.desecrate.se/John%20Swahns%20Big%20November/1991%20-%20Wonders%20Of%20Devotion%20I%20%26%20II/15%20-%20The%20Crunge%20%20%5Blive%5D.mp3",
