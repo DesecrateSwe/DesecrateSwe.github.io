@@ -58,7 +58,7 @@ window.JOHN_SWAHN_MUSIC = {
       "trackCount": 0,
       "history": [
         "Efter tiden som L.O.V.E. bytte bandet namn till Fury. Under Fury-perioden spelades demon Change Our Minds in.",
-        "På Change Our Minds medverkar John endast på keyboard."
+        "På Change Our Minds spelar John enbart keyboard."
       ]
     },
     {
@@ -91,7 +91,7 @@ window.JOHN_SWAHN_MUSIC = {
       "genre": "Rock",
       "location": "",
       "role": "Sång · keyboard",
-      "summary": "Twilight följde efter Don Quixote under Johns tidiga Uppsala-period. På Rock You från 1987 medverkar John Swahn på sång och keyboard.",
+      "summary": "Twilight följde efter Don Quixote under Johns tidiga Uppsala-period. På Rock You från 1987 sjunger John Swahn och spelar keyboard.",
       "members": [
         [
           "John Swahn",
@@ -104,7 +104,7 @@ window.JOHN_SWAHN_MUSIC = {
       "trackCount": 2,
       "history": [
         "Twilight kom efter Johns tid i Don Quixote och blev nästa steg i den tidiga bandhistoriken före Desecrate.",
-        "På inspelningen Rock You från 1987 står John för sång och keyboard."
+        "På Rock You från 1987 sjunger John och spelar keyboard."
       ]
     },
     {
@@ -114,7 +114,7 @@ window.JOHN_SWAHN_MUSIC = {
       "genre": "Thrash metal",
       "location": "Uppsala",
       "role": "Sång · gitarr",
-      "summary": "Equinox var ett Uppsala-band med rötter i den sena 1980-talets thrash metal. Bandet spelade in Kidkkus! 1987 och Zzzzzzyzzzzzz 1988. Därutöver finns en mycket begränsad promo med titeln The Promotion Friend, som enligt John gjordes i ett enda exemplar och skickades till Niklas Pettersson på fanzinet Flotzilla.",
+      "summary": "Equinox var ett Uppsalaband med rötter i thrashscenen under slutet av 1980-talet. Bandet spelade in Kidkkus! 1987 och Zzzzzzyzzzzzz 1988. Därutöver finns en mycket begränsad promo med titeln The Promotion Friend, som enligt John gjordes i ett enda exemplar och skickades till Niklas Pettersson på fanzinet Flotzilla.",
       "members": [
         [
           "John S. Swahn",
@@ -158,7 +158,7 @@ window.JOHN_SWAHN_MUSIC = {
       "genre": "Thrash metal",
       "location": "Uppsala",
       "role": "Sång",
-      "summary": "Desecrate bildades i Uppsala 1988 ur samma sena 80-talsscen där John Swahn, Rickard Ceder och Jakob “Kobben” Bergström redan spelat tillsammans. Bandet hann göra tre demos, spela runt Uppsala och utveckla en rå thrash metal som blev mer teknisk under 1989. Efter splittringen 1990 återvände materialet 2026 på debutalbumet Second Death.",
+      "summary": "Desecrate bildades i Uppsala 1988 ur samma musikscen där John Swahn, Rickard Ceder och Jakob “Kobben” Bergström redan hade spelat tillsammans. Bandet hann göra tre demos, spela runt Uppsala och utveckla en rå thrash metal som blev mer teknisk under 1989. Efter splittringen 1990 återvände materialet 2026 på debutalbumet Second Death.",
       "members": [
         [
           "John S. Swahn",
@@ -328,7 +328,7 @@ window.JOHN_SWAHN_MUSIC = {
       "genre": "Rock",
       "location": "Uppsala",
       "role": "Sång · låtskrivare",
-      "summary": "John Swahn’s Big November var aktivt 1991 med John Swahn på sång, Magnus Wijk på gitarr, Mårten “Kokken” Korkman på bas och Fredrik Persson på trummor.",
+      "summary": "John Swahn’s Big November var ett band från 1991 med John Swahn som sångare, Magnus Wijk på gitarr, Mårten “Kokken” Korkman på bas och Fredrik Persson på trummor.",
       "members": [
         [
           "John Swahn",
@@ -443,15 +443,15 @@ window.JOHN_SWAHN_MUSIC = {
       "genre": "Punk rock / rock",
       "location": "Uppsala, Sweden",
       "role": "Sång · körsång",
-      "summary": "The Unkinds är ett punkrockband från Uppsala, bildat 1995. John Swahn medverkade som sångare på promo-CD:n Almost Human 2003 och sjöng senare kör på “Timber”, som gavs ut på samlingen Punkjävlar... En Hyllning Till Eddie Meduza 2005.",
+      "summary": "The Unkinds är ett punkrockband från Uppsala, bildat 1995. John Swahn sjöng på promo-CD:n Almost Human 2003 och sjöng senare kör på “Timber”, som gavs ut på samlingen Punkjävlar... En Hyllning Till Eddie Meduza 2005.",
       "members": [
         [
           "John Swahn",
-          "lead vocals"
+          "sång"
         ],
         [
           "Henri d'Ranged",
-          "gitarr · lead vocals på Skit Ner Dig"
+          "gitarr · sång på Skit Ner Dig"
         ],
         [
           "Anders Björk",
@@ -477,7 +477,7 @@ window.JOHN_SWAHN_MUSIC = {
       "trackCount": 15,
       "history": [
         "The Unkinds bildades i Uppsala 1995 och spelade punkrock. Innan John Swahn medverkade hade bandet bland annat gett ut albumen Violence Is A Girl's Best Friend 1998 och Malizia Erotica 2000.",
-        "2003 gav The Unkinds ut promo-CD:n Almost Human. John Swahn sjunger lead vocals på skivan. Henri d'Ranged och Anders Björk spelar gitarr, Johan Asp bas och Andreas Engman trummor. På Skit Ner Dig sjunger Henri d'Ranged lead vocals.",
+        "2003 gav The Unkinds ut promo-CD:n Almost Human. John Swahn sjunger på skivan; på Skit Ner Dig är det Henri d'Ranged som sjunger. Henri d'Ranged och Anders Björk spelar gitarr, Johan Asp bas och Andreas Engman trummor.",
         "2005 medverkade The Unkinds på samlingen Punkjävlar... En Hyllning Till Eddie Meduza med låten Timber. John Swahn sjunger kör på inspelningen."
       ],
       "appearances": [
@@ -500,16 +500,16 @@ window.JOHN_SWAHN_MUSIC = {
       "years": "1998 / 2003–2010 / 2024",
       "genre": "Alternative / rock",
       "location": "",
-      "role": "Sång · gitarr · keyboards · programmering",
+      "role": "Sång · gitarr · keyboard · programmering",
       "summary": "Treebeard tog form kring John Swahns egna låtar efter Almost Human. De första inspelningarna gjordes redan 1998, och 2003 kom debutalbumet The Eldest. Därefter växte Treebeard vidare med Martin Olsson och Janne Eriksson och följdes av en lång rad album och inspelningar.",
       "members": [
         [
           "John Swahn",
-          "sång, gitarr, keyboards/orgel, programmering"
+          "sång, gitarr, keyboard/orgel, programmering"
         ],
         [
           "Martin Olsson",
-          "keyboards, orgel/piano, programmering"
+          "keyboard, orgel/piano, programmering"
         ],
         [
           "Janne Eriksson",
@@ -546,7 +546,7 @@ window.JOHN_SWAHN_MUSIC = {
       "genre": "Metal",
       "location": "",
       "role": "Sång · gitarr · programmering",
-      "summary": "Aphophis är den mest omfattande senare delen av Johns diskografi. Från Principle of Evil 2008 till Chronophobia 2026 löper en tydlig egen studiolinje med John som låtskrivare, musiker och producent.",
+      "summary": "Aphophis är den mest omfattande delen av Johns senare diskografi. Från Principle of Evil 2008 till Chronophobia 2026 löper en tydlig egen studiolinje med John som låtskrivare, musiker och producent.",
       "members": [
         [
           "John Swahn",
@@ -562,7 +562,7 @@ window.JOHN_SWAHN_MUSIC = {
         ],
         [
           "Martin Olsson",
-          "medverkar genom diskografin"
+          "medverkar på samtliga utgåvor"
         ]
       ],
       "links": [],
@@ -573,7 +573,7 @@ window.JOHN_SWAHN_MUSIC = {
         "Aphophis startade 2008 och blev Johns mest omfattande senare studioband, med John på sång, gitarr och programmering.",
         "Janne Eriksson medverkar på Aphophis-utgåvorna med undantag för Dynasties och The Aphophis Universe, Phase One och Phase Two.",
         "Povel Hogdal medverkar på utgåvorna fram till och med The Spherical Waltz, med undantag för Hieroglyphs och Symphony for the Devil. Han medverkar dessutom på Through The Hourglass.",
-        "Martin Olsson anges som medverkande genom Aphophis-diskografin."
+        "Martin Olsson medverkar på samtliga Aphophis-utgåvor."
       ]
     }
   ],
@@ -620,7 +620,7 @@ window.JOHN_SWAHN_MUSIC = {
       "cover": "",
       "url": "releases/1987-twilight-rock-you.html",
       "trackCount": 2,
-      "description": "Rock You är en tvåspårig Twilight-inspelning från 1987. John Swahn medverkar på sång och keyboard.",
+      "description": "Rock You är en tvåspårig Twilight-inspelning från 1987. John Swahn sjunger och spelar keyboard.",
       "credits": [
         "John Swahn — sång, keyboard"
       ],
@@ -641,7 +641,7 @@ window.JOHN_SWAHN_MUSIC = {
       "cover": "assets/desecrate/1988-we-only-make-jokes-cover.png",
       "url": "releases/1988-desecrate-we-only-make-jokes-we-made-you.html",
       "trackCount": 5,
-      "description": "Desecrates första demo spelades in 1988 på en Portastudio på Nyby Fritidsgård. Den femspåriga kassetten gjordes av den ursprungliga trion: John Swahn på sång, Rickard Ceder på gitarr och bas samt Jakob “Kobben” Bergström på trummor.",
+      "description": "Desecrates första demo spelades in 1988 på en Portastudio på Nyby Fritidsgård. På den femspåriga kassetten sjunger John Swahn, Rickard Ceder spelar gitarr och bas och Jakob “Kobben” Bergström spelar trummor.",
       "credits": [
         "John S. Swahn — sång",
         "Rickard B. Ceder — gitarr, bas",
@@ -1104,17 +1104,17 @@ window.JOHN_SWAHN_MUSIC = {
       "cover": "assets/the-unkinds/2003-almost-human-front.jpg",
       "url": "releases/2003-the-unkinds-almost-human.html",
       "trackCount": 6,
-      "description": "Almost Human är The Unkinds sexspåriga promo-CD från 2003. John Swahn sjunger lead vocals på inspelningen.",
+      "description": "Almost Human är The Unkinds sexspåriga promo-CD från 2003. John Swahn sjunger på inspelningen; på Skit Ner Dig är det Henri d'Ranged som sjunger.",
       "credits": [
-        "John Swahn — lead vocals",
-        "Henri d'Ranged — gitarr; lead vocals på Skit Ner Dig",
+        "John Swahn — sång",
+        "Henri d'Ranged — gitarr; sång på Skit Ner Dig",
         "Anders Björk — gitarr",
         "Johan Asp — bas",
         "Andreas Engman — trummor",
         "Carl Wikman — inspelning och mix"
       ],
       "details": [
-        "CD · Promo · Sweden · 2003 · Not On Label.",
+        "CD · promo · Sverige · 2003 · Not On Label.",
         "All musik av Henrik Sundin, förutom Unemployed Hero av John Swahn och Up Your Nose av The Unkinds."
       ],
       "manualTracks": [],
@@ -1228,10 +1228,10 @@ window.JOHN_SWAHN_MUSIC = {
       "cover": "assets/treebeard/2004-anguish-on-parade.gif",
       "url": "releases/2004-treebeard-anguish-on-parade.html",
       "trackCount": 14,
-      "description": "Anguish On Parade är Treebeards andra album, utgivet 2004 på Swahn Song Production. John Swahn står för sång, gitarr, keyboards och programmering tillsammans med Martin Olsson och Janne Eriksson.",
+      "description": "Anguish On Parade är Treebeards andra album, utgivet 2004 på Swahn Song Production. John Swahn står för sång, gitarr, keyboard och programmering tillsammans med Martin Olsson och Janne Eriksson.",
       "credits": [
-        "John Swahn — sång, gitarr, keyboards, programmering",
-        "Martin Olsson — keyboards, programmering",
+        "John Swahn — sång, gitarr, keyboard, programmering",
+        "Martin Olsson — keyboard, programmering",
         "Janne Eriksson — gitarr"
       ],
       "details": [
@@ -1261,8 +1261,8 @@ window.JOHN_SWAHN_MUSIC = {
       "trackCount": 17,
       "description": "Not for Sale är Treebeards album från 2005, utgivet på Swahn Song Production. John Swahn, Martin Olsson och Janne Eriksson utgör kärnan, med flera gäster på enskilda spår.",
       "credits": [
-        "John Swahn — sång, gitarr, keyboards, programmering",
-        "Martin Olsson — keyboards, programmering",
+        "John Swahn — sång, gitarr, keyboard, programmering",
+        "Martin Olsson — keyboard, programmering",
         "Janne Eriksson — gitarr",
         "Martin Sörbom — gitarr på Polly Pure",
         "Micha Weber — sång på 39 Lashes; sång och gitarr på Fishbate",
@@ -1294,10 +1294,10 @@ window.JOHN_SWAHN_MUSIC = {
       "cover": "assets/treebeard/2006-may-contain-small-bones.gif",
       "url": "releases/2006-treebeard-may-contain-small-bones.html",
       "trackCount": 13,
-      "description": "May Contain Small Bones är Treebeards album från 2006. John Swahn står för sång, gitarr, keyboards och programmering, tillsammans med Martin Olsson och Janne Eriksson.",
+      "description": "May Contain Small Bones är Treebeards album från 2006. John Swahn står för sång, gitarr, keyboard och programmering, tillsammans med Martin Olsson och Janne Eriksson.",
       "credits": [
-        "John Swahn — sång, gitarr, keyboards, programmering",
-        "Martin Olsson — keyboards, programmering",
+        "John Swahn — sång, gitarr, keyboard, programmering",
+        "Martin Olsson — keyboard, programmering",
         "Janne Eriksson — gitarr",
         "Povel Hogdal — gitarr på Snowspace"
       ],
@@ -1384,9 +1384,9 @@ window.JOHN_SWAHN_MUSIC = {
       "cover": "assets/treebeard/2008-admiration-front.jpg",
       "url": "releases/2008-treebeard-admiration.html",
       "trackCount": 16,
-      "description": "Admiration är Treebeards sextonspåriga album från 2008. John Swahn står för sång, gitarr, keyboards och programmering.",
+      "description": "Admiration är Treebeards sextonspåriga album från 2008. John Swahn står för sång, gitarr, keyboard och programmering.",
       "credits": [
-        "John Swahn — sång, gitarr, keyboards, programmering"
+        "John Swahn — sång, gitarr, keyboard, programmering"
       ],
       "details": [
         "CD · Album · Sverige · 2008.",

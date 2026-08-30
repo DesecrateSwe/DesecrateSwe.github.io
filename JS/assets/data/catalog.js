@@ -307,7 +307,7 @@ window.JOHN_SWAHN_TRACKS = [
     "audio": "https://audio.desecrate.se/Twilight/1987%20-%20Rock%20You/01%20-%20Rock%20You.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Twilight-inspelning från 1987 med John Swahn på sång och keyboard.",
+    "notes": "Twilight-inspelning från 1987 där John Swahn sjunger och spelar keyboard.",
     "sourceCard": "",
     "sourceFile": "",
     "source": "Audio",
@@ -333,7 +333,7 @@ window.JOHN_SWAHN_TRACKS = [
     "audio": "https://audio.desecrate.se/Twilight/1987%20-%20Rock%20You/02%20-%20Edge%20of%20Lies.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Twilight-inspelning från 1987 med John Swahn på sång och keyboard.",
+    "notes": "Twilight-inspelning från 1987 där John Swahn sjunger och spelar keyboard.",
     "sourceCard": "",
     "sourceFile": "",
     "source": "Audio",
@@ -1150,12 +1150,12 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Demo / cassette",
     "version": "Cover · Ramones",
     "credits": [
-      "Original / cover source: Ramones"
+      "Förlaga: Ramones"
     ],
     "audio": "https://audio.desecrate.se/Desecrate/1989%20-%20Lonely_Disgrace/03-Desecrate-Blietzkrieg_Bop-sWhN.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Coverversion. Original / förlaga: Ramones.",
+    "notes": "Coverversion. Förlaga: Ramones.",
     "sourceCard": "nfo-desecrate-lonely-disgrace-1989",
     "sourceFile": "assets/nfo/desecrate-lonely-disgrace-1989.nfo",
     "source": "NFO",
@@ -1734,12 +1734,12 @@ window.JOHN_SWAHN_TRACKS = [
       "Magnus Wijk — gitarr",
       "Mårten “Kokken” Korkman — bas",
       "Fredrik Persson — trummor",
-      "Original / cover source: Led Zeppelin"
+      "Förlaga: Led Zeppelin"
     ],
     "audio": "https://audio.desecrate.se/John%20Swahns%20Big%20November/1991%20-%20Wonders%20Of%20Devotion%20I%20%26%20II/05%20-%20The%20Crunge.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Coverversion. Original / förlaga: Led Zeppelin.",
+    "notes": "Coverversion. Förlaga: Led Zeppelin.",
     "sourceCard": "",
     "sourceFile": "",
     "source": "R2 audio archive",
@@ -1939,12 +1939,12 @@ window.JOHN_SWAHN_TRACKS = [
       "Magnus Wijk — gitarr",
       "Mårten “Kokken” Korkman — bas",
       "Fredrik Persson — trummor",
-      "Original / cover source: Deep Purple"
+      "Förlaga: Deep Purple"
     ],
     "audio": "https://audio.desecrate.se/John%20Swahns%20Big%20November/1991%20-%20Wonders%20Of%20Devotion%20I%20%26%20II/12%20-%20Smoke%20On%20The%20Water%20%20%5Blive%5D.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Coverversion. Original / förlaga: Deep Purple.",
+    "notes": "Coverversion. Förlaga: Deep Purple.",
     "sourceCard": "",
     "sourceFile": "",
     "source": "R2 audio archive",
@@ -2028,12 +2028,12 @@ window.JOHN_SWAHN_TRACKS = [
       "Magnus Wijk — gitarr",
       "Mårten “Kokken” Korkman — bas",
       "Fredrik Persson — trummor",
-      "Original / cover source: Led Zeppelin"
+      "Förlaga: Led Zeppelin"
     ],
     "audio": "https://audio.desecrate.se/John%20Swahns%20Big%20November/1991%20-%20Wonders%20Of%20Devotion%20I%20%26%20II/15%20-%20The%20Crunge%20%20%5Blive%5D.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Coverversion. Original / förlaga: Led Zeppelin.",
+    "notes": "Coverversion. Förlaga: Led Zeppelin.",
     "sourceCard": "",
     "sourceFile": "",
     "source": "R2 audio archive",
@@ -2295,12 +2295,12 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "EP",
     "version": "Cover · John Lennon",
     "credits": [
-      "Original / cover source: John Lennon"
+      "Förlaga: John Lennon"
     ],
     "audio": "https://audio.desecrate.se/Almost%20Human/2000%20-%20Green_All_Over/02-Almost_Human-Cold_Turkey-sWhN.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Coverversion. Original / förlaga: John Lennon.",
+    "notes": "Coverversion. Förlaga: John Lennon.",
     "sourceCard": "nfo-almost-human-green-all-over-2000",
     "sourceFile": "assets/nfo/almost-human-green-all-over-2000.nfo",
     "source": "NFO",
@@ -2754,12 +2754,12 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Live recording",
     "version": "Cover · Eddie Meduza",
     "credits": [
-      "Original / cover source: Eddie Meduza"
+      "Förlaga: Eddie Meduza"
     ],
     "audio": "https://audio.desecrate.se/The%20Unkinds/2003%20-%20Live_at_Fellini_Uppsala_02-20/02-The_Unkinds-Timber-sWhN.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Coverversion. Original / förlaga: Eddie Meduza.",
+    "notes": "Coverversion. Förlaga: Eddie Meduza.",
     "sourceCard": "nfo-the-unkinds-live-at-fellini-uppsala-02-20-2003",
     "sourceFile": "assets/nfo/the-unkinds-live-fellini-2003.nfo",
     "source": "NFO",
@@ -3669,12 +3669,12 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Album",
     "version": "Cover · Right Said Fred",
     "credits": [
-      "Original / cover source: Right Said Fred"
+      "Förlaga: Right Said Fred"
     ],
     "audio": "https://audio.desecrate.se/Treebeard/2005%20-%20Not_for_Sale/02-Treebeard-Im_Too_Sexy-sWhN.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Coverversion. Original / förlaga: Right Said Fred.",
+    "notes": "Coverversion. Förlaga: Right Said Fred.",
     "sourceCard": "",
     "sourceFile": "",
     "source": "R2 audio archive",
@@ -3912,12 +3912,12 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Album",
     "version": "Cover · Jesus Christ Superstar",
     "credits": [
-      "Original / cover source: Jesus Christ Superstar"
+      "Förlaga: Jesus Christ Superstar"
     ],
     "audio": "https://audio.desecrate.se/Treebeard/2005%20-%20Not_for_Sale/12-Treebeard-39_Lashes-sWhN.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Coverversion. Original / förlaga: Jesus Christ Superstar.",
+    "notes": "Coverversion. Förlaga: Jesus Christ Superstar.",
     "sourceCard": "",
     "sourceFile": "",
     "source": "R2 audio archive",
@@ -4011,12 +4011,12 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Album",
     "version": "Cover · Colorblind James and the Death Valley Boys",
     "credits": [
-      "Original / cover source: Colorblind James and the Death Valley Boys"
+      "Förlaga: Colorblind James and the Death Valley Boys"
     ],
     "audio": "https://audio.desecrate.se/Treebeard/2005%20-%20Not_for_Sale/16-Treebeard-Not_for_Sale-sWhN.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Coverversion. Original / förlaga: Colorblind James and the Death Valley Boys.",
+    "notes": "Coverversion. Förlaga: Colorblind James and the Death Valley Boys.",
     "sourceCard": "",
     "sourceFile": "",
     "source": "R2 audio archive",
@@ -4158,12 +4158,12 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Album",
     "version": "Cover · Queen",
     "credits": [
-      "Original / cover source: Queen"
+      "Förlaga: Queen"
     ],
     "audio": "https://audio.desecrate.se/Treebeard/2006%20-%20May_Contain_Small_Bones/05-Treebeard-Mustapha-sWhN.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Coverversion. Original / förlaga: Queen.",
+    "notes": "Coverversion. Förlaga: Queen.",
     "sourceCard": "",
     "sourceFile": "",
     "source": "R2 audio archive",
@@ -4257,12 +4257,12 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Album",
     "version": "Cover · The Beatles",
     "credits": [
-      "Original / cover source: The Beatles"
+      "Förlaga: The Beatles"
     ],
     "audio": "https://audio.desecrate.se/Treebeard/2006%20-%20May_Contain_Small_Bones/09-Treebeard-What_Goes_on-sWhN.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Coverversion. Original / förlaga: The Beatles.",
+    "notes": "Coverversion. Förlaga: The Beatles.",
     "sourceCard": "",
     "sourceFile": "",
     "source": "R2 audio archive",
@@ -4284,12 +4284,12 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Album",
     "version": "Cover · Kool & The Gang",
     "credits": [
-      "Original / cover source: Kool & The Gang"
+      "Förlaga: Kool & The Gang"
     ],
     "audio": "https://audio.desecrate.se/Treebeard/2006%20-%20May_Contain_Small_Bones/10-Treebeard-Jungle_Metal-sWhN.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Coverversion. Original / förlaga: Kool & The Gang.",
+    "notes": "Coverversion. Förlaga: Kool & The Gang.",
     "sourceCard": "",
     "sourceFile": "",
     "source": "R2 audio archive",
@@ -4335,12 +4335,12 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Album",
     "version": "Cover · KISS",
     "credits": [
-      "Original / cover source: KISS"
+      "Förlaga: KISS"
     ],
     "audio": "https://audio.desecrate.se/Treebeard/2006%20-%20May_Contain_Small_Bones/12-Treebeard-Strange_Ways-sWhN.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Coverversion. Original / förlaga: KISS.",
+    "notes": "Coverversion. Förlaga: KISS.",
     "sourceCard": "",
     "sourceFile": "",
     "source": "R2 audio archive",
@@ -4530,12 +4530,12 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "EP / bonus",
     "version": "Cover · Venom",
     "credits": [
-      "Original / cover source: Venom"
+      "Förlaga: Venom"
     ],
     "audio": "https://audio.desecrate.se/Aphophis/2008%20-%20Principle_of_Evil_Bonus_Trax-%28EP%29/02-Aphophis-In_League_with_Satan_%28Bonus_Track%29-sWhN.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Coverversion. Original / förlaga: Venom.",
+    "notes": "Coverversion. Förlaga: Venom.",
     "sourceCard": "nfo-aphophis-principle-of-evil-bonus-trax-2008",
     "sourceFile": "assets/nfo/aphophis-principle-of-evil-bonus-2008.nfo",
     "source": "NFO",
@@ -4557,12 +4557,12 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "EP / bonus",
     "version": "Cover · Vittorio Monti",
     "credits": [
-      "Original / cover source: Vittorio Monti"
+      "Förlaga: Vittorio Monti"
     ],
     "audio": "https://audio.desecrate.se/Aphophis/2008%20-%20Principle_of_Evil_Bonus_Trax-%28EP%29/03-Aphophis-Czardas_%28Bonus_Track%29-sWhN.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Coverversion. Original / förlaga: Vittorio Monti.",
+    "notes": "Coverversion. Förlaga: Vittorio Monti.",
     "sourceCard": "nfo-aphophis-principle-of-evil-bonus-trax-2008",
     "sourceFile": "assets/nfo/aphophis-principle-of-evil-bonus-2008.nfo",
     "source": "NFO",
@@ -4704,12 +4704,12 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Album",
     "version": "Cover · The Simpsons Theme",
     "credits": [
-      "Original / cover source: The Simpsons Theme"
+      "Förlaga: The Simpsons Theme"
     ],
     "audio": "https://audio.desecrate.se/Treebeard/2008%20-%20Admiration/05-Treebeard-Owed_to_H-sWhN.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Coverversion. Original / förlaga: The Simpsons Theme.",
+    "notes": "Coverversion. Förlaga: The Simpsons Theme.",
     "sourceCard": "",
     "sourceFile": "",
     "source": "R2 audio archive",
@@ -4827,12 +4827,12 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Album",
     "version": "Cover · Rush",
     "credits": [
-      "Original / cover source: Rush"
+      "Förlaga: Rush"
     ],
     "audio": "https://audio.desecrate.se/Treebeard/2008%20-%20Admiration/10-Treebeard-The_Temples_of_Syrinx-sWhN.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Coverversion. Original / förlaga: Rush.",
+    "notes": "Coverversion. Förlaga: Rush.",
     "sourceCard": "",
     "sourceFile": "",
     "source": "R2 audio archive",
@@ -4950,12 +4950,12 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Album",
     "version": "Cover · Talking Heads",
     "credits": [
-      "Original / cover source: Talking Heads"
+      "Förlaga: Talking Heads"
     ],
     "audio": "https://audio.desecrate.se/Treebeard/2008%20-%20Admiration/15-Treebeard-Once_in_Lifetime-sWhN.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Coverversion. Original / förlaga: Talking Heads.",
+    "notes": "Coverversion. Förlaga: Talking Heads.",
     "sourceCard": "",
     "sourceFile": "",
     "source": "R2 audio archive",
@@ -4977,12 +4977,12 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Album",
     "version": "Cover · Indian national anthem",
     "credits": [
-      "Original / cover source: Indian national anthem"
+      "Förlaga: Indian national anthem"
     ],
     "audio": "https://audio.desecrate.se/Treebeard/2008%20-%20Admiration/16-Treebeard-Bharat_Guest_House-sWhN.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Coverversion. Original / förlaga: Indian national anthem.",
+    "notes": "Coverversion. Förlaga: Indian national anthem.",
     "sourceCard": "",
     "sourceFile": "",
     "source": "R2 audio archive",
@@ -5004,12 +5004,12 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Recording",
     "version": "Cover · Pink Floyd",
     "credits": [
-      "Original / cover source: Pink Floyd"
+      "Förlaga: Pink Floyd"
     ],
     "audio": "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin_Board/01-Treebeard-Welcome_to_the_Machine-sWhN.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Coverversion. Original / förlaga: Pink Floyd.",
+    "notes": "Coverversion. Förlaga: Pink Floyd.",
     "sourceCard": "nfo-treebeard-bulletin-board-2008",
     "sourceFile": "assets/nfo/treebeard-bulletin-board-2008.nfo",
     "source": "NFO",
@@ -5127,12 +5127,12 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Recording",
     "version": "Cover · Pee Wee Ellis / Jaco Pastorius version",
     "credits": [
-      "Original / cover source: Pee Wee Ellis / Jaco Pastorius version"
+      "Förlaga: Pee Wee Ellis / Jaco Pastorius version"
     ],
     "audio": "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin_Board/06-Treebeard-Chicken-sWhN.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Coverversion. Original / förlaga: Pee Wee Ellis / Jaco Pastorius version.",
+    "notes": "Coverversion. Förlaga: Pee Wee Ellis / Jaco Pastorius version.",
     "sourceCard": "nfo-treebeard-bulletin-board-2008",
     "sourceFile": "assets/nfo/treebeard-bulletin-board-2008.nfo",
     "source": "NFO",
@@ -5322,12 +5322,12 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Recording",
     "version": "Cover · Grease",
     "credits": [
-      "Original / cover source: Grease"
+      "Förlaga: Grease"
     ],
     "audio": "https://audio.desecrate.se/Treebeard/2008%20-%20Bulletin_Board/14-Treebeard-Look_at_Me_Im_Sandra_Dee_%28Demo%29-sWhN.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Coverversion. Original / förlaga: Grease.",
+    "notes": "Coverversion. Förlaga: Grease.",
     "sourceCard": "nfo-treebeard-bulletin-board-2008",
     "sourceFile": "assets/nfo/treebeard-bulletin-board-2008.nfo",
     "source": "NFO",
@@ -5493,12 +5493,12 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Cover album",
     "version": "Cover · Jesus Christ Superstar",
     "credits": [
-      "Original / cover source: Jesus Christ Superstar"
+      "Förlaga: Jesus Christ Superstar"
     ],
     "audio": "https://audio.desecrate.se/Treebeard/2009%20-%20Dont_Judge_A_Album_by_Its_Cover/01-Treebeard-39_Lashes_%28Jesus_Christ_Superstar_Cover%29-sWhN.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Coverversion. Original / förlaga: Jesus Christ Superstar.",
+    "notes": "Coverversion. Förlaga: Jesus Christ Superstar.",
     "sourceCard": "nfo-treebeard-dont-judge-a-album-by-its-cover-2009",
     "sourceFile": "assets/nfo/treebeard-dont-judge-album-cover-2009.nfo",
     "source": "NFO",
@@ -5520,12 +5520,12 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Cover album",
     "version": "Cover · Pink Floyd",
     "credits": [
-      "Original / cover source: Pink Floyd"
+      "Förlaga: Pink Floyd"
     ],
     "audio": "https://audio.desecrate.se/Treebeard/2009%20-%20Dont_Judge_A_Album_by_Its_Cover/02-Treebeard-Welcome_to_the_Machine_%28Pink_Floyd_Cover%29-sWhN.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Coverversion. Original / förlaga: Pink Floyd.",
+    "notes": "Coverversion. Förlaga: Pink Floyd.",
     "sourceCard": "nfo-treebeard-dont-judge-a-album-by-its-cover-2009",
     "sourceFile": "assets/nfo/treebeard-dont-judge-album-cover-2009.nfo",
     "source": "NFO",
@@ -5547,12 +5547,12 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Cover album",
     "version": "Cover · KISS",
     "credits": [
-      "Original / cover source: KISS"
+      "Förlaga: KISS"
     ],
     "audio": "https://audio.desecrate.se/Treebeard/2009%20-%20Dont_Judge_A_Album_by_Its_Cover/03-Treebeard-Strange_Ways_%28Kiss_Cover%29-sWhN.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Coverversion. Original / förlaga: KISS.",
+    "notes": "Coverversion. Förlaga: KISS.",
     "sourceCard": "nfo-treebeard-dont-judge-a-album-by-its-cover-2009",
     "sourceFile": "assets/nfo/treebeard-dont-judge-album-cover-2009.nfo",
     "source": "NFO",
@@ -5574,12 +5574,12 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Cover album",
     "version": "Cover · The Beatles",
     "credits": [
-      "Original / cover source: The Beatles"
+      "Förlaga: The Beatles"
     ],
     "audio": "https://audio.desecrate.se/Treebeard/2009%20-%20Dont_Judge_A_Album_by_Its_Cover/04-Treebeard-What_Goes_on_%28the_Beatles_Cover%29-sWhN.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Coverversion. Original / förlaga: The Beatles.",
+    "notes": "Coverversion. Förlaga: The Beatles.",
     "sourceCard": "nfo-treebeard-dont-judge-a-album-by-its-cover-2009",
     "sourceFile": "assets/nfo/treebeard-dont-judge-album-cover-2009.nfo",
     "source": "NFO",
@@ -5601,12 +5601,12 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Cover album",
     "version": "Cover · The Simpsons Theme",
     "credits": [
-      "Original / cover source: The Simpsons Theme"
+      "Förlaga: The Simpsons Theme"
     ],
     "audio": "https://audio.desecrate.se/Treebeard/2009%20-%20Dont_Judge_A_Album_by_Its_Cover/05-Treebeard-Owed_to_H_%28Simpson_Theme%29-sWhN.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Coverversion. Original / förlaga: The Simpsons Theme.",
+    "notes": "Coverversion. Förlaga: The Simpsons Theme.",
     "sourceCard": "nfo-treebeard-dont-judge-a-album-by-its-cover-2009",
     "sourceFile": "assets/nfo/treebeard-dont-judge-album-cover-2009.nfo",
     "source": "NFO",
@@ -5628,12 +5628,12 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Cover album",
     "version": "Cover · Kool & The Gang",
     "credits": [
-      "Original / cover source: Kool & The Gang"
+      "Förlaga: Kool & The Gang"
     ],
     "audio": "https://audio.desecrate.se/Treebeard/2009%20-%20Dont_Judge_A_Album_by_Its_Cover/06-Treebeard-Jungle_Metal_%28Kool_and_the_Gang_Cover%29-sWhN.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Coverversion. Original / förlaga: Kool & The Gang.",
+    "notes": "Coverversion. Förlaga: Kool & The Gang.",
     "sourceCard": "nfo-treebeard-dont-judge-a-album-by-its-cover-2009",
     "sourceFile": "assets/nfo/treebeard-dont-judge-album-cover-2009.nfo",
     "source": "NFO",
@@ -5655,12 +5655,12 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Cover album",
     "version": "Cover · Queen",
     "credits": [
-      "Original / cover source: Queen"
+      "Förlaga: Queen"
     ],
     "audio": "https://audio.desecrate.se/Treebeard/2009%20-%20Dont_Judge_A_Album_by_Its_Cover/07-Treebeard-Mustapha_%28the_Queen_Cover%29-sWhN.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Coverversion. Original / förlaga: Queen.",
+    "notes": "Coverversion. Förlaga: Queen.",
     "sourceCard": "nfo-treebeard-dont-judge-a-album-by-its-cover-2009",
     "sourceFile": "assets/nfo/treebeard-dont-judge-album-cover-2009.nfo",
     "source": "NFO",
@@ -5682,12 +5682,12 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Cover album",
     "version": "Cover · Talking Heads",
     "credits": [
-      "Original / cover source: Talking Heads"
+      "Förlaga: Talking Heads"
     ],
     "audio": "https://audio.desecrate.se/Treebeard/2009%20-%20Dont_Judge_A_Album_by_Its_Cover/08-Treebeard-Once_in_Lifetime_%28Talking_Heads_Cover%29-sWhN.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Coverversion. Original / förlaga: Talking Heads.",
+    "notes": "Coverversion. Förlaga: Talking Heads.",
     "sourceCard": "nfo-treebeard-dont-judge-a-album-by-its-cover-2009",
     "sourceFile": "assets/nfo/treebeard-dont-judge-album-cover-2009.nfo",
     "source": "NFO",
@@ -5709,12 +5709,12 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Cover album",
     "version": "Cover · Rush",
     "credits": [
-      "Original / cover source: Rush"
+      "Förlaga: Rush"
     ],
     "audio": "https://audio.desecrate.se/Treebeard/2009%20-%20Dont_Judge_A_Album_by_Its_Cover/09-Treebeard-The_Temples_of_Syrinx_%28Rush_Cover%29-sWhN.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Coverversion. Original / förlaga: Rush.",
+    "notes": "Coverversion. Förlaga: Rush.",
     "sourceCard": "nfo-treebeard-dont-judge-a-album-by-its-cover-2009",
     "sourceFile": "assets/nfo/treebeard-dont-judge-album-cover-2009.nfo",
     "source": "NFO",
@@ -5736,12 +5736,12 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Cover album",
     "version": "Cover · Indian national anthem",
     "credits": [
-      "Original / cover source: Indian national anthem"
+      "Förlaga: Indian national anthem"
     ],
     "audio": "https://audio.desecrate.se/Treebeard/2009%20-%20Dont_Judge_A_Album_by_Its_Cover/10-Treebeard-Bharat_Guest_House_%28India_National_Anthem%29-sWhN.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Coverversion. Original / förlaga: Indian national anthem.",
+    "notes": "Coverversion. Förlaga: Indian national anthem.",
     "sourceCard": "nfo-treebeard-dont-judge-a-album-by-its-cover-2009",
     "sourceFile": "assets/nfo/treebeard-dont-judge-album-cover-2009.nfo",
     "source": "NFO",
@@ -5765,12 +5765,12 @@ window.JOHN_SWAHN_TRACKS = [
     "credits": [
       "Pee Wee Ellis — kompositör",
       "Treebeard-versionen bygger på Jaco Pastorius version",
-      "Original / cover source: Pee Wee Ellis / Jaco Pastorius version"
+      "Förlaga: Pee Wee Ellis / Jaco Pastorius version"
     ],
     "audio": "https://audio.desecrate.se/Treebeard/2009%20-%20Dont_Judge_A_Album_by_Its_Cover/11-Treebeard-Chicken_%28Pee_Wee_Ellis_Cover%29-sWhN.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Komposition av Pee Wee Ellis. Treebeards version bygger på Jaco Pastorius version av låten. Coverversion. Original / förlaga: Pee Wee Ellis / Jaco Pastorius version.",
+    "notes": "Komposition av Pee Wee Ellis. Treebeards version bygger på Jaco Pastorius version av låten. Coverversion. Förlaga: Pee Wee Ellis / Jaco Pastorius version.",
     "sourceCard": "nfo-treebeard-dont-judge-a-album-by-its-cover-2009",
     "sourceFile": "assets/nfo/treebeard-dont-judge-album-cover-2009.nfo",
     "source": "NFO",
@@ -5792,12 +5792,12 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Cover album",
     "version": "Cover · Right Said Fred",
     "credits": [
-      "Original / cover source: Right Said Fred"
+      "Förlaga: Right Said Fred"
     ],
     "audio": "https://audio.desecrate.se/Treebeard/2009%20-%20Dont_Judge_A_Album_by_Its_Cover/12-Treebeard-Im_Too_Sexy_%28Right_Said_Fred_Cover%29-sWhN.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Coverversion. Original / förlaga: Right Said Fred.",
+    "notes": "Coverversion. Förlaga: Right Said Fred.",
     "sourceCard": "nfo-treebeard-dont-judge-a-album-by-its-cover-2009",
     "sourceFile": "assets/nfo/treebeard-dont-judge-album-cover-2009.nfo",
     "source": "NFO",
@@ -5819,12 +5819,12 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Cover album",
     "version": "Cover · Colorblind James and the Death Valley Boys",
     "credits": [
-      "Original / cover source: Colorblind James and the Death Valley Boys"
+      "Förlaga: Colorblind James and the Death Valley Boys"
     ],
     "audio": "https://audio.desecrate.se/Treebeard/2009%20-%20Dont_Judge_A_Album_by_Its_Cover/13-Treebeard-Not_for_Sale_%28Colorblind_James_and_the_Death_Valley_Boys_Cover%29-sWhN.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Coverversion. Original / förlaga: Colorblind James and the Death Valley Boys.",
+    "notes": "Coverversion. Förlaga: Colorblind James and the Death Valley Boys.",
     "sourceCard": "",
     "sourceFile": "",
     "source": "R2 audio archive",
@@ -5894,12 +5894,12 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Recording",
     "version": "Cover · Exciter",
     "credits": [
-      "Original / cover source: Exciter"
+      "Förlaga: Exciter"
     ],
     "audio": "https://audio.desecrate.se/Aphophis/2010%20-%20Sarcophagus/03-aph%C3%B4phis-pounding_metal.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Coverversion. Original / förlaga: Exciter.",
+    "notes": "Coverversion. Förlaga: Exciter.",
     "sourceCard": "",
     "sourceFile": "",
     "source": "R2 audio archive",
@@ -6041,12 +6041,12 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Recording",
     "version": "Cover · Venom",
     "credits": [
-      "Original / cover source: Venom"
+      "Förlaga: Venom"
     ],
     "audio": "https://audio.desecrate.se/Aphophis/2010%20-%20Sarcophagus/09-aph%C3%B4phis-in_league_with_satan.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Coverversion. Original / förlaga: Venom.",
+    "notes": "Coverversion. Förlaga: Venom.",
     "sourceCard": "",
     "sourceFile": "",
     "source": "R2 audio archive",
@@ -6092,12 +6092,12 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "",
     "version": "Cover · Talking Heads",
     "credits": [
-      "Original / cover source: Talking Heads"
+      "Förlaga: Talking Heads"
     ],
     "audio": "https://audio.desecrate.se/Treebeard/2010%20-%20Best_of/01-Treebeard-Once_in_Lifetime-sWhN.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Coverversion. Original / förlaga: Talking Heads.",
+    "notes": "Coverversion. Förlaga: Talking Heads.",
     "sourceCard": "nfo-treebeard-best-of-2010",
     "sourceFile": "assets/nfo/treebeard-best-of-2010.nfo",
     "source": "NFO",
@@ -6119,12 +6119,12 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "",
     "version": "Cover · Pink Floyd",
     "credits": [
-      "Original / cover source: Pink Floyd"
+      "Förlaga: Pink Floyd"
     ],
     "audio": "https://audio.desecrate.se/Treebeard/2010%20-%20Best_of/02-Treebeard-Welcome_to_the_Machine-sWhN.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Coverversion. Original / förlaga: Pink Floyd.",
+    "notes": "Coverversion. Förlaga: Pink Floyd.",
     "sourceCard": "nfo-treebeard-best-of-2010",
     "sourceFile": "assets/nfo/treebeard-best-of-2010.nfo",
     "source": "NFO",
@@ -6194,12 +6194,12 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "",
     "version": "Cover · Queen",
     "credits": [
-      "Original / cover source: Queen"
+      "Förlaga: Queen"
     ],
     "audio": "https://audio.desecrate.se/Treebeard/2010%20-%20Best_of/05-Treebeard-Mustapha-sWhN.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Coverversion. Original / förlaga: Queen.",
+    "notes": "Coverversion. Förlaga: Queen.",
     "sourceCard": "nfo-treebeard-best-of-2010",
     "sourceFile": "assets/nfo/treebeard-best-of-2010.nfo",
     "source": "NFO",
@@ -6413,12 +6413,12 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "",
     "version": "Cover · Jesus Christ Superstar",
     "credits": [
-      "Original / cover source: Jesus Christ Superstar"
+      "Förlaga: Jesus Christ Superstar"
     ],
     "audio": "https://audio.desecrate.se/Treebeard/2010%20-%20Best_of/14-Treebeard-39_Lashes-sWhN.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Coverversion. Original / förlaga: Jesus Christ Superstar.",
+    "notes": "Coverversion. Förlaga: Jesus Christ Superstar.",
     "sourceCard": "nfo-treebeard-best-of-2010",
     "sourceFile": "assets/nfo/treebeard-best-of-2010.nfo",
     "source": "NFO",
@@ -7088,12 +7088,12 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Recording",
     "version": "Cover · David Bowie",
     "credits": [
-      "Original / cover source: David Bowie"
+      "Förlaga: David Bowie"
     ],
     "audio": "https://audio.desecrate.se/Aphophis/2016%20-%20The%20Spherical%20Waltz/06-aph%C3%B4phis-moonage_daydream.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Coverversion. Original / förlaga: David Bowie.",
+    "notes": "Coverversion. Förlaga: David Bowie.",
     "sourceCard": "",
     "sourceFile": "",
     "source": "R2 audio archive",
@@ -7163,12 +7163,12 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Recording",
     "version": "Cover · Rush",
     "credits": [
-      "Original / cover source: Rush"
+      "Förlaga: Rush"
     ],
     "audio": "https://audio.desecrate.se/Aphophis/2016%20-%20The%20Spherical%20Waltz/09-aph%C3%B4phis-the_temples_of_syrinx.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Coverversion. Original / förlaga: Rush.",
+    "notes": "Coverversion. Förlaga: Rush.",
     "sourceCard": "",
     "sourceFile": "",
     "source": "R2 audio archive",
@@ -7598,12 +7598,12 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Recording",
     "version": "Cover · Bob Marley & The Wailers",
     "credits": [
-      "Original / cover source: Bob Marley & The Wailers"
+      "Förlaga: Bob Marley & The Wailers"
     ],
     "audio": "https://audio.desecrate.se/Aphophis/2024%20-%20Exit%20Space%20Leftovers/05%20-%20Three%20Little%20Birds.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Coverversion. Original / förlaga: Bob Marley & The Wailers.",
+    "notes": "Coverversion. Förlaga: Bob Marley & The Wailers.",
     "sourceCard": "",
     "sourceFile": "",
     "source": "R2 audio archive",
@@ -7625,12 +7625,12 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Recording",
     "version": "Cover · Carole King",
     "credits": [
-      "Original / cover source: Carole King"
+      "Förlaga: Carole King"
     ],
     "audio": "https://audio.desecrate.se/Aphophis/2024%20-%20Exit%20Space%20Leftovers/06%20-%20I%20Feel%20the%20Earth%20Move.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Coverversion. Original / förlaga: Carole King.",
+    "notes": "Coverversion. Förlaga: Carole King.",
     "sourceCard": "",
     "sourceFile": "",
     "source": "R2 audio archive",
@@ -7676,12 +7676,12 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Recording",
     "version": "Cover · Pink Floyd",
     "credits": [
-      "Original / cover source: Pink Floyd"
+      "Förlaga: Pink Floyd"
     ],
     "audio": "https://audio.desecrate.se/Aphophis/2024%20-%20Exit%20Space%20Leftovers/08%20-%20The%20Nile%20Song.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Coverversion. Original / förlaga: Pink Floyd.",
+    "notes": "Coverversion. Förlaga: Pink Floyd.",
     "sourceCard": "",
     "sourceFile": "",
     "source": "R2 audio archive",
@@ -7727,12 +7727,12 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Recording",
     "version": "Cover · Vittorio Monti",
     "credits": [
-      "Original / cover source: Vittorio Monti"
+      "Förlaga: Vittorio Monti"
     ],
     "audio": "https://audio.desecrate.se/Aphophis/2024%20-%20Exit%20Space%20Leftovers/10%20-%20Czardas.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Coverversion. Original / förlaga: Vittorio Monti.",
+    "notes": "Coverversion. Förlaga: Vittorio Monti.",
     "sourceCard": "",
     "sourceFile": "",
     "source": "R2 audio archive",
@@ -7802,12 +7802,12 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Recording",
     "version": "Cover · The Beatles",
     "credits": [
-      "Original / cover source: The Beatles"
+      "Förlaga: The Beatles"
     ],
     "audio": "https://audio.desecrate.se/Aphophis/2024%20-%20Exit%20Space%20Leftovers/13%20-%20I%20Am%20The%20Walrus.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Coverversion. Original / förlaga: The Beatles.",
+    "notes": "Coverversion. Förlaga: The Beatles.",
     "sourceCard": "",
     "sourceFile": "",
     "source": "R2 audio archive",
@@ -8503,12 +8503,12 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Cover album",
     "version": "Cover · KISS",
     "credits": [
-      "Original / cover source: KISS"
+      "Förlaga: KISS"
     ],
     "audio": "https://audio.desecrate.se/Aphophis/2025%20-%20Dynasties/01%20-%20Fanfare.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Coverversion. Original / förlaga: KISS.",
+    "notes": "Coverversion. Förlaga: KISS.",
     "sourceCard": "",
     "sourceFile": "",
     "source": "R2 audio archive",
@@ -8530,12 +8530,12 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Cover album",
     "version": "Cover · KISS",
     "credits": [
-      "Original / cover source: KISS"
+      "Förlaga: KISS"
     ],
     "audio": "https://audio.desecrate.se/Aphophis/2025%20-%20Dynasties/02%20-%20Into%20The%20Fire.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Coverversion. Original / förlaga: KISS.",
+    "notes": "Coverversion. Förlaga: KISS.",
     "sourceCard": "",
     "sourceFile": "",
     "source": "R2 audio archive",
@@ -8557,12 +8557,12 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Cover album",
     "version": "Cover · KISS",
     "credits": [
-      "Original / cover source: KISS"
+      "Förlaga: KISS"
     ],
     "audio": "https://audio.desecrate.se/Aphophis/2025%20-%20Dynasties/03%20-%20Parasite.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Coverversion. Original / förlaga: KISS.",
+    "notes": "Coverversion. Förlaga: KISS.",
     "sourceCard": "",
     "sourceFile": "",
     "source": "R2 audio archive",
@@ -8584,12 +8584,12 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Cover album",
     "version": "Cover · KISS",
     "credits": [
-      "Original / cover source: KISS"
+      "Förlaga: KISS"
     ],
     "audio": "https://audio.desecrate.se/Aphophis/2025%20-%20Dynasties/04%20-%20Just%20A%20Boy.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Coverversion. Original / förlaga: KISS.",
+    "notes": "Coverversion. Förlaga: KISS.",
     "sourceCard": "",
     "sourceFile": "",
     "source": "R2 audio archive",
@@ -8611,12 +8611,12 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Cover album",
     "version": "Cover · KISS",
     "credits": [
-      "Original / cover source: KISS"
+      "Förlaga: KISS"
     ],
     "audio": "https://audio.desecrate.se/Aphophis/2025%20-%20Dynasties/05%20-%20Save%20Your%20Love.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Coverversion. Original / förlaga: KISS.",
+    "notes": "Coverversion. Förlaga: KISS.",
     "sourceCard": "",
     "sourceFile": "",
     "source": "R2 audio archive",
@@ -8638,12 +8638,12 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Cover album",
     "version": "Cover · KISS",
     "credits": [
-      "Original / cover source: KISS"
+      "Förlaga: KISS"
     ],
     "audio": "https://audio.desecrate.se/Aphophis/2025%20-%20Dynasties/06%20-%20Only%20You.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Coverversion. Original / förlaga: KISS.",
+    "notes": "Coverversion. Förlaga: KISS.",
     "sourceCard": "",
     "sourceFile": "",
     "source": "R2 audio archive",
@@ -8665,12 +8665,12 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Cover album",
     "version": "Cover · KISS",
     "credits": [
-      "Original / cover source: KISS"
+      "Förlaga: KISS"
     ],
     "audio": "https://audio.desecrate.se/Aphophis/2025%20-%20Dynasties/07%20-%20Sure%20Know%20Something.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Coverversion. Original / förlaga: KISS.",
+    "notes": "Coverversion. Förlaga: KISS.",
     "sourceCard": "",
     "sourceFile": "",
     "source": "R2 audio archive",
@@ -8692,12 +8692,12 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Cover album",
     "version": "Cover · KISS",
     "credits": [
-      "Original / cover source: KISS"
+      "Förlaga: KISS"
     ],
     "audio": "https://audio.desecrate.se/Aphophis/2025%20-%20Dynasties/08%20-%20Watchin%27%20You.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Coverversion. Original / förlaga: KISS.",
+    "notes": "Coverversion. Förlaga: KISS.",
     "sourceCard": "",
     "sourceFile": "",
     "source": "R2 audio archive",
@@ -8719,12 +8719,12 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Cover album",
     "version": "Cover · KISS",
     "credits": [
-      "Original / cover source: KISS"
+      "Förlaga: KISS"
     ],
     "audio": "https://audio.desecrate.se/Aphophis/2025%20-%20Dynasties/09%20-%20Under%20The%20Rose.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Coverversion. Original / förlaga: KISS.",
+    "notes": "Coverversion. Förlaga: KISS.",
     "sourceCard": "",
     "sourceFile": "",
     "source": "R2 audio archive",
@@ -8746,12 +8746,12 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Cover album",
     "version": "Cover · KISS",
     "credits": [
-      "Original / cover source: KISS"
+      "Förlaga: KISS"
     ],
     "audio": "https://audio.desecrate.se/Aphophis/2025%20-%20Dynasties/10%20-%20She.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Coverversion. Original / förlaga: KISS.",
+    "notes": "Coverversion. Förlaga: KISS.",
     "sourceCard": "",
     "sourceFile": "",
     "source": "R2 audio archive",
@@ -8773,12 +8773,12 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Cover album",
     "version": "Cover · KISS",
     "credits": [
-      "Original / cover source: KISS"
+      "Förlaga: KISS"
     ],
     "audio": "https://audio.desecrate.se/Aphophis/2025%20-%20Dynasties/11%20-%20Charisma.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Coverversion. Original / förlaga: KISS.",
+    "notes": "Coverversion. Förlaga: KISS.",
     "sourceCard": "",
     "sourceFile": "",
     "source": "R2 audio archive",
@@ -8800,12 +8800,12 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Cover album",
     "version": "Cover · KISS",
     "credits": [
-      "Original / cover source: KISS"
+      "Förlaga: KISS"
     ],
     "audio": "https://audio.desecrate.se/Aphophis/2025%20-%20Dynasties/12%20-%20The%20Oath.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Coverversion. Original / förlaga: KISS.",
+    "notes": "Coverversion. Förlaga: KISS.",
     "sourceCard": "",
     "sourceFile": "",
     "source": "R2 audio archive",
@@ -8827,12 +8827,12 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Cover album",
     "version": "Cover · KISS",
     "credits": [
-      "Original / cover source: KISS"
+      "Förlaga: KISS"
     ],
     "audio": "https://audio.desecrate.se/Aphophis/2025%20-%20Dynasties/13%20-%20War%20Machine.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Coverversion. Original / förlaga: KISS.",
+    "notes": "Coverversion. Förlaga: KISS.",
     "sourceCard": "",
     "sourceFile": "",
     "source": "R2 audio archive",
@@ -8854,12 +8854,12 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Cover album",
     "version": "Cover · KISS",
     "credits": [
-      "Original / cover source: KISS"
+      "Förlaga: KISS"
     ],
     "audio": "https://audio.desecrate.se/Aphophis/2025%20-%20Dynasties/14%20-%20Easy%20As%20It%20Seems.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Coverversion. Original / förlaga: KISS.",
+    "notes": "Coverversion. Förlaga: KISS.",
     "sourceCard": "",
     "sourceFile": "",
     "source": "R2 audio archive",
@@ -8881,12 +8881,12 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Cover album",
     "version": "Cover · KISS",
     "credits": [
-      "Original / cover source: KISS"
+      "Förlaga: KISS"
     ],
     "audio": "https://audio.desecrate.se/Aphophis/2025%20-%20Dynasties/15%20-%20Gimme%20More.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Coverversion. Original / förlaga: KISS.",
+    "notes": "Coverversion. Förlaga: KISS.",
     "sourceCard": "",
     "sourceFile": "",
     "source": "R2 audio archive",
@@ -8908,12 +8908,12 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Cover album",
     "version": "Cover · KISS",
     "credits": [
-      "Original / cover source: KISS"
+      "Förlaga: KISS"
     ],
     "audio": "https://audio.desecrate.se/Aphophis/2025%20-%20Dynasties/16%20-%20Beth.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Coverversion. Original / förlaga: KISS.",
+    "notes": "Coverversion. Förlaga: KISS.",
     "sourceCard": "",
     "sourceFile": "",
     "source": "R2 audio archive",
@@ -9247,12 +9247,12 @@ window.JOHN_SWAHN_TRACKS = [
     "releaseType": "Recording",
     "version": "Cover · Depeche Mode",
     "credits": [
-      "Original / cover source: Depeche Mode"
+      "Förlaga: Depeche Mode"
     ],
     "audio": "https://audio.desecrate.se/Aphophis/2026%20-%20Chronophobia/2026%20-%20Aph%C3%B4phis%20-%20Chronophobia/08%20-%20Pipeline.mp3",
     "video": "",
     "lyrics": "",
-    "notes": "Coverversion. Original / förlaga: Depeche Mode.",
+    "notes": "Coverversion. Förlaga: Depeche Mode.",
     "sourceCard": "",
     "sourceFile": "",
     "source": "R2 audio archive",
