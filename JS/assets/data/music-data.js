@@ -328,7 +328,7 @@ window.JOHN_SWAHN_MUSIC = {
       "genre": "Rock",
       "location": "Uppsala",
       "role": "Sång · låtskrivare",
-      "summary": "John Swahn’s Big November var ett band från 1991 med John Swahn som sångare, Magnus Wijk på gitarr, Mårten “Kokken” Korkman på bas och Fredrik Persson på trummor.",
+      "summary": "John Swahn’s Big November var ett band från 1991. På Mirrors Do The Talkin’ sjunger John Swahn, med Magnus Wijk på gitarr, Mårten “Kokken” Korkman på bas och Fredrik Persson på trummor.",
       "members": [
         [
           "John Swahn",
@@ -352,8 +352,8 @@ window.JOHN_SWAHN_MUSIC = {
       "releaseCount": 2,
       "trackCount": 16,
       "history": [
-        "Den ordinarie sättningen i John Swahn’s Big November var John Swahn på sång, Magnus Wijk på gitarr, Mårten “Kokken” Korkman på bas och Fredrik Persson på trummor.",
-        "Mårten “Kokken” Korkman spelar även bas på Mirrors Do The Talkin'."
+        "På Mirrors Do The Talkin’ medverkar John Swahn på sång, Magnus Wijk på gitarr, Mårten “Kokken” Korkman på bas och Fredrik Persson på trummor.",
+        "Magnus Wijk, Mårten “Kokken” Korkman och Fredrik Persson medverkar inte på Wonders Of Devotion I & II."
       ]
     },
     {
@@ -617,7 +617,7 @@ window.JOHN_SWAHN_MUSIC = {
       "id": "1987-twilight-rock-you",
       "slug": "rock-you",
       "bandSlug": "twilight",
-      "cover": "",
+      "cover": "assets/twilight/1987-rock-you-cover.png",
       "url": "releases/1987-twilight-rock-you.html",
       "trackCount": 2,
       "description": "Rock You är en tvåspårig Twilight-inspelning från 1987. John Swahn sjunger och spelar keyboard.",
@@ -626,7 +626,9 @@ window.JOHN_SWAHN_MUSIC = {
       ],
       "details": [],
       "manualTracks": [],
-      "gallery": []
+      "gallery": [
+        "assets/twilight/1987-rock-you-cover.png"
+      ]
     },
     {
       "year": "1988",
@@ -825,14 +827,24 @@ window.JOHN_SWAHN_MUSIC = {
       "id": "1990-develop-fret",
       "slug": "fret",
       "bandSlug": "develop",
-      "cover": "",
+      "cover": "assets/develop/1990-fret-front.png",
       "url": "releases/1990-develop-fret.html",
       "trackCount": 11,
-      "description": "Fret från 1990 innehåller elva spår.",
-      "credits": [],
-      "details": [],
+      "description": "Fret är Develops elvaspårsinspelning från 1990. John Swahn skrev samtliga låtar, sjunger och spelar gitarr och bas samt står för programmering, produktion och mixning.",
+      "credits": [
+        "John Swahn — sång, gitarr, bas, programmering",
+        "John Swahn — låtskrivare",
+        "John Swahn — produktion, mixning"
+      ],
+      "details": [
+        "Inspelad och mixad i Heavy Nykk, förutom trummorna som spelades in i The Childhood Room (1990).",
+        "Omslaget anger A Swahn Song Production 2003."
+      ],
       "manualTracks": [],
-      "gallery": []
+      "gallery": [
+        "assets/develop/1990-fret-front.png",
+        "assets/develop/1990-fret-back.png"
+      ]
     },
     {
       "year": "1990",
@@ -903,22 +915,25 @@ window.JOHN_SWAHN_MUSIC = {
       "id": "1991-big-november-wonders-of-devotion-i-ii",
       "slug": "wonders-of-devotion-i-ii",
       "bandSlug": "big-november",
-      "cover": "assets/big-november/1991-nyby-fritidsgard-front.png",
+      "cover": "assets/big-november/1991-wonders-of-devotion-front.png",
       "url": "releases/1991-big-november-wonders-of-devotion-i-ii.html",
       "trackCount": 15,
-      "description": "Wonders Of Devotion I & II från 1991 innehåller femton spår, med både studioinspelningar och liveversioner.",
+      "description": "Wonders Of Devotion I & II samlar femton inspelningar från 1990–1991. Spår 1–9 spelades in mellan mars 1990 och juni 1991, medan spår 10–15 är liveinspelningar från Nybygården den 18 maj 1990.",
       "credits": [
         "John Swahn — sång",
-        "Magnus Wijk — gitarr",
-        "Mårten “Kokken” Korkman — bas",
-        "Fredrik Persson — trummor"
+        "John Swahn — alla instrument och trumprogrammering (spår 1–9)",
+        "Fred Persson — akustisk gitarr (spår 12 och 14)"
       ],
       "details": [
-        "Innehåller The Crunge (Led Zeppelin), även live, samt en liveversion av Smoke on the Water (Deep Purple)."
+        "Spår 1–9 inspelade mellan mars 1990 och juni 1991 i The Childhood Room och Heavy Nykk Studio.",
+        "Spår 10–15 inspelade live på Nybygården den 18 maj 1990.",
+        "Alla låtar skrivna av John Swahn utom The Crunge (Led Zeppelin) och Smoke on the Water (Deep Purple).",
+        "Omslaget anger A Swahn Song Collection, 1999."
       ],
       "manualTracks": [],
       "gallery": [
-        "assets/big-november/1991-nyby-fritidsgard-front.png"
+        "assets/big-november/1991-wonders-of-devotion-front.png",
+        "assets/big-november/1991-wonders-of-devotion-back.png"
       ]
     },
     {
@@ -1051,14 +1066,16 @@ window.JOHN_SWAHN_MUSIC = {
       "id": "2003-almost-human-left-overs",
       "slug": "left-overs",
       "bandSlug": "almost-human",
-      "cover": "",
+      "cover": "assets/almost-human/2003-left-overs-cover.png",
       "url": "releases/2003-almost-human-left-overs.html",
       "trackCount": 5,
       "description": "Left Overs från 2003 innehåller fem spår, bland annat en alternativ version av Wasted One och en liveversion av The Wake-Up Call.",
       "credits": [],
       "details": [],
       "manualTracks": [],
-      "gallery": [],
+      "gallery": [
+        "assets/almost-human/2003-left-overs-cover.png"
+      ],
       "releaseOrder": 5
     },
     {
@@ -1470,7 +1487,7 @@ window.JOHN_SWAHN_MUSIC = {
       "id": "2009-treebeard-don-t-judge-a-album-by-its-cover",
       "slug": "don-t-judge-a-album-by-its-cover",
       "bandSlug": "treebeard",
-      "cover": "",
+      "cover": "assets/treebeard/2009-dont-judge-cover.png",
       "url": "releases/2009-treebeard-don-t-judge-a-album-by-its-cover.html",
       "trackCount": 13,
       "description": "Don’t Judge A Album by Its Cover är Treebeards coveralbum från 2009 med tretton tolkningar av material från bland andra Jesus Christ Superstar, Pink Floyd, KISS, The Beatles, Queen, Talking Heads och Rush.",
@@ -1480,7 +1497,9 @@ window.JOHN_SWAHN_MUSIC = {
         "The Chicken är skriven av Pee Wee Ellis. Treebeards version utgår från Jaco Pastorius-versionen av låten."
       ],
       "manualTracks": [],
-      "gallery": []
+      "gallery": [
+        "assets/treebeard/2009-dont-judge-cover.png"
+      ]
     },
     {
       "year": "2010",

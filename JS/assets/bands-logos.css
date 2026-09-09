@@ -1,0 +1,96 @@
+/* Band overview: uniform black/white logo presentation */
+body[data-page="bands"] .page-hero{
+  background:
+    radial-gradient(circle at 82% 0,rgba(167,31,27,.16),transparent 34rem),
+    #070707;
+}
+body[data-page="bands"] .bands-grid{
+  display:grid;
+  grid-template-columns:repeat(4,minmax(0,1fr));
+  gap:18px;
+}
+body[data-page="bands"] .band-logo-card{
+  display:block;
+  min-width:0;
+  overflow:hidden;
+  border:1px solid rgba(255,255,255,.13);
+  background:#0c0c0d;
+  transition:transform .22s ease,border-color .22s ease,box-shadow .22s ease;
+}
+body[data-page="bands"] .band-logo-card:hover{
+  transform:translateY(-4px);
+  border-color:rgba(255,255,255,.32);
+  box-shadow:0 24px 55px rgba(0,0,0,.45);
+}
+body[data-page="bands"] .band-logo-panel{
+  aspect-ratio:16/9;
+  display:grid;
+  place-items:center;
+  padding:26px 28px;
+  background:#fff;
+  overflow:hidden;
+}
+body[data-page="bands"] .band-logo-panel img{
+  display:block;
+  width:100%;
+  height:100%;
+  object-fit:contain;
+  filter:none;
+  transform:none;
+  transition:transform .22s ease;
+}
+body[data-page="bands"] .band-logo-card:hover .band-logo-panel img{
+  transform:scale(1.035);
+}
+body[data-page="bands"] .band-logo-fallback{
+  width:100%;
+  height:100%;
+  display:grid;
+  place-items:center;
+  text-align:center;
+  padding:18px;
+  color:#070707;
+  font-family:"Arial Narrow",Impact,Arial,sans-serif;
+  font-size:clamp(2rem,3.1vw,3.3rem);
+  font-weight:900;
+  line-height:.9;
+  letter-spacing:-.035em;
+  text-transform:uppercase;
+}
+body[data-page="bands"] .band-logo-info{
+  min-height:132px;
+  padding:17px 19px 20px;
+  border-top:1px solid #202023;
+  background:#0c0c0d;
+}
+body[data-page="bands"] .band-logo-info span{
+  display:block;
+  min-height:18px;
+  color:#d85149;
+  font-size:.65rem;
+  font-weight:900;
+  letter-spacing:.12em;
+  text-transform:uppercase;
+}
+body[data-page="bands"] .band-logo-info h2{
+  margin:5px 0 7px;
+  color:#f3f1ed;
+  font-family:"Arial Narrow",Impact,Arial,sans-serif;
+  font-size:1.75rem;
+  line-height:1;
+  letter-spacing:-.025em;
+  text-transform:uppercase;
+}
+body[data-page="bands"] .band-logo-info p{
+  margin:0;
+  color:#8d8a85;
+  font-size:.78rem;
+}
+@media(max-width:1000px){
+  body[data-page="bands"] .bands-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+}
+@media(max-width:560px){
+  body[data-page="bands"] .bands-grid{grid-template-columns:1fr}
+  body[data-page="bands"] .band-logo-panel{padding:24px}
+  body[data-page="bands"] .band-logo-info{min-height:0}
+}
