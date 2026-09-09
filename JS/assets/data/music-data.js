@@ -27,7 +27,7 @@ window.JOHN_SWAHN_MUSIC = {
         ]
       ],
       "links": [],
-      "artwork": "",
+      "artwork": "assets/bands/love/love-band-photo.jpg",
       "mark": "L.O.V.E.",
       "releaseCount": 1,
       "trackCount": 0,
@@ -35,6 +35,13 @@ window.JOHN_SWAHN_MUSIC = {
         "L.O.V.E. var Johns första seriösa band. Den första konserten ägde rum på Nybyskolan i mars 1986, när John var tolv år gammal.",
         "Bandet spelade in demon Fly Over The Beach. En video gjordes också till Fly Over The Beach.",
         "L.O.V.E. bytte senare namn till Fury."
+      ],
+      "heroBackground": "assets/bands/love/love-band-photo.jpg",
+      "gallery": [
+        {
+          "src": "assets/bands/love/love-band-photo.jpg",
+          "caption": "L.O.V.E."
+        }
       ]
     },
     {
@@ -76,12 +83,19 @@ window.JOHN_SWAHN_MUSIC = {
         ]
       ],
       "links": [],
-      "artwork": "",
+      "artwork": "assets/bands/don-quixote/don-quixote-band-photo.jpg",
       "mark": "DQ",
       "releaseCount": 0,
       "trackCount": 0,
       "history": [
         "Efter Fury spelade John i Don Quixote. Bandet föregick Twilight, som John senare startade tillsammans med Jakob “Kobben” Bergström."
+      ],
+      "heroBackground": "assets/bands/don-quixote/don-quixote-band-photo.jpg",
+      "gallery": [
+        {
+          "src": "assets/bands/don-quixote/don-quixote-band-photo.jpg",
+          "caption": "Don Quixote"
+        }
       ]
     },
     {
@@ -1479,7 +1493,7 @@ window.JOHN_SWAHN_MUSIC = {
     },
     {
       "year": "2009",
-      "title": "Don't Judge A Album by Its Cover",
+      "title": "Don't Judge An Album by Its Cover",
       "project": "Treebeard",
       "projectRaw": "Treebeard",
       "type": "Cover album",
@@ -1490,7 +1504,7 @@ window.JOHN_SWAHN_MUSIC = {
       "cover": "assets/treebeard/2009-dont-judge-cover.png",
       "url": "releases/2009-treebeard-don-t-judge-a-album-by-its-cover.html",
       "trackCount": 13,
-      "description": "Don’t Judge A Album by Its Cover är Treebeards coveralbum från 2009 med tretton tolkningar av material från bland andra Jesus Christ Superstar, Pink Floyd, KISS, The Beatles, Queen, Talking Heads och Rush.",
+      "description": "Don’t Judge An Album by Its Cover är Treebeards coveralbum från 2009 med tretton tolkningar av material från bland andra Jesus Christ Superstar, Pink Floyd, KISS, The Beatles, Queen, Talking Heads och Rush.",
       "credits": [],
       "details": [
         "13 coverversioner.",
