@@ -18,6 +18,7 @@
 
   const c=document.getElementById('bandHeroCover');
   const bandLogos={
+    'love':'assets/band-logos/love.png',
     'almost-human':'assets/band-logos/almost-human.png',
     'aphophis':'assets/band-logos/aphophis.png',
     'big-november':'assets/band-logos/big-november.png',

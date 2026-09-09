@@ -5,6 +5,7 @@
 
   const root='../';
   const logos={
+    'love':'love.png',
     'almost-human':'almost-human.png',
     'aphophis':'aphophis.png',
     'big-november':'big-november.png',
