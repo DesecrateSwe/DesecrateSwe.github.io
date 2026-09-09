@@ -567,8 +567,8 @@ window.JOHN_SWAHN_MUSIC = {
       ],
       "links": [],
       "artwork": "assets/aphophis/2026-chronophobia-front.jpg",
-      "releaseCount": 13,
-      "trackCount": 127,
+      "releaseCount": 14,
+      "trackCount": 133,
       "history": [
         "Aphophis startade 2008 och blev Johns mest omfattande senare studioband, med John på sång, gitarr och programmering.",
         "Janne Eriksson medverkar på Aphophis-utgåvorna med undantag för Dynasties och The Aphophis Universe, Phase One och Phase Two.",
@@ -1792,6 +1792,30 @@ window.JOHN_SWAHN_MUSIC = {
       "manualTracks": [],
       "gallery": [
         "assets/aphophis/2025-the-aphophis-universe-phase-one-front.jpg"
+      ]
+    },
+    {
+      "year": "2025",
+      "title": "The Aphophis Universe, Phase Two",
+      "project": "Aphophis",
+      "projectRaw": "Aphophis",
+      "type": "Recording",
+      "era": "2020s",
+      "id": "2025-aphophis-the-aphophis-universe-phase-two",
+      "slug": "the-aphophis-universe-phase-two",
+      "bandSlug": "aphophis",
+      "cover": "assets/aphophis/2025-the-aphophis-universe-phase-two-front.jpg",
+      "url": "releases/2025-aphophis-the-aphophis-universe-phase-two.html",
+      "trackCount": 6,
+      "description": "The Aphophis Universe, Phase Two från 2025 innehåller sex spår.",
+      "credits": [
+        "John Swahn — sång, gitarr, programmering",
+        "Martin Olsson — medverkar"
+      ],
+      "details": [],
+      "manualTracks": [],
+      "gallery": [
+        "assets/aphophis/2025-the-aphophis-universe-phase-two-front.jpg"
       ]
     },
     {
