@@ -17,7 +17,35 @@
     .map(x=>`<span>${esc(x)}</span>`).join('');
 
   const c=document.getElementById('bandHeroCover');
-  if(b.artwork)c.innerHTML=`<img src="../${b.artwork}" alt="${esc(b.name)}">`;else c.innerHTML=`<div class="band-card-blank">${esc(b.mark||b.name)}</div>`;
+  const bandLogos={
+    'almost-human':'assets/band-logos/almost-human.png',
+    'aphophis':'assets/band-logos/aphophis.png',
+    'big-november':'assets/band-logos/big-november.png',
+    'desecrate':'assets/band-logos/desecrate.png',
+    'develop':'assets/band-logos/develop.png',
+    'equinox':'assets/band-logos/equinox.png',
+    'the-unkinds':'assets/band-logos/the-unkinds.png',
+    'treebeard':'assets/band-logos/treebeard.png',
+    'twilight':'assets/band-logos/twilight.png',
+    'xtortex':'assets/band-logos/xtortex.png'
+  };
+  const bandLogo=bandLogos[b.slug];
+
+  if(c&&bandLogo){
+    c.innerHTML=`<div style="aspect-ratio:1;display:grid;place-items:center;padding:clamp(28px,4vw,58px);background:#fff;border:1px solid #444;box-shadow:0 35px 80px #000;overflow:hidden"><img src="../${bandLogo}" alt="${esc(b.name)} logotyp" style="width:100%;height:auto;max-height:72%;aspect-ratio:auto;object-fit:contain;border:0;box-shadow:none;background:#fff"></div>`;
+  }else if(c){
+    const fallbackArtwork=b.heroBackground||
+      (Array.isArray(b.gallery)&&b.gallery.length
+        ?(typeof b.gallery[0]==='string'?b.gallery[0]:b.gallery[0]?.src)
+        :'')||
+      b.artwork;
+
+    if(fallbackArtwork){
+      c.innerHTML=`<img src="../${fallbackArtwork}" alt="${esc(b.name)}">`;
+    }else{
+      c.innerHTML=`<div class="band-card-blank">${esc(b.mark||b.name)}</div>`;
+    }
+  }
 
   const h=document.querySelector('.band-hero-bg');
   const heroBackground=b.heroBackground||b.artwork;
