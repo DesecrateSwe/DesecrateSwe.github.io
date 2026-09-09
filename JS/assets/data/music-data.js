@@ -1540,7 +1540,7 @@ window.JOHN_SWAHN_MUSIC = {
       "id": "2010-treebeard-best-of-2010",
       "slug": "best-of-2010",
       "bandSlug": "treebeard",
-      "cover": "assets/treebeard/2004-anguish-on-parade.gif",
+      "cover": "assets/treebeard/2010-best-of-temporary-cover.png",
       "url": "releases/2010-treebeard-best-of-2010.html",
       "trackCount": 14,
       "description": "Best of 2010 samlar fjorton Treebeard-spår från bandets tidigare utgivningar.",
@@ -1550,7 +1550,7 @@ window.JOHN_SWAHN_MUSIC = {
       ],
       "manualTracks": [],
       "gallery": [
-        "assets/treebeard/2004-anguish-on-parade.gif"
+        "assets/treebeard/2010-best-of-temporary-cover.png"
       ]
     },
     {
