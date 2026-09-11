@@ -5,8 +5,8 @@
   const app = document.getElementById('app');
   const syncLabel = document.getElementById('sync-label');
   const state = {
-    people: [], bands: [], memberships: [], releases: [], releaseBands: [], releaseMembers: [],
-    relations: [], sources: [], claims: [], claimSources: [], claimEntities: []
+    people: [], bands: [], relatedBands: [], allBands: [], memberships: [], releases: [], releaseBands: [], releaseMembers: [],
+    relations: [], sources: [], claims: [], claimSources: [], claimEntities: [], uppsalaBandIds: []
   };
 
   const $ = (sel, root = document) => root.querySelector(sel);
@@ -14,7 +14,8 @@
   const escapeHtml = (value = '') => String(value).replace(/[&<>'"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c]));
   const byId = arr => new Map(arr.map(x => [x.id, x]));
   const peopleById = () => byId(state.people);
-  const bandsById = () => byId(state.bands);
+  const allBandRows = () => state.allBands.length ? state.allBands : [...state.bands, ...state.relatedBands];
+  const bandsById = () => byId(allBandRows());
   const releasesById = () => byId(state.releases);
 
   // Curated local archive media. These files come from the John Swahn / Desecrate archive
@@ -608,6 +609,89 @@
   function releaseBand(releaseId) { const rb = state.releaseBands.find(x => x.release_id === releaseId); return rb ? bandsById().get(rb.band_id) : null; }
   function membershipsForBand(id) { return state.memberships.filter(x => x.band_id === id); }
   function membershipsForPerson(id) { return state.memberships.filter(x => x.person_id === id); }
+  function isUppsalaBand(b) {
+    if (!b) return false;
+
+    // Supabase skickar en separat lista med de band som faktiskt klassas som
+    // Uppsala-band. Den är facit för index/listor/statistik. Externa band finns
+    // fortfarande kvar i state.bands så att personprofiler och direktlänkar
+    // kan visa deras information utan att de hamnar på Uppsala-bandsidan.
+    if (Array.isArray(state.uppsalaBandIds) && state.uppsalaBandIds.length) {
+      return state.uppsalaBandIds.includes(b.id);
+    }
+
+    // Bakåtkompatibel fallback om en äldre RPC-version används. Om
+    // archive_scope finns är den auktoritativ och vi ignorerar ett eventuellt
+    // gammalt is_uppsala_band-värde.
+    if (typeof b.archive_scope === 'string' && b.archive_scope) {
+      return b.archive_scope === 'uppsala';
+    }
+
+    return b.is_uppsala_band === true;
+  }
+  function uppsalaBands() {
+    // Ny RPC: state.bands innehåller bara Uppsala-band. Fallbacken behåller
+    // stöd för äldre snapshots där alla band låg i samma array.
+    return state.bands.every(b => b.archive_scope === 'uppsala' || b.is_uppsala_band === true)
+      ? state.bands
+      : state.bands.filter(isUppsalaBand);
+  }
+  function groupedMembershipsForBand(id) {
+    // En person ska bara visas EN gång på bandsidan, även om personen har
+    // flera medlemsperioder. Normalt räcker person_id, men namn används som
+    // extra skydd mot äldre/importerade dubblettposter i data.
+    const groups = new Map();
+
+    membershipsForBand(id).forEach(m => {
+      const person = peopleById().get(m.person_id);
+      const canonicalName = (person?.canonical_name || m.person_id || '').trim();
+      const key = canonicalName.toLocaleLowerCase('sv');
+
+      if (!groups.has(key)) {
+        groups.set(key, {
+          person_id: m.person_id,
+          canonical_name: canonicalName,
+          memberships: []
+        });
+      }
+      groups.get(key).memberships.push(m);
+    });
+
+    return [...groups.values()].map(group => {
+      const memberships = [...group.memberships].sort((a,b) =>
+        (a.joined_year || a.left_year || 9999) - (b.joined_year || b.left_year || 9999) ||
+        (a.left_year || a.joined_year || 9999) - (b.left_year || b.joined_year || 9999)
+      );
+
+      const roles = [...new Set(
+        memberships
+          .map(m => roleSv(m.role || ''))
+          .filter(Boolean)
+      )];
+
+      const periods = [...new Set(
+        memberships
+          .map(yearSpan)
+          .filter(Boolean)
+      )];
+
+      const firstYear = memberships.reduce((min,m) => {
+        const y = m.joined_year || m.left_year || 9999;
+        return Math.min(min,y);
+      },9999);
+
+      return {
+        person_id: group.person_id,
+        canonical_name: group.canonical_name,
+        roles: roles.join(' · '),
+        periods: periods.join(' · '),
+        firstYear
+      };
+    }).sort((a,b) =>
+      a.firstYear - b.firstYear ||
+      a.canonical_name.localeCompare(b.canonical_name,'sv')
+    );
+  }
   function releasesForBand(id) {
     const ids = new Set(state.releaseBands.filter(x => x.band_id === id).map(x => x.release_id));
     return state.releases.filter(x => ids.has(x.id));
@@ -663,7 +747,7 @@
   function personHref(p) { return `#/person/${slugify(p.canonical_name)}`; }
   function releaseHref(r) { return `#/utgava/${slugify(`${r.title}-${r.release_year || ''}`)}`; }
 
-  function findBand(slug) { return state.bands.find(x => slugify(x.canonical_name) === slug); }
+  function findBand(slug) { return allBandRows().find(x => slugify(x.canonical_name) === slug); }
   function findPerson(slug) { return state.people.find(x => slugify(x.canonical_name) === slug); }
   function findRelease(slug) { return state.releases.find(x => slugify(`${x.title}-${x.release_year || ''}`) === slug); }
 
@@ -685,7 +769,8 @@
   function renderHome() {
     const john = state.people.find(p => p.canonical_name === 'John S. Swahn');
     const johnBands = john ? membershipsForPerson(john.id).map(m => bandsById().get(m.band_id)).filter(Boolean) : [];
-    const earlyBands = [...state.bands].sort((a,b) => (a.formed_year || 9999) - (b.formed_year || 9999)).slice(0, 6);
+    const archiveBands = uppsalaBands();
+    const earlyBands = [...archiveBands].sort((a,b) => (a.formed_year || 9999) - (b.formed_year || 9999)).slice(0, 6);
     const recentReleases = [...state.releases].sort((a,b) => (a.release_year || 9999) - (b.release_year || 9999)).slice(0, 6);
     const counts = state.claims.reduce((acc,c) => ((acc[c.status] = (acc[c.status] || 0) + 1), acc), {});
 
@@ -698,7 +783,7 @@
           <p class="hero-lead">En växande kartläggning av Uppsalas hårdrock och metal — människorna, banden, demokassetterna och vägarna mellan dem.</p>
           <div class="hero-actions"><a class="button button-primary" href="#/band">Utforska banden</a><a class="button button-ghost" href="#/tidslinje">Se tidslinjen</a></div>
           <div class="hero-stats">
-            <div><strong>${state.bands.length}</strong><span>band</span></div>
+            <div><strong>${archiveBands.length}</strong><span>Uppsala-band</span></div>
             <div><strong>${state.people.length}</strong><span>personer</span></div>
             <div><strong>${state.releases.length}</strong><span>utgåvor</span></div>
             <div><strong>${state.sources.length}</strong><span>källor</span></div>
@@ -752,8 +837,9 @@
 
   function bandCard(b, i = 0) {
     const mems = membershipsForBand(b.id);
-    const names = mems.slice(0,4).map(m => personName(m.person_id));
-    const extra = mems.length > 4 ? ` +${mems.length - 4}` : '';
+    const personIds = [...new Set(mems.map(m => m.person_id))];
+    const names = personIds.slice(0,4).map(personName);
+    const extra = personIds.length > 4 ? ` +${personIds.length - 4}` : '';
     const media = bandMedia(b);
     return `<a class="band-card${media ? ' has-media' : ''}" href="${bandHref(b)}" data-index="${String(i+1).padStart(2,'0')}">
       ${media ? `<img class="band-card-image" src="${media}" alt="${escapeHtml(b.canonical_name)}" loading="lazy"><div class="band-card-shade"></div>` : ''}
@@ -791,7 +877,7 @@
 
 
   function renderBandIndex() {
-    const ordered = [...state.bands].sort((a,b) => (a.formed_year || 9999) - (b.formed_year || 9999) || a.canonical_name.localeCompare(b.canonical_name,'sv'));
+    const ordered = [...uppsalaBands()].sort((a,b) => (a.formed_year || 9999) - (b.formed_year || 9999) || a.canonical_name.localeCompare(b.canonical_name,'sv'));
     app.innerHTML = `${pageHeader('BAND I ARKIVET','Band','Från tidig hårdrock och thrash till death, black och senare grenar av Uppsalas metalscen.')}
       <section class="section page-section first-section">
         <div class="index-toolbar"><label class="search-box"><span>Sök band</span><input id="band-search" type="search" placeholder="Namn, genre eller år…"></label><div class="index-count"><strong id="band-count">${ordered.length}</strong> band</div></div>
@@ -807,18 +893,26 @@
   }
 
   function renderBandDetail(b) {
-    const mems = membershipsForBand(b.id).sort((a,bm) => (a.joined_year || 9999) - (bm.joined_year || 9999) || personName(a.person_id).localeCompare(personName(bm.person_id),'sv'));
+    const mems = membershipsForBand(b.id);
+    const memberGroups = groupedMembershipsForBand(b.id);
     const rels = releasesForBand(b.id).sort((a,c) => (a.release_year || 9999) - (c.release_year || 9999));
     const claims = claimsForEntity('band', b.id);
     const sources = sourcesForClaims(claims);
     const links = state.relations.filter(r => r.from_band_id === b.id || r.to_band_id === b.id);
     const gallery = bandGallery(b);
-    const meta = [b.formed_year ? `Bildat ${b.formed_year}` : 'Bildningsår söks', b.city || 'Uppsala', ...(b.genres || [])].map(x => `<span>${escapeHtml(x)}</span>`).join('');
-    app.innerHTML = `${breadcrumbs([{label:'Band',href:'#/band'},{label:b.canonical_name}])}${pageHeader('BAND / UPPSALA',escapeHtml(b.canonical_name),'',meta)}
+    const uppsalaBand = isUppsalaBand(b);
+    const bandKicker = uppsalaBand ? 'BAND / UPPSALA' : (b.archive_scope === 'external' ? 'RELATERAT BAND' : 'BAND / OKLASSIFICERAT');
+    const bandPlace = b.city || (uppsalaBand ? 'Uppsala' : 'Ort söks');
+    const defaultDescription = uppsalaBand
+      ? `Ett dokumenterat band i Uppsala-scenen. Arkivet bygger successivt ut historik, lineups, utgåvor och kopplingar kring ${b.canonical_name}.`
+      : `Ett relaterat band i person- och meritnätverket. ${b.canonical_name} klassas inte som ett Uppsala-band, men finns med för att visa dokumenterade bandhistoriker och kopplingar.`;
+    const scopeLabel = uppsalaBand ? 'Uppsala-band' : (b.archive_scope === 'external' ? 'Relaterat band' : 'Oklassificerat');
+    const meta = [b.formed_year ? `Bildat ${b.formed_year}` : 'Bildningsår söks', bandPlace, ...(b.genres || [])].map(x => `<span>${escapeHtml(x)}</span>`).join('');
+    app.innerHTML = `${breadcrumbs([{label:'Band',href:'#/band'},{label:b.canonical_name}])}${pageHeader(bandKicker,escapeHtml(b.canonical_name),'',meta)}
       <section class="section detail-layout first-section">
-        <aside class="detail-aside">${bandMedia(b) ? `<figure class="detail-media"><img src="${bandMedia(b)}" alt="${escapeHtml(b.canonical_name)}"></figure>${externalMediaCredit(bandMedia(b))}` : ''}<div class="aside-label">Översikt</div><p>${escapeHtml(b.description || `Ett dokumenterat band i Uppsala-scenen. Arkivet bygger successivt ut historik, lineups, utgåvor och kopplingar kring ${b.canonical_name}.`)}</p><div class="aside-facts"><div><span>Status</span><strong>${b.status === 'active' ? 'Aktivt' : b.status === 'inactive' ? 'Inaktivt' : 'Okänt'}</strong></div><div><span>Medlemmar i arkivet</span><strong>${mems.length}</strong></div><div><span>Utgåvor i arkivet</span><strong>${rels.length}</strong></div></div></aside>
+        <aside class="detail-aside">${bandMedia(b) ? `<figure class="detail-media"><img src="${bandMedia(b)}" alt="${escapeHtml(b.canonical_name)}"></figure>${externalMediaCredit(bandMedia(b))}` : ''}<div class="aside-label">Översikt</div><p>${escapeHtml(b.description || defaultDescription)}</p><div class="aside-facts"><div><span>Status</span><strong>${b.status === 'active' ? 'Aktivt' : b.status === 'inactive' ? 'Inaktivt' : 'Okänt'}</strong></div><div><span>Arkivklass</span><strong>${scopeLabel}</strong></div><div><span>Medlemmar i arkivet</span><strong>${memberGroups.length}</strong></div><div><span>Utgåvor i arkivet</span><strong>${rels.length}</strong></div></div></aside>
         <div class="detail-main">
-          <section class="content-section"><div class="content-head"><span>01</span><h2>Medlemmar</h2></div><div class="credit-list">${mems.length ? mems.map(m => { const p=peopleById().get(m.person_id); return `<a href="${personHref(p)}"><strong>${escapeHtml(p.canonical_name)}</strong><span>${escapeHtml(roleSv(m.role || ''))}</span><em>${yearSpan(m)}</em></a>`; }).join('') : '<div class="empty-state">Lineup kartläggs.</div>'}</div></section>
+          <section class="content-section"><div class="content-head"><span>01</span><h2>Medlemmar</h2></div><div class="credit-list">${memberGroups.length ? memberGroups.map(group => { const p=peopleById().get(group.person_id); return `<a href="${personHref(p)}"><strong>${escapeHtml(p.canonical_name)}</strong><span>${escapeHtml(group.roles || 'Roll kartläggs')}</span><em>${escapeHtml(group.periods || 'Årtal söks')}</em></a>`; }).join('') : '<div class="empty-state">Lineup kartläggs.</div>'}</div></section>
           <section class="content-section"><div class="content-head"><span>02</span><h2>Utgåvor</h2></div><div class="release-stack">${rels.length ? rels.map(releaseRow).join('') : '<div class="empty-state">Inga utgåvor registrerade ännu.</div>'}</div></section>
           ${gallery.length ? `<section class="content-section"><div class="content-head"><span>03</span><h2>Bildarkiv</h2></div>${archiveGallery(gallery)}</section>` : ''}
           ${links.length ? `<section class="content-section"><div class="content-head"><span>${gallery.length ? '04':'03'}</span><h2>Kopplingar</h2></div><div class="relation-grid">${links.map(r => { const otherId = r.from_band_id === b.id ? r.to_band_id : r.from_band_id; const other = bandsById().get(otherId); return `<a href="${bandHref(other)}"><span>${escapeHtml(relationSv(r.relation_type))}</span><strong>${escapeHtml(other.canonical_name)}</strong><em>${r.from_year || ''}</em></a>`; }).join('')}</div></section>` : ''}
@@ -931,8 +1025,9 @@
   }
 
   function networkData() {
-    const bandScore = new Map(state.bands.map(b => [b.id, membershipsForBand(b.id).length + state.relations.filter(r => r.from_band_id === b.id || r.to_band_id === b.id).length * 3]));
-    const selectedBands = [...state.bands].sort((a,b) => (bandScore.get(b.id)||0)-(bandScore.get(a.id)||0)).slice(0, 16);
+    const networkBands = uppsalaBands();
+    const bandScore = new Map(networkBands.map(b => [b.id, membershipsForBand(b.id).length + state.relations.filter(r => r.from_band_id === b.id || r.to_band_id === b.id).length * 3]));
+    const selectedBands = [...networkBands].sort((a,b) => (bandScore.get(b.id)||0)-(bandScore.get(a.id)||0)).slice(0, 16);
     const selectedBandIds = new Set(selectedBands.map(b => b.id));
     const selectedPeople = state.people.filter(p => membershipsForPerson(p.id).filter(m => selectedBandIds.has(m.band_id)).length >= 2 || ['John S. Swahn','Dave Janney','Jakob Bergström'].includes(p.canonical_name)).slice(0,26);
     return {selectedBands, selectedPeople, selectedBandIds};
