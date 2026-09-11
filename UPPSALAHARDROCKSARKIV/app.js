@@ -637,23 +637,37 @@
       : state.bands.filter(isUppsalaBand);
   }
   function groupedMembershipsForBand(id) {
-    // En person ska bara visas EN gång på bandsidan, även om personen har
-    // flera medlemsperioder. Normalt räcker person_id, men namn används som
-    // extra skydd mot äldre/importerade dubblettposter i data.
     const groups = new Map();
-
     membershipsForBand(id).forEach(m => {
-      const person = peopleById().get(m.person_id);
-      const canonicalName = (person?.canonical_name || m.person_id || '').trim();
-      const key = canonicalName.toLocaleLowerCase('sv');
+      if (!groups.has(m.person_id)) groups.set(m.person_id, { person_id: m.person_id, memberships: [] });
+      groups.get(m.person_id).memberships.push(m);
+    });
 
-      if (!groups.has(key)) {
-        groups.set(key, {
-          person_id: m.person_id,
-          canonical_name: canonicalName,
-          memberships: []
-        });
-      }
+    return [...groups.values()].map(group => {
+      const memberships = [...group.memberships].sort((a,b) =>
+        (a.joined_year || a.left_year || 9999) - (b.joined_year || b.left_year || 9999) ||
+        (a.left_year || a.joined_year || 9999) - (b.left_year || b.joined_year || 9999)
+      );
+      const roles = [...new Set(memberships.map(m => roleSv(m.role || '')).filter(Boolean))];
+      const periods = [...new Set(memberships.map(yearSpan))];
+      const firstYear = memberships.reduce((min,m) => {
+        const y = m.joined_year || m.left_year || 9999;
+        return Math.min(min,y);
+      },9999);
+      return {
+        person_id: group.person_id,
+        roles: roles.join(' · '),
+        periods: periods.join(' · '),
+        firstYear
+      };
+    }).sort((a,b) => a.firstYear - b.firstYear || personName(a.person_id).localeCompare(personName(b.person_id),'sv'));
+  }
+  function groupedMembershipsForPerson(id) {
+    const groups = new Map();
+    membershipsForPerson(id).forEach(m => {
+      const band = bandsById().get(m.band_id);
+      const key = band ? `band:${band.id}` : `missing:${m.band_id}`;
+      if (!groups.has(key)) groups.set(key, { band_id: m.band_id, band, memberships: [] });
       groups.get(key).memberships.push(m);
     });
 
@@ -662,36 +676,24 @@
         (a.joined_year || a.left_year || 9999) - (b.joined_year || b.left_year || 9999) ||
         (a.left_year || a.joined_year || 9999) - (b.left_year || b.joined_year || 9999)
       );
-
-      const roles = [...new Set(
-        memberships
-          .map(m => roleSv(m.role || ''))
-          .filter(Boolean)
-      )];
-
-      const periods = [...new Set(
-        memberships
-          .map(yearSpan)
-          .filter(Boolean)
-      )];
-
+      const roles = [...new Set(memberships.map(m => roleSv(m.role || '')).filter(Boolean))];
+      const periods = [...new Set(memberships.map(yearSpan).filter(Boolean))];
       const firstYear = memberships.reduce((min,m) => {
         const y = m.joined_year || m.left_year || 9999;
         return Math.min(min,y);
       },9999);
-
       return {
-        person_id: group.person_id,
-        canonical_name: group.canonical_name,
+        band_id: group.band_id,
+        band: group.band || bandsById().get(group.band_id),
         roles: roles.join(' · '),
         periods: periods.join(' · '),
         firstYear
       };
-    }).sort((a,b) =>
-      a.firstYear - b.firstYear ||
-      a.canonical_name.localeCompare(b.canonical_name,'sv')
+    }).filter(group => group.band).sort((a,b) =>
+      a.firstYear - b.firstYear || a.band.canonical_name.localeCompare(b.band.canonical_name,'sv')
     );
   }
+
   function releasesForBand(id) {
     const ids = new Set(state.releaseBands.filter(x => x.band_id === id).map(x => x.release_id));
     return state.releases.filter(x => ids.has(x.id));
@@ -937,18 +939,19 @@
 
   function renderPersonDetail(p) {
     const mems = membershipsForPerson(p.id).sort((a,b) => (a.joined_year || 9999) - (b.joined_year || 9999));
+    const bandGroups = groupedMembershipsForPerson(p.id);
     const credits = state.releaseMembers.filter(x => x.person_id === p.id).map(x => ({...x, release: releasesById().get(x.release_id)})).filter(x => x.release).sort((a,b) => (a.release.release_year || 9999) - (b.release.release_year || 9999));
     const claims = claimsForPerson(p.id);
     const sources = sourcesForClaims(claims);
     const gallery = personGallery(p);
-    const uniqueBands = [...new Set(mems.map(m => m.band_id))].map(id => bandsById().get(id)).filter(Boolean);
+    const uniqueBands = bandGroups.map(group => group.band);
     const meta = uniqueBands.slice(0,5).map(b => `<a href="${bandHref(b)}">${escapeHtml(b.canonical_name)}</a>`).join('');
     const sourceNo = gallery.length ? '05' : '04';
     app.innerHTML = `${breadcrumbs([{label:'Personer',href:'#/personer'},{label:p.canonical_name}])}${pageHeader('PERSON / UPPSALA-SCENEN',escapeHtml(p.canonical_name),'',meta)}
       <section class="section detail-layout first-section">
         <aside class="detail-aside">${personMedia(p) ? `<figure class="detail-media detail-portrait"><img src="${personMedia(p)}" alt="${escapeHtml(p.canonical_name)}"></figure>${externalMediaCredit(personMedia(p))}` : ''}<div class="aside-label">Profil</div><p>${escapeHtml(p.biography || p.uppsala_connection || 'Dokumenterad i Uppsala-scenen.')}</p><div class="aside-facts"><div><span>Bandkopplingar</span><strong>${uniqueBands.length}</strong></div><div><span>Utgåvekrediter</span><strong>${credits.length}</strong></div><div><span>Källkopplade uppgifter</span><strong>${claims.length}</strong></div></div></aside>
         <div class="detail-main">
-          <section class="content-section"><div class="content-head"><span>01</span><h2>Band</h2></div><div class="credit-list">${mems.length ? mems.map(m => { const b=bandsById().get(m.band_id); return `<a href="${bandHref(b)}"><strong>${escapeHtml(b.canonical_name)}</strong><span>${escapeHtml(roleSv(m.role || ''))}</span><em>${yearSpan(m)}</em></a>`; }).join('') : '<div class="empty-state">Bandkopplingar kartläggs.</div>'}</div></section>
+          <section class="content-section"><div class="content-head"><span>01</span><h2>Band</h2></div><div class="credit-list">${bandGroups.length ? bandGroups.map(group => `<a href="${bandHref(group.band)}"><strong>${escapeHtml(group.band.canonical_name)}</strong><span>${escapeHtml(group.roles)}</span><em>${escapeHtml(group.periods)}</em></a>`).join('') : '<div class="empty-state">Bandkopplingar kartläggs.</div>'}</div></section>
           <section class="content-section"><div class="content-head"><span>02</span><h2>Utgåvekrediter</h2></div><div class="credit-list">${credits.length ? credits.map(x => `<a href="${releaseHref(x.release)}"><strong>${escapeHtml(x.release.title)}</strong><span>${escapeHtml(roleSv(x.role || ''))}</span><em>${x.release.release_year || '—'}</em></a>`).join('') : '<div class="empty-state">Inga releasecredits registrerade ännu.</div>'}</div></section>
           ${gallery.length ? `<section class="content-section"><div class="content-head"><span>03</span><h2>Relaterade bilder</h2></div><p class="section-intro">Gruppbilder och pressmaterial där personen är säkert knuten till sammanhanget. De används inte som individuella porträtt om bildidentifieringen inte är entydig.</p>${archiveGallery(gallery)}</section>` : ''}
           <section class="content-section"><div class="content-head"><span>${gallery.length ? '04':'03'}</span><h2>Källäge</h2></div>${claimList(claims)}</section>
