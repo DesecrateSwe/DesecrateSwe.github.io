@@ -401,3 +401,141 @@ button, input { font: inherit; }
   .breadcrumbs { padding-top:16px; }
   .footer-status { white-space:normal; }
 }
+
+/* ===== v2.1: bildarkiv / omslag / personporträtt ===== */
+.band-card.has-media { min-height: 360px; background:#0b0d10; }
+.band-card-image { position:absolute; inset:0; width:100%; height:100%; object-fit:cover; opacity:.52; filter:saturate(.72) contrast(1.06); transition:transform .35s ease, opacity .35s ease; }
+.band-card-shade { position:absolute; inset:0; z-index:1; background:linear-gradient(180deg,rgba(7,8,10,.18) 0%,rgba(7,8,10,.48) 44%,rgba(7,8,10,.96) 100%); }
+.band-card.has-media:hover .band-card-image { transform:scale(1.035); opacity:.66; }
+.band-card.has-media .band-meta,.band-card.has-media .band-title,.band-card.has-media .band-genre,.band-card.has-media .band-members { position:relative; z-index:2; }
+.band-card.has-media .band-title { margin-top:120px; text-shadow:0 3px 25px rgba(0,0,0,.78); }
+.band-card.has-media .band-meta,.band-card.has-media .band-genre,.band-card.has-media .band-members { color:#d1d2d3; text-shadow:0 2px 18px rgba(0,0,0,.8); }
+.band-card.has-media::after { z-index:1; }
+
+.person-card.has-portrait { padding:0; overflow:hidden; display:grid; grid-template-columns:115px 1fr; min-height:180px; }
+.person-card-portrait { min-height:100%; background:#070809; border-right:1px solid var(--line); }
+.person-card-portrait img { width:100%; height:100%; min-height:180px; object-fit:cover; filter:saturate(.82) contrast(1.04); }
+.person-card-copy { padding:22px; min-width:0; }
+.person-card.has-portrait h3 { margin-top:34px; }
+
+.release-row { grid-template-columns:76px 95px minmax(220px,.9fr) minmax(190px,.65fr) 1fr; }
+.release-cover-thumb { width:64px; height:64px; display:grid; place-items:center; border:1px solid var(--line); background:#101216; overflow:hidden; }
+.release-cover-thumb img { width:100%; height:100%; object-fit:cover; }
+.release-cover-thumb span { color:var(--muted-2); font-family:var(--display); font-size:12px; letter-spacing:.04em; }
+.release-row.has-cover:hover .release-cover-thumb { border-color:rgba(213,255,63,.55); }
+.release-row.has-cover:hover .release-title { color:var(--acid); }
+
+.detail-media { margin:0 0 30px; border:1px solid var(--line-strong); background:#0c0e10; overflow:hidden; }
+.detail-media img { display:block; width:100%; max-height:390px; object-fit:cover; }
+.detail-media.release-artwork img { aspect-ratio:1; object-fit:contain; background:#08090a; }
+.detail-media.detail-portrait { max-width:330px; }
+.detail-media.detail-portrait img { aspect-ratio:1; object-fit:cover; }
+
+@media (max-width:1050px) {
+  .release-row { grid-template-columns:70px 90px 1fr 1fr; }
+  .release-band { grid-column:3; }
+  .release-credits { grid-column:4; padding-bottom:0; }
+}
+
+@media (max-width:760px) {
+  .release-row { grid-template-columns:58px 70px 1fr; gap:12px; }
+  .release-cover-thumb { width:54px; height:54px; }
+  .release-band,.release-credits { grid-column:3; }
+  .release-band { margin-top:-7px; }
+  .person-card.has-portrait { grid-template-columns:92px 1fr; }
+  .person-card-portrait img { min-height:160px; }
+  .person-card-copy { padding:18px; }
+  .band-card.has-media .band-title { margin-top:105px; }
+}
+
+@media (max-width:480px) {
+  .person-card.has-portrait { grid-template-columns:86px 1fr; }
+  .person-card.has-portrait h3 { margin-top:26px; font-size:22px; }
+  .release-row { grid-template-columns:54px 1fr; }
+  .release-cover-thumb { grid-row:1 / span 3; }
+  .release-year,.release-row > div:nth-child(3),.release-band,.release-credits { grid-column:2; }
+  .release-year { font-size:22px; }
+}
+
+/* ===== v2.2: större bildarkiv / originalmaterial ===== */
+.archive-showcase-section { padding-top:20px; }
+.archive-count { color:var(--muted); font-family:var(--condensed); font-size:12px; text-transform:uppercase; letter-spacing:.12em; }
+.archive-gallery { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:12px; }
+.archive-gallery-item { display:block; min-width:0; color:inherit; text-decoration:none; border:1px solid var(--line); background:#0b0d0f; overflow:hidden; transition:border-color .2s ease, transform .2s ease; }
+.archive-gallery-item:hover { border-color:rgba(213,255,63,.55); transform:translateY(-2px); }
+.archive-gallery-media { aspect-ratio:1.18 / 1; display:grid; place-items:center; overflow:hidden; background:#08090a; }
+.archive-gallery-media img { width:100%; height:100%; object-fit:contain; transition:transform .3s ease; }
+.archive-gallery-item:hover img { transform:scale(1.025); }
+.archive-gallery-item > span { display:block; min-height:52px; padding:11px 12px; border-top:1px solid var(--line); color:#c7c8ca; font-family:var(--condensed); font-size:11px; line-height:1.35; text-transform:uppercase; letter-spacing:.07em; }
+.home-grid-section .archive-gallery { grid-template-columns:repeat(3,minmax(0,1fr)); }
+.home-grid-section .archive-gallery-media { aspect-ratio:1.35 / 1; }
+.content-section .archive-gallery { grid-template-columns:repeat(2,minmax(0,1fr)); }
+.content-section .archive-gallery-media { aspect-ratio:1.2 / 1; }
+
+@media (max-width:900px) {
+  .archive-gallery,.home-grid-section .archive-gallery { grid-template-columns:repeat(2,minmax(0,1fr)); }
+}
+@media (max-width:560px) {
+  .archive-gallery,.home-grid-section .archive-gallery,.content-section .archive-gallery { grid-template-columns:1fr; }
+  .archive-gallery-media,.home-grid-section .archive-gallery-media,.content-section .archive-gallery-media { aspect-ratio:1.32 / 1; }
+}
+
+/* v2.3 — image-forward archive */
+.site-version{margin-left:12px;padding:4px 7px;border:1px solid rgba(213,255,63,.35);color:var(--acid);font-family:var(--condensed);font-size:10px;letter-spacing:.08em;white-space:nowrap}
+.release-row{grid-template-columns:112px 86px minmax(220px,.9fr) minmax(190px,.65fr) 1fr !important;min-height:138px}
+.release-cover-thumb{width:96px;height:96px;border-color:var(--line-strong);background:#090b0d;box-shadow:0 10px 32px rgba(0,0,0,.22)}
+.release-cover-thumb img{object-fit:contain;background:#070809}
+.detail-media{border-color:rgba(213,255,63,.22);box-shadow:0 18px 50px rgba(0,0,0,.24)}
+.detail-aside .detail-media img{max-height:none;aspect-ratio:1.28/1;object-fit:cover}
+.detail-media.release-artwork img{aspect-ratio:1;object-fit:contain}
+.band-card.has-media{min-height:350px}
+.band-card.has-media .band-card-image{opacity:.66}
+.band-card.has-media:hover .band-card-image{opacity:.8}
+.archive-gallery-media{background:#050607}
+@media(max-width:900px){.release-row{grid-template-columns:90px 72px 1fr 1fr !important}.release-cover-thumb{width:78px;height:78px}.release-credits{grid-column:3/-1}}
+@media(max-width:620px){.release-row{grid-template-columns:74px 1fr !important}.release-cover-thumb{width:64px;height:64px;grid-row:1/span 4}.release-year,.release-row>div:nth-child(3),.release-band,.release-credits{grid-column:2}.site-version{display:none}}
+
+
+/* v2.4 — externa, källmärkta arkivbilder */
+.external-media-credit{
+  display:block;
+  margin:-20px 0 28px;
+  color:#aeb4bd;
+  font-family:var(--condensed);
+  font-size:10px;
+  line-height:1.45;
+  text-transform:uppercase;
+  letter-spacing:.08em;
+  border-left:2px solid var(--acid);
+  padding-left:9px;
+}
+.external-media-credit:hover{color:var(--acid)}
+.archive-gallery-image-link{display:block;color:inherit;text-decoration:none}
+.archive-gallery-item.external-media{border-color:rgba(213,255,63,.18)}
+.archive-source-link{
+  display:block;
+  padding:9px 12px 11px;
+  border-top:1px solid var(--line);
+  color:#89909a;
+  font-family:var(--condensed);
+  font-size:9px;
+  line-height:1.35;
+  text-transform:uppercase;
+  letter-spacing:.08em;
+}
+.archive-source-link:hover{color:var(--acid)}
+.external-image-failed{position:relative;min-height:96px;background:linear-gradient(135deg,#0b0d0f,#11151a)}
+.external-image-failed::after{
+  content:'Extern bild kunde inte laddas';
+  position:absolute;
+  inset:0;
+  display:grid;
+  place-items:center;
+  padding:14px;
+  color:#737a84;
+  font-family:var(--condensed);
+  font-size:10px;
+  text-transform:uppercase;
+  letter-spacing:.08em;
+  text-align:center;
+}

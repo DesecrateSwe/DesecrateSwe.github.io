@@ -17,11 +17,322 @@
   const bandsById = () => byId(state.bands);
   const releasesById = () => byId(state.releases);
 
+  // Curated local archive media. These files come from the John Swahn / Desecrate archive
+  // and are only used where the identity or release match is already established.
+  const BAND_MEDIA = {
+    'love':'assets/archive-media/bands/love.jpg',
+    'don-quixote':'assets/archive-media/bands/don-quixote.jpg',
+    'twilight':'assets/archive-media/bands/twilight.png',
+    'equinox':'assets/archive-media/bands/equinox.png',
+    'desecrate':'assets/archive-media/bands/desecrate.png',
+    'develop':'assets/archive-media/bands/develop.png',
+    'xtortex':'assets/archive-media/bands/xtortex.png',
+    'big-november':'assets/archive-media/bands/big-november.png',
+    'john-swahn-s-big-november':'assets/archive-media/bands/big-november.png',
+    'almost-human':'assets/archive-media/bands/almost-human.gif',
+    'the-unkinds':'assets/archive-media/bands/the-unkinds.jpg',
+    'treebeard':'assets/archive-media/bands/treebeard.jpg',
+    'aphophis':'assets/archive-media/bands/aphophis.jpg',
+    'loch-vostok':'https://mhf-mag.com/wp-content/uploads/2021/09/loch_vostok_1_primary-1024x576.jpg',
+    'skromta':'https://www.mattinorlin.com/en/Skromta_files/shapeimage_3.png'
+  };
+
+  const PERSON_MEDIA = {
+    'john-s-swahn':'assets/archive-media/people/john-s-swahn.gif',
+    'john-swahn':'assets/archive-media/people/john-s-swahn.gif',
+    'henri-d-ranged':'assets/archive-media/people/henri-d-ranged.gif',
+    'hendri-d-ranged':'assets/archive-media/people/henri-d-ranged.gif',
+    'johan-asp':'assets/archive-media/people/johan-asp.gif',
+    'martin-olsson':'assets/archive-media/people/martin-olsson.gif',
+    'teddy-moller':'https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog1333327/Teddy_Pic.jpg'
+  };
+
+  const RELEASE_MEDIA = {
+    'twilight|rock-you':'assets/archive-media/releases/rock-you.png',
+    'equinox|kidkkus':'assets/archive-media/releases/kidkkus.png',
+    'equinox|zzzzzzyzzzzzz':'assets/archive-media/releases/zzzzzzyzzzzzz.png',
+    'desecrate|we-only-make-jokes-we-made-you':'assets/archive-media/releases/we-only-make-jokes-we-made-you.png',
+    'desecrate|arranger-of-disorder':'assets/archive-media/releases/arranger-of-disorder.png',
+    'desecrate|lonely-disgrace':'assets/archive-media/releases/lonely-disgrace.png',
+    'desecrate|second-death':'assets/archive-media/releases/second-death.png',
+    'develop|fret':'assets/archive-media/releases/fret.png',
+    'xtortex|twisted':'assets/archive-media/releases/twisted.png',
+    'big-november|mirrors-do-the-talkin':'assets/archive-media/releases/mirrors-do-the-talkin.png',
+    'big-november|nyby-fritidsgard':'assets/archive-media/releases/mirrors-do-the-talkin.png',
+    'john-swahn-s-big-november|mirrors-do-the-talkin':'assets/archive-media/releases/mirrors-do-the-talkin.png',
+    'john-swahn-s-big-november|nyby-fritidsgard':'assets/archive-media/releases/mirrors-do-the-talkin.png',
+    'big-november|wonders-of-devotion-i-ii':'assets/archive-media/releases/wonders-of-devotion-i-ii.png',
+    'john-swahn-s-big-november|wonders-of-devotion-i-ii':'assets/archive-media/releases/wonders-of-devotion-i-ii.png',
+    'almost-human|the-sweet-revenge-of-mitzi-dupree':'assets/archive-media/releases/the-sweet-revenge-of-mitzi-dupree.gif',
+    'almost-human|the-playground':'assets/archive-media/releases/the-playground.gif',
+    'almost-human|green-all-over':'assets/archive-media/releases/green-all-over.gif',
+    'almost-human|eaten-by-the-machine':'assets/archive-media/releases/eaten-by-the-machine.gif',
+    'almost-human|left-overs':'assets/archive-media/releases/left-overs.png',
+    'the-unkinds|almost-human':'assets/archive-media/releases/the-unkinds-almost-human.jpg',
+    'the-unkinds|live-at-fellini-uppsala-02-20':'assets/archive-media/releases/live-at-fellini-uppsala-02-20.gif',
+    'treebeard|the-eldest':'assets/archive-media/releases/the-eldest.jpg',
+    'treebeard|no-padre-yes-padre':'assets/archive-media/releases/no-padre-yes-padre.gif',
+    'treebeard|anguish-on-parade':'assets/archive-media/releases/anguish-on-parade.gif',
+    'treebeard|not-for-sale':'assets/archive-media/releases/not-for-sale.gif',
+    'treebeard|may-contain-small-bones':'assets/archive-media/releases/may-contain-small-bones.gif',
+    'treebeard|admiration':'assets/archive-media/releases/admiration.jpg',
+    'treebeard|bulletin-board':'assets/archive-media/releases/bulletin-board.gif',
+    'treebeard|don-t-judge-an-album-by-its-cover':'assets/archive-media/releases/dont-judge-an-album-by-its-cover.png',
+    'treebeard|best-of-2010':'assets/archive-media/releases/best-of-2010.png',
+    'treebeard|vii':'assets/archive-media/releases/vii.jpg',
+    'aphophis|principle-of-evil':'assets/archive-media/releases/principle-of-evil.gif',
+    'aphophis|principle-of-evil-bonus-trax':'assets/archive-media/releases/principle-of-evil.gif',
+    'aphophis|the-books-of-overthrowing-apep':'assets/archive-media/releases/the-books-of-overthrowing-apep.gif',
+    'aphophis|sarcophagus':'assets/archive-media/releases/sarcophagus.jpg',
+    'aphophis|hieroglyphs':'assets/archive-media/releases/hieroglyphs.jpg',
+    'aphophis|symphony-for-the-devil':'assets/archive-media/releases/symphony-for-the-devil.jpg',
+    'aphophis|the-spherical-waltz':'assets/archive-media/releases/the-spherical-waltz.jpg',
+    'aphophis|exit-space-left':'assets/archive-media/releases/exit-space-left.jpg',
+    'aphophis|exit-space-leftovers':'assets/archive-media/releases/exit-space-leftovers.jpg',
+    'aphophis|through-the-hourglass':'assets/archive-media/releases/through-the-hourglass.jpg',
+    'aphophis|dynasties':'assets/archive-media/releases/dynasties.jpg',
+    'aphophis|the-aphophis-universe-phase-one':'assets/archive-media/releases/the-aphophis-universe-phase-one.jpg',
+    'aphophis|the-aphophis-universe-phase-two':'assets/archive-media/releases/the-aphophis-universe-phase-two.jpg',
+    'aphophis|chronophobia':'assets/archive-media/releases/chronophobia.jpg',
+    'loch-vostok|opus-ferox-ii-mark-of-the-beast':'https://f4.bcbits.com/img/a0034220659_16.jpg'
+  };
+
+
+  const BAND_GALLERY = {
+    'love': [
+      ['assets/archive-media/gallery/love/love-band-photo.jpg','L.O.V.E. · bandfoto']
+    ],
+    'don-quixote': [
+      ['assets/archive-media/gallery/don-quixote/don-quixote-band-photo.jpg','Don Quixote · bandfoto']
+    ],
+    'almost-human': [
+      ['assets/archive-media/gallery/almost-human/almost-human-band-photo.gif','Almost Human · bandfoto']
+    ],
+    'desecrate': [
+      ['assets/archive-media/gallery/desecrate/1988-band-photo-collage.png','Desecrate · bandbilder 1988'],
+      ['assets/archive-media/gallery/desecrate/storvreta-show-flyer.png','Desecrate · flyer från Storvreta'],
+      ['assets/archive-media/gallery/desecrate/press-fanzine-interview.png','Desecrate · fanzineintervju'],
+      ['assets/archive-media/gallery/desecrate/1988-we-only-make-jokes-review.png','Desecrate · recension'],
+      ['assets/archive-media/gallery/desecrate/archive-live-portrait.png','Desecrate · livebild ur arkivet']
+    ],
+    'equinox': [
+      ['assets/archive-media/gallery/equinox/1988-zzzzzz-full-front.png','Equinox · Zzzzzzyzzzzzz · full front'],
+      ['assets/archive-media/gallery/equinox/1988-zzzzzz-inside.png','Equinox · Zzzzzzyzzzzzz · insida'],
+      ['assets/archive-media/gallery/equinox/1988-zzzzzz-cassette-side-a.png','Equinox · kassett sida A'],
+      ['assets/archive-media/gallery/equinox/1988-zzzzzz-cassette-side-b.png','Equinox · kassett sida B']
+    ],
+    'big-november': [
+      ['assets/archive-media/gallery/big-november/1991-nyby-fritidsgard-front.png','Big November · Nyby Fritidsgård · framsida'],
+      ['assets/archive-media/gallery/big-november/1991-nyby-fritidsgard-back.png','Big November · Nyby Fritidsgård · baksida'],
+      ['assets/archive-media/gallery/big-november/1991-wonders-of-devotion-front.png','Big November · Wonders Of Devotion · framsida'],
+      ['assets/archive-media/gallery/big-november/1991-wonders-of-devotion-back.png','Big November · Wonders Of Devotion · baksida']
+    ],
+    'john-swahn-s-big-november': [
+      ['assets/archive-media/gallery/big-november/1991-nyby-fritidsgard-front.png','Big November · Nyby Fritidsgård · framsida'],
+      ['assets/archive-media/gallery/big-november/1991-nyby-fritidsgard-back.png','Big November · Nyby Fritidsgård · baksida'],
+      ['assets/archive-media/gallery/big-november/1991-wonders-of-devotion-front.png','Big November · Wonders Of Devotion · framsida'],
+      ['assets/archive-media/gallery/big-november/1991-wonders-of-devotion-back.png','Big November · Wonders Of Devotion · baksida']
+    ],
+    'the-unkinds': [
+      ['assets/archive-media/gallery/the-unkinds/2003-almost-human-front.jpg','The Unkinds · Almost Human · framsida'],
+      ['assets/archive-media/gallery/the-unkinds/2003-almost-human-spread.jpg','The Unkinds · Almost Human · spread'],
+      ['assets/archive-media/gallery/the-unkinds/2003-live-at-fellini-front.gif','The Unkinds · Live at Fellini · framsida'],
+      ['assets/archive-media/gallery/the-unkinds/2003-live-at-fellini-back.gif','The Unkinds · Live at Fellini · baksida']
+    ],
+    'treebeard': [
+      ['assets/archive-media/gallery/treebeard/treebeard-2004-header.jpg','Treebeard · arkivbild 2004'],
+      ['assets/archive-media/gallery/treebeard/additional-cover-creature.jpg','Treebeard · alternativt omslagsmaterial'],
+      ['assets/archive-media/gallery/treebeard/additional-cover-autumn-tree.jpg','Treebeard · alternativt omslagsmaterial'],
+      ['assets/archive-media/gallery/treebeard/additional-cover-kali.gif','Treebeard · alternativt omslagsmaterial']
+    ],
+    'aphophis': [
+      ['assets/archive-media/gallery/aphophis/2026-chronophobia-full-spread.jpg','Aphophis · Chronophobia · full spread'],
+      ['assets/archive-media/gallery/aphophis/2026-chronophobia-inner.jpg','Aphophis · Chronophobia · inner'],
+      ['assets/archive-media/gallery/aphophis/2024-exit-space-left-inside.jpg','Aphophis · Exit Space Left · insida'],
+      ['assets/archive-media/gallery/aphophis/2024-through-the-hourglass-inside.jpg','Aphophis · Through The Hourglass · insida']
+    ],
+    'loch-vostok': [
+      ['https://mhf-mag.com/wp-content/uploads/2021/09/loch_vostok_1_primary-1024x576.jpg','Loch Vostok · promo 2021 · Niklas Kupper, Teddy Möller, Jonas Radehorn, Patrik Janson, Lawrence Dinamarca','https://mhf-mag.com/i-formed-the-band-of-my-dreams-interview-with-loch-vostok/','Metalheads Forever'],
+      ['https://mhf-mag.com/wp-content/uploads/2021/09/loch_vostok_3-683x1024.jpg','Loch Vostok · promo 2021','https://mhf-mag.com/i-formed-the-band-of-my-dreams-interview-with-loch-vostok/','Metalheads Forever'],
+      ['https://mhf-mag.com/wp-content/uploads/2021/09/loch_vostok_2-1024x663.jpg','Loch Vostok · promo 2021','https://mhf-mag.com/i-formed-the-band-of-my-dreams-interview-with-loch-vostok/','Metalheads Forever']
+    ],
+    'skromta': [
+      ['https://www.mattinorlin.com/en/Skromta_files/shapeimage_3.png','Skrömta · bild från bandets officiella arkivsida','https://www.mattinorlin.com/en/Skromta.html','Matti Norlin / Skrömta']
+    ],
+    'xtortex': [
+      ['assets/archive-media/gallery/xtortex/1990-twisted-full-inlay.png','Xtortex · Twisted · full inlay']
+    ],
+    'develop': [
+      ['assets/archive-media/gallery/develop/1990-fret-back.png','Develop · Fret · baksida']
+    ]
+  };
+
+  const RELEASE_GALLERY = {
+    'loch-vostok|opus-ferox-ii-mark-of-the-beast': [
+      ['https://f4.bcbits.com/img/a0034220659_16.jpg','Opus Ferox II – Mark of the Beast · omslag','https://lochvostok.bandcamp.com/album/opus-ferox-ii-mark-of-the-beast','Loch Vostok / Bandcamp']
+    ],
+    'equinox|kidkkus': [
+      ['assets/archive-media/gallery/equinox/1987-kidkkus-back.gif','Kidkkus! · baksida']
+    ],
+    'equinox|zzzzzzyzzzzzz': [
+      ['assets/archive-media/gallery/equinox/1988-zzzzzz-full-front.png','Zzzzzzyzzzzzz · full front'],
+      ['assets/archive-media/gallery/equinox/1988-zzzzzz-inside.png','Zzzzzzyzzzzzz · insida'],
+      ['assets/archive-media/gallery/equinox/1988-zzzzzz-inlay-credits.png','Zzzzzzyzzzzzz · credits'],
+      ['assets/archive-media/gallery/equinox/1988-zzzzzz-inlay-tracklist.png','Zzzzzzyzzzzzz · låtlista'],
+      ['assets/archive-media/gallery/equinox/1988-zzzzzz-cassette-side-a.png','Zzzzzzyzzzzzz · kassett sida A'],
+      ['assets/archive-media/gallery/equinox/1988-zzzzzz-cassette-side-b.png','Zzzzzzyzzzzzz · kassett sida B']
+    ],
+    'desecrate|we-only-make-jokes-we-made-you': [
+      ['assets/archive-media/gallery/desecrate/1988-we-only-make-jokes-cassette.png','We Only Make Jokes... We Made You! · kassett'],
+      ['assets/archive-media/gallery/desecrate/1988-we-only-make-jokes-review.png','Samtida recension']
+    ],
+    'desecrate|arranger-of-disorder': [
+      ['assets/archive-media/gallery/desecrate/1989-arranger-of-disorder-cassette.png','Arranger of Disorder · kassett'],
+      ['assets/archive-media/gallery/desecrate/1989-arranger-of-disorder-inlay.png','Arranger of Disorder · inlay'],
+      ['assets/archive-media/gallery/desecrate/1989-arranger-of-disorder-full-inlay.png','Arranger of Disorder · full inlay']
+    ],
+    'develop|fret': [
+      ['assets/archive-media/gallery/develop/1990-fret-back.png','Fret · baksida']
+    ],
+    'xtortex|twisted': [
+      ['assets/archive-media/gallery/xtortex/1990-twisted-full-inlay.png','Twisted · full inlay']
+    ],
+    'big-november|nyby-fritidsgard': [
+      ['assets/archive-media/gallery/big-november/1991-nyby-fritidsgard-front.png','Nyby Fritidsgård · framsida'],
+      ['assets/archive-media/gallery/big-november/1991-nyby-fritidsgard-back.png','Nyby Fritidsgård · baksida']
+    ],
+    'john-swahn-s-big-november|nyby-fritidsgard': [
+      ['assets/archive-media/gallery/big-november/1991-nyby-fritidsgard-front.png','Nyby Fritidsgård · framsida'],
+      ['assets/archive-media/gallery/big-november/1991-nyby-fritidsgard-back.png','Nyby Fritidsgård · baksida']
+    ],
+    'big-november|wonders-of-devotion-i-ii': [
+      ['assets/archive-media/gallery/big-november/1991-wonders-of-devotion-front.png','Wonders Of Devotion I & II · framsida'],
+      ['assets/archive-media/gallery/big-november/1991-wonders-of-devotion-back.png','Wonders Of Devotion I & II · baksida']
+    ],
+    'john-swahn-s-big-november|wonders-of-devotion-i-ii': [
+      ['assets/archive-media/gallery/big-november/1991-wonders-of-devotion-front.png','Wonders Of Devotion I & II · framsida'],
+      ['assets/archive-media/gallery/big-november/1991-wonders-of-devotion-back.png','Wonders Of Devotion I & II · baksida']
+    ],
+    'the-unkinds|almost-human': [
+      ['assets/archive-media/gallery/the-unkinds/2003-almost-human-front.jpg','Almost Human · framsida'],
+      ['assets/archive-media/gallery/the-unkinds/2003-almost-human-spread.jpg','Almost Human · spread']
+    ],
+    'the-unkinds|live-at-fellini-uppsala-02-20': [
+      ['assets/archive-media/gallery/the-unkinds/2003-live-at-fellini-front.gif','Live at Fellini Uppsala 02-20 · framsida'],
+      ['assets/archive-media/gallery/the-unkinds/2003-live-at-fellini-back.gif','Live at Fellini Uppsala 02-20 · baksida']
+    ],
+    'treebeard|admiration': [
+      ['assets/archive-media/gallery/treebeard/2008-admiration-inside.gif','Admiration · insida'],
+      ['assets/archive-media/gallery/treebeard/2008-admiration-back.gif','Admiration · baksida']
+    ],
+    'treebeard|bulletin-board': [
+      ['assets/archive-media/gallery/treebeard/2008-bulletin-board-back.gif','Bulletin Board · baksida']
+    ],
+    'aphophis|principle-of-evil': [
+      ['assets/archive-media/gallery/aphophis/2008-principle-of-evil-back.gif','Principle of Evil · baksida']
+    ],
+    'aphophis|sarcophagus': [
+      ['assets/archive-media/gallery/aphophis/2010-sarcophagus-back.jpg','Sarcophagus · baksida']
+    ],
+    'aphophis|the-spherical-waltz': [
+      ['assets/archive-media/gallery/aphophis/2016-the-spherical-waltz-back.jpg','The Spherical Waltz · baksida']
+    ],
+    'aphophis|exit-space-left': [
+      ['assets/archive-media/gallery/aphophis/2024-exit-space-left-inside.jpg','Exit Space Left · insida'],
+      ['assets/archive-media/gallery/aphophis/2024-exit-space-left-back.jpg','Exit Space Left · baksida']
+    ],
+    'aphophis|through-the-hourglass': [
+      ['assets/archive-media/gallery/aphophis/2024-through-the-hourglass-inside.jpg','Through The Hourglass · insida'],
+      ['assets/archive-media/gallery/aphophis/2024-through-the-hourglass-back.jpg','Through The Hourglass · baksida']
+    ],
+    'aphophis|chronophobia': [
+      ['assets/archive-media/gallery/aphophis/2026-chronophobia-full-spread.jpg','Chronophobia · full spread'],
+      ['assets/archive-media/gallery/aphophis/2026-chronophobia-inner.jpg','Chronophobia · inner'],
+      ['assets/archive-media/gallery/aphophis/2026-chronophobia-back.jpg','Chronophobia · baksida']
+    ]
+  };
+
+  const HOME_ARCHIVE_MEDIA = [
+    ['assets/archive-media/gallery/desecrate/1988-band-photo-collage.png','Desecrate · 1988'],
+    ['assets/archive-media/gallery/equinox/1988-zzzzzz-full-front.png','Equinox · 1988'],
+    ['assets/archive-media/gallery/almost-human/almost-human-band-photo.gif','Almost Human'],
+    ['assets/archive-media/gallery/the-unkinds/2003-almost-human-spread.jpg','The Unkinds · 2003'],
+    ['assets/archive-media/gallery/big-november/1991-nyby-fritidsgard-front.png','Big November · 1991'],
+    ['assets/archive-media/gallery/aphophis/2026-chronophobia-full-spread.jpg','Aphophis · 2026']
+  ];
+
+  // Externa bilder visas endast när bandet/personen/utgåvan är säkert identifierad.
+  // Källsidan visas alltid på detaljsidan så att bildens ursprung går att följa.
+  const EXTERNAL_MEDIA_META = {
+    'https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog1333327/Teddy_Pic.jpg': {
+      label:'Rockpodden · Teddy Möller, 2017',
+      sourceUrl:'https://rockpodden.podbean.com/e/rockpodden-39-teddy-moller/'
+    },
+    'https://mhf-mag.com/wp-content/uploads/2021/09/loch_vostok_1_primary-1024x576.jpg': {
+      label:'Metalheads Forever · Loch Vostok, 2021',
+      sourceUrl:'https://mhf-mag.com/i-formed-the-band-of-my-dreams-interview-with-loch-vostok/'
+    },
+    'https://www.mattinorlin.com/en/Skromta_files/shapeimage_3.png': {
+      label:'Matti Norlin / Skrömta · officiell bandsida',
+      sourceUrl:'https://www.mattinorlin.com/en/Skromta.html'
+    },
+    'https://f4.bcbits.com/img/a0034220659_16.jpg': {
+      label:'Loch Vostok / Bandcamp · officiellt omslag',
+      sourceUrl:'https://lochvostok.bandcamp.com/album/opus-ferox-ii-mark-of-the-beast'
+    }
+  };
+
   function slugify(value = '') {
     return String(value)
       .normalize('NFD').replace(/[\u0300-\u036f]/g, '')
       .toLowerCase().replace(/&/g, ' och ')
       .replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
+  }
+
+  function bandMedia(b) {
+    return b ? (BAND_MEDIA[slugify(b.canonical_name)] || '') : '';
+  }
+  function personMedia(p) {
+    return p ? (PERSON_MEDIA[slugify(p.canonical_name)] || '') : '';
+  }
+  function releaseMedia(r) {
+    if (!r) return '';
+    const b = releaseBand(r.id);
+    const bandSlug = b ? slugify(b.canonical_name) : '';
+    const titleSlug = slugify(r.title);
+    return RELEASE_MEDIA[`${bandSlug}|${titleSlug}`] || '';
+  }
+
+  function bandGallery(b) {
+    return b ? (BAND_GALLERY[slugify(b.canonical_name)] || []) : [];
+  }
+
+  function releaseGallery(r) {
+    if (!r) return [];
+    const b = releaseBand(r.id);
+    const bandSlug = b ? slugify(b.canonical_name) : '';
+    return RELEASE_GALLERY[`${bandSlug}|${slugify(r.title)}`] || [];
+  }
+
+  function externalMediaMeta(src='') {
+    return EXTERNAL_MEDIA_META[src] || null;
+  }
+
+  function externalMediaCredit(src='') {
+    const meta = externalMediaMeta(src);
+    if (!meta) return '';
+    return `<a class="external-media-credit" href="${escapeHtml(meta.sourceUrl)}" target="_blank" rel="noopener">Extern bildkälla: ${escapeHtml(meta.label)} ↗</a>`;
+  }
+
+  function archiveGallery(items, title = 'Bildarkiv') {
+    if (!items?.length) return '';
+    return `<div class="archive-gallery">${items.map(item => {
+      const [src,caption,itemSourceUrl,itemSourceLabel] = item;
+      const meta = externalMediaMeta(src);
+      const sourceUrl = itemSourceUrl || meta?.sourceUrl || '';
+      const sourceLabel = itemSourceLabel || meta?.label || '';
+      return `<article class="archive-gallery-item${sourceUrl ? ' external-media' : ''}"><a class="archive-gallery-image-link" href="${src}" target="_blank" rel="noopener"><div class="archive-gallery-media"><img src="${src}" alt="${escapeHtml(caption)}" loading="lazy"></div></a><span>${escapeHtml(caption)}</span>${sourceUrl ? `<a class="archive-source-link" href="${escapeHtml(sourceUrl)}" target="_blank" rel="noopener">Källa: ${escapeHtml(sourceLabel || 'extern källa')} ↗</a>` : ''}</article>`;
+    }).join('')}</div>`;
   }
 
   function routePath() {
@@ -191,6 +502,11 @@
       <section class="section home-grid-section">
         <div class="section-head compact-head"><div><div class="section-kicker">DEMOER / KASSETTER / UTGÅVOR</div><h2>Första spåren</h2></div><a class="text-link" href="#/utgavor">Alla utgåvor →</a></div>
         <div class="release-stack">${recentReleases.map(releaseRow).join('')}</div>
+      </section>
+
+      <section class="section home-grid-section archive-showcase-section">
+        <div class="section-head compact-head"><div><div class="section-kicker">ORIGINALMATERIAL</div><h2>Ur bildarkivet</h2></div><span class="archive-count">${HOME_ARCHIVE_MEDIA.length} nedslag</span></div>
+        ${archiveGallery(HOME_ARCHIVE_MEDIA)}
       </section>`;
   }
 
@@ -198,7 +514,9 @@
     const mems = membershipsForBand(b.id);
     const names = mems.slice(0,4).map(m => personName(m.person_id));
     const extra = mems.length > 4 ? ` +${mems.length - 4}` : '';
-    return `<a class="band-card" href="${bandHref(b)}" data-index="${String(i+1).padStart(2,'0')}">
+    const media = bandMedia(b);
+    return `<a class="band-card${media ? ' has-media' : ''}" href="${bandHref(b)}" data-index="${String(i+1).padStart(2,'0')}">
+      ${media ? `<img class="band-card-image" src="${media}" alt="${escapeHtml(b.canonical_name)}" loading="lazy"><div class="band-card-shade"></div>` : ''}
       <div class="band-meta"><span>${b.formed_year ? `Bildat ${b.formed_year}` : 'Årtal söks'}</span><span>${escapeHtml(b.city || '')}</span></div>
       <h3 class="band-title">${escapeHtml(b.canonical_name)}</h3>
       <div class="band-genre">${escapeHtml((b.genres || []).join(' / '))}</div>
@@ -206,22 +524,31 @@
     </a>`;
   }
 
+
   function personCard(p, i = 0) {
     const mems = membershipsForPerson(p.id);
     const names = [...new Set(mems.map(m => bandName(m.band_id)))];
-    return `<a class="person-card" href="${personHref(p)}"><div class="person-number">${String(i+1).padStart(2,'0')}</div><h3>${escapeHtml(p.canonical_name)}</h3><div class="person-bands">${escapeHtml(names.join(' · ') || 'Koppling kartläggs')}</div></a>`;
+    const media = personMedia(p);
+    return `<a class="person-card${media ? ' has-portrait' : ''}" href="${personHref(p)}">
+      ${media ? `<div class="person-card-portrait"><img src="${media}" alt="${escapeHtml(p.canonical_name)}" loading="lazy"></div>` : ''}
+      <div class="person-card-copy"><div class="person-number">${String(i+1).padStart(2,'0')}</div><h3>${escapeHtml(p.canonical_name)}</h3><div class="person-bands">${escapeHtml(names.join(' · ') || 'Koppling kartläggs')}</div></div>
+    </a>`;
   }
+
 
   function releaseRow(r) {
     const band = releaseBand(r.id);
     const credits = creditsForRelease(r.id).slice(0,4).map(x => `${personName(x.person_id)} — ${roleSv(x.role)}`);
-    return `<a class="release-row" href="${releaseHref(r)}">
+    const cover = releaseMedia(r);
+    return `<a class="release-row${cover ? ' has-cover' : ''}" href="${releaseHref(r)}">
+      <div class="release-cover-thumb">${cover ? `<img src="${cover}" alt="${escapeHtml(r.title)}" loading="lazy">` : '<span>UHA</span>'}</div>
       <div class="release-year">${r.release_year || '—'}</div>
       <div><div class="release-title">${escapeHtml(r.title)}</div><span class="release-kind">${escapeHtml([r.release_type, r.format].filter(Boolean).join(' · '))}</span></div>
       <div class="release-band">${escapeHtml(band?.canonical_name || 'Band kartläggs')}</div>
       <div class="release-credits">${escapeHtml(credits.join(' · ') || 'Krediter kartläggs')}${creditsForRelease(r.id).length > 4 ? ' …' : ''}</div>
     </a>`;
   }
+
 
   function renderBandIndex() {
     const ordered = [...state.bands].sort((a,b) => (a.formed_year || 9999) - (b.formed_year || 9999) || a.canonical_name.localeCompare(b.canonical_name,'sv'));
@@ -245,16 +572,18 @@
     const claims = claimsForEntity('band', b.id);
     const sources = sourcesForClaims(claims);
     const links = state.relations.filter(r => r.from_band_id === b.id || r.to_band_id === b.id);
+    const gallery = bandGallery(b);
     const meta = [b.formed_year ? `Bildat ${b.formed_year}` : 'Bildningsår söks', b.city || 'Uppsala', ...(b.genres || [])].map(x => `<span>${escapeHtml(x)}</span>`).join('');
     app.innerHTML = `${breadcrumbs([{label:'Band',href:'#/band'},{label:b.canonical_name}])}${pageHeader('BAND / UPPSALA',escapeHtml(b.canonical_name),'',meta)}
       <section class="section detail-layout first-section">
-        <aside class="detail-aside"><div class="aside-label">Översikt</div><p>${escapeHtml(b.description || `Ett dokumenterat band i Uppsala-scenen. Arkivet bygger successivt ut historik, lineups, utgåvor och kopplingar kring ${b.canonical_name}.`)}</p><div class="aside-facts"><div><span>Status</span><strong>${b.status === 'active' ? 'Aktivt' : b.status === 'inactive' ? 'Inaktivt' : 'Okänt'}</strong></div><div><span>Medlemmar i arkivet</span><strong>${mems.length}</strong></div><div><span>Utgåvor i arkivet</span><strong>${rels.length}</strong></div></div></aside>
+        <aside class="detail-aside">${bandMedia(b) ? `<figure class="detail-media"><img src="${bandMedia(b)}" alt="${escapeHtml(b.canonical_name)}"></figure>${externalMediaCredit(bandMedia(b))}` : ''}<div class="aside-label">Översikt</div><p>${escapeHtml(b.description || `Ett dokumenterat band i Uppsala-scenen. Arkivet bygger successivt ut historik, lineups, utgåvor och kopplingar kring ${b.canonical_name}.`)}</p><div class="aside-facts"><div><span>Status</span><strong>${b.status === 'active' ? 'Aktivt' : b.status === 'inactive' ? 'Inaktivt' : 'Okänt'}</strong></div><div><span>Medlemmar i arkivet</span><strong>${mems.length}</strong></div><div><span>Utgåvor i arkivet</span><strong>${rels.length}</strong></div></div></aside>
         <div class="detail-main">
           <section class="content-section"><div class="content-head"><span>01</span><h2>Medlemmar</h2></div><div class="credit-list">${mems.length ? mems.map(m => { const p=peopleById().get(m.person_id); return `<a href="${personHref(p)}"><strong>${escapeHtml(p.canonical_name)}</strong><span>${escapeHtml(roleSv(m.role || ''))}</span><em>${yearSpan(m)}</em></a>`; }).join('') : '<div class="empty-state">Lineup kartläggs.</div>'}</div></section>
           <section class="content-section"><div class="content-head"><span>02</span><h2>Utgåvor</h2></div><div class="release-stack">${rels.length ? rels.map(releaseRow).join('') : '<div class="empty-state">Inga utgåvor registrerade ännu.</div>'}</div></section>
-          ${links.length ? `<section class="content-section"><div class="content-head"><span>03</span><h2>Kopplingar</h2></div><div class="relation-grid">${links.map(r => { const otherId = r.from_band_id === b.id ? r.to_band_id : r.from_band_id; const other = bandsById().get(otherId); return `<a href="${bandHref(other)}"><span>${escapeHtml(relationSv(r.relation_type))}</span><strong>${escapeHtml(other.canonical_name)}</strong><em>${r.from_year || ''}</em></a>`; }).join('')}</div></section>` : ''}
-          <section class="content-section"><div class="content-head"><span>${links.length ? '04':'03'}</span><h2>Källäge</h2></div>${claimList(claims)}</section>
-          ${sources.length ? `<section class="content-section"><div class="content-head"><span>${links.length ? '05':'04'}</span><h2>Källor</h2></div>${sourceList(sources)}</section>` : ''}
+          ${gallery.length ? `<section class="content-section"><div class="content-head"><span>03</span><h2>Bildarkiv</h2></div>${archiveGallery(gallery)}</section>` : ''}
+          ${links.length ? `<section class="content-section"><div class="content-head"><span>${gallery.length ? '04':'03'}</span><h2>Kopplingar</h2></div><div class="relation-grid">${links.map(r => { const otherId = r.from_band_id === b.id ? r.to_band_id : r.from_band_id; const other = bandsById().get(otherId); return `<a href="${bandHref(other)}"><span>${escapeHtml(relationSv(r.relation_type))}</span><strong>${escapeHtml(other.canonical_name)}</strong><em>${r.from_year || ''}</em></a>`; }).join('')}</div></section>` : ''}
+          <section class="content-section"><div class="content-head"><span>${String(3 + (gallery.length ? 1 : 0) + (links.length ? 1 : 0)).padStart(2,'0')}</span><h2>Källäge</h2></div>${claimList(claims)}</section>
+          ${sources.length ? `<section class="content-section"><div class="content-head"><span>${String(4 + (gallery.length ? 1 : 0) + (links.length ? 1 : 0)).padStart(2,'0')}</span><h2>Källor</h2></div>${sourceList(sources)}</section>` : ''}
         </div>
       </section>`;
   }
@@ -281,7 +610,7 @@
     const meta = uniqueBands.slice(0,5).map(b => `<a href="${bandHref(b)}">${escapeHtml(b.canonical_name)}</a>`).join('');
     app.innerHTML = `${breadcrumbs([{label:'Personer',href:'#/personer'},{label:p.canonical_name}])}${pageHeader('PERSON / UPPSALA-SCENEN',escapeHtml(p.canonical_name),'',meta)}
       <section class="section detail-layout first-section">
-        <aside class="detail-aside"><div class="aside-label">Profil</div><p>${escapeHtml(p.biography || p.uppsala_connection || 'Dokumenterad i Uppsala-scenen.')}</p><div class="aside-facts"><div><span>Bandkopplingar</span><strong>${uniqueBands.length}</strong></div><div><span>Utgåvekrediter</span><strong>${credits.length}</strong></div><div><span>Källkopplade uppgifter</span><strong>${claims.length}</strong></div></div></aside>
+        <aside class="detail-aside">${personMedia(p) ? `<figure class="detail-media detail-portrait"><img src="${personMedia(p)}" alt="${escapeHtml(p.canonical_name)}"></figure>${externalMediaCredit(personMedia(p))}` : ''}<div class="aside-label">Profil</div><p>${escapeHtml(p.biography || p.uppsala_connection || 'Dokumenterad i Uppsala-scenen.')}</p><div class="aside-facts"><div><span>Bandkopplingar</span><strong>${uniqueBands.length}</strong></div><div><span>Utgåvekrediter</span><strong>${credits.length}</strong></div><div><span>Källkopplade uppgifter</span><strong>${claims.length}</strong></div></div></aside>
         <div class="detail-main">
           <section class="content-section"><div class="content-head"><span>01</span><h2>Band</h2></div><div class="credit-list">${mems.length ? mems.map(m => { const b=bandsById().get(m.band_id); return `<a href="${bandHref(b)}"><strong>${escapeHtml(b.canonical_name)}</strong><span>${escapeHtml(roleSv(m.role || ''))}</span><em>${yearSpan(m)}</em></a>`; }).join('') : '<div class="empty-state">Bandkopplingar kartläggs.</div>'}</div></section>
           <section class="content-section"><div class="content-head"><span>02</span><h2>Utgåvekrediter</h2></div><div class="credit-list">${credits.length ? credits.map(x => `<a href="${releaseHref(x.release)}"><strong>${escapeHtml(x.release.title)}</strong><span>${escapeHtml(roleSv(x.role || ''))}</span><em>${x.release.release_year || '—'}</em></a>`).join('') : '<div class="empty-state">Inga releasecredits registrerade ännu.</div>'}</div></section>
@@ -309,14 +638,16 @@
     const credits = creditsForRelease(r.id);
     const claims = claimsForEntity('release', r.id);
     const sources = sourcesForClaims(claims);
+    const gallery = releaseGallery(r);
     const meta = [r.release_year || 'Årtal söks', r.release_type, r.format, band?.canonical_name].filter(Boolean).map(x => `<span>${escapeHtml(x)}</span>`).join('');
     app.innerHTML = `${breadcrumbs([{label:'Utgåvor',href:'#/utgavor'},{label:r.title}])}${pageHeader('UTGÅVA / ARKIVPOST',escapeHtml(r.title),'',meta)}
       <section class="section detail-layout first-section">
-        <aside class="detail-aside"><div class="aside-label">Utgåva</div><p>${escapeHtml(r.description || `En ${r.release_type || 'utgåva'} från ${r.release_year || 'okänt år'} i arkivet.`)}</p>${band ? `<a class="button button-ghost aside-button" href="${bandHref(band)}">Öppna ${escapeHtml(band.canonical_name)}</a>` : ''}</aside>
+        <aside class="detail-aside">${releaseMedia(r) ? `<figure class="detail-media release-artwork"><img src="${releaseMedia(r)}" alt="${escapeHtml(r.title)}"></figure>${externalMediaCredit(releaseMedia(r))}` : ''}<div class="aside-label">Utgåva</div><p>${escapeHtml(r.description || `En ${r.release_type || 'utgåva'} från ${r.release_year || 'okänt år'} i arkivet.`)}</p>${band ? `<a class="button button-ghost aside-button" href="${bandHref(band)}">Öppna ${escapeHtml(band.canonical_name)}</a>` : ''}</aside>
         <div class="detail-main">
           <section class="content-section"><div class="content-head"><span>01</span><h2>Krediter</h2></div><div class="credit-list">${credits.length ? credits.map(c => { const p=peopleById().get(c.person_id); return `<a href="${personHref(p)}"><strong>${escapeHtml(c.credited_as || p.canonical_name)}</strong><span>${escapeHtml(roleSv(c.role || ''))}</span><em>${escapeHtml(p.canonical_name)}</em></a>`; }).join('') : '<div class="empty-state">Krediter kartläggs.</div>'}</div></section>
-          <section class="content-section"><div class="content-head"><span>02</span><h2>Källäge</h2></div>${claimList(claims)}</section>
-          ${sources.length ? `<section class="content-section"><div class="content-head"><span>03</span><h2>Källor</h2></div>${sourceList(sources)}</section>` : ''}
+          ${gallery.length ? `<section class="content-section"><div class="content-head"><span>02</span><h2>Omslag & originalmaterial</h2></div>${archiveGallery(gallery)}</section>` : ''}
+          <section class="content-section"><div class="content-head"><span>${gallery.length ? '03':'02'}</span><h2>Källäge</h2></div>${claimList(claims)}</section>
+          ${sources.length ? `<section class="content-section"><div class="content-head"><span>${gallery.length ? '04':'03'}</span><h2>Källor</h2></div>${sourceList(sources)}</section>` : ''}
         </div>
       </section>`;
   }
@@ -423,6 +754,15 @@
     window.scrollTo({top:0, behavior:'instant'});
     document.title = `${document.querySelector('.page-hero h1, .hero h1')?.textContent.trim().replace(/\s+/g,' ') || 'Uppsala Hårdrocksarkiv'} – Uppsala Hårdrocksarkiv`;
   }
+
+  document.addEventListener('error', e => {
+    const img = e.target;
+    if (!(img instanceof HTMLImageElement)) return;
+    if (!/^https?:/i.test(img.getAttribute('src') || '')) return;
+    const wrap = img.closest('.detail-media, .band-card, .person-card-portrait, .release-cover-thumb, .archive-gallery-media');
+    if (wrap) wrap.classList.add('external-image-failed');
+    img.style.display = 'none';
+  }, true);
 
   window.addEventListener('hashchange', renderRoute);
   $('.nav-toggle').addEventListener('click', e => {
