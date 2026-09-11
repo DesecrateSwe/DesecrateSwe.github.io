@@ -40,7 +40,12 @@
     'gauntlet-rule':'https://d2x4qakry0y44a.cloudfront.net/wp-content/uploads/2021/06/18091910/GAUNTLET-RULE.jpg',
     'f-k-u':'https://i.scdn.co/image/ab6761610000e5eb20e6daa5877918a60c401aa0',
     'the-hidden':'https://f4.bcbits.com/img/a1140447514_10.jpg',
-    'stallion-four':'https://metal-temple.com/wp-content/uploads/2023/10/Stallion-Four-Rough-Times-album-cover.webp'
+    'stallion-four':'https://metal-temple.com/wp-content/uploads/2023/10/Stallion-Four-Rough-Times-album-cover.webp',
+    'wuthering-heights':'https://i.scdn.co/image/ab67616d0000b2735250aa72f96efb7d4ece5664',
+    'one-hour-hell':'https://electricvinylrecords.com/4444-large_default/one-hour-hell-voidwalker-2-lp-double-green-vinyl-limited-edition-of-200-copies.jpg',
+    'flagellation':'https://metal-temple.com/wp-content/uploads/2023/10/Flagellation-Incinerate-Disintegrate-album-cover.webp',
+    'tradore':'https://www.fwoshm.com/images/artists/1739998100_tradorefoto.png',
+    'mellow-poetry':'https://www.fwoshm.com/images/artists/mpswedenuppsala.png'
   };
 
   const PERSON_MEDIA = {
@@ -60,7 +65,38 @@
       ['https://mhf-mag.com/wp-content/uploads/2021/09/loch_vostok_1_primary-1024x576.jpg','Loch Vostok · promo 2021 · Teddy Möller med bandet','https://mhf-mag.com/i-formed-the-band-of-my-dreams-interview-with-loch-vostok/','Metalheads Forever'],
       ['https://d2x4qakry0y44a.cloudfront.net/wp-content/uploads/2021/06/18091910/GAUNTLET-RULE.jpg','Gauntlet Rule · Rogga Johansson, Peter Svensson och Teddy Möller','https://tntradiorock.com/rogga-johansson-peter-svensson-y-teddy-moller-unen-fuerzas-en-gauntlet-rule-banda-de-heavy-metal/','TNT Radio Rock'],
       ['https://i.scdn.co/image/ab6761610000e5eb20e6daa5877918a60c401aa0','F.K.Ü. · bandbild','https://www.moshoholics.com/band.php','F.K.Ü. / officiell sida'],
-      ['https://www.earsplitcompound.com/site/wp-content/uploads/2022/08/ANIMA-MORTE-February-2022-by-Martin-Gustafsson-scaled.jpg','Anima Morte · pressbild 2022','https://www.earsplitcompound.com/anima-morte-swedish-cinematic-instrumental-prog-outfit-to-release-serpents-in-the-fields-of-sleep-lp-via-cadabra-records-the-sleeping-shaman-premieres-blood-of-the-iconoclast-video/','EarSplit Compound · foto Martin Gustafsson']
+      ['https://www.earsplitcompound.com/site/wp-content/uploads/2022/08/ANIMA-MORTE-February-2022-by-Martin-Gustafsson-scaled.jpg','Anima Morte · pressbild 2022','https://www.earsplitcompound.com/anima-morte-swedish-cinematic-instrumental-prog-outfit-to-release-serpents-in-the-fields-of-sleep-lp-via-cadabra-records-the-sleeping-shaman-premieres-blood-of-the-iconoclast-video/','EarSplit Compound · foto Martin Gustafsson'],
+      ['https://i.scdn.co/image/ab67616d0000b2735250aa72f96efb7d4ece5664','Wuthering Heights · The Shadow Cabinet · Teddy Möller på bas / engineering','https://open.spotify.com/album/7pCdMyoHEukSMz0KcCk65v','Spotify / Wuthering Heights'],
+      ['https://metal-temple.com/wp-content/uploads/2023/10/Flagellation-Incinerate-Disintegrate-album-cover.webp','Flagellation · Incinerate Disintegrate · Teddy Möller på gitarr och sång','https://metal-temple.com/review/flagellation-incinerate-disintegrate/','Metal Temple'],
+      ['https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Wuthering_Heights_Salt.png/440px-Wuthering_Heights_Salt.png','Wuthering Heights · Salt · Teddy Möller på bas, gitarr, kör och engineering/mix','https://www.metal-archives.com/albums/Wuthering_Heights/Salt/261309','Wuthering Heights / Metal Archives'],
+      ['https://electricvinylrecords.com/4444-large_default/one-hour-hell-voidwalker-2-lp-double-green-vinyl-limited-edition-of-200-copies.jpg','One Hour Hell · Voidwalker · Teddy Möller på bas','https://www.metal-archives.com/albums/One_Hour_Hell/Voidwalker/789098','One Hour Hell / Metal Archives'],
+      ['https://www.fwoshm.com/images/artists/1739998100_tradorefoto.png','Tradore · Uppsala 1980-tal · Teddy Möller på trummor','https://www.fwoshm.com/index/T/1587-tradore-swe','Swedish Hard And Heavy Encyclopedia'],
+      ['https://www.fwoshm.com/images/artists/mpswedenuppsala.png','Mellow Poetry · Uppsala · Teddy Möller på trummor','https://www.fwoshm.com/index/M/1647-mellow-poetry-swe','Swedish Hard And Heavy Encyclopedia']
+    ],
+    'tina-moller': [
+      ['https://www.fwoshm.com/images/artists/1739998100_tradorefoto.png','Tradore · Tina Möller på sång','https://www.fwoshm.com/index/T/1587-tradore-swe','Swedish Hard And Heavy Encyclopedia'],
+      ['https://images.zoogletools.com/s%3Abzglfiles/u/367807/55e459a70356e2fa6a44e2dedba5e176b606505c/original/hexed-press-pis-1.jpg/%21%21/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg','HEXED · officiell pressbild · Tina Gunnarsson / Tina Möller på sång','https://hexed.se/biography','HEXED · officiell biografi']
+    ],
+    'eric-grandin': [
+      ['https://www.fwoshm.com/images/artists/mpswedenuppsala.png','Mellow Poetry · Eric Grandin på bas','https://www.fwoshm.com/index/M/1647-mellow-poetry-swe','Swedish Hard And Heavy Encyclopedia']
+    ],
+    'fredrik-kjorling': [
+      ['https://www.fwoshm.com/images/artists/mpswedenuppsala.png','Mellow Poetry · Fredrik Kjörling på gitarr','https://www.fwoshm.com/index/M/1647-mellow-poetry-swe','Swedish Hard And Heavy Encyclopedia']
+    ],
+    'jonas-hagg': [
+      ['https://www.fwoshm.com/images/artists/mpswedenuppsala.png','Mellow Poetry · Jonas Hägg på keyboard','https://www.fwoshm.com/index/M/1647-mellow-poetry-swe','Swedish Hard And Heavy Encyclopedia']
+    ],
+    'bjorn-holmquist': [
+      ['https://www.fwoshm.com/images/artists/mpswedenuppsala.png','Mellow Poetry · Björn Holmquist på sång','https://www.fwoshm.com/index/M/1647-mellow-poetry-swe','Swedish Hard And Heavy Encyclopedia']
+    ],
+    'michael-hahne': [
+      ['https://www.fwoshm.com/images/artists/1739998100_tradorefoto.png','Tradore · Michael Hahne på gitarr','https://www.fwoshm.com/index/T/1587-tradore-swe','Swedish Hard And Heavy Encyclopedia']
+    ],
+    'stefan-fagerlund': [
+      ['https://www.fwoshm.com/images/artists/1739998100_tradorefoto.png','Tradore · Stefan Fagerlund på gitarr','https://www.fwoshm.com/index/T/1587-tradore-swe','Swedish Hard And Heavy Encyclopedia']
+    ],
+    'patrik-nilsson': [
+      ['https://www.fwoshm.com/images/artists/1739998100_tradorefoto.png','Tradore · Patrik Nilsson på bas','https://www.fwoshm.com/index/T/1587-tradore-swe','Swedish Hard And Heavy Encyclopedia']
     ],
     'marten-korkman': [
       ['https://www.mattinorlin.com/en/Skromta_files/shapeimage_3.png','Skrömta · Mårten Korkmans folkrockgren','https://www.mattinorlin.com/en/Skromta.html','Matti Norlin / Skrömta']
@@ -145,7 +181,11 @@
     'anima-morte|serpents-in-the-fields-of-sleep':'https://www.progarchives.com/progressive_rock_discography_covers/6589/cover_42188392022_r.jpg',
     'gauntlet-rule|the-plague-court':'https://f4.bcbits.com/img/a0283925770_16.jpg',
     'f-k-u|metal-moshing-mad':'https://i0.wp.com/assets.bigcartel.com/product_images/58355477/R-1449287-1221061884_1_.jpeg?ssl=1',
-    'the-hidden|fearful-symmetry':'https://f4.bcbits.com/img/a1140447514_10.jpg'
+    'the-hidden|fearful-symmetry':'https://f4.bcbits.com/img/a1140447514_10.jpg',
+    'wuthering-heights|the-shadow-cabinet':'https://i.scdn.co/image/ab67616d0000b2735250aa72f96efb7d4ece5664',
+    'wuthering-heights|salt':'https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Wuthering_Heights_Salt.png/440px-Wuthering_Heights_Salt.png',
+    'one-hour-hell|voidwalker':'https://electricvinylrecords.com/4444-large_default/one-hour-hell-voidwalker-2-lp-double-green-vinyl-limited-edition-of-200-copies.jpg',
+    'flagellation|incinerate-disintegrate':'https://metal-temple.com/wp-content/uploads/2023/10/Flagellation-Incinerate-Disintegrate-album-cover.webp'
   };
 
 
@@ -207,6 +247,15 @@
       ['https://mhf-mag.com/wp-content/uploads/2021/09/loch_vostok_3-683x1024.jpg','Loch Vostok · promo 2021','https://mhf-mag.com/i-formed-the-band-of-my-dreams-interview-with-loch-vostok/','Metalheads Forever'],
       ['https://mhf-mag.com/wp-content/uploads/2021/09/loch_vostok_2-1024x663.jpg','Loch Vostok · promo 2021','https://mhf-mag.com/i-formed-the-band-of-my-dreams-interview-with-loch-vostok/','Metalheads Forever']
     ],
+    'tradore': [
+      ['https://www.fwoshm.com/images/artists/1739998100_tradorefoto.png','Tradore · Uppsala · bandfoto','https://www.fwoshm.com/index/T/1587-tradore-swe','Swedish Hard And Heavy Encyclopedia'],
+      ['https://www.metal-archives.com/images/6/8/6/7/68676_photo.jpg','Tradore · bandfoto från Metal Archives','https://www.metal-archives.com/bands/Tradore/68676','Metal Archives'],
+      ['https://www.fwoshm.com/images/artists/1739998159_tradorelogga.png','Tradore · logotyp','https://www.fwoshm.com/index/T/1587-tradore-swe','Swedish Hard And Heavy Encyclopedia']
+    ],
+    'mellow-poetry': [
+      ['https://www.fwoshm.com/images/artists/mpswedenuppsala.png','Mellow Poetry · Uppsala · bandfoto','https://www.fwoshm.com/index/M/1647-mellow-poetry-swe','Swedish Hard And Heavy Encyclopedia'],
+      ['https://www.metal-archives.com/images/3/5/4/0/3540276885_photo.jpg','Mellow Poetry · bandfoto från Metal Archives','https://www.metal-archives.com/bands/Mellow_Poetry/3540276885','Metal Archives']
+    ],
     'skromta': [
       ['https://www.mattinorlin.com/en/Skromta_files/shapeimage_3.png','Skrömta · bild från bandets officiella arkivsida','https://www.mattinorlin.com/en/Skromta.html','Matti Norlin / Skrömta']
     ],
@@ -234,6 +283,16 @@
     'stallion-four': [
       ['https://metal-temple.com/wp-content/uploads/2023/10/Stallion-Four-Rough-Times-album-cover.webp','Stallion Four · Rough Times · albumomslag 2012','https://metal-temple.com/review/stallion-four-rough-times/','Metal Temple'],
     ],
+    'wuthering-heights': [
+      ['https://i.scdn.co/image/ab67616d0000b2735250aa72f96efb7d4ece5664','Wuthering Heights · The Shadow Cabinet · 2006','https://open.spotify.com/album/7pCdMyoHEukSMz0KcCk65v','Spotify'],
+      ['https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Wuthering_Heights_Salt.png/440px-Wuthering_Heights_Salt.png','Wuthering Heights · Salt · 2010','https://www.metal-archives.com/albums/Wuthering_Heights/Salt/261309','Metal Archives']
+    ],
+    'one-hour-hell': [
+      ['https://electricvinylrecords.com/4444-large_default/one-hour-hell-voidwalker-2-lp-double-green-vinyl-limited-edition-of-200-copies.jpg','One Hour Hell · Voidwalker · 2019','https://www.metal-archives.com/albums/One_Hour_Hell/Voidwalker/789098','Metal Archives']
+    ],
+    'flagellation': [
+      ['https://metal-temple.com/wp-content/uploads/2023/10/Flagellation-Incinerate-Disintegrate-album-cover.webp','Flagellation · Incinerate Disintegrate · 2007','https://metal-temple.com/review/flagellation-incinerate-disintegrate/','Metal Temple']
+    ],
     'xtortex': [
       ['assets/archive-media/gallery/xtortex/1990-twisted-full-inlay.png','Xtortex · Twisted · full inlay']
     ],
@@ -257,6 +316,18 @@
     ],
     'the-hidden|fearful-symmetry': [
       ['https://f4.bcbits.com/img/a1140447514_10.jpg','Fearful Symmetry · 2014','https://tribunalrecords.bandcamp.com/album/fearful-symmetry-2','Tribunal / Divebomb Records']
+    ],
+    'wuthering-heights|the-shadow-cabinet': [
+      ['https://i.scdn.co/image/ab67616d0000b2735250aa72f96efb7d4ece5664','The Shadow Cabinet · 2006','https://open.spotify.com/album/7pCdMyoHEukSMz0KcCk65v','Spotify']
+    ],
+    'wuthering-heights|salt': [
+      ['https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Wuthering_Heights_Salt.png/440px-Wuthering_Heights_Salt.png','Salt · 2010','https://www.metal-archives.com/albums/Wuthering_Heights/Salt/261309','Metal Archives']
+    ],
+    'one-hour-hell|voidwalker': [
+      ['https://electricvinylrecords.com/4444-large_default/one-hour-hell-voidwalker-2-lp-double-green-vinyl-limited-edition-of-200-copies.jpg','Voidwalker · 2019','https://www.metal-archives.com/albums/One_Hour_Hell/Voidwalker/789098','Metal Archives']
+    ],
+    'flagellation|incinerate-disintegrate': [
+      ['https://metal-temple.com/wp-content/uploads/2023/10/Flagellation-Incinerate-Disintegrate-album-cover.webp','Incinerate Disintegrate · 2007','https://metal-temple.com/review/flagellation-incinerate-disintegrate/','Metal Temple']
     ],
     'anima-morte|the-nightmare-becomes-reality': [
       ['https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/29/3a/c8/293ac827-51ff-0428-8bfa-f2d2c170c6e1/artwork.jpg/600x600bf-60.jpg','The Nightmare Becomes Reality · 2011','https://animamorte.bandcamp.com/album/the-nightmare-becomes-reality','Anima Morte / Bandcamp']
@@ -387,7 +458,9 @@
     ['https://f4.bcbits.com/img/a1140447514_10.jpg','The Hidden · Fearful Symmetry','https://tribunalrecords.bandcamp.com/album/fearful-symmetry-2','Tribunal / Divebomb Records'],
     ['https://metal-temple.com/wp-content/uploads/2023/10/Stallion-Four-Rough-Times-album-cover.webp','Stallion Four · Rough Times · 2012','https://metal-temple.com/review/stallion-four-rough-times/','Metal Temple'],
     ['https://images.zoogletools.com/s%3Abzglfiles/u/367807/55e459a70356e2fa6a44e2dedba5e176b606505c/original/hexed-press-pis-1.jpg/%21%21/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg','HEXED · officiell pressbild','https://hexed.se/biography','HEXED'],
-    ['https://www.earsplitcompound.com/site/wp-content/uploads/2022/08/ANIMA-MORTE-February-2022-by-Martin-Gustafsson-scaled.jpg','Anima Morte · 2022','https://www.earsplitcompound.com/anima-morte-swedish-cinematic-instrumental-prog-outfit-to-release-serpents-in-the-fields-of-sleep-lp-via-cadabra-records-the-sleeping-shaman-premieres-blood-of-the-iconoclast-video/','EarSplit Compound']
+    ['https://www.earsplitcompound.com/site/wp-content/uploads/2022/08/ANIMA-MORTE-February-2022-by-Martin-Gustafsson-scaled.jpg','Anima Morte · 2022','https://www.earsplitcompound.com/anima-morte-swedish-cinematic-instrumental-prog-outfit-to-release-serpents-in-the-fields-of-sleep-lp-via-cadabra-records-the-sleeping-shaman-premieres-blood-of-the-iconoclast-video/','EarSplit Compound'],
+    ['https://www.fwoshm.com/images/artists/1739998100_tradorefoto.png','Tradore · Uppsala 1980-tal','https://www.fwoshm.com/index/T/1587-tradore-swe','Swedish Hard And Heavy Encyclopedia'],
+    ['https://www.fwoshm.com/images/artists/mpswedenuppsala.png','Mellow Poetry · Uppsala 1990-tal','https://www.fwoshm.com/index/M/1647-mellow-poetry-swe','Swedish Hard And Heavy Encyclopedia']
   ];
 
   // Externa bilder visas endast när bandet/personen/utgåvan är säkert identifierad.
@@ -433,7 +506,12 @@
     'https://f4.bcbits.com/img/a1140447514_10.jpg': {label:'The Hidden / Tribunal + Divebomb Records · Fearful Symmetry',sourceUrl:'https://tribunalrecords.bandcamp.com/album/fearful-symmetry-2'},
     'https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/29/3a/c8/293ac827-51ff-0428-8bfa-f2d2c170c6e1/artwork.jpg/600x600bf-60.jpg': {label:'Anima Morte · The Nightmare Becomes Reality',sourceUrl:'https://animamorte.bandcamp.com/album/the-nightmare-becomes-reality'},
     'https://f4.bcbits.com/img/a0700897435_16.jpg': {label:'Anima Morte / Bandcamp · Upon Darkened Stains',sourceUrl:'https://animamorte.bandcamp.com/album/upon-darkened-stains'},
-    'https://www.progarchives.com/progressive_rock_discography_covers/6589/cover_42188392022_r.jpg': {label:'Anima Morte · Serpents in the Fields of Sleep',sourceUrl:'https://animamorte.bandcamp.com/album/serpents-in-the-fields-of-sleep'}
+    'https://www.progarchives.com/progressive_rock_discography_covers/6589/cover_42188392022_r.jpg': {label:'Anima Morte · Serpents in the Fields of Sleep',sourceUrl:'https://animamorte.bandcamp.com/album/serpents-in-the-fields-of-sleep'},
+    'https://www.fwoshm.com/images/artists/1739998100_tradorefoto.png': {label:'Swedish Hard And Heavy Encyclopedia · Tradore bandfoto',sourceUrl:'https://www.fwoshm.com/index/T/1587-tradore-swe'},
+    'https://www.metal-archives.com/images/6/8/6/7/68676_photo.jpg': {label:'Metal Archives · Tradore bandfoto',sourceUrl:'https://www.metal-archives.com/bands/Tradore/68676'},
+    'https://www.fwoshm.com/images/artists/1739998159_tradorelogga.png': {label:'Swedish Hard And Heavy Encyclopedia · Tradore logotyp',sourceUrl:'https://www.fwoshm.com/index/T/1587-tradore-swe'},
+    'https://www.fwoshm.com/images/artists/mpswedenuppsala.png': {label:'Swedish Hard And Heavy Encyclopedia · Mellow Poetry bandfoto',sourceUrl:'https://www.fwoshm.com/index/M/1647-mellow-poetry-swe'},
+    'https://www.metal-archives.com/images/3/5/4/0/3540276885_photo.jpg': {label:'Metal Archives · Mellow Poetry bandfoto',sourceUrl:'https://www.metal-archives.com/bands/Mellow_Poetry/3540276885'}
   };
 
   function slugify(value = '') {
