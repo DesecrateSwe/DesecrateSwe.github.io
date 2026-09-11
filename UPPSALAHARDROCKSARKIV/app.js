@@ -36,7 +36,10 @@
     'loch-vostok':'https://mhf-mag.com/wp-content/uploads/2021/09/loch_vostok_1_primary-1024x576.jpg',
     'skromta':'https://www.mattinorlin.com/en/Skromta_files/shapeimage_3.png',
     'hexed':'https://images.zoogletools.com/s%3Abzglfiles/u/367807/55e459a70356e2fa6a44e2dedba5e176b606505c/original/hexed-press-pis-1.jpg/%21%21/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg',
-    'anima-morte':'https://www.earsplitcompound.com/site/wp-content/uploads/2022/08/ANIMA-MORTE-February-2022-by-Martin-Gustafsson-scaled.jpg'
+    'anima-morte':'https://www.earsplitcompound.com/site/wp-content/uploads/2022/08/ANIMA-MORTE-February-2022-by-Martin-Gustafsson-scaled.jpg',
+    'gauntlet-rule':'https://d2x4qakry0y44a.cloudfront.net/wp-content/uploads/2021/06/18091910/GAUNTLET-RULE.jpg',
+    'f-k-u':'https://i.scdn.co/image/ab6761610000e5eb20e6daa5877918a60c401aa0',
+    'the-hidden':'https://f4.bcbits.com/img/a1140447514_10.jpg'
   };
 
   const PERSON_MEDIA = {
@@ -104,7 +107,13 @@
     'loch-vostok|opus-ferox-ii-mark-of-the-beast':'https://f4.bcbits.com/img/a0034220659_16.jpg',
     'hexed|netherworld':'https://f4.bcbits.com/img/a0128858293_10.jpg',
     'hexed|pagans-rising':'https://f4.bcbits.com/img/a0742732570_10.jpg',
-    'anima-morte|face-the-sea-of-darkness':'https://f4.bcbits.com/img/a3943680144_10.jpg'
+    'anima-morte|face-the-sea-of-darkness':'https://f4.bcbits.com/img/a3943680144_10.jpg',
+    'anima-morte|the-nightmare-becomes-reality':'https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/29/3a/c8/293ac827-51ff-0428-8bfa-f2d2c170c6e1/artwork.jpg/600x600bf-60.jpg',
+    'anima-morte|upon-darkened-stains':'https://f4.bcbits.com/img/a0700897435_16.jpg',
+    'anima-morte|serpents-in-the-fields-of-sleep':'https://www.progarchives.com/progressive_rock_discography_covers/6589/cover_42188392022_r.jpg',
+    'gauntlet-rule|the-plague-court':'https://f4.bcbits.com/img/a0283925770_16.jpg',
+    'f-k-u|metal-moshing-mad':'https://i0.wp.com/assets.bigcartel.com/product_images/58355477/R-1449287-1221061884_1_.jpeg?ssl=1',
+    'the-hidden|fearful-symmetry':'https://f4.bcbits.com/img/a1140447514_10.jpg'
   };
 
 
@@ -173,7 +182,22 @@
       ['https://images.zoogletools.com/s%3Abzglfiles/u/367807/55e459a70356e2fa6a44e2dedba5e176b606505c/original/hexed-press-pis-1.jpg/%21%21/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg','HEXED · officiell pressbild','https://hexed.se/biography','HEXED · officiell biografi']
     ],
     'anima-morte': [
-      ['https://www.earsplitcompound.com/site/wp-content/uploads/2022/08/ANIMA-MORTE-February-2022-by-Martin-Gustafsson-scaled.jpg','Anima Morte · pressbild 2022 · foto Martin Gustafsson','https://www.earsplitcompound.com/anima-morte-swedish-cinematic-instrumental-prog-outfit-to-release-serpents-in-the-fields-of-sleep-lp-via-cadabra-records-the-sleeping-shaman-premieres-blood-of-the-iconoclast-video/','EarSplit Compound']
+      ['https://www.earsplitcompound.com/site/wp-content/uploads/2022/08/ANIMA-MORTE-February-2022-by-Martin-Gustafsson-scaled.jpg','Anima Morte · pressbild 2022 · foto Martin Gustafsson','https://www.earsplitcompound.com/anima-morte-swedish-cinematic-instrumental-prog-outfit-to-release-serpents-in-the-fields-of-sleep-lp-via-cadabra-records-the-sleeping-shaman-premieres-blood-of-the-iconoclast-video/','EarSplit Compound'],
+      ['https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/29/3a/c8/293ac827-51ff-0428-8bfa-f2d2c170c6e1/artwork.jpg/600x600bf-60.jpg','Anima Morte · The Nightmare Becomes Reality · 2011','https://animamorte.bandcamp.com/album/the-nightmare-becomes-reality','Anima Morte / Bandcamp'],
+      ['https://f4.bcbits.com/img/a0700897435_16.jpg','Anima Morte · Upon Darkened Stains · 2014','https://animamorte.bandcamp.com/album/upon-darkened-stains','Anima Morte / Bandcamp'],
+      ['https://www.progarchives.com/progressive_rock_discography_covers/6589/cover_42188392022_r.jpg','Anima Morte · Serpents in the Fields of Sleep · 2022','https://animamorte.bandcamp.com/album/serpents-in-the-fields-of-sleep','Anima Morte / Bandcamp']
+    ],
+    'gauntlet-rule': [
+      ['https://d2x4qakry0y44a.cloudfront.net/wp-content/uploads/2021/06/18091910/GAUNTLET-RULE.jpg','Gauntlet Rule · Rogga Johansson, Peter Svensson och Teddy Möller','https://tntradiorock.com/rogga-johansson-peter-svensson-y-teddy-moller-unen-fuerzas-en-gauntlet-rule-banda-de-heavy-metal/','TNT Radio Rock'],
+      ['https://f4.bcbits.com/img/a0283925770_16.jpg','Gauntlet Rule · The Plague Court · 2022','https://gauntletrulesweden.bandcamp.com/album/the-plague-court','Gauntlet Rule / Bandcamp']
+    ],
+    'f-k-u': [
+      ['https://i.scdn.co/image/ab6761610000e5eb20e6daa5877918a60c401aa0','F.K.Ü. · bandbild','https://open.spotify.com/artist/5h0HlqYN5TvocKVL1NSJ80','Spotify'],
+      ['https://www.moshoholics.com/img/banners/tour-2024-xs.jpg','F.K.Ü. · live 2024','https://www.moshoholics.com/tour.php','F.K.Ü. · officiell sida'],
+      ['https://i0.wp.com/assets.bigcartel.com/product_images/58355477/R-1449287-1221061884_1_.jpeg?ssl=1','F.K.Ü. · Metal Moshing Mad · 1999','https://www.moshoholics.com/releases.php','F.K.Ü. · officiell diskografi']
+    ],
+    'the-hidden': [
+      ['https://f4.bcbits.com/img/a1140447514_10.jpg','The Hidden · Fearful Symmetry · 2014','https://tribunalrecords.bandcamp.com/album/fearful-symmetry-2','Tribunal / Divebomb Records']
     ],
     'xtortex': [
       ['assets/archive-media/gallery/xtortex/1990-twisted-full-inlay.png','Xtortex · Twisted · full inlay']
@@ -184,6 +208,24 @@
   };
 
   const RELEASE_GALLERY = {
+    'gauntlet-rule|the-plague-court': [
+      ['https://f4.bcbits.com/img/a0283925770_16.jpg','The Plague Court · officiellt Bandcamp-omslag','https://gauntletrulesweden.bandcamp.com/album/the-plague-court','Gauntlet Rule / Bandcamp']
+    ],
+    'f-k-u|metal-moshing-mad': [
+      ['https://i0.wp.com/assets.bigcartel.com/product_images/58355477/R-1449287-1221061884_1_.jpeg?ssl=1','Metal Moshing Mad · 1999','https://www.moshoholics.com/releases.php','F.K.Ü. · officiell diskografi']
+    ],
+    'the-hidden|fearful-symmetry': [
+      ['https://f4.bcbits.com/img/a1140447514_10.jpg','Fearful Symmetry · 2014','https://tribunalrecords.bandcamp.com/album/fearful-symmetry-2','Tribunal / Divebomb Records']
+    ],
+    'anima-morte|the-nightmare-becomes-reality': [
+      ['https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/29/3a/c8/293ac827-51ff-0428-8bfa-f2d2c170c6e1/artwork.jpg/600x600bf-60.jpg','The Nightmare Becomes Reality · 2011','https://animamorte.bandcamp.com/album/the-nightmare-becomes-reality','Anima Morte / Bandcamp']
+    ],
+    'anima-morte|upon-darkened-stains': [
+      ['https://f4.bcbits.com/img/a0700897435_16.jpg','Upon Darkened Stains · 2014','https://animamorte.bandcamp.com/album/upon-darkened-stains','Anima Morte / Bandcamp']
+    ],
+    'anima-morte|serpents-in-the-fields-of-sleep': [
+      ['https://www.progarchives.com/progressive_rock_discography_covers/6589/cover_42188392022_r.jpg','Serpents in the Fields of Sleep · 2022','https://animamorte.bandcamp.com/album/serpents-in-the-fields-of-sleep','Anima Morte / Bandcamp']
+    ],
     'hexed|netherworld': [
       ['https://f4.bcbits.com/img/a0128858293_10.jpg','Netherworld · officiellt omslag','https://hexedmetal.bandcamp.com/album/netherworld','HEXED / Bandcamp']
     ],
@@ -299,6 +341,9 @@
     ['assets/archive-media/gallery/the-unkinds/2003-almost-human-spread.jpg','The Unkinds · 2003'],
     ['assets/archive-media/gallery/big-november/1991-nyby-fritidsgard-front.png','Big November · 1991'],
     ['assets/archive-media/gallery/aphophis/2026-chronophobia-full-spread.jpg','Aphophis · 2026'],
+    ['https://d2x4qakry0y44a.cloudfront.net/wp-content/uploads/2021/06/18091910/GAUNTLET-RULE.jpg','Gauntlet Rule · Teddy Möller-grenen','https://tntradiorock.com/rogga-johansson-peter-svensson-y-teddy-moller-unen-fuerzas-en-gauntlet-rule-banda-de-heavy-metal/','TNT Radio Rock'],
+    ['https://i.scdn.co/image/ab6761610000e5eb20e6daa5877918a60c401aa0','F.K.Ü. · Uppsala thrash','https://www.moshoholics.com/band.php','F.K.Ü.'],
+    ['https://f4.bcbits.com/img/a1140447514_10.jpg','The Hidden · Fearful Symmetry','https://tribunalrecords.bandcamp.com/album/fearful-symmetry-2','Tribunal / Divebomb Records'],
     ['https://images.zoogletools.com/s%3Abzglfiles/u/367807/55e459a70356e2fa6a44e2dedba5e176b606505c/original/hexed-press-pis-1.jpg/%21%21/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg','HEXED · officiell pressbild','https://hexed.se/biography','HEXED'],
     ['https://www.earsplitcompound.com/site/wp-content/uploads/2022/08/ANIMA-MORTE-February-2022-by-Martin-Gustafsson-scaled.jpg','Anima Morte · 2022','https://www.earsplitcompound.com/anima-morte-swedish-cinematic-instrumental-prog-outfit-to-release-serpents-in-the-fields-of-sleep-lp-via-cadabra-records-the-sleeping-shaman-premieres-blood-of-the-iconoclast-video/','EarSplit Compound']
   ];
@@ -335,7 +380,16 @@
     'https://f4.bcbits.com/img/a3397032421_10.jpg': {label:'Loch Vostok / Bandcamp · Destruction Time Again!',sourceUrl:'https://lochvostok.bandcamp.com/album/destruction-time-again'},
     'https://f4.bcbits.com/img/a3386423578_10.jpg': {label:'Loch Vostok / Bandcamp · Reveal No Secrets',sourceUrl:'https://lochvostok.bandcamp.com/album/reveal-no-secrets'},
     'https://f4.bcbits.com/img/a3841962841_10.jpg': {label:'Loch Vostok / Bandcamp · V – The Doctrine Decoded',sourceUrl:'https://lochvostok.bandcamp.com/album/v-the-doctrine-decoded'},
-    'https://f4.bcbits.com/img/a0751177761_10.jpg': {label:'Loch Vostok / Bandcamp · Strife',sourceUrl:'https://lochvostok.bandcamp.com/album/strife'}
+    'https://f4.bcbits.com/img/a0751177761_10.jpg': {label:'Loch Vostok / Bandcamp · Strife',sourceUrl:'https://lochvostok.bandcamp.com/album/strife'},
+    'https://d2x4qakry0y44a.cloudfront.net/wp-content/uploads/2021/06/18091910/GAUNTLET-RULE.jpg': {label:'TNT Radio Rock · Gauntlet Rule',sourceUrl:'https://tntradiorock.com/rogga-johansson-peter-svensson-y-teddy-moller-unen-fuerzas-en-gauntlet-rule-banda-de-heavy-metal/'},
+    'https://f4.bcbits.com/img/a0283925770_16.jpg': {label:'Gauntlet Rule / Bandcamp · The Plague Court',sourceUrl:'https://gauntletrulesweden.bandcamp.com/album/the-plague-court'},
+    'https://i.scdn.co/image/ab6761610000e5eb20e6daa5877918a60c401aa0': {label:'F.K.Ü. · artistbild',sourceUrl:'https://www.moshoholics.com/band.php'},
+    'https://www.moshoholics.com/img/banners/tour-2024-xs.jpg': {label:'F.K.Ü. · officiell sida · live 2024',sourceUrl:'https://www.moshoholics.com/tour.php'},
+    'https://i0.wp.com/assets.bigcartel.com/product_images/58355477/R-1449287-1221061884_1_.jpeg?ssl=1': {label:'F.K.Ü. · Metal Moshing Mad',sourceUrl:'https://www.moshoholics.com/releases.php'},
+    'https://f4.bcbits.com/img/a1140447514_10.jpg': {label:'The Hidden / Tribunal + Divebomb Records · Fearful Symmetry',sourceUrl:'https://tribunalrecords.bandcamp.com/album/fearful-symmetry-2'},
+    'https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/29/3a/c8/293ac827-51ff-0428-8bfa-f2d2c170c6e1/artwork.jpg/600x600bf-60.jpg': {label:'Anima Morte · The Nightmare Becomes Reality',sourceUrl:'https://animamorte.bandcamp.com/album/the-nightmare-becomes-reality'},
+    'https://f4.bcbits.com/img/a0700897435_16.jpg': {label:'Anima Morte / Bandcamp · Upon Darkened Stains',sourceUrl:'https://animamorte.bandcamp.com/album/upon-darkened-stains'},
+    'https://www.progarchives.com/progressive_rock_discography_covers/6589/cover_42188392022_r.jpg': {label:'Anima Morte · Serpents in the Fields of Sleep',sourceUrl:'https://animamorte.bandcamp.com/album/serpents-in-the-fields-of-sleep'}
   };
 
   function slugify(value = '') {
