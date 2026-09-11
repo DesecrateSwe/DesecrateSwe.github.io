@@ -539,3 +539,5 @@ button, input { font: inherit; }
   letter-spacing:.08em;
   text-align:center;
 }
+
+.section-intro{max-width:780px;margin:-8px 0 20px;color:#85898d;font-size:13px;line-height:1.65}

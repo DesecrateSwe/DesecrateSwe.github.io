@@ -39,7 +39,8 @@
     'anima-morte':'https://www.earsplitcompound.com/site/wp-content/uploads/2022/08/ANIMA-MORTE-February-2022-by-Martin-Gustafsson-scaled.jpg',
     'gauntlet-rule':'https://d2x4qakry0y44a.cloudfront.net/wp-content/uploads/2021/06/18091910/GAUNTLET-RULE.jpg',
     'f-k-u':'https://i.scdn.co/image/ab6761610000e5eb20e6daa5877918a60c401aa0',
-    'the-hidden':'https://f4.bcbits.com/img/a1140447514_10.jpg'
+    'the-hidden':'https://f4.bcbits.com/img/a1140447514_10.jpg',
+    'stallion-four':'https://metal-temple.com/wp-content/uploads/2023/10/Stallion-Four-Rough-Times-album-cover.webp'
   };
 
   const PERSON_MEDIA = {
@@ -50,6 +51,35 @@
     'johan-asp':'assets/archive-media/people/johan-asp.gif',
     'martin-olsson':'assets/archive-media/people/martin-olsson.gif',
     'teddy-moller':'https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog1333327/Teddy_Pic.jpg'
+  };
+
+  // Relaterade bilder på personsidorna. Gruppbilder används som gruppbilder –
+  // de behandlas inte som individuella porträtt om personen inte är entydigt identifierad.
+  const PERSON_GALLERY = {
+    'teddy-moller': [
+      ['https://mhf-mag.com/wp-content/uploads/2021/09/loch_vostok_1_primary-1024x576.jpg','Loch Vostok · promo 2021 · Teddy Möller med bandet','https://mhf-mag.com/i-formed-the-band-of-my-dreams-interview-with-loch-vostok/','Metalheads Forever'],
+      ['https://d2x4qakry0y44a.cloudfront.net/wp-content/uploads/2021/06/18091910/GAUNTLET-RULE.jpg','Gauntlet Rule · Rogga Johansson, Peter Svensson och Teddy Möller','https://tntradiorock.com/rogga-johansson-peter-svensson-y-teddy-moller-unen-fuerzas-en-gauntlet-rule-banda-de-heavy-metal/','TNT Radio Rock'],
+      ['https://i.scdn.co/image/ab6761610000e5eb20e6daa5877918a60c401aa0','F.K.Ü. · bandbild','https://www.moshoholics.com/band.php','F.K.Ü. / officiell sida'],
+      ['https://www.earsplitcompound.com/site/wp-content/uploads/2022/08/ANIMA-MORTE-February-2022-by-Martin-Gustafsson-scaled.jpg','Anima Morte · pressbild 2022','https://www.earsplitcompound.com/anima-morte-swedish-cinematic-instrumental-prog-outfit-to-release-serpents-in-the-fields-of-sleep-lp-via-cadabra-records-the-sleeping-shaman-premieres-blood-of-the-iconoclast-video/','EarSplit Compound · foto Martin Gustafsson']
+    ],
+    'marten-korkman': [
+      ['https://www.mattinorlin.com/en/Skromta_files/shapeimage_3.png','Skrömta · Mårten Korkmans folkrockgren','https://www.mattinorlin.com/en/Skromta.html','Matti Norlin / Skrömta']
+    ],
+    'peter-druck': [
+      ['https://metal-temple.com/wp-content/uploads/2023/10/Stallion-Four-Rough-Times-album-cover.webp','Stallion Four · Rough Times · Peter Druck på gitarr','https://metal-temple.com/review/stallion-four-rough-times/','Metal Temple']
+    ],
+    'gustav-ljung': [
+      ['https://metal-temple.com/wp-content/uploads/2023/10/Stallion-Four-Rough-Times-album-cover.webp','Stallion Four · Rough Times · Gustav Ljung på bas','https://metal-temple.com/review/stallion-four-rough-times/','Metal Temple']
+    ],
+    'bjorn-fors': [
+      ['https://metal-temple.com/wp-content/uploads/2023/10/Stallion-Four-Rough-Times-album-cover.webp','Stallion Four · Rough Times · Björn Fors på sång','https://metal-temple.com/review/stallion-four-rough-times/','Metal Temple']
+    ],
+    'markus-berg': [
+      ['https://metal-temple.com/wp-content/uploads/2023/10/Stallion-Four-Rough-Times-album-cover.webp','Stallion Four · Rough Times · Markus Berg på gitarr','https://metal-temple.com/review/stallion-four-rough-times/','Metal Temple']
+    ],
+    'markus-miljand': [
+      ['https://metal-temple.com/wp-content/uploads/2023/10/Stallion-Four-Rough-Times-album-cover.webp','Stallion Four · Rough Times · Markus Miljand på trummor','https://metal-temple.com/review/stallion-four-rough-times/','Metal Temple']
+    ]
   };
 
   const RELEASE_MEDIA = {
@@ -104,7 +134,9 @@
     'loch-vostok|reveal-no-secrets':'https://f4.bcbits.com/img/a3386423578_10.jpg',
     'loch-vostok|v-the-doctrine-decoded':'https://f4.bcbits.com/img/a3841962841_10.jpg',
     'loch-vostok|strife':'https://f4.bcbits.com/img/a0751177761_10.jpg',
+    'loch-vostok|opus-ferox-the-great-escape':'https://f4.bcbits.com/img/0035597054_10.jpg',
     'loch-vostok|opus-ferox-ii-mark-of-the-beast':'https://f4.bcbits.com/img/a0034220659_16.jpg',
+    'stallion-four|rough-times|2012':'https://metal-temple.com/wp-content/uploads/2023/10/Stallion-Four-Rough-Times-album-cover.webp',
     'hexed|netherworld':'https://f4.bcbits.com/img/a0128858293_10.jpg',
     'hexed|pagans-rising':'https://f4.bcbits.com/img/a0742732570_10.jpg',
     'anima-morte|face-the-sea-of-darkness':'https://f4.bcbits.com/img/a3943680144_10.jpg',
@@ -199,6 +231,9 @@
     'the-hidden': [
       ['https://f4.bcbits.com/img/a1140447514_10.jpg','The Hidden · Fearful Symmetry · 2014','https://tribunalrecords.bandcamp.com/album/fearful-symmetry-2','Tribunal / Divebomb Records']
     ],
+    'stallion-four': [
+      ['https://metal-temple.com/wp-content/uploads/2023/10/Stallion-Four-Rough-Times-album-cover.webp','Stallion Four · Rough Times · albumomslag 2012','https://metal-temple.com/review/stallion-four-rough-times/','Metal Temple'],
+    ],
     'xtortex': [
       ['assets/archive-media/gallery/xtortex/1990-twisted-full-inlay.png','Xtortex · Twisted · full inlay']
     ],
@@ -208,6 +243,12 @@
   };
 
   const RELEASE_GALLERY = {
+    'loch-vostok|opus-ferox-the-great-escape': [
+      ['https://f4.bcbits.com/img/0035597054_10.jpg','Opus Ferox – The Great Escape · 2021','https://lochvostok.bandcamp.com/album/opus-ferox-the-great-escape','Loch Vostok / Bandcamp']
+    ],
+    'stallion-four|rough-times|2012': [
+      ['https://metal-temple.com/wp-content/uploads/2023/10/Stallion-Four-Rough-Times-album-cover.webp','Stallion Four · Rough Times · album 2012','https://metal-temple.com/review/stallion-four-rough-times/','Metal Temple']
+    ],
     'gauntlet-rule|the-plague-court': [
       ['https://f4.bcbits.com/img/a0283925770_16.jpg','The Plague Court · officiellt Bandcamp-omslag','https://gauntletrulesweden.bandcamp.com/album/the-plague-court','Gauntlet Rule / Bandcamp']
     ],
@@ -344,6 +385,7 @@
     ['https://d2x4qakry0y44a.cloudfront.net/wp-content/uploads/2021/06/18091910/GAUNTLET-RULE.jpg','Gauntlet Rule · Teddy Möller-grenen','https://tntradiorock.com/rogga-johansson-peter-svensson-y-teddy-moller-unen-fuerzas-en-gauntlet-rule-banda-de-heavy-metal/','TNT Radio Rock'],
     ['https://i.scdn.co/image/ab6761610000e5eb20e6daa5877918a60c401aa0','F.K.Ü. · Uppsala thrash','https://www.moshoholics.com/band.php','F.K.Ü.'],
     ['https://f4.bcbits.com/img/a1140447514_10.jpg','The Hidden · Fearful Symmetry','https://tribunalrecords.bandcamp.com/album/fearful-symmetry-2','Tribunal / Divebomb Records'],
+    ['https://metal-temple.com/wp-content/uploads/2023/10/Stallion-Four-Rough-Times-album-cover.webp','Stallion Four · Rough Times · 2012','https://metal-temple.com/review/stallion-four-rough-times/','Metal Temple'],
     ['https://images.zoogletools.com/s%3Abzglfiles/u/367807/55e459a70356e2fa6a44e2dedba5e176b606505c/original/hexed-press-pis-1.jpg/%21%21/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg','HEXED · officiell pressbild','https://hexed.se/biography','HEXED'],
     ['https://www.earsplitcompound.com/site/wp-content/uploads/2022/08/ANIMA-MORTE-February-2022-by-Martin-Gustafsson-scaled.jpg','Anima Morte · 2022','https://www.earsplitcompound.com/anima-morte-swedish-cinematic-instrumental-prog-outfit-to-release-serpents-in-the-fields-of-sleep-lp-via-cadabra-records-the-sleeping-shaman-premieres-blood-of-the-iconoclast-video/','EarSplit Compound']
   ];
@@ -381,6 +423,8 @@
     'https://f4.bcbits.com/img/a3386423578_10.jpg': {label:'Loch Vostok / Bandcamp · Reveal No Secrets',sourceUrl:'https://lochvostok.bandcamp.com/album/reveal-no-secrets'},
     'https://f4.bcbits.com/img/a3841962841_10.jpg': {label:'Loch Vostok / Bandcamp · V – The Doctrine Decoded',sourceUrl:'https://lochvostok.bandcamp.com/album/v-the-doctrine-decoded'},
     'https://f4.bcbits.com/img/a0751177761_10.jpg': {label:'Loch Vostok / Bandcamp · Strife',sourceUrl:'https://lochvostok.bandcamp.com/album/strife'},
+    'https://f4.bcbits.com/img/0035597054_10.jpg': {label:'Loch Vostok / Bandcamp · Opus Ferox – The Great Escape',sourceUrl:'https://lochvostok.bandcamp.com/album/opus-ferox-the-great-escape'},
+    'https://metal-temple.com/wp-content/uploads/2023/10/Stallion-Four-Rough-Times-album-cover.webp': {label:'Metal Temple · Stallion Four – Rough Times',sourceUrl:'https://metal-temple.com/review/stallion-four-rough-times/'},
     'https://d2x4qakry0y44a.cloudfront.net/wp-content/uploads/2021/06/18091910/GAUNTLET-RULE.jpg': {label:'TNT Radio Rock · Gauntlet Rule',sourceUrl:'https://tntradiorock.com/rogga-johansson-peter-svensson-y-teddy-moller-unen-fuerzas-en-gauntlet-rule-banda-de-heavy-metal/'},
     'https://f4.bcbits.com/img/a0283925770_16.jpg': {label:'Gauntlet Rule / Bandcamp · The Plague Court',sourceUrl:'https://gauntletrulesweden.bandcamp.com/album/the-plague-court'},
     'https://i.scdn.co/image/ab6761610000e5eb20e6daa5877918a60c401aa0': {label:'F.K.Ü. · artistbild',sourceUrl:'https://www.moshoholics.com/band.php'},
@@ -405,12 +449,18 @@
   function personMedia(p) {
     return p ? (PERSON_MEDIA[slugify(p.canonical_name)] || '') : '';
   }
+
+  function personGallery(p) {
+    return p ? (PERSON_GALLERY[slugify(p.canonical_name)] || []) : [];
+  }
+
   function releaseMedia(r) {
     if (!r) return '';
     const b = releaseBand(r.id);
     const bandSlug = b ? slugify(b.canonical_name) : '';
     const titleSlug = slugify(r.title);
-    return RELEASE_MEDIA[`${bandSlug}|${titleSlug}`] || '';
+    const yearKey = `${bandSlug}|${titleSlug}|${r.release_year || ''}`;
+    return RELEASE_MEDIA[yearKey] || RELEASE_MEDIA[`${bandSlug}|${titleSlug}`] || '';
   }
 
   function bandGallery(b) {
@@ -421,7 +471,9 @@
     if (!r) return [];
     const b = releaseBand(r.id);
     const bandSlug = b ? slugify(b.canonical_name) : '';
-    return RELEASE_GALLERY[`${bandSlug}|${slugify(r.title)}`] || [];
+    const titleSlug = slugify(r.title);
+    const yearKey = `${bandSlug}|${titleSlug}|${r.release_year || ''}`;
+    return RELEASE_GALLERY[yearKey] || RELEASE_GALLERY[`${bandSlug}|${titleSlug}`] || [];
   }
 
   function externalMediaMeta(src='') {
@@ -716,16 +768,19 @@
     const credits = state.releaseMembers.filter(x => x.person_id === p.id).map(x => ({...x, release: releasesById().get(x.release_id)})).filter(x => x.release).sort((a,b) => (a.release.release_year || 9999) - (b.release.release_year || 9999));
     const claims = claimsForPerson(p.id);
     const sources = sourcesForClaims(claims);
+    const gallery = personGallery(p);
     const uniqueBands = [...new Set(mems.map(m => m.band_id))].map(id => bandsById().get(id)).filter(Boolean);
     const meta = uniqueBands.slice(0,5).map(b => `<a href="${bandHref(b)}">${escapeHtml(b.canonical_name)}</a>`).join('');
+    const sourceNo = gallery.length ? '05' : '04';
     app.innerHTML = `${breadcrumbs([{label:'Personer',href:'#/personer'},{label:p.canonical_name}])}${pageHeader('PERSON / UPPSALA-SCENEN',escapeHtml(p.canonical_name),'',meta)}
       <section class="section detail-layout first-section">
         <aside class="detail-aside">${personMedia(p) ? `<figure class="detail-media detail-portrait"><img src="${personMedia(p)}" alt="${escapeHtml(p.canonical_name)}"></figure>${externalMediaCredit(personMedia(p))}` : ''}<div class="aside-label">Profil</div><p>${escapeHtml(p.biography || p.uppsala_connection || 'Dokumenterad i Uppsala-scenen.')}</p><div class="aside-facts"><div><span>Bandkopplingar</span><strong>${uniqueBands.length}</strong></div><div><span>Utgåvekrediter</span><strong>${credits.length}</strong></div><div><span>Källkopplade uppgifter</span><strong>${claims.length}</strong></div></div></aside>
         <div class="detail-main">
           <section class="content-section"><div class="content-head"><span>01</span><h2>Band</h2></div><div class="credit-list">${mems.length ? mems.map(m => { const b=bandsById().get(m.band_id); return `<a href="${bandHref(b)}"><strong>${escapeHtml(b.canonical_name)}</strong><span>${escapeHtml(roleSv(m.role || ''))}</span><em>${yearSpan(m)}</em></a>`; }).join('') : '<div class="empty-state">Bandkopplingar kartläggs.</div>'}</div></section>
           <section class="content-section"><div class="content-head"><span>02</span><h2>Utgåvekrediter</h2></div><div class="credit-list">${credits.length ? credits.map(x => `<a href="${releaseHref(x.release)}"><strong>${escapeHtml(x.release.title)}</strong><span>${escapeHtml(roleSv(x.role || ''))}</span><em>${x.release.release_year || '—'}</em></a>`).join('') : '<div class="empty-state">Inga releasecredits registrerade ännu.</div>'}</div></section>
-          <section class="content-section"><div class="content-head"><span>03</span><h2>Källäge</h2></div>${claimList(claims)}</section>
-          ${sources.length ? `<section class="content-section"><div class="content-head"><span>04</span><h2>Källor</h2></div>${sourceList(sources)}</section>` : ''}
+          ${gallery.length ? `<section class="content-section"><div class="content-head"><span>03</span><h2>Relaterade bilder</h2></div><p class="section-intro">Gruppbilder och pressmaterial där personen är säkert knuten till sammanhanget. De används inte som individuella porträtt om bildidentifieringen inte är entydig.</p>${archiveGallery(gallery)}</section>` : ''}
+          <section class="content-section"><div class="content-head"><span>${gallery.length ? '04':'03'}</span><h2>Källäge</h2></div>${claimList(claims)}</section>
+          ${sources.length ? `<section class="content-section"><div class="content-head"><span>${sourceNo}</span><h2>Källor</h2></div>${sourceList(sources)}</section>` : ''}
         </div>
       </section>`;
   }
