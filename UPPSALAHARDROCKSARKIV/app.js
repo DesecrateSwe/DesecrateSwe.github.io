@@ -34,7 +34,9 @@
     'treebeard':'assets/archive-media/bands/treebeard.jpg',
     'aphophis':'assets/archive-media/bands/aphophis.jpg',
     'loch-vostok':'https://mhf-mag.com/wp-content/uploads/2021/09/loch_vostok_1_primary-1024x576.jpg',
-    'skromta':'https://www.mattinorlin.com/en/Skromta_files/shapeimage_3.png'
+    'skromta':'https://www.mattinorlin.com/en/Skromta_files/shapeimage_3.png',
+    'hexed':'https://images.zoogletools.com/s%3Abzglfiles/u/367807/55e459a70356e2fa6a44e2dedba5e176b606505c/original/hexed-press-pis-1.jpg/%21%21/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg',
+    'anima-morte':'https://www.earsplitcompound.com/site/wp-content/uploads/2022/08/ANIMA-MORTE-February-2022-by-Martin-Gustafsson-scaled.jpg'
   };
 
   const PERSON_MEDIA = {
@@ -94,7 +96,15 @@
     'aphophis|the-aphophis-universe-phase-one':'assets/archive-media/releases/the-aphophis-universe-phase-one.jpg',
     'aphophis|the-aphophis-universe-phase-two':'assets/archive-media/releases/the-aphophis-universe-phase-two.jpg',
     'aphophis|chronophobia':'assets/archive-media/releases/chronophobia.jpg',
-    'loch-vostok|opus-ferox-ii-mark-of-the-beast':'https://f4.bcbits.com/img/a0034220659_16.jpg'
+    'loch-vostok|dark-logic':'https://f4.bcbits.com/img/a3613833612_10.jpg',
+    'loch-vostok|destruction-time-again':'https://f4.bcbits.com/img/a3397032421_10.jpg',
+    'loch-vostok|reveal-no-secrets':'https://f4.bcbits.com/img/a3386423578_10.jpg',
+    'loch-vostok|v-the-doctrine-decoded':'https://f4.bcbits.com/img/a3841962841_10.jpg',
+    'loch-vostok|strife':'https://f4.bcbits.com/img/a0751177761_10.jpg',
+    'loch-vostok|opus-ferox-ii-mark-of-the-beast':'https://f4.bcbits.com/img/a0034220659_16.jpg',
+    'hexed|netherworld':'https://f4.bcbits.com/img/a0128858293_10.jpg',
+    'hexed|pagans-rising':'https://f4.bcbits.com/img/a0742732570_10.jpg',
+    'anima-morte|face-the-sea-of-darkness':'https://f4.bcbits.com/img/a3943680144_10.jpg'
   };
 
 
@@ -159,6 +169,12 @@
     'skromta': [
       ['https://www.mattinorlin.com/en/Skromta_files/shapeimage_3.png','Skrömta · bild från bandets officiella arkivsida','https://www.mattinorlin.com/en/Skromta.html','Matti Norlin / Skrömta']
     ],
+    'hexed': [
+      ['https://images.zoogletools.com/s%3Abzglfiles/u/367807/55e459a70356e2fa6a44e2dedba5e176b606505c/original/hexed-press-pis-1.jpg/%21%21/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg','HEXED · officiell pressbild','https://hexed.se/biography','HEXED · officiell biografi']
+    ],
+    'anima-morte': [
+      ['https://www.earsplitcompound.com/site/wp-content/uploads/2022/08/ANIMA-MORTE-February-2022-by-Martin-Gustafsson-scaled.jpg','Anima Morte · pressbild 2022 · foto Martin Gustafsson','https://www.earsplitcompound.com/anima-morte-swedish-cinematic-instrumental-prog-outfit-to-release-serpents-in-the-fields-of-sleep-lp-via-cadabra-records-the-sleeping-shaman-premieres-blood-of-the-iconoclast-video/','EarSplit Compound']
+    ],
     'xtortex': [
       ['assets/archive-media/gallery/xtortex/1990-twisted-full-inlay.png','Xtortex · Twisted · full inlay']
     ],
@@ -168,6 +184,30 @@
   };
 
   const RELEASE_GALLERY = {
+    'hexed|netherworld': [
+      ['https://f4.bcbits.com/img/a0128858293_10.jpg','Netherworld · officiellt omslag','https://hexedmetal.bandcamp.com/album/netherworld','HEXED / Bandcamp']
+    ],
+    'hexed|pagans-rising': [
+      ['https://f4.bcbits.com/img/a0742732570_10.jpg','Pagans Rising · officiellt omslag','https://hexedmetal.bandcamp.com/album/pagans-rising','HEXED / Bandcamp']
+    ],
+    'anima-morte|face-the-sea-of-darkness': [
+      ['https://f4.bcbits.com/img/a3943680144_10.jpg','Face The Sea Of Darkness · officiellt omslag','https://animamorte.bandcamp.com/album/face-the-sea-of-darkness','Anima Morte / Bandcamp']
+    ],
+    'loch-vostok|dark-logic': [
+      ['https://f4.bcbits.com/img/a3613833612_10.jpg','Dark Logic · officiellt Bandcamp-omslag','https://lochvostok.bandcamp.com/album/dark-logic','Loch Vostok / Bandcamp']
+    ],
+    'loch-vostok|destruction-time-again': [
+      ['https://f4.bcbits.com/img/a3397032421_10.jpg','Destruction Time Again! · officiellt Bandcamp-omslag','https://lochvostok.bandcamp.com/album/destruction-time-again','Loch Vostok / Bandcamp']
+    ],
+    'loch-vostok|reveal-no-secrets': [
+      ['https://f4.bcbits.com/img/a3386423578_10.jpg','Reveal No Secrets · officiellt Bandcamp-omslag','https://lochvostok.bandcamp.com/album/reveal-no-secrets','Loch Vostok / Bandcamp']
+    ],
+    'loch-vostok|v-the-doctrine-decoded': [
+      ['https://f4.bcbits.com/img/a3841962841_10.jpg','V – The Doctrine Decoded · officiellt Bandcamp-omslag','https://lochvostok.bandcamp.com/album/v-the-doctrine-decoded','Loch Vostok / Bandcamp']
+    ],
+    'loch-vostok|strife': [
+      ['https://f4.bcbits.com/img/a0751177761_10.jpg','Strife · officiellt Bandcamp-omslag','https://lochvostok.bandcamp.com/album/strife','Loch Vostok / Bandcamp']
+    ],
     'loch-vostok|opus-ferox-ii-mark-of-the-beast': [
       ['https://f4.bcbits.com/img/a0034220659_16.jpg','Opus Ferox II – Mark of the Beast · omslag','https://lochvostok.bandcamp.com/album/opus-ferox-ii-mark-of-the-beast','Loch Vostok / Bandcamp']
     ],
@@ -258,7 +298,9 @@
     ['assets/archive-media/gallery/almost-human/almost-human-band-photo.gif','Almost Human'],
     ['assets/archive-media/gallery/the-unkinds/2003-almost-human-spread.jpg','The Unkinds · 2003'],
     ['assets/archive-media/gallery/big-november/1991-nyby-fritidsgard-front.png','Big November · 1991'],
-    ['assets/archive-media/gallery/aphophis/2026-chronophobia-full-spread.jpg','Aphophis · 2026']
+    ['assets/archive-media/gallery/aphophis/2026-chronophobia-full-spread.jpg','Aphophis · 2026'],
+    ['https://images.zoogletools.com/s%3Abzglfiles/u/367807/55e459a70356e2fa6a44e2dedba5e176b606505c/original/hexed-press-pis-1.jpg/%21%21/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg','HEXED · officiell pressbild','https://hexed.se/biography','HEXED'],
+    ['https://www.earsplitcompound.com/site/wp-content/uploads/2022/08/ANIMA-MORTE-February-2022-by-Martin-Gustafsson-scaled.jpg','Anima Morte · 2022','https://www.earsplitcompound.com/anima-morte-swedish-cinematic-instrumental-prog-outfit-to-release-serpents-in-the-fields-of-sleep-lp-via-cadabra-records-the-sleeping-shaman-premieres-blood-of-the-iconoclast-video/','EarSplit Compound']
   ];
 
   // Externa bilder visas endast när bandet/personen/utgåvan är säkert identifierad.
@@ -279,7 +321,21 @@
     'https://f4.bcbits.com/img/a0034220659_16.jpg': {
       label:'Loch Vostok / Bandcamp · officiellt omslag',
       sourceUrl:'https://lochvostok.bandcamp.com/album/opus-ferox-ii-mark-of-the-beast'
-    }
+    },
+    'https://images.zoogletools.com/s%3Abzglfiles/u/367807/55e459a70356e2fa6a44e2dedba5e176b606505c/original/hexed-press-pis-1.jpg/%21%21/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg': {
+      label:'HEXED · officiell pressbild', sourceUrl:'https://hexed.se/biography'
+    },
+    'https://www.earsplitcompound.com/site/wp-content/uploads/2022/08/ANIMA-MORTE-February-2022-by-Martin-Gustafsson-scaled.jpg': {
+      label:'Anima Morte · pressbild 2022 · foto Martin Gustafsson', sourceUrl:'https://www.earsplitcompound.com/anima-morte-swedish-cinematic-instrumental-prog-outfit-to-release-serpents-in-the-fields-of-sleep-lp-via-cadabra-records-the-sleeping-shaman-premieres-blood-of-the-iconoclast-video/'
+    },
+    'https://f4.bcbits.com/img/a0128858293_10.jpg': {label:'HEXED / Bandcamp · Netherworld',sourceUrl:'https://hexedmetal.bandcamp.com/album/netherworld'},
+    'https://f4.bcbits.com/img/a0742732570_10.jpg': {label:'HEXED / Bandcamp · Pagans Rising',sourceUrl:'https://hexedmetal.bandcamp.com/album/pagans-rising'},
+    'https://f4.bcbits.com/img/a3943680144_10.jpg': {label:'Anima Morte / Bandcamp · Face The Sea Of Darkness',sourceUrl:'https://animamorte.bandcamp.com/album/face-the-sea-of-darkness'},
+    'https://f4.bcbits.com/img/a3613833612_10.jpg': {label:'Loch Vostok / Bandcamp · Dark Logic',sourceUrl:'https://lochvostok.bandcamp.com/album/dark-logic'},
+    'https://f4.bcbits.com/img/a3397032421_10.jpg': {label:'Loch Vostok / Bandcamp · Destruction Time Again!',sourceUrl:'https://lochvostok.bandcamp.com/album/destruction-time-again'},
+    'https://f4.bcbits.com/img/a3386423578_10.jpg': {label:'Loch Vostok / Bandcamp · Reveal No Secrets',sourceUrl:'https://lochvostok.bandcamp.com/album/reveal-no-secrets'},
+    'https://f4.bcbits.com/img/a3841962841_10.jpg': {label:'Loch Vostok / Bandcamp · V – The Doctrine Decoded',sourceUrl:'https://lochvostok.bandcamp.com/album/v-the-doctrine-decoded'},
+    'https://f4.bcbits.com/img/a0751177761_10.jpg': {label:'Loch Vostok / Bandcamp · Strife',sourceUrl:'https://lochvostok.bandcamp.com/album/strife'}
   };
 
   function slugify(value = '') {
